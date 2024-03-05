@@ -1,0 +1,27 @@
+url:https://finance.yahoo.com/news/worth-investing-nvidia-nvda-based-133006232.html
+title:Is_It_Worth_Investing_in_Nvidia_NVDA_Based_on_Wall_Streets_Bullish_Views
+Investors often turn to recommendations made by Wall Street analysts before making a Buy, Sell, or Hold decision about a stock. While media reports about rating changes by these brokerage-firm employed (or sell-side) analysts often affect a stock's price, do they really matter?
+Let's take a look at what these Wall Street heavyweights have to say about Nvidia (NVDA) before we discuss the reliability of brokerage recommendations and how to use them to your advantage.
+Nvidia currently has an average brokerage recommendation (ABR) of 1.13, on a scale of 1 to 5 (Strong Buy to Strong Sell), calculated based on the actual recommendations (Buy, Hold, Sell, etc.) made by 36 brokerage firms. An ABR of 1.13 approximates between Strong Buy and Buy.
+Of the 36 recommendations that derive the current ABR, 32 are Strong Buy and three are Buy. Strong Buy and Buy respectively account for 88.9% and 8.3% of all recommendations.
+Brokerage Recommendation Trends for NVDA
+Check price target & stock forecast for Nvidia here>>>The ABR suggests buying Nvidia, but making an investment decision solely on the basis of this information might not be a good idea. According to several studies, brokerage recommendations have little to no success guiding investors to choose stocks with the most potential for price appreciation.
+Do you wonder why? As a result of the vested interest of brokerage firms in a stock they cover, their analysts tend to rate it with a strong positive bias. According to our research, brokerage firms assign five "Strong Buy" recommendations for every "Strong Sell" recommendation.
+This means that the interests of these institutions are not always aligned with those of retail investors, giving little insight into the direction of a stock's future price movement. It would therefore be best to use this information to validate your own analysis or a tool that has proven to be highly effective at predicting stock price movements.
+Zacks Rank, our proprietary stock rating tool with an impressive externally audited track record, categorizes stocks into five groups, ranging from Zacks Rank #1 (Strong Buy) to Zacks Rank #5 (Strong Sell), and is an effective indicator of a stock's price performance in the near future. Therefore, using the ABR to validate the Zacks Rank could be an efficient way of making a profitable investment decision.
+Zacks Rank Should Not Be Confused With ABR
+Although both Zacks Rank and ABR are displayed in a range of 1-5, they are different measures altogether.
+The ABR is calculated solely based on brokerage recommendations and is typically displayed with decimals (example: 1.28). In contrast, the Zacks Rank is a quantitative model allowing investors to harness the power of earnings estimate revisions. It is displayed in whole numbers -- 1 to 5.
+Analysts employed by brokerage firms have been and continue to be overly optimistic with their recommendations. Since the ratings issued by these analysts are more favorable than their research would support because of the vested interest of their employers, they mislead investors far more often than they guide.
+On the other hand, earnings estimate revisions are at the core of the Zacks Rank. And empirical research shows a strong correlation between trends in earnings estimate revisions and near-term stock price movements.
+In addition, the different Zacks Rank grades are applied proportionately to all stocks for which brokerage analysts provide current-year earnings estimates. In other words, this tool always maintains a balance among its five ranks.
+There is also a key difference between the ABR and Zacks Rank when it comes to freshness. When you look at the ABR, it may not be up-to-date. Nonetheless, since brokerage analysts constantly revise their earnings estimates to reflect changing business trends, and their actions get reflected in the Zacks Rank quickly enough, it is always timely in predicting future stock prices.
+Is NVDA a Good Investment?
+In terms of earnings estimate revisions for Nvidia, the Zacks Consensus Estimate for the current year has increased 0% over the past month to $10.74.
+Analysts' growing optimism over the company's earnings prospects, as indicated by strong agreement among them in revising EPS estimates higher, could be a legitimate reason for the stock to soar in the near term.
+The size of the recent change in the consensus estimate, along with three other factors related to earnings estimates, has resulted in a Zacks Rank #1 (Strong Buy) for Nvidia. You can see the complete list of today's Zacks Rank #1 (Strong Buy) stocks here >>>>
+Therefore, the Buy-equivalent ABR for Nvidia may serve as a useful guide for investors.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

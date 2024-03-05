@@ -1,0 +1,30 @@
+url:https://finance.yahoo.com/news/meta-apple-risk-increased-regulation-184702439.html
+title:Meta_Apple_At_Risk_of_Increased_Regulation_of_Digital_Wallets
+(Bloomberg) -- Meta Platforms Inc., Apple Inc., Alphabet Inc. and other companies that offer digital wallets and payment apps would fall under US Consumer Financial Protection Bureau supervision under a newly proposed rule aimed at treating nonbanks more like traditional counterparts.
+Most Read from Bloomberg
+WeWork Goes Bankrupt, Signs Pact With Creditors to Cut Debt
+Trump's Wealth Has Jumped $500 Million Since He Left the White House
+Apple Delays Work on Next Year’s iPhone, Mac Software to Fix Bugs
+S&P Defies Fed ‘Pushback’ in Longest Win Since ‘21: Markets Wrap
+Trump Testimony Called a ‘Broken Record’ by Judge: Trial Update
+Companies handling more than 5 million transactions per year would be regulated like banks, credit unions, and other financial institutions already under the CFPB’s supervision, the agency said in a statement Tuesday. CFPB examiners would be able to monitor payment apps for compliance with federal money-transfer laws, as well as for unfair, deceptive, or abusive conduct, should the rule be finalized. The agency can already step in if nonbanks act unlawfully, but it can’t regularly supervise their operations under current rules.
+“Today’s rule would crack down on one avenue for regulatory arbitrage by ensuring large technology firms and other nonbank payments companies are subjected to appropriate oversight,” CFPB Director Rohit Chopra said in the statement.
+The use of digital payments to store and send money — services such as PayPal Holdings Inc.’s Venmo and Block Inc.’s Cash App — has boomed in recent years as consumers use their phones and other electronic devices for transactions. While banks have largely facilitated these services in the past, technology companies have now stepped in, according to the CFPB, and safeguards that consumers tend to take for granted, including deposit insurance, may not apply.
+The CFPB doesn’t have authority over deposit insurance, so it wouldn’t be able to enforce those types of protections even if additional oversight is approved, but the agency would be able to know if companies are making false claims.
+The proposal is aimed squarely at Apple Pay and Google Pay. The CFPB already supervises PayPal and Block, so the agency likely has at least has some visibility on activity for Venmo and Cash App.
+A spokesperson for Alphabet declined to comment. Representatives for Meta, Apple, PayPal and Block didn’t immediately respond to requests for comment. Scott Talbott, executive vice president of the Electronic Transactions Association, which represents affected companies, said the group “supports the goals of consistency and robust consumer protection” and will examine the proposed rule.
+“By bringing supervisory attention to large nonbank payment firms in line with expectations for banks offering similar products, the CFPB is taking a step in the right direction,” Lindsey Johnson, chief executive officer of the Consumer Bankers Association, which represents retail banks, said in an emailed statement. “For a healthy, innovative and competitive financial-services ecosystem to function, consumers need to know that they are protected equally, regardless of who they do business with to meet their financial needs.”
+The CFPB estimates that 17 companies representing 88% of total digital payments annually would be covered under the proposed rule. Those companies processed some 13 billion transactions representing $1.7 trillion in payments in 2021, the agency estimates.
+The CFPB is already investigating Venmo’s error-resolution processes, PayPal said in a Nov. 2 regulatory filing. The company said it’s cooperating with the investigation.
+Under Chopra, the CFPB has been eyeing big tech companies’ entrance into consumer payments and other financial services. Chopra’s first act as director, in October 2021, was to demand information from Apple, Google, Amazon Inc. and other big tech companies about their payment operations.
+In September, the CFPB warned Apple over its policy of requiring iPhone users to funnel all payments through Apple Pay, instead of allowing direct integration with apps such as Venmo. Google’s Android operating system, for its part, allows competitors to offer alternatives to Google Pay.
+Comments on the regulator’s proposal are due by Jan. 8, or 30 days after the publication of the proposed regulation.
+(Updates with comments in seventh, eighth paragraphs.)
+Most Read from Bloomberg Businessweek
+Elon Musk’s Brain Implant Startup Is Ready to Start Surgery
+In Uruguay, a Tax Haven With Lots of Beaches and Little Crime
+Private Equity Courts a Growing Class of Mini-Millionaires
+Top-Ranked MBA Programs Struggle to Reverse Declining Applications
+Marvel’s Latest Movie Will Show If Superheroes Ever Get Tired
+©2023 Bloomberg L.P.
+Related Quotes

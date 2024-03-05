@@ -1,0 +1,12 @@
+url:https://finance.yahoo.com/news/1-palo-alto-networks-intends-144923742.html
+title:UPDATE_1Palo_Alto_Networks_intends_to_buy_startup_Talon_Cyber
+(Adds background on Talon Cyber in paragraph 2, background on valuation and Palo Alto in paragraphs 4 and 5)
+Nov 6 - Palo Alto Networks said on Monday it intends to buy Israeli startup Talon Cyber Security, as it looks to beef up its cyber security offering to enterprises.
+Founded in 2021, Talon provides secure browser and security tools to manage access to client servers from third-party and personal devices.
+Financial terms of the deal were undisclosed.
+Talon is valued at $600 million to $700 million, Information reported, citing two people familiar with the matter.
+The acquisition proposal follows a series of investments by Palo Alto in Israeli firms, which includes various buyouts of local companies since 2012. Most recently, it agreed to acquire Israeli cloud security startup Dig Security for an undisclosed amount.
+Talon's CEO Ofer Ben-Noon described Palo Alto as an "ideal partner," according to the press release.
+Talon did not immediately respond to a Reuters request for comment.
+The Tel Aviv-based startup raised $100 million in its series A funding round in August 2021, led by Evolution Equity Partners with participation from CrowdStrike's CEO George Kurtz.
+(Reporting by Arsheeya Bajwa in Bengaluru; Editing by Shweta Agarwal)

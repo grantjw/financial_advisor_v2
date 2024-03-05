@@ -1,0 +1,33 @@
+url:https://finance.yahoo.com/news/microsoft-vows-revamp-security-products-173017020.html
+title:Microsoft_Vows_to_Revamp_Security_Products_After_Repeated_Hacks
+(Bloomberg) -- Microsoft Corp., battered for its role in several major hacks, said it’s revamping the way it provides cybersecurity protection, using artificial intelligence and other methods to speed the company’s response to vulnerabilities and better protect customers.
+Most Read from Bloomberg
+Intuit Is Closing Personal-Finance App Mint, Shifts Users to Credit Karma
+S&P 500 Rises Almost 2%; Apple Down in Late Hours: Markets Wrap
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Harvard, Yale Warned by Top Law Firms About Antisemitism
+Bankman-Fried Found Guilty of Fraud at FTX Criminal Trial
+In a blog post, three Microsoft executives said they “have put significant thought into how we should anticipate and adapt to the increasingly more sophisticated cyberthreats.” The result is a commitment to three areas of engineering advancement: “transforming” software development, implementing new identity protections and driving faster vulnerability response, they wrote.
+“In recent months, we’ve concluded within Microsoft that the increasing speed, scale, and sophistication of cyberattacks call for a new response,” President Brad Smith wrote in a separate posting. “This new initiative will bring together every part of Microsoft to advance cybersecurity protection.”
+While Microsoft is primarily known for its software products for corporations and consumers, the Redmond, Washington-based company has emerged as the biggest provider of cybersecurity products in recent years, a business that has grown to about $20 billion a year. At the same time, Microsoft remains a frequent target of critics, who complain that its software is prone to flaws, making it a frequent target for criminal and nation-state hackers.
+Those problems resurfaced earlier this year, when hackers used a stolen consumer signing key to forge authentication tokens, which are meant to verify a user’s identity. They then accessed user email from about 25 organizations, including US government agencies. Among the victims was US Commerce Secretary Gina Raimondo and State Department officials, whose emails were accessed just ahead of a meeting between US Secretary of State Antony Blinken and Chinese President Xi Jinping. Microsoft tied the hackers to China.
+Read More: Commerce Chief Raimondo’s Email Hacked in Breach Tied to China
+US Senator Ron Wyden wrote a blistering letter on July 27 about the lapse, calling for an investigation, and shortly thereafter, a government-led cybersecurity advisory panel opened a probe into the risks of cloud computing, which includes a look into Microsoft’s role in the email hack.
+“Government emails were stolen because Microsoft committed another error,” Wyden, a Democrat from Oregon, said in his letter. “Microsoft should not have had a single skeleton key that, when inevitably stolen, could be used to forge access to different customers’ private communications.”
+Amit Yoran, the chief executive officer of the cybersecurity company Tenable Holdings Inc., also criticized Microsoft, saying on LinkedIn in August that the company’s “lack of transparency applies to breaches, irresponsible security practices and to vulnerabilities, all of which expose their customers to risks they are deliberately kept in the dark about.”
+Microsoft’s announcement, called the Secure Future Initiative, comes after the federal government has indicated that it expects software makers to take more responsibility for securing their products. In February, for instance, Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency, said bad software and unsafe practices are facilitating ransomware attacks, and she said the adoption of some of Microsoft’s and Twitter’s security protocols such as two-factor authentication was disappointing.
+Read More: US Cyber Leader Urges Microsoft, Twitter to Up User Security
+And, on Monday, the US Securities and Exchange Commission filed a lawsuit against Texas-based SolarWinds Corp., alleging the company defrauded investors by downplaying security risks ahead of a hack of its software. In that cyberattack, which became public in December 2020, Russian state-sponsored hackers inserted malware into an update for a popular SolarWinds software product, creating a digital backdoor when customers downloaded it.
+The hackers used that backdoor to further infiltrate about 100 organizations, including US government agencies, according to the SEC. The lesson of the SEC suit was that security professionals shouldn’t sugarcoat problems that they are seeing and be more transparent about them, Michael Coates, chief information security officer at CoinList and a former security head at Twitter, told Bloomberg News.
+Microsoft’s Smith said the company is committed to building an AI-based cyber shield to protect customers and countries around the world.
+“One reason these AI advances are so important is because of their ability to address one of the world’s most pressing cybersecurity challenges,” he wrote. “Ubiquitous devices and constant internet connections have created a vast sea of digital data.”
+“But AI is a game changer,” he said.
+In addition, Microsoft said it will use AI-powered analysis and other measures to audit and secure code against advanced threats, and it vowed to strengthen identity protection at a time when password attacks have increased and hackers have developed more sophisticated methods to steal and use login credentials. As part of the latter initiative, Microsoft said it would migrate to a “new and fully automated consumer and enterprise key management system with an architecture designed to ensure that keys remain inaccessible even when underlying processes may be corrupted.”
+In her criticism of Microsoft earlier this year, Easterly said that Microsoft needs to “recapture the ethos” of what company co-founder Bill Gates called “trustworthy computing” in 2002. At that time, Microsoft was reeling from computer worms, and Gates wrote a memo ordering software developers to prioritize security. “We can and must do better,” he wrote.
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+World’s Safest Market Becomes a Magnet for Big Investors
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+Foxconn Makes Your iPhone. Now It Wants to Make Your Electric Car
+©2023 Bloomberg L.P.

@@ -1,0 +1,28 @@
+url:https://finance.yahoo.com/news/analog-semiconductors-stocks-q2-teardown-144905633.html
+title:Analog_Semiconductors_Stocks_Q2_Teardown_Impinj_NASDAQPI_Vs_The_Rest
+The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let’s take a look at how the analog semiconductors stocks have fared in Q2, starting with Impinj (NASDAQ:PI).
+Demand for analog chips is generally linked to the overall level of economic growth, as analog chips serve as the building blocks of most electronic goods and equipment. Unlike digital chip designers, analog chip makers tend to produce the majority of their own chips, as analog chip production does not require expensive leading edge nodes. Less dependent on major secular growth drivers, analog product cycles are much longer, often 5-7 years.
+The 15 analog semiconductors stocks we track reported a slower Q2; on average, revenues beat analyst consensus estimates by 1.9% while next quarter's revenue guidance was 5.17% below consensus. Technology stocks have been hit hard by fears of higher interest rates as investors search for near-term cash flows, and analog semiconductors stocks have not been spared, with share prices down 14% on average, since the previous earnings results.
+Founded by Caltech professor Carver Mead and one of his students Chris Diorio, Impinj (NASDAQ:PI) is a maker of radio-frequency identification (RFID) hardware and software.
+Impinj reported revenues of $86 million, up 43.8% year on year, topping analyst expectations by 1.17%. It was a mixed quarter for the company, with a significant improvement in its operating margin but underwhelming revenue guidance for the next quarter.
+Impinj pulled off the fastest revenue growth of the whole group. The stock is down 35.2% since the results and currently trades at $50.96.
+Is now the time to buy Impinj? Access our full analysis of the earnings results here, it's free.
+Spun out of Motorola in 1999 and built through a series of acquisitions, ON Semiconductor (NASDAQ:ON) is a global provider of analog chips specializing in autos, industrial applications, and power management in cloud data centers.
+ON Semiconductor reported revenues of $2.09 billion, flat year on year, outperforming analyst expectations by 3.66%. It was a strong quarter for the company, with an impressive beat of analysts' EPS estimates and optimistic revenue guidance for the next quarter.
+The stock is down 19.1% since the results and currently trades at $84.99.
+Is now the time to buy ON Semiconductor? Access our full analysis of the earnings results here, it's free.
+Taiwan-based Himax Technologies (NASDAQ:HIMX) is a leading manufacturer of display driver chips and timing controllers used in TVs, laptops, and mobile phones.
+Himax reported revenues of $235 million, down 24.8% year on year, falling short of analyst expectations by 2.71%. It was a weak quarter for the company, with a miss of analysts' revenue estimates and a decline in its operating margin.
+Himax had the weakest performance against analyst estimates in the group. The stock is down 14.1% since the results and currently trades at $5.63.
+Read our full analysis of Himax's results here. 
+Founded by two MIT graduates, Ray Stata and Matthew Lorber in 1965, Analog Devices (NASDAQ:ADI) is one of the largest providers of high performance analog integrated circuits used mainly in industrial end markets, along with communications, autos, and consumer devices.
+Analog Devices reported revenues of $3.08 billion, down 1.07% year on year, falling short of analyst expectations by 0.75%. It was a weak quarter for the company, with underwhelming revenue guidance for the next quarter and a miss of analysts' revenue estimates.
+The stock is down 5.53% since the results and currently trades at $166.89.
+Read our full, actionable report on Analog Devices here, it's free. 
+Founded in 1997 by its longtime CEO Michael Hsing, Monolithic Power Systems (NASDAQ:MPWR) is an analog and mixed signal chipmaker that specializes in power management chips meant to minimize total energy consumption.
+Monolithic Power Systems reported revenues of $441.1 million, down 4.31% year on year, in line with analyst expectations. It was a slower quarter for the company, with a decline in its operating margin and a decline in its gross margin.
+The stock is down 23.4% since the results and currently trades at $428.59.
+Read our full, actionable report on Monolithic Power Systems here, it's free. 
+Join Paid Stock Investor Research
+Help us make StockStory more helpful to investors like yourself. Join our paid user research session and receive a $50 Amazon gift card for your opinions. Sign up here.
+The author has no position in any of the stocks mentioned

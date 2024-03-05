@@ -1,0 +1,1816 @@
+url:https://finance.yahoo.com/news/globalfoundries-reports-third-quarter-2023-120000602.html
+title:GlobalFoundries_Reports_Third_Quarter_2023_Financial_Results
+MALTA, N.Y., Nov. 07, 2023 (GLOBE NEWSWIRE) -- GlobalFoundries Inc. (GF) (Nasdaq: GFS) today announced preliminary financial results for the third quarter ended September 30, 2023.
+Key Third Quarter Financial Highlights
+Revenue of $1,852 million.
+Gross margin of 28.6% and adjusted gross margin(1) of 29.2%.
+Operating margin of 14.1% and adjusted operating margin(1) of 17.4%.
+Net income of $249 million and adjusted net income(1) of $308 million.
+Adjusted EBITDA(1) of $667 million.
+Cash, cash equivalents and marketable securities of $3.4 billion.
+"In the third quarter, GF's dedicated teams across the world delivered financial results at the upper end of the guidance ranges we provided in our August earnings release," said Dr. Thomas Caulfield, president and CEO of GF. "Although the global economic and geopolitical landscape remains uncertain, we are collaborating closely with our customers to support their efforts to reduce inventory levels, while growing long-term partnerships to drive foundry innovation and differentiation across essential end-markets."
+Recent Business Highlights 
+The U.S. Department of Defense awarded GF a new 10-year contract for a supply of securely manufactured, U.S.-made semiconductors for use across a wide range of critical aerospace and defense applications. 
+GF expanded its world-class global operations with official openings at its fabrication plant in Singapore and new operations support facility in Penang, Malaysia, creating a total of 1,300 high-value jobs.
+GF announced its most advanced RF technology, 9SW RFSOI, that will offer significant improvements in performance and integration for 5G and wireless communication applications.
+(1)Adjusted gross profit, adjusted operating profit, adjusted net income, adjusted EBITDA and related margins are Non-IFRS measures. See “Unaudited Reconciliation of IFRS to Non-IFRS" for a detailed reconciliation of Non-IFRS measures to the most directly comparable IFRS measure. See "Financial Measures (Non-IFRS)" for a discussion of why we believe these Non-IFRS measures are useful.
+
+Unaudited Summary Quarterly Results (in millions USD, except per share amounts and wafer shipments)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year-over-year
+ 
+Sequential
+ 
+Q3'23
+ 
+Q2'23
+ 
+Q3'22
+ 
+Q3'23 vs Q3'22
+ 
+Q3'23 vs Q2'23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net revenue
+$
+1,852
+ 
+ 
+$
+1,845
+ 
+ 
+$
+2,074
+ 
+ 
+$
+(222
+)
+(11)%
+ 
+$
+7
+ 
+—%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gross profit 
+ 
+529
+ 
+ 
+ 
+532
+ 
+ 
+ 
+610
+ 
+ 
+$
+(81
+)
+(13)%
+ 
+$
+(3
+)
+(1)%
+Gross margin 
+ 
+28.6
+%
+ 
+ 
+28.8
+%
+ 
+ 
+29.4
+%
+ 
+ 
+(80)bps
+ 
+ 
+(20)bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted gross profit(1)
+$
+541
+ 
+ 
+$
+546
+ 
+ 
+$
+621
+ 
+ 
+$
+(80
+)
+(13) %
+ 
+$
+(5
+)
+(1)%
+Adjusted gross margin (1)
+ 
+29.2
+%
+ 
+ 
+29.6
+%
+ 
+ 
+29.9
+%
+ 
+ 
+(70)bps
+ 
+ 
+(40)bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating profit
+$
+261
+ 
+ 
+$
+275
+ 
+ 
+$
+357
+ 
+ 
+$
+(96
+)
+(27)%
+ 
+$
+(14
+)
+(5)%
+Operating margin
+ 
+14.1
+%
+ 
+ 
+14.9
+%
+ 
+ 
+17.2
+%
+ 
+ 
+(310)bps
+ 
+ 
+(80)bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted operating profit(1)
+$
+322
+ 
+ 
+$
+338
+ 
+ 
+$
+389
+ 
+ 
+$
+(67
+)
+(17) %
+ 
+$
+(16
+)
+(5)%
+Adjusted operating margin (1)
+ 
+17.4
+%
+ 
+ 
+18.3
+%
+ 
+ 
+18.8
+%
+ 
+ 
+(140)bps
+ 
+ 
+(90)bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net income
+$
+249
+ 
+ 
+$
+237
+ 
+ 
+$
+336
+ 
+ 
+$
+(87
+)
+(26)%
+ 
+$
+12
+ 
+5%
+Net income margin
+ 
+13.4
+%
+ 
+ 
+12.8
+%
+ 
+ 
+16.2
+%
+ 
+ 
+(280)bps
+ 
+ 
++60bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted net income(1)(2)
+$
+308
+ 
+ 
+$
+297
+ 
+ 
+$
+368
+ 
+ 
+$
+(60
+)
+(16)%
+ 
+$
+11
+ 
+4%
+Adjusted net income margin (1)
+ 
+16.6
+%
+ 
+ 
+16.1
+%
+ 
+ 
+17.7
+%
+ 
+ 
+(110)bps
+ 
+ 
++50bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diluted earnings per share ("EPS")
+$
+0.45
+ 
+ 
+$
+0.43
+ 
+ 
+$
+0.61
+ 
+ 
+$
+(0.16
+)
+(26)%
+ 
+$
+0.02
+ 
+5%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted diluted earnings per share(1)
+$
+0.55
+ 
+ 
+$
+0.53
+ 
+ 
+$
+0.67
+ 
+ 
+$
+(0.12
+)
+(18)%
+ 
+$
+0.02
+ 
+4%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted EBITDA(1)(3)
+$
+667
+ 
+ 
+$
+668
+ 
+ 
+$
+793
+ 
+ 
+$
+(126
+)
+(16)%
+ 
+$
+(1
+)
+—%
+Adjusted EBITDA margin (1)
+ 
+36.0
+%
+ 
+ 
+36.2
+%
+ 
+ 
+38.2
+%
+ 
+ 
+(220)bps
+ 
+ 
+(20)bps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash from operations
+$
+416
+ 
+ 
+$
+546
+ 
+ 
+$
+679
+ 
+ 
+$
+(263
+)
+(39)%
+ 
+$
+(130
+)
+(24)%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wafer shipments (300mm equivalent) (in thousands)
+ 
+575
+ 
+ 
+ 
+573
+ 
+ 
+ 
+637
+ 
+ 
+ 
+(62
+)
+(10)%
+ 
+ 
+2
+ 
+—%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Adjusted gross profit, adjusted operating profit, adjusted net income, adjusted diluted earnings per share, adjusted EBITDA, and related margins are all Non-IFRS measures. See "Unaudited Reconciliation of IFRS to Non-IFRS" section for a detailed reconciliation of Non-IFRS measures to the most directly comparable IFRS measure. See "Financial Measures (Non-IFRS)" for a discussion of why we believe these Non-IFRS metrics are useful.
+(2) Beginning in Q4 2022, the Company revised its definition of adjusted net income to include an adjustment for restructuring charges and the associated tax impact. The change was made due to a restructuring undertaken in Q4 2022. The Company believes the revised definition provides management and investors with more useful information to evaluate the operations of our business. Adjusted net income is now defined as net income adjusted for share-based compensation expense, restructuring charges and the associated tax impact.
+(3)  Beginning in Q3 2022, the Company revised its definition of adjusted EBITDA to include an adjustment for finance income. The change was made due to the Company making an investment during Q2 2022 of approximately $1.0 billion in marketable securities. The Company believes the revised definition provides management and investors more useful information to evaluate the operations of our business. Adjusted EBITDA is now defined as net income, adjusted for the impact of finance expense, finance income, income tax expense, depreciation, amortization, share-based compensation expense, divestiture gains and associated expenses, restructuring charges, labor optimization initiatives and litigation settlement.
+ 
+
+Summary of Fourth Quarter 2023 Guidance (unaudited in millions USD, except per share amounts)(1)
+ 
+ 
+IFRS
+ 
+Share-based compensation
+ 
+Non-IFRS Adjusted(2)
+Net revenue
+$1,825 - $1,875
+ 
+—
+ 
+—
+Gross Profit
+$487 - $531
+ 
+$13- $15
+ 
+$502 - $544
+Gross Margin(3) (mid-point)
+27.5%
+ 
+ 
+ 
+28.3%
+Operating Profit
+$277 - $349
+ 
+$40 - $50
+ 
+$327 - $389
+Operating Margin(3) (mid-point)
+16.9%
+ 
+ 
+ 
+19.3%
+Net Income
+$246 - $318
+ 
+$40 - $50
+ 
+$296 - $358
+Net Income Margin(3) (mid-point)
+15.2%
+ 
+ 
+ 
+17.7%
+Diluted EPS
+$0.44 - $0.57
+ 
+ 
+ 
+$0.53 - $0.64
+ 
+ 
+ 
+ 
+ 
+ 
+(1)The Guidance provided above contains forward-looking statements as defined in the U.S. Private Securities Litigation Act of 1995, and is subject to the safe harbors created therein. The Guidance includes management’s beliefs and assumptions and is based on information currently available. GF has not provided a reconciliation of its Fourth Fiscal Quarter Guidance for adjusted Non-IFRS EBITDA and related margin because estimates of all of the reconciling items cannot be provided without unreasonable efforts. Certain factors that are materially significant to GF's ability to estimate these items are out of its control and/or cannot be reasonably predicted.
+(2)Adjusted gross profit, adjusted operating profit, adjusted net income, and adjusted diluted EPS are Non-IFRS metrics and, for purposes of the Guidance only, are defined as gross profit, operating profit, net income, and EPS before share-based compensation expense, respectively.
+(3)Adjusted margins are Non-IFRS metrics and for purposes of the Guidance only, are defined as adjusted gross profit, adjusted operating profit and adjusted net income, each divided by net revenue (using the definitions of adjusted gross profit, adjusted operating profit, and adjusted net income, in footnote (2) above, as appropriate).
+ 
+
+Unaudited Consolidated Statements of Operations
+ 
+ 
+Three Months Ended
+(in millions USD, except for per share amounts)
+September 30, 2023
+ 
+September 30, 2022
+ 
+ 
+ 
+ 
+Net revenue
+$
+1,852
+ 
+ 
+$
+2,074
+ 
+Cost of revenue
+ 
+1,323
+ 
+ 
+ 
+1,464
+ 
+Gross profit
+$
+529
+ 
+ 
+$
+610
+ 
+Operating expenses:
+ 
+ 
+ 
+Research and development
+ 
+108
+ 
+ 
+ 
+124
+ 
+Selling, general and administrative
+ 
+143
+ 
+ 
+ 
+129
+ 
+Restructuring charges
+ 
+17
+ 
+ 
+ 
+—
+ 
+Total operating expenses
+$
+268
+ 
+ 
+$
+253
+ 
+Operating profit
+$
+261
+ 
+ 
+$
+357
+ 
+Finance income (expense), net
+ 
+3
+ 
+ 
+ 
+(11
+)
+Other income (expense)
+ 
+(21
+)
+ 
+ 
+9
+ 
+Income tax (expense) benefit
+ 
+6
+ 
+ 
+ 
+(19
+)
+Net income
+$
+249
+ 
+ 
+$
+336
+ 
+Attributable to:
+ 
+ 
+ 
+Shareholders of GlobalFoundries
+ 
+249
+ 
+ 
+ 
+337
+ 
+Non-controlling interest
+ 
+—
+ 
+ 
+ 
+(1
+)
+Earnings per share:
+ 
+ 
+ 
+Basic
+$
+0.45
+ 
+ 
+$
+0.62
+ 
+Diluted
+$
+0.45
+ 
+ 
+$
+0.61
+ 
+Shares used in earnings per share calculation:
+ 
+ 
+ 
+Basic
+ 
+553
+ 
+ 
+ 
+543
+ 
+Diluted
+ 
+556
+ 
+ 
+ 
+553
+ 
+ 
+(1) Beginning in Q3 2023, selling, general and administrative expense includes (gain)/loss on tool sales and certain contract cancellation fees. Prior period amounts have not been adjusted, as they are immaterial.
+ 
+
+Unaudited Consolidated Statements of Financial Position
+ 
+(in millions USD)
+September 30, 2023
+ 
+December 31, 2022
+ 
+ 
+ 
+ 
+Assets:
+ 
+ 
+ 
+Cash and cash equivalents
+$
+1,880
+ 
+ 
+$
+2,352
+ 
+Receivables, prepayments and other
+ 
+1,404
+ 
+ 
+ 
+1,487
+ 
+Marketable securities
+ 
+1,014
+ 
+ 
+ 
+622
+ 
+Inventories
+ 
+1,509
+ 
+ 
+ 
+1,339
+ 
+Current assets
+$
+5,807
+ 
+ 
+$
+5,800
+ 
+Deferred tax assets
+$
+251
+ 
+ 
+$
+292
+ 
+Property, plant, and equipment, net
+ 
+10,594
+ 
+ 
+ 
+10,596
+ 
+Marketable securities
+ 
+466
+ 
+ 
+ 
+372
+ 
+Other assets
+ 
+726
+ 
+ 
+ 
+781
+ 
+Non-current assets
+$
+12,037
+ 
+ 
+$
+12,041
+ 
+Total assets
+$
+17,844
+ 
+ 
+$
+17,841
+ 
+Liabilities and equity:
+ 
+ 
+ 
+Current portion of long-term debt
+$
+199
+ 
+ 
+$
+223
+ 
+Other current liabilities
+ 
+2,549
+ 
+ 
+ 
+3,136
+ 
+Current liabilities
+$
+2,748
+ 
+ 
+$
+3,359
+ 
+Non-current portion of long-term debt
+$
+2,181
+ 
+ 
+$
+2,288
+ 
+Other liabilities
+ 
+2,084
+ 
+ 
+ 
+2,234
+ 
+Non-current liabilities
+$
+4,265
+ 
+ 
+$
+4,522
+ 
+Shareholders' equity:
+ 
+ 
+ 
+Common stock/additional paid-in capital
+$
+24,011
+ 
+ 
+$
+23,842
+ 
+Accumulated deficit
+ 
+(13,278
+)
+ 
+ 
+(14,021
+)
+Accumulated other comprehensive income
+ 
+54
+ 
+ 
+ 
+92
+ 
+Non-controlling interest
+ 
+44
+ 
+ 
+ 
+47
+ 
+Total liabilities and equity
+$
+17,844
+ 
+ 
+$
+17,841
+ 
+ 
+
+Unaudited Consolidated Statements of Cash Flows
+ 
+ 
+Three Months Ended
+(in millions USD)
+September 30, 2023
+ 
+September 30, 2022
+ 
+ 
+ 
+ 
+Cash flows from operating activities:
+ 
+ 
+ 
+Net income
+$
+249
+ 
+ 
+$
+336
+ 
+Depreciation and amortization
+ 
+366
+ 
+ 
+ 
+395
+ 
+Finance expense, net and other(1)
+ 
+7
+ 
+ 
+ 
+6
+ 
+Deferred income taxes
+ 
+(4
+)
+ 
+ 
+11
+ 
+Other non-cash operating activities
+ 
+16
+ 
+ 
+ 
+(32
+)
+Net change in working capital
+ 
+(218
+)
+ 
+ 
+(37
+)
+Net cash provided by operating activities
+$
+416
+ 
+ 
+$
+679
+ 
+ 
+ 
+ 
+ 
+Cash flows from investing activities:
+ 
+ 
+ 
+Purchases of property, plant, equipment, and intangible assets
+$
+(323
+)
+ 
+$
+(613
+)
+Other investing activities
+ 
+10
+ 
+ 
+ 
+(151
+)
+Net cash used in investing activities
+$
+(313
+)
+ 
+$
+(764
+)
+ 
+ 
+ 
+ 
+Cash flows from financing activities:
+ 
+ 
+ 
+Proceeds (repayment) of debt, net
+ 
+(54
+)
+ 
+ 
+95
+ 
+Other financing activities
+ 
+1
+ 
+ 
+ 
+62
+ 
+Net cash (used in) provided by financing activities 
+$
+(53
+)
+ 
+$
+157
+ 
+Effect of exchange rate changes
+ 
+(2
+)
+ 
+ 
+(5
+)
+Net change in cash and cash equivalents
+$
+48
+ 
+ 
+$
+67
+ 
+Cash and cash equivalents at the beginning of the period
+ 
+1,832
+ 
+ 
+ 
+2,474
+ 
+Cash and cash equivalents at the end of the period
+$
+1,880
+ 
+ 
+$
+2,541
+ 
+ 
+(1) Finance expense, net and other has been adjusted to include interest and taxes paid that were previously included in "Other non-cash operating activities." Prior period amounts have been adjusted accordingly.
+ 
+
+Unaudited Reconciliation of IFRS to Non-IFRS
+ 
+Three Months Ended
+(in millions USD)
+September 30, 2023
+ 
+June 30, 2023
+ 
+September 30, 2022
+ 
+ 
+ 
+ 
+ 
+ 
+Net Revenue
+$
+1,852
+ 
+ 
+$
+1,845
+ 
+ 
+$
+2,074
+ 
+Gross profit
+$
+529
+ 
+ 
+$
+532
+ 
+ 
+$
+610
+ 
+Gross profit margin
+ 
+28.6
+%
+ 
+ 
+28.8
+%
+ 
+ 
+29.4
+%
+Share-based compensation
+$
+12
+ 
+ 
+$
+14
+ 
+ 
+$
+11
+ 
+Adjusted gross profit (1)
+$
+541
+ 
+ 
+$
+546
+ 
+ 
+$
+621
+ 
+Adjusted gross margin(1)
+ 
+29.2
+%
+ 
+ 
+29.6
+%
+ 
+ 
+29.9
+%
+ 
+ 
+ 
+ 
+ 
+ 
+Selling, general and administrative 
+$
+143
+ 
+ 
+$
+132
+ 
+ 
+$
+129
+ 
+Share-based compensation
+$
+25
+ 
+ 
+$
+24
+ 
+ 
+$
+15
+ 
+Adjusted selling, general and administrative
+$
+118
+ 
+ 
+$
+108
+ 
+ 
+$
+114
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research and development
+$
+108
+ 
+ 
+$
+106
+ 
+ 
+$
+124
+ 
+Share-based compensation
+$
+7
+ 
+ 
+$
+6
+ 
+ 
+$
+6
+ 
+Adjusted research and development (1)
+$
+101
+ 
+ 
+$
+100
+ 
+ 
+$
+118
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating profit 
+$
+261
+ 
+ 
+$
+275
+ 
+ 
+$
+357
+ 
+Operating profit margin
+ 
+14.1
+%
+ 
+ 
+14.9
+%
+ 
+ 
+17.2
+%
+Share-based compensation
+$
+44
+ 
+ 
+$
+44
+ 
+ 
+$
+32
+ 
+Restructuring charges
+$
+17
+ 
+ 
+$
+19
+ 
+ 
+ 
+—
+ 
+Adjusted operating profit(1)
+$
+322
+ 
+ 
+$
+338
+ 
+ 
+$
+389
+ 
+Adjusted operating profit margin(1)
+ 
+17.4
+%
+ 
+ 
+18.3
+%
+ 
+ 
+18.8
+%
+ 
+ 
+ 
+ 
+ 
+ 
+Net income
+$
+249
+ 
+ 
+$
+237
+ 
+ 
+$
+336
+ 
+Net income margin
+ 
+13.4
+%
+ 
+ 
+12.8
+%
+ 
+ 
+16.2
+%
+Share-based compensation
+$
+44
+ 
+ 
+$
+44
+ 
+ 
+$
+32
+ 
+Restructuring charges
+$
+17
+ 
+ 
+$
+19
+ 
+ 
+ 
+—
+ 
+Income tax effect(2)
+$
+(2
+)
+ 
+$
+(3
+)
+ 
+$
+—
+ 
+Adjusted net income(1) (3)
+$
+308
+ 
+ 
+$
+297
+ 
+ 
+$
+368
+ 
+Adjusted net income margin(1)
+ 
+16.6
+%
+ 
+ 
+16.1
+%
+ 
+ 
+17.7
+%
+ 
+ 
+ 
+ 
+ 
+ 
+Diluted earnings per share
+$
+0.45
+ 
+ 
+$
+0.43
+ 
+ 
+$
+0.61
+ 
+Share-based compensation
+$
+0.08
+ 
+ 
+$
+0.08
+ 
+ 
+$
+0.06
+ 
+Restructuring charges
+$
+0.03
+ 
+ 
+$
+0.03
+ 
+ 
+ 
+—
+ 
+Income tax effect
+$
+(0.01
+)
+ 
+$
+(0.01
+)
+ 
+ 
+—
+ 
+Diluted shares outstanding
+ 
+556
+ 
+ 
+ 
+556
+ 
+ 
+ 
+553
+ 
+Adjusted diluted earnings per share(1)
+$
+0.55
+ 
+ 
+$
+0.53
+ 
+ 
+$
+0.67
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash provided by operating activities
+$
+416
+ 
+ 
+$
+546
+ 
+ 
+ 
+Less: Purchase of property, plant and equipment and intangible assets
+$
+323
+ 
+ 
+$
+400
+ 
+ 
+ 
+Free cash flow(1)
+$
+93
+ 
+ 
+$
+146
+ 
+ 
+ 
+ 
+(1) Adjusted gross profit, adjusted selling, general and administrative, adjusted research and development expense, adjusted operating profit, adjusted operating expense (calculated by subtracting adjusted operating profit from adjusted gross profit), adjusted net income, adjusted diluted earnings per share, free cash flow and any related margins are all Non-IFRS measures. See “Financial Measures (Non-IFRS)” for a discussion of why we believe these Non-IFRS measures are useful.
+(2) Relates to restructuring charges.
+(3) Reflects change to adjusted net income definition discussed in more detail elsewhere in this release.
+
+Unaudited Reconciliation of Net Income to Adjusted EBITDA
+ 
+ 
+Three Months Ended
+(in millions USD)
+September 30, 2023
+ 
+June 30, 2023
+ 
+September 30, 2022
+ 
+ 
+ 
+ 
+ 
+ 
+Net income for the period
+$
+249
+ 
+ 
+$
+237
+ 
+ 
+$
+336
+ 
+Depreciation and amortization
+ 
+366
+ 
+ 
+ 
+340
+ 
+ 
+ 
+395
+ 
+Finance expense
+ 
+37
+ 
+ 
+ 
+34
+ 
+ 
+ 
+28
+ 
+Finance income
+ 
+(40
+)
+ 
+ 
+(34
+)
+ 
+ 
+(17
+)
+Income tax expense (benefit)
+ 
+(6
+)
+ 
+ 
+28
+ 
+ 
+ 
+19
+ 
+Share-based compensation
+ 
+44
+ 
+ 
+ 
+44
+ 
+ 
+ 
+32
+ 
+Restructuring charges
+ 
+17
+ 
+ 
+ 
+19
+ 
+ 
+ 
+—
+ 
+Adjusted EBITDA(1)(2)
+$
+667
+ 
+ 
+$
+668
+ 
+ 
+$
+793
+ 
+Adjusted EBITDA margin(2)
+ 
+36.0
+%
+ 
+ 
+36.2
+%
+ 
+ 
+38.2
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Reflects change to adjusted EBITDA definition discussed in more detail elsewhere in this release.
+(2) Adjusted EBITDA and related margin are Non-IFRS measures. See “Unaudited Reconciliation of IFRS to Non-IFRS" for a detailed reconciliation of Non-IFRS measures to the most directly comparable IFRS measure. See "Financial Measures (Non-IFRS)" for a discussion of why we believe these Non-IFRS measures are useful.
+ 
+Financial Measures (Non-IFRS)
+In addition to the financial information presented in accordance with IFRS, this press release includes the following Non-IFRS metrics: adjusted gross profit, adjusted selling, general and administrative, adjusted research and development expense, adjusted operating profit, adjusted net income, adjusted diluted earnings per share, adjusted EBITDA, free cash flow and any related margins. We define adjusted gross profit as gross profit adjusted for share-based compensation expense. We define adjusted selling, general and administrative as selling, general and administrative adjusted for share-based compensation expense. We define adjusted research and development expense as research and development expense adjusted for share-based compensation expense. We define adjusted operating profit and adjusted operating expense as profit and expense, respectively, from operations adjusted for share-based compensation expense and restructuring charges. We define adjusted net income as net income adjusted for share-based compensation expense, restructuring charges and the associated tax impact. We define adjusted diluted EPS as adjusted net income divided by the dilutive shares. We define free cash flow as cash flow provided by (used in) operating activities less purchases of property, plant and equipment and intangible assets. We define adjusted EBITDA as net income, adjusted for the impact of finance expense, finance income, income tax expense, depreciation, amortization, share-based compensation expense, divestiture gains and associated expenses, restructuring charges, labor optimization initiatives and litigation settlements. We define adjusted gross margin as adjusted gross profit divided by revenue. We define adjusted operating margin as adjusted operating profit divided by net revenue. We define adjusted EBITDA margin as adjusted EBITDA divided by net revenue.
+We believe that in addition to our results determined in accordance with IFRS, these Non-IFRS measures provide useful information to both management and investors in measuring our financial performance and highlight trends in our business that may not otherwise be apparent when relying solely on IFRS measures. These Non-IFRS financial measures provide supplemental information regarding our operating performance that excludes certain gains, losses and non-cash charges that occur relatively infrequently and/or that we consider to be unrelated to our core operations. Management believes that free cash flow as a Non-IFRS measure is helpful to investors as it provides insights into the nature and amount of cash the Company generates in the period. For further information regarding these Non-IFRS measures, please refer to "Unaudited Reconciliation of IFRS to Non-IFRS" table above.
+Non-IFRS financial information is presented for supplemental informational purposes only and should not be considered in isolation or as a substitute for financial information presented in accordance with IFRS. Our presentation of Non-IFRS measures should not be construed as an inference that our future results will be unaffected by unusual or nonrecurring items. Other companies in our industry may calculate these measures differently, which may limit their usefulness as a comparative measure.
+Conference Call and Webcast Information
+GF will host a conference call with the financial community on Tuesday, November 7, 2023 at 8:30 a.m. U.S. Eastern Time (ET) to review the Third Quarter 2023 results in detail. Interested parties may join the scheduled conference call by registering at https://register.vevent.com/register/BI8ee5e87643034b2aa9a1ae5f7e8ce393
+The call will be webcast and can be accessed from the GF Investor Relations website https://investors.gf.com. A replay of the call will be available on the GF Investor Relations website within 24 hours of the actual call.
+About GlobalFoundries
+GlobalFoundries® (GF®) is one of the world’s leading semiconductor manufacturers. GF is redefining innovation and semiconductor manufacturing by developing and delivering feature-rich process technology solutions that provide leadership performance in pervasive high growth markets. GF offers a unique mix of design, development and fabrication services. With a talented and diverse workforce and an at-scale manufacturing footprint spanning the U.S., Europe and Asia, GF is a trusted technology source to its worldwide customers. For more information, visit www.gf.com.
+Forward-looking Statements
+This press release includes “forward-looking statements” that reflect our current expectations and views of future events. These forward-looking statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995 and include but are not limited to, statements regarding our financial outlook, future guidance, product development, business strategy and plans, and market trends, opportunities and positioning. These statements are based on current expectations, assumptions, estimates, forecasts, projections and limited information available at the time they are made. Words such as “expect,” “anticipate,” “should,” “believe,” “hope,” “target,” “project,” “goals,” “estimate,” “potential,” “predict,” “may,” “will,” “might,” “could,” “intend,” “shall,” "outlook," "on track," and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements are subject to a broad variety of risks and uncertainties, both known and unknown. Any inaccuracy in our assumptions and estimates could affect the realization of the expectations or forecasts in these forward-looking statements. For example, our business could be impacted by geopolitical conditions such as the ongoing political and trade tensions with China and the wars in Ukraine and Israel; the market for our products may develop or recover more slowly than expected or than it has in the past; we may fail to achieve the full benefits of our current restructuring plan; our operating results may fluctuate more than expected; there may be significant fluctuations in our results of operations and cash flows related to our revenue recognition or otherwise; a network or data security incident that allows unauthorized access to our network or data or our customers’ data could damage our reputation; we could experience interruptions or performance problems associated with our technology, including a service outage; and global economic conditions could deteriorate, including due to increasing interest rates, rising inflation and any potential recession. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results or outcomes to differ materially from those contained in any forward-looking statements we may make. Moreover, we operate in a competitive and rapidly changing market, and new risks may emerge from time to time. You should not rely upon forward-looking statements as predictions of future events. These statements are based on our historical performance and on our current plans, estimates and projections in light of information currently available to us, and therefore you should not place undue reliance on them.
+Although we believe that the expectations reflected in our statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances described in the forward-looking statements will be achieved or occur. Moreover, neither we, nor any other person, assumes responsibility for the accuracy and completeness of these statements. Recipients are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date such statements are made and should not be construed as statements of fact. Except to the extent required by federal securities laws, we undertake no obligation to update any information or any forward-looking statements as a result of new information, subsequent events, or any other circumstances after the date hereof, or to reflect the occurrence of unanticipated events. For a discussion of potential risks and uncertainties, please refer to the risk factors and cautionary statements in our 2022 Annual Report on Form 20-F, current reports on Form 6-K and other reports filed with the Securities and Exchange Commission. Copies of our SEC filings are available on our Investor Relations website, investors.gf.com, or from the SEC website, www.sec.gov.
+For further information, please contact:                   Investor Relationsir@gf.com
+
+Related Quotes

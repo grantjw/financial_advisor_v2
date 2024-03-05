@@ -1,0 +1,37 @@
+url:https://finance.yahoo.com/news/ansys-continues-ai-innovations-110000538.html
+title:Ansys_Continues_AI_Innovations
+Upcoming AI-based additions to Ansys' portfolio will continue enhancing customer experience, accelerating democratization of simulation, and advancing next-generation innovation and insights
+/ Key Highlights 
+Ansys introduces the upcoming launch of Ansys SimAI. The physics-agnostic and cloud-enabled tool combines the accuracy of Ansys simulation with the speed of AI
+Ansys previews availability of Ansys AI+, which will extend AI enhancements to existing product capabilities
+PITTSBURGH, Oct. 25, 2023 /PRNewswire/ -- Ansys (NASDAQ: ANSS) is reinforcing its ongoing investment in artificial intelligence (AI) innovation through the upcoming introduction of Ansys SimAI and Ansys AI+ technologies. The upcoming releases build on Ansys' ongoing expansion of AI integration across its simulation portfolio and customer community.
+Ansys SimAI is a cloud-enabled, physics-neutral platform that will empower users across industries to greatly accelerate innovation and reduce time to market. With Ansys SimAI, users will be able to reliably predict performance of complex simulation scenarios in mere minutes instead of hours or days. The tool will encourage more design testing, faster progress, and ultimately more innovation.
+Ansys SimAI will allow users to first train an AI model using simulation results and then make predictively accurate analogous designs. Unlike methods where users had to describe their designs using a set of geometric parameters, Ansys SimAI will use the shape of a design as the input to facilitate expansive design exploration. This enables leveraging existing simulation results for training, even if the structure of the shapes is inconsistent.
+With Ansys AI+, Ansys will incorporate and extend AI features within its industry-leading desktop products to enhance core functionalities. For example, machine learning modules are included in the desktop version of Ansys Granta MI AI+. Ansys optiSLang AI+ users perform efficient optimization, sensitivity studies, and robust design with advanced field and scalar ML-based meta-models. The new AI+ offerings will empower customers, like MANN+HUMMEL, with more choice for how they access Ansys AI capabilities across our desktop products.
+"Simulation democratization, digital thread, optimization, and machine learning are shaping the modern product development process at MANN+HUMMEL," said Dr. Florian Keller, director, engineering, air filter elements & simulation at MANN+HUMMEL. "Ansys' expanded AI offerings, like Ansys optiSLang AI+, allowed our team to perform a design of experiment on a parametrized model of air filter properties, which we used to run an AI-based optimization strategy. In doing so, we reduced our simulation effort significantly, which will help us bring smart and sustainable technologies to get to the market faster."
+"Ansys' continued investment in AI is a testament to our commitment to advancing customer experience, accelerating democratization of simulation, and powering next-generation innovation," said Shane Emswiler, senior vice president of product at Ansys. "By integrating AI capabilities into new and existing products, the time to predict the performance of a complex model can be reduced from 15 days to just minutes. This type of time savings has the potential to revolutionize product development for our customers across industries."
+Ansys previously announced the beta release of AnsysGPT, a virtual assistant that garners engineering expertise across physics domains, provides 24/7 comprehensive technical support, and reduces response times. AnsysGPT will be available in Q1 of 2024.
+While Ansys SimAI will launch in early 2024, AI+ product capabilities will be available on a rolling basis beginning this Fall, first with the release of Ansys optiSLang AI+ and then Ansys Granta MI AI+.
+/ About Ansys
+Our Mission: Powering Innovation that Drives Human Advancement™
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–T
+/ Contacts
+
+Media 
+Mary Kate Joyce
+
+724.820.4368
+
+marykate.joyce@ansys.com 
+
+
+Investors 
+Kelsey DeBriyn
+
+724.820.3927
+
+kelsey.debriyn@ansys.com 
+View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-continues-ai-innovations-301967029.html
+SOURCE Ansys

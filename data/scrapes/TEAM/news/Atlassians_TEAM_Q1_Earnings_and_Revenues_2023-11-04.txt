@@ -1,0 +1,33 @@
+url:https://finance.yahoo.com/news/atlassians-team-q1-earnings-revenues-142100746.html
+title:Atlassians_TEAM_Q1_Earnings_and_Revenues_Beat_Estimates
+Atlassian TEAM reported stronger-than-expected first-quarter fiscal 2024 results. Its first-quarter fiscal 2024 non-GAAP earnings per share of 65 cents beat the Zacks Consensus Estimate of 53 cents. The figure increased 80.5% from the year-ago quarter’s non-GAAP earnings of 36 cents per share, mainly driven by double-digit year-over-year growth across segments like Cloud, Data Center and Server.
+Atlassian’s first-quarter revenues jumped 24% to $977.8 million and surpassed the consensus mark of $959 million. The top line was primarily driven by growth in Subscription revenues, stronger renewals, migrations and paid seat expansion.
+Segment-wise, Subscription revenues jumped 31% year over year to $852 million. Due to the ongoing shift toward cloud, the increasing number of customers coupled with higher prices on some products boosted the company's quarterly revenues. Our estimate for Subscription revenues was pegged at $840.3 million.
+Atlassian Corporation PLC price-consensus-eps-surprise-chart | Atlassian Corporation PLC Quote
+Sales from the Maintenance business decreased 30.7% year over year to $78.6 million. The decline was primarily due to the company’s planned end of providing maintenance and support for its Server offerings, beginning in February 2024. Our estimate for Maintenance revenues was pegged at $61.2 million.
+Atlassian’s Other revenues (including perpetual license revenues) increased 10.2% year over year to $47.2 million. Our estimate for Other revenues was pegged at $52.4 million.
+During the first quarter, Cloud revenues were $604.6 million, representing 27.3% year-over-year growth. Meanwhile, revenues from the Data Center rose 42% to $243 million. Marketplace and services revenues were $51.4 million, reflecting an 8.7% year-over-year surge. However, revenues from Server declined 30.8% to $78.8 million.
+Our revenue estimates for the Cloud, Data Center, Marketplace and Services and Server businesses were pegged at $600.7 million, $222 million, $75.2 million and $56 million, respectively.
+Atlassian added more than 2,663 net new customers, bringing the total count to over 265,000 customers on an active subscription or maintenance agreement basis in the reported quarter. A large number of customers are opting for cloud offerings amid the ongoing cloud migration. Such new additions and increased pricing on certain products contributed to the company’s quarterly revenues.
+The company’s non-GAAP gross profit climbed 20.2% year over year to $822.3 million. The non-GAAP gross margin contracted 70 basis points to 84.1% during the quarter. The decrease primarily resulted from investments aimed at meeting the increasing demand for Atlassian’s Cloud services and the ongoing shift in revenue composition toward cloud-based offerings.
+TEAM’s non-GAAP operating income increased 52.1% year over year to $224.9 million, while its non-GAAP operating margin increased to 23% from 18.3% in the year-ago quarter. The operating income is benefiting from the company’s focus on cost management.
+The company ended the first quarter of fiscal 2024 with cash and cash equivalents and short-term investments of $2.24 billion, up from $2.11 billion at the end of the previous quarter.
+In the fiscal first quarter, TEAM generated operating and free cash flows of $167 million and $163.3 million, respectively.
+Atlassian reiterated its guidance for non-GAAP gross margin while raising it for non-GAAP operating margin for fiscal 2024. The company still projects non-GAAP gross margin to be approximately 83.5%. It now forecasts non-GAAP operating margin to be approximately 20% compared with the previous guidance of 18.5%.
+The company provided guidance for the second quarter. For the second quarter of fiscal 2024, the company anticipates revenues between $1.01 billion and $1.03 billion. The Zacks Consensus Estimate is pegged at 1.01 billion.
+The non-GAAP gross margin for the second quarter is estimated to be approximately 83.5%. The non-GAAP operating margin is anticipated to be approximately 21% in the third quarter.
+Currently, SABR carries a Zacks Rank #3 (Hold). Shares of the company have declined 33% year to date.
+Some better-ranked stocks from the broader technology sector are NVIDIA NVDA, NetEase NTES and Dell Technologies DELL, each sporting a Zacks Rank #1 (Strong Buy) at present. You can see the complete list of today’s Zacks #1 Rank stocks here.
+The Zacks Consensus Estimate for NVDA’s third-quarter fiscal 2024 earnings has been revised by 10 cents northward to $3.34 per share in the past 60 days. For fiscal 2024, earnings estimates have increased by 28 cents to $10.74 in the past 60 days.
+NVIDIA's earnings beat the Zacks Consensus Estimate in three of the trailing four quarters, while missing the same on one occasion, the average surprise being 9.8%. Shares of NVDA have rallied 197.5% year to date.
+The Zacks Consensus Estimate for NetEase's third-quarter 2024 earnings has been revised upward by 8 cents to $1.65 per share in the past 30 days. For fiscal 2024, earnings estimates have increased by 42 cents to $6.96 per share in the past 30 days.
+NTES' earnings beat the Zacks Consensus Estimate in three of the trailing four quarters, while missing the same on one occasion, the average surprise being 24.54%. Shares of NTES have gained 51.1% year to date.
+The Zacks Consensus Estimate for DELL's third-quarter 2024 earnings has been revised upward by a penny to $1.47 per share in the past 30 days. For fiscal 2024, earnings estimates have increased by 2 cents to $6.33 per share in the past 30 days.
+Dell’s earnings beat the Zacks Consensus Estimate in each of the preceding four quarters, the average surprise being 39.52%. Shares of DELL have climbed 70.7% year to date.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Dell Technologies Inc. (DELL) : Free Stock Analysis Report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+NetEase, Inc. (NTES) : Free Stock Analysis Report
+Atlassian Corporation PLC (TEAM) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/want-better-returns-dont-ignore-130006919.html
+title:Want_Better_Returns_Dont_Ignore_These_2_Computer_and_Technology_Stocks_Set_to_Beat_Earnings
+Quarterly financial reports play a vital role on Wall Street, as they help investors see how a company has performed and what might be coming down the road in the near-term. And out of all of the metrics and results to consider, earnings is one of the most important.
+We know earnings results are vital, but how a company performs compared to bottom line expectations can be even more important when it comes to stock prices, especially in the near-term. This means that investors might want to take advantage of these earnings surprises.
+2 Stocks to Add to Your Watchlist
+The Zacks Expected Surprise Prediction, or ESP, works by locking in on the most up-to-date analyst earnings revisions because they can be more accurate than estimates from weeks or even months before the actual release date. The thinking is pretty straightforward: analysts who provide earnings estimates closer to the report are likely to have more information. With this in mind, the Expected Surprise Prediction compares the Most Accurate Estimate (being the most recent) against the overall Zacks Consensus Estimate. The percentage difference provides the ESP figure.
+Now that we understand what the ESP is and how beneficial it can be, let's dive into a stock that currently fits the bill. Dell Technologies (DELL) earns a Zacks Rank #1 right now and its Most Accurate Estimate sits at $1.49 a share, just 27 days from its upcoming earnings release on November 30, 2023.
+DELL has an Earnings ESP figure of 1.14%, which, as explained above, is calculated by taking the percentage difference between the $1.49 Most Accurate Estimate and the Zacks Consensus Estimate of $1.47.
+DELL is part of a big group of Computer and Technology stocks that boast a positive ESP, and investors may want to take a look at Intel (INTC) as well.
+Intel is a Zacks Rank #2 (Buy) stock, and is getting ready to report earnings on January 25, 2024. INTC's Most Accurate Estimate sits at $0.45 a share 83 days from its next earnings release.
+Intel's Earnings ESP figure currently stands at 6.12% after taking the percentage difference between its Most Accurate Estimate and its Zacks Consensus Estimate of $0.42.
+DELL and INTC's positive ESP figures tell us that both stocks have a good chance at beating analyst expectations in their next earnings report.
+Find Stocks to Buy or Sell Before They're Reported
+Use the Zacks Earnings ESP Filter to turn up stocks with the highest probability of positively, or negatively, surprising to buy or sell before they're reported for profitable earnings season trading. Check it out here >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Dell Technologies Inc. (DELL) : Free Stock Analysis Report
+Intel Corporation (INTC) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

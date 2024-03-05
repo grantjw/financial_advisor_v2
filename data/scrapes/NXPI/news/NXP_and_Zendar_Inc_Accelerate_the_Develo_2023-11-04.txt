@@ -1,0 +1,30 @@
+url:https://finance.yahoo.com/news/nxp-zendar-inc-accelerate-development-080000586.html
+title:NXP_and_Zendar_Inc_Accelerate_the_Development_of_HighResolution_Radar
+NXP and Zendar Inc. Accelerate the Development of High-Resolution Radar
+NXP invests in Zendar Inc. to advance high-resolution and high-performance radar systems for autonomous driving and advanced driver assistance systems (ADAS)
+Zendar’s Distributed Aperture Radar (DAR) solution increases the radar aperture, which improves angular resolution to enable lidar-like performance OEMs will benefit from simplified system solutions, reduced complexity and a smaller radar footprint
+EINDHOVEN, The Netherlands, Nov. 02, 2023 (GLOBE NEWSWIRE) -- NXP Semiconductors N.V. (NASDAQ: NXPI) today announced the investment in and collaboration with Zendar Inc., a software start-up dedicated to revolutionizing autonomous vehicle systems with high-resolution radar. The investment aims to accelerate and improve high-resolution radar solutions for autonomous driving (AD) and advanced driver assistance systems (ADAS) to complement NXP’s leading scalable radar portfolio.
+NXP and Zendar will collaborate on enhanced high-resolution radar systems for automotive applications by leveraging Distributed Aperture Radar (DAR), a technology developed by Zendar that allows a simplified system solution approach. The investment reinforces NXP’s technology leadership in the automotive radar market while strengthening the ecosystem, which marks the next step towards improved road safety.
+Both AD and ADAS applications require high-resolution sensing to ensure the vehicle moves safely on the road. DAR offers a smart path to enhance the resolution of high-performance radar systems while eliminating the need for thousands of antenna channels. It coherently fuses information from multiple radar sensors on a vehicle to create a larger effective antenna that achieves unprecedented sensing resolution. The technology enables high-angular resolution below 0.5 degrees, offering lidar-like performance which is essential for precise mapping of the environment, whereas conventional radar sensors operate between 2 and 4 degrees. In addition, DAR offers further potential to enhance the resolution through flexible mounting techniques.
+The radar solutions will be based on NXP’s widely adopted S32R radar processor platform and RFCMOS SAF8x one-chip SoCs, which are tailored to cover car OEMs’ ever diversifying vehicle architectures and help accelerate the transition toward distributed architectures. Car makers and Tier 1 suppliers will benefit from high-resolution systems developed with substantially simplified standard radars with reduced thermal complexity and a smaller radar footprint for flexible and convenient mounting.
+“DAR technology is fundamentally early fusion from distributed radar modules,” said Vinayak Nagpal, Co-Founder and CEO, Zendar Inc. “NXP’s industry-leading radar portfolio is essential to deploy DAR in automotive. The lidar-like performance of DAR is a breakthrough for next-generation ADAS. I am excited to usher this industry revolution in collaboration with NXP.”
+“Zendar’s innovative technology combined with NXP’s state-of-the-art radar portfolio aims to enable high-resolution radar sensing for both, edge and upcoming distributed vehicle architectures. Together with Zendar, we are bringing this exciting new technology to the OEMs and Tier 1 suppliers,” said Steffen Spannagel, SVP and GM, ADAS, NXP. “The comprehensive solution allows flexible DAR processing either on the edge or zones to support carmakers’ diverse ADAS vehicle architectures.”
+AvailabilityApplication development can start immediately, and the launch is expected to be scheduled for next-generation OEM platforms.
+NXP’s Radar PortfolioNXP offers a complete suite of radar sensor solutions that is designed to surround vehicles in a 360-degree safety cocoon. The scalable suite of sensing solutions covers car OEMs’ ever-diversifying use cases and architectures, from corner radar to high-resolution 4D imaging radar. The S32R platform offers a common architecture for software reuse and speedy development, a highly performant hardware security engine (HSE), over-the-air (OTA) update support, and compliance with the newest cybersecurity standards. The latest addition to NXP’s scalable radar portfolio is the industry-first 28nm RFCMOS radar one-chip IC family SAF85xx for next-generation New Car Assessment Program (NCAP) applications.
+For more information, please visit nxp.com/S32R
+For more information about Distributed Aperture Radar (DAR) solution, join us at NXP Tech Days Detroit, November 7 - 8. Find more details and a link to registration here.
+About NXP SemiconductorsNXP Semiconductors N.V. (NASDAQ: NXPI) brings together bright minds to create breakthrough technologies that make the connected world better, safer and more secure. As a world leader in secure connectivity solutions for embedded applications, NXP is pushing boundaries in the automotive, industrial & IoT, mobile, and communication infrastructure markets while delivering solutions that advance a more sustainable future. Built on more than 60 years of combined experience and expertise, the company has approximately 34,500 team members in more than 30 countries and posted revenue of $13.21 billion in 2022. Find out more at www.nxp.com.
+NXP and the NXP logo are trademarks of NXP B.V. All other product or service names are the property of their respective owners. All rights reserved. © 2023 NXP B.V
+For more information, please contact:
+Americas & Europe
+Greater China / Asia 
+Andrea Lempart
+Ming Yue
+Tel: +49 175 610 695 1
+Tel: +86 21 2205 2690
+Email: andrea.lempart@nxp.com
+Email: ming.yue@nxp.com
+ 
+ 
+NXP-CorpNXP-Auto
+A photo accompanying this announcement is available at https://www.globenewswire.com/NewsRoom/AttachmentNg/5d74943e-85ee-48e4-99c6-a6d6f2383377

@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/why-investors-advantage-2-consumer-130006359.html
+title:Why_Investors_Need_to_Take_Advantage_of_These_2_Consumer_Discretionary_Stocks_Now
+Two factors often determine stock prices in the long run: earnings and interest rates. Investors can't control the latter, but they can focus on a company's earnings results every quarter.
+We know earnings results are vital, but how a company performs compared to bottom line expectations can be even more important when it comes to stock prices, especially in the near-term. This means that investors might want to take advantage of these earnings surprises.
+2 Stocks to Add to Your Watchlist
+The Zacks Expected Surprise Prediction, or ESP, works by locking in on the most up-to-date analyst earnings revisions because they can be more accurate than estimates from weeks or even months before the actual release date. The thinking is pretty straightforward: analysts who provide earnings estimates closer to the report are likely to have more information. With this in mind, the Expected Surprise Prediction compares the Most Accurate Estimate (being the most recent) against the overall Zacks Consensus Estimate. The percentage difference provides the ESP figure.
+The last thing we will do today, now that we have a grasp on the ESP and how powerful of a tool it can be, is to look at a qualifying stock. DraftKings (DKNG) holds a Zacks Rank #3 at the moment and its Most Accurate Estimate comes in at -$0.57 a share one day away from its upcoming earnings release on November 2, 2023.
+DKNG has an Earnings ESP figure of 17.52%, which, as explained above, is calculated by taking the percentage difference between the -$0.57 Most Accurate Estimate and the Zacks Consensus Estimate of -$0.69.
+DKNG is just one of a large group of Consumer Discretionary stocks with a positive ESP figure. Charter Communications (CHTR) is another qualifying stock you may want to consider.
+Slated to report earnings on January 26, 2024, Charter Communications holds a #3 (Hold) ranking on the Zacks Rank, and it's Most Accurate Estimate is $8.96 a share 86 days from its next quarterly update.
+Charter Communications' Earnings ESP figure currently stands at 2.44% after taking the percentage difference between its Most Accurate Estimate and its Zacks Consensus Estimate of $8.74.
+DKNG and CHTR's positive ESP metrics may signal that a positive earnings surprise for both stocks is on the horizon.
+Find Stocks to Buy or Sell Before They're Reported
+Use the Zacks Earnings ESP Filter to turn up stocks with the highest probability of positively, or negatively, surprising to buy or sell before they're reported for profitable earnings season trading. Check it out here >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+DraftKings Inc. (DKNG) : Free Stock Analysis Report
+Charter Communications, Inc. (CHTR) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

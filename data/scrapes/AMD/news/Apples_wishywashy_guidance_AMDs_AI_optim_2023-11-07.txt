@@ -1,0 +1,45 @@
+url:https://finance.yahoo.com/news/apples-wishy-washy-guidance-amds-044508429.html
+title:Apples_wishywashy_guidance_AMDs_AI_optimism_Weekly_tech_roundup
+By Louis Juricic and Sarina Isaacs
+Investing.com -- Here is your weekly Pro Recap on the biggest headlines out of tech this past week: Apple and AMD each beat estimates but issue weak guidance; and Qualcomm, Paypal, and Block come in ahead on both their earnings prints and forecasts.
+InvestingPro subscribers get tech headlines like these in real time. Never miss another market-moving alert.
+Apple (NASDAQ:AAPL) on Thursday issued a soft sales outlook for the holiday quarter, even as it also topped Street targets for the fiscal Q4.
+For the earnings print, Apple said it booked Q4 EPS of $1.46, $0.07 ahead of estimates, on slightly better-than-expected $89.5 billion in sales that absorbed a hit from a 2.5% China drop due to rising competition, mitigated by growth in Americas and Europe.
+iPhone revenue rose and in-line 3% to $43.81B from a year earlier, although iPad and Mac revenue plummeted 10% and 34% respectively. Services - including Apple Pay, Apple TV+ and iCloud storage - saw revenue rise 16% to $22.31B to an all-time high, beating estimates by nearly $1B.
+CFO Luca Maestri said on the earnings call that fiscal Q1 revenue should be similar to last year's $117.2B, whereas the Street was looking for $122.8B.
+Several brokerages lowered their price targets on Apple stock in response - including Citi, which cut it by $10 to $230; Baird by $18 to $186; and JPMorgan and Barlcays by $5 apiece.
+And Bernstein said this in a note:
+"The December quarter typically sets the tone for the year: Running out normal seasonality from Q1 points to company revenues of $370-380B, below consensus (~$407B)."
+Apple shares took a sharp fall in after-hours trading and premarket Friday from their weekly peak, but clawed back to a 0.5% slip in Friday's regular session. And they were still up about 5% for the week to $176.65.
+Advanced Micro Devices (NASDAQ:AMD) soared nearly 10% Wednesday on the company's cheery AI chip sales forecast, which came in addition to above-par Q3 results.
+For Q3, adjusted EPS came to $0.70, two pennies above consensus, on revenue of $5.80B against the $5.7B target.
+On the earnings call, the company predicted a weaker-than-expected current quarter - $6.1B vs. the $6.4B estimate - but CEO Lisa Su also said the company expects AI GPU sales to top $2B in 2024, allaying investor fears.
+"This growth would make MI300 the fastest product to ramp to $1 billion in sales in AMD history," Su said to analysts on the call.
+Still, HSBC described the company's Q4 outlook as "muted" and said it is bullish on the MI300, but that it "will not be sufficient to offset potential downside in overall non-AI severs, embedded, and gaming, resulting in neutral risk-reward."
+BofA reaffirmed a Neutral rating on the belief that AMD's share price reflected AI opportunity, with the analysts lauding "management execution" and "solid start to generative AI inference," among other things, but noting that AI sales should be "largely offset" by declines in the embedded and gaming segments.
+All told, the stock gained 16.4% for the week to $112.25.
+Qualcomm (NASDAQ:QCOM) climbed higher after coming in ahead both on fiscal Q4 earnings and Q1 guidance, announcing a $2.02-per-share profit on $8.67B in sales vs. Wall Street's expectations for $1.91 on $8.51B.
+The company also sees Q1 EPS at $2.25 to $2.45, nicely above the $2.22 analyst target, and sales should be in line at $9.1B to $9.9B.
+Despite positive results, Oppenheimer analysts said they remains on the sidelines as they await "auto/PC/IoT diversification efforts" to prove out.
+Bernstein, meanwhile, raised the price target by $10 to $145 per share. The analysts cited "$10+ in earnings power credibly on the table," saying the stock "just feels too cheap to us, especially in a bottoming scenario."
+Shares gained nearly 6% in the next session, and jumped some 12% for the week to $119.52.
+PayPal (NASDAQ:PYPL) bumped 6.6% higher after the company said it earned $1.30 per share in Q3, surpassing targets by $0.07, and that it raked in $7.42B in revenue, also topping estimates.
+While Q4 EPS guidance was lower than anticipated at $1.36, the company also raised its full-year guide by $0.03 to $4.98, bringing it comfortably above the $4.92 consensus.
+The company also named Jamie Miller as CFO, just three months after appointing Alex Chriss as its new CEO
+Oppenheimer reiterated its Outperform rating on the stock, writing:
+"A focus on profitability moving forward, PYPL isn't likely to have a quick fix, but new commentary suggests consolidation and refocus of investments to create stabilization in the business model."
+Goldman Sachs was also positive and said Chriss performed well on his first earnings call as CEO.
+Shares were up 11.3% for the week to $56.10.
+Block (NYSE:SQ) shares closed the week with a nearly-11% surge after the payments company raised its adjusted EBITDA forecast for the full year.
+Its Q3 adjusted profit came to $0.55 per share, well above the $0.47 estimate up 31% from a year earlier. Revenue climbed 24% year over year to $5.62B, soaring past the $5.47B Street targets as its Cash App slightly exceeded estimates with 55M monthly transacting active accounts, 1.9% higher than last year.
+The company also beefed up its prediction for full-year adjusted earnings before interest, taxes, depreciation and amortization, bringing the number up to $1.67B from the prior $1.5B and saying it expects the figure to reach $2.4B next year.
+Block also announced a $1B stock buyback program.
+Piper Sandler cut the share-price target to $67 but reaffirmed its Overweight rating on SQ shares given the better-than-expected earnings estimates as the company "[implements] a series of efficiency initiatives."
+RBC said the company "laid down the gauntlet on materially improving profitability in the organization," citing a capped employee headcount, improved efficiency via automation, and "gaining some leverage on stock comp heading into FY24."
+All in all, the stock catapulted 21.6% for the week to $48.68.
+Senad Karaahmetovic and Yasin Ebrahim contributed to this report.
+
+Related Articles
+Apple's wishy-washy guidance; AMD's AI optimism: Weekly tech roundup
+Banking glitch causes deposit delays at major U.S. banks
+Qualcomm's Snapdragon 8 Gen 4 promises superior performance in 2024

@@ -1,0 +1,1701 @@
+url:https://finance.yahoo.com/news/aep-reports-third-quarter-2023-105700484.html
+title:AEP_REPORTS_THIRDQUARTER_2023_EARNINGS_NARROWS_GUIDANCE_WHILE_MAINTAINING_MIDPOINT
+Third-quarter 2023 GAAP earnings of $1.83 per share; operating earnings of $1.77 per share
+2023 operating earnings (non-GAAP) guidance range narrowed to $5.24 to $5.34 per share, midpoint maintained at $5.29
+Long-term growth rate of 6% to 7% and FFO/Debt target of 14% to 15% reaffirmed
+COLUMBUS, Ohio, Nov. 2, 2023 /PRNewswire/ --
+AMERICAN ELECTRIC POWERPreliminary, unaudited results
+
+
+
+Third Quarter ended September 30
+
+Year-to-date ended September 30
+
+
+2023
+2022
+Variance
+
+2023
+2022
+Variance
+Revenue ($ in billions):
+5.3
+5.5
+(0.2)
+
+14.4
+14.8
+(0.4)
+Earnings ($ in millions):
+
+
+
+
+
+
+
+
+GAAP
+953.7
+683.7
+270.0
+
+1,871.9
+1,922.9
+(51.0)
+
+Operating (non-GAAP)
+923.8
+831.0
+92.8
+
+2,077.6
+2,065.1
+12.5
+
+
+
+
+
+
+
+
+
+EPS ($):
+
+
+
+
+
+
+
+
+
+GAAP
+1.83
+1.33
+0.50
+
+3.62
+3.76
+(0.14)
+
+Operating (non-GAAP)
+1.77
+1.62
+0.15
+
+4.02
+4.04
+(0.02)
+
+
+
+EPS based on 520 million shares 3Q 2023, 514 million shares 3Q 2022, 517 million shares YTD 2023 and 511 million shares YTD 2022.
+
+
+American Electric Power (Nasdaq: AEP) today reported third-quarter 2023 earnings, prepared in accordance with Generally Accepted Accounting Principles (GAAP), of $954 million or $1.83 per share, compared with GAAP earnings of $684 million or $1.33 per share in third-quarter 2022. Operating earnings for third-quarter 2023 were $924 million or $1.77 per share, compared with operating earnings of $831 million or $1.62 per share in third-quarter 2022.
+Operating earnings is a non-GAAP measure representing GAAP earnings excluding special items. The difference between 2023 GAAP and operating earnings for the quarter was largely due to the mark-to-market impact of economic hedging activities. A full reconciliation of GAAP earnings to operating earnings for the quarter and year-to-date is included in the tables at the end of this news release.
+"Our earnings growth this quarter was driven by our long-term strategy to invest in a modern, reliable energy system to meet the evolving needs of our customers while keeping electricity rates affordable," said Julie Sloat, AEP chair, president and chief executive officer. "Our team has delivered these results in the face of high interest rates, inflation and unfavorable weather by actively managing the business, controlling costs and executing on our flexible and robust capital plan to help meet our stakeholder commitments.
+"We are narrowing our operating earnings guidance range to $5.24 to $5.34, maintaining the midpoint of $5.29 and reaffirming our long-term growth rate of 6% to 7% and FFO/Debt target of 14%-15%. On Oct. 24, we announced an increase in our quarterly dividend to 88 cents a share, in line with our earnings growth rate.
+"AEP is taking action to de-risk and simplify our business. We completed the sale of our 1,365-megawatt unregulated renewables portfolio in August, netting approximately $1.2 billion. We remain on track with the previously announced sales processes for our retail and distributed resources businesses, our share of a renewable energy joint venture and two non-core transmission joint ventures. We also are continuing our strategic review of the Transource Energy joint venture, which we expect to complete this year," Sloat said.
+"We've made significant progress on our five-year, $8.6 billion regulated renewables investment plan, with $6 billion in approved projects and $800 million currently pending commission approval. These projects provide fuel savings for our customers and are aligned with our integrated resource plans. The transmission and distribution investments we're making to enhance service and reliability for customers also continue to support our earnings results.
+"Commercial load increased 7.5% year over year, largely driven by our focus on economic development in the communities we serve. We've added nearly 30,000 new residential customers in our service territory this year, which has helped offset lower average usage in the residential segment. We continue to see a softening of industrial load from the impacts of higher interest rates but still expect overall retail load to grow in 2024," Sloat said.
+SUMMARY OF RESULTS BY SEGMENT$ in millions 
+
+GAAP Earnings
+3Q 23
+3Q 22
+Variance
+YTD 23
+YTD 22
+Variance
+Vertically Integrated Utilities (a)
+512.5
+476.9
+35.6
+1,051.6
+1,076.3
+(24.7)
+Transmission & Distribution Utilities (b)
+206.0
+165.5
+40.5
+508.4
+483.1
+25.3
+AEP Transmission Holdco (c)
+202.9
+170.5
+32.4
+580.8
+485.4
+95.4
+Generation & Marketing (d)
+130.7
+97.5
+33.2
+(59.3)
+284.3
+(343.6)
+All Other
+(98.4)
+(226.7)
+128.3
+(209.6)
+(406.2)
+196.6
+Total GAAP Earnings (Loss)
+953.7
+683.7
+270.0
+1,871.9
+1,922.9
+(51.0)
+
+
+
+
+
+
+
+Operating Earnings (non-GAAP)
+3Q 23
+3Q 22
+Variance
+YTD 23
+YTD 22
+Variance
+Vertically Integrated Utilities (a)
+520.0
+499.8
+20.2
+1,045.6
+1,099.2
+(53.6)
+Transmission & Distribution Utilities (b)
+206.0
+165.5
+40.5
+488.2
+483.1
+5.1
+AEP Transmission Holdco (c)
+202.9
+170.5
+32.4
+580.9
+485.4
+95.5
+Generation & Marketing (d)
+92.8
+70.0
+22.8
+204.1
+175.6
+28.5
+All Other
+(97.9)
+(74.8)
+(23.1)
+(241.2)
+(178.2)
+(63.0)
+Total Operating Earnings (non-GAAP)
+923.8
+831.0
+92.8
+2,077.6
+2,065.1
+12.5
+
+
+
+A full reconciliation of GAAP earnings with operating earnings is included in tables at the end of this news release.
+
+
+a.
+Includes AEP Generating Co., Appalachian Power, Indiana Michigan Power, Kentucky Power, Kingsport Power, Public Service Co. of Oklahoma, Southwestern Electric Power and Wheeling Power
+b.
+Includes Ohio Power and AEP Texas
+c.
+Includes wholly-owned transmission-only subsidiaries and transmission-only joint ventures
+d.
+Includes AEP OnSite Partners, AEP Renewables, competitive generation in ERCOT and PJM as well as marketing, risk management and retail activities in ERCOT, PJM and MISO
+ 
+EARNINGS GUIDANCE
+AEP management narrowed its 2023 operating earnings guidance range to $5.24 to $5.34 per share. Operating earnings could differ from GAAP earnings for matters such as impairments, divestitures or changes in accounting principles. AEP management is not able to forecast if any of these items will occur or any amounts that may be reported for future periods. Therefore, AEP is not able to provide a corresponding GAAP equivalent for 2023 earnings guidance.
+Reflecting special items recorded through the third quarter, the estimated earnings per share on a GAAP basis would be $4.84 to $4.94 per share. See the table below for a full reconciliation of 2023 earnings guidance.
+2023 EPS Guidance Reconciliation
+
+
+
+
+Estimated EPS on a GAAP basis
+$4.84
+to
+$4.94
+
+
+
+
+Mark-to-market impact of commodity hedging activities
+
+0.34
+
+
+
+
+
+Termination of the sale of Kentucky operations
+
+(0.06)
+
+
+
+
+
+Sale of unregulated renewables
+
+0.17
+
+
+
+
+
+Change in Texas legislation
+
+(0.05)
+
+
+
+
+
+Operating EPS Guidance
+$5.24
+to
+$5.34
+ 
+WEBCAST
+AEP's quarterly discussion with financial analysts and investors will be broadcast live over the internet at 9 a.m. Eastern today at http://www.aep.com/webcasts. The webcast will include audio of the discussion and visuals of charts and graphics referred to by AEP management. The charts and graphics will be available for download at http://www.aep.com/webcasts.
+AEP's earnings are prepared in accordance with accounting principles generally accepted in the United States and represent the company's earnings as reported to the Securities and Exchange Commission. The company's operating earnings, a non-GAAP measure representing GAAP earnings excluding special items as described in the news release and charts, provide another representation for investors to evaluate the performance of the company's ongoing business activities. AEP uses operating earnings as the primary performance measurement when communicating with analysts and investors regarding its earnings outlook and results. The company uses operating earnings data internally to measure performance against budget, to report to AEP's Board of Directors and also as an input in determining performance-based compensation under the company's employee incentive compensation plans.
+At American Electric Power, based in Columbus, Ohio, we understand that our customers and communities depend on safe, reliable and affordable power. Our nearly 17,000 employees operate and maintain more than 40,000 miles of transmission lines, the nation's largest electric transmission system, and more than 225,000 miles of distribution lines to deliver power to 5.6 million customers in 11 states. AEP also is one of the nation's largest electricity producers with nearly 29,000 megawatts of diverse generating capacity, including approximately 6,100 megawatts of renewable energy. AEP is investing $40 billion over the next five years to make the electric grid cleaner and more reliable. We are on track to reach an 80% reduction in carbon dioxide emissions from 2005 levels by 2030 and have a goal to achieve net zero by 2045. AEP is recognized consistently for its focus on sustainability, community engagement and inclusion. AEP's family of companies includes utilities AEP Ohio, AEP Texas, Appalachian Power (in Virginia and West Virginia), AEP Appalachian Power (in Tennessee), Indiana Michigan Power, Kentucky Power, Public Service Company of Oklahoma, and Southwestern Electric Power Company (in Arkansas, Louisiana, east Texas and the Texas Panhandle). AEP also owns AEP Energy, which provides innovative competitive energy solutions nationwide. For more information, visit aep.com.
+WEBSITE DISCLOSURE
+AEP may use its website as a distribution channel for material company information. Financial and other important information regarding AEP is routinely posted on and accessible through AEP's website at https://www.aep.com/investors/. In addition, you may automatically receive email alerts and other information about AEP when you enroll your email address by visiting the "Email Alerts" section at https://www.aep.com/investors/.
+---
+This report made by American Electric Power and its Registrant Subsidiaries contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934. Although AEP and each of its Registrant Subsidiaries believe that their expectations are based on reasonable assumptions, any such statements may be influenced by factors that could cause actual outcomes and results to be materially different from those projected. Among the factors that could cause actual results to differ materially from those in the forward-looking statements are: changes in economic conditions, electric market demand and demographic patterns in AEP service territories; the impact of pandemics and any associated disruption of AEP's business operations due to impacts on economic or market conditions, costs of compliance with potential government regulations, electricity usage, supply chain issues, customers, service providers, vendors and suppliers; the economic impact of increased global trade tensions including the conflicts in Ukraine and the Middle East, and the adoption or expansion of economic sanctions or trade restrictions; inflationary or deflationary interest rate trends; volatility and disruptions in the financial markets precipitated by any cause, including failure to make progress on federal budget or debt ceiling matters, particularly developments affecting the availability or cost of capital to finance new capital projects and refinance existing debt; the availability and cost of funds to finance working capital and capital needs, particularly if expected sources of capital, such as proceeds from the sale of assets or subsidiaries, do not materialize, and during periods when the time lag between incurring costs and recovery is long and the costs are material; decreased demand for electricity; weather conditions, including storms and drought conditions, and AEP's ability to recover significant storm restoration costs; limitations or restrictions on the amounts and types of insurance available to cover losses that might arise in connection with natural disasters or operations; the cost of fuel and its transportation, the creditworthiness and performance of fuel suppliers and transporters and the cost of storing and disposing of used fuel, including coal ash and spent nuclear fuel; the availability of fuel and necessary generation capacity and the performance of generation plants; AEP's ability to recover fuel and other energy costs through regulated or competitive electric rates; the ability to transition from fossil generation and the ability to build or acquire renewable generation, transmission lines and facilities (including the ability to obtain any necessary regulatory approvals and permits) when needed at acceptable prices and terms, including favorable tax treatment, and to recover those costs; new legislation, litigation and government regulation, including changes to tax laws and regulations, oversight of nuclear generation, energy commodity trading and new or heightened requirements for reduced emissions of sulfur, nitrogen, mercury, carbon, soot or particulate matter and other substances that could impact the continued operation, cost recovery, and/or profitability of generation plants and related assets; the impact of federal tax legislation on results of operations, financial condition, cash flows or credit ratings; the risks associated with fuels used before, during and after the generation of electricity and the byproducts and wastes of such fuels, including coal ash and spent nuclear fuel; timing and resolution of pending and future rate cases, negotiations and other regulatory decisions, including rate or other recovery of new investments in generation, distribution and transmission service and environmental compliance; resolution of litigation or regulatory proceedings or investigations; AEP's ability to constrain operation and maintenance costs; prices and demand for power generated and sold at wholesale; changes in technology, particularly with respect to energy storage and new, developing, alternative or distributed sources of generation; AEP's ability to recover through rates any remaining unrecovered investment in generation units that may be retired before the end of their previously projected useful lives; volatility and changes in markets for coal and other energy-related commodities, particularly changes in the price of natural gas; the impact of changing expectations and demands of customers, regulators, investors and stakeholders, including heightened emphasis on environmental, social and governance concerns; changes in utility regulation and the allocation of costs within regional transmission organizations, including ERCOT, PJM and SPP; changes in the creditworthiness of the counterparties with contractual arrangements, including participants in the energy trading market; actions of rating agencies, including changes in the ratings of debt; the impact of volatility in the capital markets on the value of the investments held by AEP's pension, other postretirement benefit plans, captive insurance entity and nuclear decommissioning trust and the impact of such volatility on future funding requirements; accounting standards periodically issued by accounting standard-setting bodies; other risks and unforeseen events, including wars and military conflicts, the effects of terrorism (including increased security costs), embargoes, wildfires, cyber security threats and other catastrophic events; and the ability to attract and retain the requisite work force and key personnel.
+American Electric Power
+
+Financial Results for the Third Quarter of 2023
+
+Reconciliation of GAAP to Operating Earnings (non-GAAP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023
+
+
+
+
+Vertically Integrated Utilities
+
+Transmission & Distribution Utilities
+
+AEP Transmission Holdco
+
+Generation & Marketing
+
+Corporate and Other
+
+Total
+
+EPS (a)
+
+
+
+($ in millions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Earnings (Loss)
+
+512.5
+
+206.0
+
+202.9
+
+130.7
+
+(98.4)
+
+953.7
+
+$        1.83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Items (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mark-to-Market Impact of Commodity Hedging Activities
+(c)
+7.5
+
+—
+
+—
+
+(37.9)
+
+—
+
+(30.4)
+
+(0.06)
+
+Sale of Unregulated Renewables
+(d)
+—
+
+—
+
+—
+
+—
+
+0.5
+
+0.5
+
+—
+ Total Special Items
+
+7.5
+
+—
+
+—
+
+(37.9)
+
+0.5
+
+(29.9)
+
+$       (0.06)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Earnings (Loss) 
+ (non-GAAP)
+
+520.0
+
+206.0
+
+202.9
+
+92.8
+
+(97.9)
+
+923.8
+
+$        1.77
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Financial Results for the Third Quarter of 2022
+
+Reconciliation of GAAP to Operating Earnings (non-GAAP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022
+
+
+
+
+Vertically Integrated Utilities
+
+Transmission & Distribution Utilities
+
+AEP Transmission Holdco
+
+Generation & Marketing
+
+Corporate and Other
+
+Total
+
+EPS (a)
+
+
+
+($ in millions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Earnings (Loss)
+
+476.9
+
+165.5
+
+170.5
+
+97.5
+
+(226.7)
+
+683.7
+
+$        1.33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Items (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mark-to-Market Impact of Commodity Hedging Activities
+(c)
+(1.5)
+
+—
+
+—
+
+(29.4)
+
+—
+
+(30.9)
+
+(0.06)
+
+Pending Sale of Unregulated Renewables
+(d)
+—
+
+—
+
+—
+
+—
+
+3.6
+
+3.6
+
+0.01
+
+Pending Sale of Kentucky Operations
+(e)
+—
+
+—
+
+—
+
+—
+
+150.6
+
+150.6
+
+0.29
+
+Mark-to-Market Impact of Certain Investments
+(f)
+—
+
+—
+
+—
+
+—
+
+(2.3)
+
+(2.3)
+
+—
+
+Impairment of Investment in Flat Ridge 2
+(g)
+—
+
+—
+
+—
+
+1.9
+
+—
+
+1.9
+
+—
+
+Virginia Triennial Review
+(h)
+24.4
+
+—
+
+—
+
+—
+
+—
+
+24.4
+
+0.05
+ Total Special Items
+
+22.9
+
+—
+
+—
+
+(27.5)
+
+151.9
+
+147.3
+
+$        0.29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Earnings (Loss) 
+ (non-GAAP)
+
+499.8
+
+165.5
+
+170.5
+
+70.0
+
+(74.8)
+
+831.0
+
+$        1.62
+
+
+
+
+(a)  
+Per share amounts are divided by Weighted Average Common Shares Outstanding – Basic
+(b)  
+Excluding tax related adjustments, all items presented in the table are tax adjusted at the statutory rate unless otherwise noted
+(c)   
+Represents the impact of mark-to-market economic hedging activities
+(d)  
+Represents third-party transaction costs related to the sale of the Competitive Contracted Renewable Portfolio
+(e)   
+Represents an adjustment to the loss on the expected sale of the Kentucky Operations which was terminated in April 2023 and other related third-party transaction costs
+(f)  
+Represents the impact of mark-to-market on certain investments
+(g)  
+Represents the impact of the write-off of AEP's investment in the Flat Ridge 2 wind farm joint venture
+(h)  
+Represents the impact of the Virginia Supreme Court opinion on AEP's appeal of Appalachian Power's 2017-2019 Triennial Review
+ 
+American Electric Power
+Summary of Selected Sales Data
+Regulated Connected Load
+(Data based on preliminary, unaudited results)
+
+
+
+
+
+
+
+
+
+Three Months Ended September 30
+ENERGY & DELIVERY SUMMARY
+
+2023
+
+2022
+
+Change
+
+
+
+
+
+
+
+Vertically Integrated Utilities
+
+
+
+
+
+
+Retail Electric (in millions of kWh):
+
+
+
+
+
+
+   Residential
+
+8,975
+
+9,115
+
+(1.5) %
+   Commercial
+
+6,686
+
+6,640
+
+0.7 %
+   Industrial
+
+8,731
+
+8,862
+
+(1.5) %
+   Miscellaneous
+
+618
+
+623
+
+(0.8) %
+Total Retail
+
+25,010
+
+25,240
+
+(0.9) %
+
+
+
+
+
+
+
+   Wholesale Electric (in millions of kWh): (a)
+
+3,876
+
+4,254
+
+(8.9) %
+
+
+
+
+
+
+
+   Total KWHs
+
+28,886
+
+29,494
+
+(2.1) %
+
+
+
+
+
+
+
+Transmission & Distribution Utilities
+
+
+
+
+
+
+Retail Electric (in millions of kWh):
+
+
+
+
+
+
+   Residential
+
+8,442
+
+8,033
+
+5.1 %
+   Commercial
+
+8,574
+
+7,538
+
+13.7 %
+   Industrial
+
+6,601
+
+6,554
+
+0.7 %
+   Miscellaneous
+
+220
+
+210
+
+4.8 %
+Total Retail (b)
+
+23,837
+
+22,335
+
+6.7 %
+
+
+
+
+
+
+
+   Wholesale Electric (in millions of kWh): (a)
+
+485
+
+587
+
+(17.4) %
+
+
+
+
+
+
+
+   Total KWHs
+
+24,322
+
+22,922
+
+6.1 %
+
+
+(a)   
+Includes off-system sales, municipalities and cooperatives, unit power and other wholesale customers
+(b)   
+Represents energy delivered to distribution customers
+ 
+American Electric Power
+
+Financial Results for Year-to-Date 2023
+
+Reconciliation of GAAP to Operating Earnings (non-GAAP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023
+
+
+
+
+Vertically Integrated Utilities
+
+Transmission & Distribution Utilities
+
+AEP Transmission Holdco
+
+Generation & Marketing
+
+Corporate and Other
+
+Total
+
+EPS (a)
+
+
+
+($ in millions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Earnings (Loss)
+
+1,051.6
+
+508.4
+
+580.8
+
+(59.3)
+
+(209.6)
+
+1,871.9
+
+$3.62
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Items (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mark-to-Market Impact of Commodity Hedging Activities
+(c)
+(1.7)
+
+—
+
+—
+
+174.9
+
+—
+
+173.2
+
+0.34
+
+Termination of the Sale of Kentucky Operations
+(d)
+—
+
+—
+
+—
+
+—
+
+(33.7)
+
+(33.7)
+
+(0.06)
+
+Sale of Unregulated Renewables
+(e)
+—
+
+—
+
+—
+
+88.5
+
+2.1
+
+90.6
+
+0.17
+
+Change in Texas Legislation
+(f)
+(4.3)
+
+(20.2)
+
+0.1
+
+—
+
+—
+
+(24.4)
+
+(0.05)
+Total Special Items
+
+(6.0)
+
+(20.2)
+
+0.1
+
+263.4
+
+(31.6)
+
+205.7
+
+$0.40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Earnings (Loss) 
+(non-GAAP)
+
+1,045.6
+
+488.2
+
+580.9
+
+204.1
+
+(241.2)
+
+2,077.6
+
+$4.02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Financial Results for Year-to-Date 2022
+
+Reconciliation of GAAP to Operating Earnings (non-GAAP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022
+
+
+
+
+Vertically Integrated Utilities
+
+Transmission & Distribution Utilities
+
+AEP Transmission Holdco
+
+Generation & Marketing
+
+Corporate and Other
+
+Total
+
+EPS (a)
+
+
+
+($ in millions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Earnings (Loss)
+
+1,076.3
+
+483.1
+
+485.4
+
+284.3
+
+(406.2)
+
+1,922.9
+
+$3.76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Items (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mark-to-Market Impact of Commodity Hedging Activities
+(c)
+(1.5)
+
+—
+
+—
+
+(165.3)
+
+—
+
+(166.8)
+
+(0.33)
+
+Pending Sale of Kentucky Operations
+(d)
+—
+
+—
+
+—
+
+—
+
+226.4
+
+226.4
+
+0.44
+
+Pending Sale of Unregulated Renewables
+(e)
+—
+
+—
+
+—
+
+—
+
+3.6
+
+3.6
+
+0.01
+
+Gain on Sale of Mineral Rights
+(g)
+—
+
+—
+
+—
+
+(91.9)
+
+—
+
+(91.9)
+
+(0.18)
+
+Impairment of Investment in Flat Ridge 2
+(h)
+—
+
+—
+
+—
+
+148.5
+
+—
+
+148.5
+
+0.29
+
+Virginia Triennial Review
+(i)
+24.4
+
+—
+
+—
+
+—
+
+—
+
+24.4
+
+0.05
+
+Accumulated Deferred Income Tax Adjustments
+(j)
+—
+
+—
+
+—
+
+—
+
+(2.0)
+
+(2.0)
+
+—
+Total Special Items
+
+22.9
+
+—
+
+—
+
+(108.7)
+
+228.0
+
+142.2
+
+$0.28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Earnings (Loss) 
+(non-GAAP)
+
+1,099.2
+
+483.1
+
+485.4
+
+175.6
+
+(178.2)
+
+2,065.1
+
+$4.04
+
+
+
+
+(a) 
+Per share amounts are divided by Weighted Average Common Shares Outstanding – Basic
+(b) 
+Excluding tax related adjustments, all items presented in the table are tax adjusted at the statutory rate unless otherwise noted
+(c) 
+Represents the impact of mark-to-market economic hedging activities
+(d)
+Represents an adjustment to the loss on the expected sale of the Kentucky Operations which was terminated in April 2023 and other related third-party transaction costs
+(e) 
+Represents the loss on the sale of the Competitive Contracted Renewable Portfolio and other related third-party transaction costs
+(f)  
+Represents the impact of recent legislation in Texas regarding recovery of certain employee incentives
+(g) 
+Represents the gain on the sale of certain mineral rights
+(h) 
+Represents the impact of the write-off of AEP's investment in the Flat Ridge 2 wind farm joint venture
+(i)  
+Represents the impact of the Virginia Supreme Court opinion on AEP's appeal of Appalachian Power's 2017-2019 Triennial Review
+(j)  
+Represents the impact of out-of-period adjustments related to accumulated deferred income taxes
+ 
+American Electric Power
+Summary of Selected Sales Data
+Regulated Connected Load
+(Data based on preliminary, unaudited results)
+
+
+
+
+
+
+
+
+
+Nine Months Ended September 30
+ENERGY & DELIVERY SUMMARY
+
+2023
+
+2022
+
+Change
+
+
+
+
+
+
+
+Vertically Integrated Utilities
+
+
+
+
+
+
+Retail Electric (in millions of kWh):
+
+
+
+
+
+
+   Residential
+
+23,406
+
+25,379
+
+(7.8) %
+   Commercial
+
+17,781
+
+18,069
+
+(1.6) %
+   Industrial
+
+25,686
+
+25,930
+
+(0.9) %
+   Miscellaneous
+
+1,684
+
+1,745
+
+(3.5) %
+   Total Retail
+
+68,557
+
+71,123
+
+(3.6) %
+
+
+
+
+
+
+
+   Wholesale Electric (in millions of kWh): (a)
+
+10,620
+
+12,388
+
+(14.3) %
+
+
+
+
+
+
+
+   Total KWHs
+
+79,177
+
+83,511
+
+(5.2) %
+
+
+
+
+
+
+
+Transmission & Distribution Utilities
+
+
+
+
+
+
+Retail Electric (in millions of kWh):
+
+
+
+
+
+
+Residential
+
+20,618
+
+21,599
+
+(4.5) %
+Commercial
+
+22,711
+
+20,478
+
+10.9 %
+Industrial
+
+19,800
+
+19,131
+
+3.5 %
+Miscellaneous
+
+565
+
+578
+
+(2.2) %
+Total Retail (b)
+
+63,694
+
+61,786
+
+3.1 %
+
+
+
+
+
+
+
+   Wholesale Electric (in millions of kWh): (a)
+
+1,366
+
+1,723
+
+(20.7) %
+
+
+
+
+
+
+
+   Total KWHs
+
+65,060
+
+63,509
+
+2.4 %
+
+
+(a)   
+Includes off-system sales, municipalities and cooperatives, unit power and other wholesale customers
+(b)   
+Represents energy delivered to distribution customers
+ 
+ 
+View original content to download multimedia:https://www.prnewswire.com/news-releases/aep-reports-third-quarter-2023-earnings-narrows-guidance-while-maintaining-midpoint-301975392.html
+SOURCE American Electric Power

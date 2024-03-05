@@ -1,0 +1,34 @@
+url:https://finance.yahoo.com/news/microchip-detroit-automotive-technology-center-120000069.html
+title:Microchips_Detroit_Automotive_Technology_Center_is_the_Destination_for_Automotive_Clients
+The 24,000-square-foot facility includes new high-voltage and E-Mobility labs, as well as technical training rooms for automotive clients to develop and optimize designs
+CHANDLER, Ariz., Oct. 18, 2023 (GLOBE NEWSWIRE) -- The automotive industry is evolving at a rapid pace, with E-Mobility and Advanced Driver Assistance Systems (ADAS) driving the market’s need for innovative solutions. Microchip Technology (Nasdaq: MCHP), a leading provider of smart, connected and secure embedded control solutions, today announces the expansion of its Detroit Automotive Technology Center in Novi, Michigan. The 24,000-square-foot facility is the destination for automotive clients to explore new technologies and to meet with technical experts to get support for their end applications and designs.
+Microchip has been part of the Detroit community since 1999, when it first opened its doors as an application and sales office. With the recent completion of phase three of its expansion project, Microchip has more than doubled its lab space, including the addition of new labs that focus on high-voltage and E-Mobility applications. This larger facility will also bring more technology-related jobs to the region.
+“Microchip’s automotive business is a cornerstone of our company’s legacy. We remain focused on developing total system solutions, and this expansion provides our customers with immediate access to state-of-the-art resources,” said Rich Simoncic, executive vice president of Microchip. “In addition to the Detroit location, we have Automotive Technology Centers in Munich, Shanghai, Tokyo and Austin, Texas, to support our global customer base.”
+“Microchip’s Automotive Technology Center demonstrates our commitment to the automotive industry by providing a destination for them to develop, test and refine applications in the design phase,” said Matthias Kaestner, corporate vice president of Microchip’s automotive business. “Our vision for the center is to provide our automotive customers with the confidence to choose the right solutions for their designs by helping them to cut design effort and time to market by providing world class technical support locally.”
+Located in the heart of the automotive industry, and with top tier OEMs, suppliers and startups operating in the region, Novi is a key location for Microchip’s Detroit Automotive Technology Center and easily accessible to help OEMs with their design challenges.
+The key capabilities of the Detroit Automotive Technology Center include:
+Dedicated high-voltage lab for demonstrations of reference designs featuring Microchip’s silicon carbide mSiC™ solutions, dsPIC® Digital Signal Controllers (DSCs) and our wide breadth of analog and mixed-signal solutions
+Support for central compute and zonal networks in ADAS platforms using Microchip’s PCIe® Gen 4 and Gen 5 switching hardware, single-pair Ethernet devices and development tools
+Human Machine Interface (HMI) lab to support the development of full-width cockpit displays; touchscreens; Knob-on-Display™ (KoD™) solutions; and buttons, sliders, and wheels with EMC testing
+USB and networking development resources for pre-certification of multimedia infotainment systems and media hubs for advanced USB Type-C® 3.2 protocol applications
+Die- and product-level characterization of automotive MEMS resonators and oscillators, including vacuum and wafer-scale probe and test, long-term aging, frequency stability, phase noise and jitter test capability
+Development of automotive security solutions using Microchip’s CryptoAutomotive™ TrustAnchor ICs, and onsite security training to learn how to implement secure elements in applications such as secure boot, message and hardware authentication and more
+“The new high-voltage lab will help our automotive customers develop systems using our reference design platforms and analog, digital control and power solutions,” said Clayton Pillion, vice president of Microchip’s silicon carbide business unit. “As more OEMs transition to our E-Mobility offerings, we are ready to support them from the design phase to implementation.” 
+As a leading supplier of embedded solutions to global automotive OEMs, Microchip offers many automotive products that are qualified in accordance with AEC-Q100 requirements. Its automotive-qualified product portfolio includes microcontrollers, DSCs, USB and networking solutions, analog and interface products, SiC MOSFETs, serial EEPROMs and more.
+Microchip also offers a broad portfolio of ISO 26262 functional safety ready and functional safety compliant devices that offer the latest hardware safety features and are supported by a comprehensive safety ecosystem to simplify the design and certification of safety-critical automotive applications.
+To learn more about Microchip’s automotive products and solutions, click here.
+ResourcesHigh-res images available through Flickr or editorial contact (feel free to publish):
+Image: www.flickr.com/photos/microchiptechnology/53198835814/sizes/l
+Cautionary Statement:
+The statements in this release relating to Microchip’s Detroit Automotive Technology Center bringing more technology-related jobs to the region, providing customers with immediate access to state-of-the-art resources, and that we will be ready to support customers from the design phase to implementation, are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+About Microchip Technology:
+Microchip Technology Incorporated is a leading provider of smart, connected and secure embedded control solutions. Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market. The company’s solutions serve more than 125,000 customers across the industrial, automotive, consumer, aerospace and defense, communications and computing markets. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support along with dependable delivery and quality. For more information, visit the Microchip website at www.microchip.com.
+Note: The Microchip name and logo, the Microchip logo and dsPIC are registered trademarks of Microchip Technology Incorporated in the U.S.A. and other countries. Knob-on-Display, CryptoAutomotive and mSiC are trademarks of Microchip Technology Inc. in the U.S.A. and other countries. All other trademarks mentioned herein are the property of their respective companies.
+Editorial Contact:
+Reader Inquiries:
+Kim Dutton
+1-888-624-7435
+480-792-4386
+ 
+kim.dutton@microchip.com
+ 

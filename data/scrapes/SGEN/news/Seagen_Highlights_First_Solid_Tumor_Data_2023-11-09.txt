@@ -1,0 +1,85 @@
+url:https://finance.yahoo.com/news/seagen-highlights-first-solid-tumor-160000919.html
+title:Seagen_Highlights_First_Solid_Tumor_Data_for_an_ADCETRIS_brentuximab_vedotin_Immunotherapy_Combination_and_Preclinical_Data_for_Novel_CD30Directed_AntibodyDrug_Conjugate_at_Society_for_Immunotherapy_of_Cancer_SITC_Annual_Meeting
+– Initial Phase 2 data presented for ADCETRIS in combination with immunotherapy pembrolizumab in metastatic non-small cell lung cancer and metastatic cutaneous melanoma –
+– Preclinical data presented for novel antibody-drug conjugate SGN-35T –
+BOTHELL, Wash., November 03, 2023--(BUSINESS WIRE)--Seagen Inc. (NASDAQ: SGEN) today announced the first presentation of data evaluating ADCETRIS® (brentuximab vedotin) in combination with an anti-PD-1 checkpoint inhibitor in non-small cell lung cancer (NSCLC) and melanoma, and shared preclinical data for an investigational CD30-directed antibody-drug conjugate (ADC) that uses a novel tripeptide linker. The studies were presented at the Society for Immunotherapy of Cancer (SITC) 38th Annual Meeting, taking place November 3-5, 2023, in San Diego.
+"The combination of ADCETRIS and a PD-1 inhibitor to treat solid tumors are intriguing and support continued research," said Roger Dansey, M.D., President, Research and Development and Chief Medical Officer at Seagen. "We are also encouraged by pre-clinical results for SGN-35T, an investigational next-generation CD30-targeted ADC, and plan to begin enrolling patients in a phase 1 clinical trial soon."
+Phase 2 Study of ADCETRIS plus Pembrolizumab in Solid Tumors
+The Phase 2 trial SGN35-033 explored the combination of ADCETRIS with pembrolizumab in 55 patients with non-small cell lung cancer (NSCLC) and 58 patients with melanoma who either had no response to previous anti-PD-1 treatment or who experienced cancer progression after initial response to anti-PD-1 therapy (primary resistant or secondary refractory disease, respectively). NSCLC cohorts were evaluated using RECIST v1.1 and melanoma cohorts were evaluated using immune RECIST (iRECIST).
+In NSCLC, the ADCETRIS and pembrolizumab combination demonstrated an objective response rate (ORR) of 8% (95% CI: 0.2, 38.5) and 14% (95% CI: 5.3, 27.9) in patients with primary (n=12) and secondary (n=43) refractory NSCLC, respectively. Disease control rates (DCR) — inclusive of complete responses, partial responses and stable disease — were 67% (CI: 34.9, 90.1) and 72% (CI: 56.3, 84.7), respectively.
+In melanoma, the ADCETRIS and pembrolizumab combination demonstrated an ORR of 18% (95% CI: 3.8, 43.4) and 22% (95% CI: 10.6, 37.6), in primary (n=17) and secondary (n=41) refractory metastatic cutaneous melanoma, respectively. DCRs were 71% (CI: 44.0, 89.7) and 80% (CI: 65.1, 91.2), respectively. The study design included melanoma patients who were treated in the study within 90 days of receiving prior anti-PD-1 therapy.
+The safety profile of ADCETRIS was consistent with previous studies, and no new safety signals were observed.
+Increased CD8 T cell infiltration was observed in the tumor microenvironment of patients who responded to the combination treatment, suggesting potential re-sensitization to PD-1 inhibitors.
+The study is currently enrolling patients in previously untreated NSCLC and head and neck cancer.
+SGN-35T, a Novel ADC
+SGN-35T is a next generation CD30-directed ADC that uses a novel tripeptide linker designed to preferentially release its cytotoxic payload in tumor cells to limit off-target toxicity. Preclinical data suggest that SGN-35T may be highly effective, like ADCETRIS, with the potential for improved tolerability. SGN-35T is an investigational agent, and its safety and efficacy have not been established.
+In this in vitro study, SGN-35T was cytotoxic to CD30-expressing tumor cells and CD30-expressing regulatory T cells, whereas CD8-expressing T cells were unaffected by SGN-35T. The observations support future clinical investigation of SGN-35T in solid tumors.
+Key Seagen Data to be Presented
+Abstract Title
+Abstract #
+Presentation
+Lead Author
+Phase 2 trial of brentuximab vedotin (BV) with pembrolizumab (pembro) in patients with metastatic non-small cell lung cancer or metastatic cutaneous melanoma after progression on anti-PD-1 therapy
+699
+Poster
+Nov. 3, 9:00 a.m. – 7:00 p.m. PT
+Lee
+innovaTV 207 Parts E and F: A phase 2 study of tisotumab vedotin in patients with squamous cell carcinoma of the head and neck (trial in progress)
+681
+Poster
+Nov. 3, 9:00 a.m. – 7:00 p.m. PT
+Seiwert
+Activated regulatory T cells in solid tumors express CD30, which are selectively targeted by the novel anti-CD30 antibody-drug conjugate SGN-35T
+1155
+Poster
+Nov. 3, 9:00 a.m. – 7:00 p.m. PT
+O’Connor
+About ADCETRIS
+ADCETRIS is an ADC comprised of a CD30-directed monoclonal antibody attached by a protease-cleavable linker to a microtubule disrupting agent, monomethyl auristatin E (MMAE), utilizing Seagen's proprietary technology. The ADC employs a linker system that is designed to be stable in the bloodstream but to release MMAE upon internalization into CD30-positive tumor cells.
+ADCETRIS is approved in seven indications in the U.S.:
+Adult patients with previously untreated Stage III/IV cHL in combination with doxorubicin, vinblastine, and dacarbazine (2018)
+Pediatric patients 2 years and older with previously untreated high risk cHL in combination with doxorubicin, vincristine, etoposide, prednisone and cyclophosphamide (2022)
+Adult patients with cHL at high risk of relapse or progression as post-autologous hematopoietic stem cell transplantation (auto-HSCT) consolidation (2015)
+Adult patients with cHL after failure of auto-HSCT or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not auto-HSCT candidates (2011)
+Adult patients with previously untreated systemic anaplastic large cell lymphoma (sALCL) or other CD30-expressing peripheral T-cell lymphomas (PTCL), including angioimmunoblastic T-cell lymphoma and PTCL not otherwise specified, in combination with cyclophosphamide, doxorubicin, and prednisone (2018)
+Adult patients with sALCL after failure of at least one prior multi-agent chemotherapy regimen. (2011)
+Adult patients with primary cutaneous anaplastic large cell lymphoma (pcALCL) or CD30-expressing mycosis fungoides (MF) after prior systemic therapy (2017)
+ADCETRIS has marketing authorization in more than 70 countries for relapsed or refractory Hodgkin lymphoma and systemic anaplastic large cell lymphoma.
+Seagen and Takeda jointly develop ADCETRIS. Under the terms of the collaboration agreement, Seagen has U.S. and Canadian commercialization rights, and Takeda has rights to commercialize ADCETRIS in the rest of the world. Seagen and Takeda are funding joint development costs for ADCETRIS on a 50:50 basis, except in Japan where Takeda is solely responsible for development costs.
+ADCETRIS® (brentuximab vedotin) for injection U.S. Important Safety Information
+BOXED WARNING
+PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML): JC virus infection resulting in PML and death can occur in ADCETRIS-treated patients.
+CONTRAINDICATION
+Contraindicated with concomitant bleomycin due to pulmonary toxicity (e.g., interstitial infiltration and/or inflammation).
+WARNINGS AND PRECAUTIONS
+Peripheral neuropathy (PN): ADCETRIS causes PN that is predominantly sensory. Cases of motor PN have also been reported. ADCETRIS-induced PN is cumulative. Monitor for symptoms such as hypoesthesia, hyperesthesia, paresthesia, discomfort, a burning sensation, neuropathic pain, or weakness. Patients experiencing new or worsening PN may require a delay, change in dose, or discontinuation of ADCETRIS.
+Anaphylaxis and infusion reactions: Infusion-related reactions (IRR), including anaphylaxis, have occurred with ADCETRIS. Monitor patients during infusion. If an IRR occurs, interrupt the infusion and institute appropriate medical management. If anaphylaxis occurs, immediately and permanently discontinue the infusion and administer appropriate medical therapy. Premedicate patients with a prior IRR before subsequent infusions. Premedication may include acetaminophen, an antihistamine, and a corticosteroid.
+Hematologic toxicities: Fatal and serious cases of febrile neutropenia have been reported with ADCETRIS. Prolonged (≥1 week) severe neutropenia and Grade 3 or 4 thrombocytopenia or anemia can occur with ADCETRIS.
+Administer G-CSF primary prophylaxis beginning with Cycle 1 for adult patients who receive ADCETRIS in combination with chemotherapy for previously untreated Stage III/IV cHL or previously untreated PTCL, and pediatric patients who receive ADCETRIS in combination with chemotherapy for previously untreated high risk cHL.
+Monitor complete blood counts prior to each ADCETRIS dose. Monitor more frequently for patients with Grade 3 or 4 neutropenia. Monitor patients for fever. If Grade 3 or 4 neutropenia develops, consider dose delays, reductions, discontinuation, or G-CSF prophylaxis with subsequent doses.
+Serious infections and opportunistic infections: Infections such as pneumonia, bacteremia, and sepsis or septic shock (including fatal outcomes) have been reported in ADCETRIS-treated patients. Closely monitor patients during treatment for infections.
+Tumor lysis syndrome: Patients with rapidly proliferating tumor and high tumor burden may be at increased risk. Monitor closely and take appropriate measures.
+Increased toxicity in the presence of severe renal impairment: The frequency of ≥Grade 3 adverse reactions and deaths was greater in patients with severe renal impairment. Avoid use in patients with severe renal impairment.
+Increased toxicity in the presence of moderate or severe hepatic impairment: The frequency of ≥Grade 3 adverse reactions and deaths was greater in patients with moderate or severe hepatic impairment. Avoid use in patients with moderate or severe hepatic impairment.
+Hepatotoxicity: Fatal and serious cases have occurred in ADCETRIS-treated patients. Cases were consistent with hepatocellular injury, including elevations of transaminases and/or bilirubin, and occurred after the first ADCETRIS dose or rechallenge. Preexisting liver disease, elevated baseline liver enzymes, and concomitant medications may increase the risk. Monitor liver enzymes and bilirubin. Patients with new, worsening, or recurrent hepatotoxicity may require a delay, change in dose, or discontinuation of ADCETRIS.
+PML: Fatal cases of JC virus infection resulting in PML have been reported in ADCETRIS-treated patients. First onset of symptoms occurred at various times from initiation of ADCETRIS, with some cases occurring within 3 months of initial exposure. In addition to ADCETRIS therapy, other possible contributory factors include prior therapies and underlying disease that may cause immunosuppression. Consider PML diagnosis in patients with new-onset signs and symptoms of central nervous system abnormalities. Hold ADCETRIS if PML is suspected and discontinue ADCETRIS if PML is confirmed.
+Pulmonary toxicity: Fatal and serious events of noninfectious pulmonary toxicity, including pneumonitis, interstitial lung disease, and acute respiratory distress syndrome, have been reported. Monitor patients for signs and symptoms, including cough and dyspnea. In the event of new or worsening pulmonary symptoms, hold ADCETRIS dosing during evaluation and until symptomatic improvement.
+Serious dermatologic reactions: Fatal and serious cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported with ADCETRIS. If SJS or TEN occurs, discontinue ADCETRIS and administer appropriate medical therapy.
+Gastrointestinal (GI) complications: Fatal and serious cases of acute pancreatitis have been reported. Other fatal and serious GI complications include perforation, hemorrhage, erosion, ulcer, intestinal obstruction, enterocolitis, neutropenic colitis, and ileus. Lymphoma with preexisting GI involvement may increase the risk of perforation. In the event of new or worsening GI symptoms, including severe abdominal pain, perform a prompt diagnostic evaluation and treat appropriately.
+Hyperglycemia: Serious cases, such as new-onset hyperglycemia, exacerbation of preexisting diabetes mellitus, and ketoacidosis (including fatal outcomes) have been reported with ADCETRIS. Hyperglycemia occurred more frequently in patients with high body mass index or diabetes. Monitor serum glucose and if hyperglycemia develops, administer anti-hyperglycemic medications as clinically indicated.
+Embryo-fetal toxicity: Based on the mechanism of action and animal studies, ADCETRIS can cause fetal harm. Advise females of reproductive potential of this potential risk, and to use effective contraception during ADCETRIS treatment and for 2 months after the last dose of ADCETRIS. Advise male patients with female partners of reproductive potential to use effective contraception during ADCETRIS treatment and for 4 months after the last dose of ADCETRIS.
+ADVERSE REACTIONS
+The most common adverse reactions (≥20% in any study) are peripheral neuropathy, fatigue, nausea, diarrhea, neutropenia, upper respiratory tract infection, pyrexia, constipation, vomiting, alopecia, decreased weight, abdominal pain, anemia, stomatitis, lymphopenia, mucositis, thrombocytopenia, and febrile neutropenia.
+DRUG INTERACTIONS
+Concomitant use of strong CYP3A4 inhibitors has the potential to affect the exposure to monomethyl auristatin E (MMAE). Closely monitor adverse reactions.
+USE IN SPECIAL POPULATIONS
+Lactation: Breastfeeding is not recommended during ADCETRIS treatment.
+Please see the full Prescribing Information, including BOXED WARNING, for ADCETRIS here.
+About Seagen
+Founded 25 years ago, Seagen Inc. is a global biotechnology company that discovers, develops, manufactures and commercializes targeted cancer therapeutics, with antibody-drug conjugates (ADCs) at our core. Our colleagues work together with urgency to improve and extend the lives of people living with cancer. An ADC technology trailblazer, approximately one-third of FDA-approved and marketed ADCs use Seagen technology. Seagen is headquartered in Bothell, Washington and has locations in California, Canada, Switzerland and across Europe. For additional information, visit seagen.com and follow us on X and LinkedIn.
+Forward-Looking Statements
+Certain statements made in this press release are forward looking, such as those, among others, relating to the therapeutic potential of ADCETRIS, tisotumab vedotin and SGN-35T; their potential safety, efficacy and therapeutic uses; and planned and ongoing clinical trials. Actual results or developments may differ materially from those projected or implied in these forward-looking statements. Factors that may cause such a difference include, without limitation, the risk of delays, setbacks or failures in clinical trial and product development activities, even after encouraging results in earlier-stage trials, for a variety of reasons, including without limitation the difficulty and uncertainty of pharmaceutical product development, the possibility that clinical results may not support continued development or regulatory approvals, the risk of adverse events or safety signals, and the possibility of adverse regulatory actions. More information about the risks and uncertainties faced by Seagen is contained under the caption "Risk Factors" included in Seagen’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2023, and Seagen’s subsequent reports, filed with the Securities and Exchange Commission. Seagen disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise except as required by applicable law.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231103822848/en/
+Contacts
+For Media David Caouette (310) 430-3476 dcaouette@seagen.com
+For Investors Douglas Maffei, Ph.D. (425) 527-4160 dmaffei@seagen.com

@@ -1,0 +1,23 @@
+url:https://finance.yahoo.com/news/bidens-ai-order-is-massive-but-far-from-enough-to-address-the-technologys-risks-150819906.html
+title:Bidens_AI_order_is_massive_but_far_from_enough_to_address_the_technologys_risks
+The Biden administration on Monday unveiled its most comprehensive effort to regulate powerful artificial intelligence technologies yet, issuing a sweeping executive order. Its aim: ensuring American leadership in AI while preventing AI abuses that could threaten Americans’ civil rights and safety.
+The order is part of the administration’s attempt to ensure government rules keep pace with the rapidly evolving technology. Experts have praised portions of the executive order, saying its scale and scope should prove helpful as companies continue to develop new forms of AI.
+"One of the reasons that it's a helpful step is it's an all-of-government approach rather than just thinking siloed about either one specific industry or one substantive area of the law," explained Aaron Cooper, vice president of global policy at BSA, a software industry trade group. "It’s taking a holistic approach."
+But despite the wide-ranging scope of the executive order, other experts said it fails to address a number of issues, including how AI can help prevent societal problems ranging from consumer privacy and security and competition.
+"This [plan] is silent on AI and democracy. … This is silent about the fact that we could use AI to promote citizen engagement," said Beth Simone Noveck, director of the Burnes Center for Social Change at Northeastern University in Boston. "There is nothing in here about public consultation. There's nothing in here about engaging with citizens to develop any of these things that are going to come next."
+Congressional legislation is the biggest tool the government has to potentially regulate and foster AI growth.
+But despite hosting a number of hearings and various lawmakers proposing different forms of legislation, Congress is still far from passing any kind of federal legislation related to AI.
+Without that, US states and municipalities could pass a hodgepodge of overlapping AI laws that confuse the industry and do little to help Americans.
+And we’ve seen the same kind of thing happen with privacy legislation — without federal rules, individual states have passed their own regulations, creating a patchwork of laws across the country.
+According to Cooper, the executive order also falls short of requiring AI developers and those deploying high-risk AI systems to perform impact assessments and operate risk management programs. Congressional legislation, he explained, is the only way to get that kind of regulation in place.
+New rules alone, however, might not be enough. 
+Bruce Schneier, security technologist and lecturer at Harvard Kennedy School, told Yahoo Finance that AI is the type of technological innovation that will require the creation of an entirely new government agency.
+"If this is actually as revolutionary a technology as we think it is, and it probably is, it needs a new government agency," he explained. "Think of the technologies that have caused the formation of new government agencies. Trains did. Radio did. Nuclear power did. These technologies were ... believed to be so fundamental that we needed a government agency to deal with societal change."
+The order also doesn’t go far enough in addressing broader social challenges, whether that’s getting more people involved in the democratic process, enhancing literacy, or making improvements to healthcare.
+"The big thing that I wanted to see more of [was] … how the public will be engaged in developing all of this," said Noveck. "There hasn't been enough public conversation around the benefits and risks of AI. The convening sort of happened to have been, you know, corporate CEOs in largely closed-door meetings."
+While the executive order lacks a number of provisions, what it does include is still winning praise.
+That includes immigration reforms geared toward attracting workers with AI expertise from other countries and attempting to prevent bias in AI algorithms. What’s more, the order continues to keep a focus on helping to grow new AI businesses.
+Still, as the technology continues to change, it’s clear the government will need to work especially fast, and carefully, to get the right rules in place in time. Because there’s no turning back now.
+Daniel Howley is the tech editor at Yahoo Finance. He's been covering the tech industry since 2011. You can follow him on Twitter @DanielHowley.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance

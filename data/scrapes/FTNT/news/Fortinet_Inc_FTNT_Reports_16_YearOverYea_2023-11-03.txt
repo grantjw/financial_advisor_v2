@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/fortinet-inc-ftnt-reports-16-220538305.html
+title:Fortinet_Inc_FTNT_Reports_16_YearOverYear_Increase_in_Total_Revenue_for_Q3_2023
+Fortinet Inc (NASDAQ:FTNT) reports a 16% year-over-year increase in total revenue for Q3 2023, reaching $1.33 billion.
+Service revenue for the company also saw a significant increase of 28% year over year, amounting to $868.7 million.
+GAAP diluted net income per share attributable to Fortinet Inc increased by 41% year over year, reaching $0.41.
+Fortinet Inc's cash flow from operations was reported at $551.2 million.
+Warning! GuruFocus has detected 3 Warning Signs with FTNT.
+Fortinet Inc (NASDAQ:FTNT), a global leader in cybersecurity, released its financial results for the third quarter of 2023 on November 2, 2023. The company reported a 16% year-over-year increase in total revenue, reaching $1.33 billion. This growth was driven by a significant increase in service revenue, which rose by 28% year over year to $868.7 million.
+Fortinet Inc's GAAP operating income for Q3 2023 was $303.2 million, a 14% increase from the same quarter in the previous year. The company's non-GAAP operating income also saw a 14% year-over-year increase, reaching $371.4 million. The GAAP operating margin was reported at 22.7%, while the non-GAAP operating margin stood at 27.8%.
+The company's GAAP diluted net income per share attributable to Fortinet Inc saw a significant increase of 41% year over year, reaching $0.41. The non-GAAP diluted net income per share also increased by 24% year over year to $0.41. The company's cash flow from operations was reported at $551.2 million, with free cash flow standing at $481.1 million.
+Despite the Secure Networking market experiencing slower growth, Fortinet Inc has leveraged its scale, go-to-market capabilities, and engineering expertise to focus on the faster-growing SASE and Security Operations markets. The company's integrated FortiOS operating system, industry leadership in firewall and SD-WAN, and exceptional solutions in the SASE and Security Operations markets position it well to capitalize on these emerging growth opportunities.
+For the fourth quarter of 2023, Fortinet Inc expects revenue in the range of $1.380 billion to $1.440 billion and billings in the range of $1.560 billion to $1.700 billion. The company also expects a non-GAAP gross margin in the range of 75.5% to 76.5% and a non-GAAP operating margin in the range of 27.5% to 28.5%.
+For the fiscal year 2023, the company expects revenue in the range of $5.270 billion to $5.330 billion and service revenue in the range of $3.355 billion to $3.375 billion. The company also expects billings in the range of $6.095 billion to $6.235 billion, a non-GAAP gross margin in the range of 76.0% to 77.0%, and a non-GAAP operating margin in the range of 26.5% to 27.5%.
+These financial results and future projections indicate a strong performance by Fortinet Inc in Q3 2023 and a positive outlook for the remainder of the fiscal year.
+Explore the complete 8-K earnings release (here) from Fortinet Inc for further details.
+This article first appeared on GuruFocus.

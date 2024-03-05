@@ -1,0 +1,34 @@
+url:https://finance.yahoo.com/news/questex-silverlinings-announces-first-ever-190000697.html
+title:Questexs_Silverlinings_Announces_First_Ever_Cloud_Innovation_Awards_Finalists_for_Top_Cloud_Changemaker_Category
+Winners to be Announced December 7 During the Cloud Executive Summit in Sonoma, CA
+NEW YORK, Nov. 08, 2023 (GLOBE NEWSWIRE) -- Questex’s Silverlinings today announces the first ever Cloud Innovation Awards finalists for the Top Cloud Changemaker category. The program celebrates exceptional innovations that are driving improvements and transforming the cloud industry and were judged on technical innovation, effectiveness, competitive advantage, financial impact and true innovation.
+The winners will be announced at the Cloud Executive Summit, an exclusive two-day symposium built for senior executives looking to discuss and debate the challenges and opportunities presented by the cloud industry today. The event takes place December 6-7 at the Fairmont Sonoma Mission Inn & Spa in Sonoma, CA. Register here.
+Elizabeth Coyne, Managing Editor, Silverlinings said, “Congratulations to the first round of finalists announced for the Cloud Innovation Awards in the Top Cloud Changemaker category. We are blown away by the accomplishments and impact these finalists have had on the industry and we look forward to seeing who comes out on top at our event next month.” 
+An expert panel of judges reviewed this category which recognizes individuals who have impacted their organization through cloud technological advancement, revenue generation, customer experience or company culture.
+The Top Cloud Changemaker finalists are:
+Andrew Coward, GM of Software Defined Networking, IBM (International Business Machines) (NYSE: IBM)
+Chris Nicholas, SVP, Cloud Solutions Group, Trace3
+Ulf Ewaldsson, President of Technology, T-Mobile (NASDAQ: TMUS)
+Chris Sambar, President of Network, AT&T (NYSE: T)
+Will Grannis, CTO, Google Cloud (NASDAQ: GOOGL)
+Michael Kagan, CTO, NVIDIA (NASDAQ: NVDA)
+Michael Intrator, CEO, CoreWeave
+Jon Abrahamson, Chief Product and Digital Officer, Deutsche Telekom (OTCMKTS: DTEGY)
+Richard Moulds, General Manager for Quantum Computing Service Amazon Braket, AWS (NASDAQ: AMZN)
+Scott Guthrie, EVP, Cloud and AI Group, Microsoft Azure (NASDAQ: MSFT)
+Finalists for the categories below will be announced on Friday, November 10.
+Best Cloud Networking Solution (Public, Private or Hybrid)
+Best Cloud Automation Solution
+Best Cloud Artificial Intelligence Solution
+Best Cloud-Native 5G Solution
+Best Cloud Data Center Solution
+Best Cloud Sustainability Initiative
+Cloud Executive Summit sponsors include Platinum partner Blue Planet, a division of Ciena; Research partner RedHat; Supporting partner Aviatrix; and Industry partners – AvidThink, Dell’Oro Group and WLDA.TECH.
+Winners will be announced December 7 at the Cloud Innovation Awards Ceremony during the Cloud Executive Summit in Sonoma, CA. Register here.
+For Cloud Executive Summit sponsorship opportunities, click here.
+Stay connected with the Cloud Executive Summit via LinkedIn and X.
+About SilverliningsSilverlinings provides analysis and strategy for the 21st Century Cloud Infrastructure Revolution – the single largest communications transformation of all time. Through independent, original reporting Silverlinings helps cloud network architects separate reality from marketing fluff and untangle the complexities of cloud infrastructure. Whether it’s integrating new and old technology, providing security, improving visibility, merging public and private clouds, avoiding cloud lock-in, managing edge networks, and deploying 5G into the cloud, we do the dirty work and sniff out the scoops to bring you the only site where cloud network architects can find a reputable daily source of news, analysis and strategy for cloud infrastructure, and have a laugh at the same time.
+About QuestexQuestex helps people live better and longer. Questex brings people together in the markets that help people live better: travel, hospitality and wellness; the industries that help people live longer: life science and healthcare; and the technologies that enable and fuel these new experiences. We live in the experience economy – connecting our ecosystem through live events, surrounded by data insights and digital communities. We deliver experience and real results. It happens here.
+Media ContactCharlene SoucySenior DirectorQuestex Technology Groupcsoucy@questex.com
+
+Related Quotes

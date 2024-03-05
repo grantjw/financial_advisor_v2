@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/media-alert-join-intel-ai-170000214.html
+title:Media_Alert_Join_Intels_AI_Everywhere_Launch_Event_on_Dec_14
+Event will include launch of 5th Gen Intel Xeon processors for data centers and Intel Core Ultra processors for laptops.
+SANTA CLARA, Calif., October 31, 2023--(BUSINESS WIRE)--Join Intel Chief Executive Officer Pat Gelsinger and other Intel leaders for Intel's "AI Everywhere" event. Marking a momentous year for the company, Intel will accelerate its execution engine and power AI workloads across the data center, the cloud and the edge with the launch of 5th Gen Intel® Xeon® processors and Intel® Core™ Ultra processors.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20231031870221/en/
+Intel's "AI Everywhere" event on Dec. 14, 2023, will include the launch of new processors to power AI workloads across the data center, the cloud and the edge. (Credit: Intel Corporation)
+When: Dec. 14 at 10 a.m. EST (7 a.m. PST)
+Where: Live from Nasdaq in New York
+Livestream: Watch the keynote live on the Intel Newsroom.
+Keynote Replay: Video replay will be published on the Intel Newsroom after the livestream concludes.
+About Intel
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231031870221/en/
+Contacts
+Sarah Kane1-408-218-8706sarah.kane@intel.com

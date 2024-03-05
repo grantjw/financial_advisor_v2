@@ -1,0 +1,35 @@
+url:https://finance.yahoo.com/news/amd-gives-weak-revenue-forecast-202240558.html
+title:AMDs_AI_Optimism_Helps_Investors_Look_Past_Tepid_Forecast
+(Bloomberg) -- Advanced Micro Devices Inc. said a new AI chip will generate $2 billion in sales next year, fueling optimism that demand for the component will offset a slump in orders for video-game equipment.
+Most Read from Bloomberg
+Israel Latest: Blinken Returning to Israel; Refugee Camp Hit
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Saudi Forces on Alert After Clash With Iran-Backed Houthis
+Zillow Plunges After Verdict on Real Estate Brokerage Commissions
+Innovent, Lilly Obesity Drug Spurs More Weight Loss in Trial
+The company’s MI300 processor, which will compete with Nvidia Corp. products in the market for artificial intelligence accelerators, is set to begin shipping in the coming weeks, AMD said during a post-earnings conference call Tuesday.
+The chip has received strong early orders, including from large cloud computing customers. It should bring in $400 million in revenue this quarter, on the way toward generating $2 billion for the whole of 2024, AMD said. In fact, it’s on course to be the fastest-ever AMD product to reach $1 billion in sales, the company projected.
+“We think the market is huge,” Chief Executive Officer Lisa Su said. “We’re playing to win and we think MI300 is a great product. I’m encouraged with the progress we’re making with the hardware and software.”
+Those prospects helped take the focus off a sales forecast that fell short of many Wall Street estimates. Fourth-quarter revenue will be $5.8 billion to $6.4 billion, AMD said earlier Tuesday. The average analyst estimate was $6.4 billion.
+Otherwise strong demand will be offset by “lower sales in the gaming segment,” Chief Financial Officer Jean Hu said in a statement. Chips for industrial, automotive and networking systems — known as the embedded market — will continue to weaken as well.
+The forecast initially sent AMD shares down as much as 5.1% in late trading, but they recovered almost all of the loss after the AI remarks on the conference call. The stock was up 52% this year through the close, lifted by a broader resurgence in chipmaker shares.
+AMD is playing catch-up with Nvidia in AI accelerators, the processors used to develop chatbots and other advanced tools. There’s a lot riding on AMD’s new MI300. The total market for such chips could top $150 billion by 2027, Su has said.
+“We’re just at the very early innings of people adopting this,” she said on the conference call with analysts, who mostly focused their questions on the prospects for the MI300.
+Read More: AMD’s New AI Chip Poised to Steal Earnings Spotlight
+In the nearer term, the company has been helped by a rebound in its traditional business, the main processors for PCs. That industry has emerged from a slump that was made worse by a massive buildup in excess inventory. AMD is the second-largest maker of PC processors, after Intel Corp.
+AMD’s third-quarter earnings amounted to 70 cents a share, excluding some items, compared with an estimate of 68 cents. Revenue was $5.8 billion, versus an average projection of $5.7 billion.
+AMD’s PC chip division had revenue of $1.45 billion, compared with a $1.23 billion estimate, while data center sales were $1.6 billion, just short of a $1.62 billion projection. Gaming computer-related revenue was $1.51 billion, missing a $1.53 billion prediction.
+AMD is the second-largest maker of chips that go onto add-in graphics cards, which turn PCs into gaming machines. It also provides chips to both Sony Group Corp. and Microsoft Corp. for their consoles. Demand for such products typically goes up during the end-of-year holiday shopping season, and components needed for that seasonal peak would have been ordered by now. Nvidia leads the market for PC add-in card chips.
+The age of the Sony and Microsoft console models — both of which went on sale in late 2020 — means that demand is naturally declining, AMD’s Su said. Still, they’re selling at higher levels than the preceding generations of the gaming machines, she said.
+The weakness in the embedded market has hurt other chipmakers, including Texas Instruments Inc., which has reported that demand for industrial semiconductors is cooling. AMD makes programmable chips that are used in networking gear, vehicles, space and defense hardware.
+Demand from makers of communications equipment, particularly 5G-related mobile-phone gear, has declined sharply and will continue to do so, AMD projected. In the broader industrial market, orders in Europe are weak, the company said.
+AMD, Nvidia and Intel, meanwhile, are trying to make their technology essential in data centers, part of a race to capture new spending on AI hardware. For now, Nvidia has taken the lead in this scramble, helping propel its market valuation past $1 trillion this year.
+The chipmakers will also have to navigate new more strict rules on the export of those chips to China, the largest market for semiconductors. Washington has clamped down on such shipments in an effort, it says, to protect US national security.
+(Updates with more details from conference call in 10th paragraph.)
+Most Read from Bloomberg Businessweek
+How Drug Cartels Transformed Ecuador Into a ‘Narco State’
+World’s Safest Market Becomes a Magnet for Big Investors
+Is This Poop-Test Startup Just Wellness Theater?
+America’s Culture Wars Have Liberal Parents Opting for Home-Schooling
+Hollywood Loves Halloween: Inside the Lucrative Business of Horror Movies
+©2023 Bloomberg L.P.

@@ -1,0 +1,13 @@
+url:https://finance.yahoo.com/news/alphabet-match-settle-google-play-220205018.html
+title:Alphabet_Match_settle_Google_Play_antitrust_claims_before_US_trial
+By Mike Scarcella
+(Reuters) - Alphabet's Google has settled claims by dating app developer Match Group that it monopolized Android app distribution with its Play Store, leaving “Fortnite” maker Epic Games as the sole plaintiff in an antitrust trial against Google set to begin Nov. 6.
+Match said in a filing in San Francisco federal court on Tuesday that it had resolved its allegations against Google.
+In a statement, Google said it was “pleased to reach a settlement agreement with Match Group.” Google also recently settled related antitrust claims from U.S. states and consumers for undisclosed terms.
+Match told shareholders in an earnings report on Tuesday that it had reached a partnership agreement with Google "that will provide value exchange across their broad relationship."
+Jury selection in the Epic and Match case was set to begin this week before U.S. District Judge James Donato in San Francisco. Epic is seeking an injunction to bar alleged violations of U.S. antitrust law.
+Epic Games CEO Tim Sweeney in a post on the X social media platform said "Epic will go to trial against Google alone."
+Epic and Match accused Google of maintaining an unlawful monopoly in the distribution of Android apps. The companies have claimed Google “extracts billions in monopoly profits and suppresses innovation and choice in multiple markets.”
+Google has denied wrongdoing and said the allegations stemmed from “the fiction that Google does not compete against Apple” for app sales.
+Google is separately facing U.S. and state antitrust allegations in other U.S. courts over its advertising technology business and its dominance in the web search industry.
+(Reporting by Mike Scarcella; Editing by David Bario and David Gregorio)

@@ -1,0 +1,18 @@
+url:https://finance.yahoo.com/news/gold-mining-etfs-fail-keep-193855634.html
+title:Gold_mining_ETFs_fail_to_keep_pace_with_benchmark_bullion_fund
+By Suzanne McGee
+(Reuters) - The weakening of a long-established correlation between the price of exchange-traded funds (ETFs) tied to gold and gold mining stocks have investors eyeing a range of potential causes, including massive buying from global central banks and shortfalls in gold production.
+The SPDR Gold Shares ETF, which tracks the price of gold, has rallied 9.82% this year, driven by concerns about inflation and economic growth as well as geopolitical turbulence. Yet those gains have not been reflected in the share prices of gold miners: the iShares MSCI Global Gold Miners ETF and the VanEck Gold Miners ETF, which track the shares of gold producers, are up only 2.28% and 1.7% respectively.
+More broadly, the correlation between gold prices and gold miners’ shares stands at 0.6 in 2023, down from a historical level of 0.8, according to data from VettaFi going back a decade. A figure of 1 signifies a perfect positive correlation, while zero signals absolutely no link.
+"Interest in gold just hasn't been carrying over into interest in the companies that actually produce it," said Imaru Casanova, portfolio manager for the gold and precious metals investment strategy at VanEck. "It's puzzling; we're scratching our heads."
+One reason, according to Casanova, is a multi-year buying spree from the world’s central banks, which purchased more than 1,100 tonnes of gold last year, according to the World Gold Council. That buying, the largest recorded amount since 1950, helped propel gold to an 11-year record in 2022.
+In spite of a third-quarter dip in central bank buying, the World Gold Council still expects 2023 purchases to approach last year's levels.
+By contrast, production shortfalls have weighed on some gold miners' bottom lines and hurt their share prices, said Roxanna Islam, associate director of research at VettaFi."
+"Gold prices can only help so much, if you can't produce the gold in the first place," said Islam.
+Production at Newmont Corp., which has a nearly 16% weighting in the iShares mining ETF, will likely fall short of analysts' expectations this year after a just-settled strike at its Penasquito mine in Mexico.
+Other factors are also dampening the production outlook. "Gold mining companies have been spending heavily on exploration and production but are barely able to sustain current production levels," said George Milling-Stanley, chief gold strategist at State Street Global Advisors.
+Even Barrick Gold, which reported a 3% gain in gold production in the third quarter, said overall output in 2023 won't meet expectations. The company's annual production hovers around half of its 2006 peak of 8.64 million ounces.
+The dip in the broader market over the last several months, which has pushed the S&P 500 some 5% below its July highs despite a recent bounce, has also weighed on miners’ shares - even as it bolstered the appeal of gold to haven-seeking investors.
+"Investors seem very wary of stocks as a whole, and gold miners have been tracking that rather than what's happening in gold itself," said Casanova.
+(Reporting by Suzanne McGee; Editing by Ira Iosebashvili and Chizu Nomiyama)
+Related Quotes

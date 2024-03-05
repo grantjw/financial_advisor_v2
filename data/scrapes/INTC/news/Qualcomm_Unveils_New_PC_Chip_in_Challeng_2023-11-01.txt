@@ -1,0 +1,33 @@
+url:https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-challenge-192535254.html
+title:Qualcomm_Unveils_New_PC_Chip_in_Challenge_to_Apple_Intel
+(Bloomberg) -- Qualcomm Inc., stepping up its long-running effort to break into the personal computer market, unveiled a new laptop processor designed to outperform rival products from Intel Corp. and Apple Inc.
+Most Read from Bloomberg
+Israel Latest: US Sending Another 300 Troops to the Middle East
+Saudi Forces on Alert After Clash With Iran-Backed Houthis
+Innovent, Lilly Obesity Drug Spurs More Weight Loss in Trial
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Sony’s Bungie Game Unit Cuts Staff Following Delayed Titles
+The new Snapdragon X features 12 high-performance cores capable of crunching data at 3.8 gigahertz, Qualcomm said at a company event Tuesday in Hawaii. The chip is as much as twice as fast as a similar 12-core processor from Intel, while using 68% less power, Qualcomm claims.
+The announcement is the latest sign of an increasingly competitive market for computer processors. Nvidia Corp. is working on its own central processing unit — the brains of a PC — using chip designs from Arm Holdings Plc, people familiar with matter said earlier this week. And Advanced Micro Devices Inc., Intel’s longtime rival in computer processors, is developing a new CPU with Arm technology as well.
+Such developments, and Apple’s in-house chip efforts, represent an endorsement of Qualcomm’s decision to pursue a foothold in PCs, Chief Executive Officer Cristiano Amon said in an interview with Bloomberg Television. The personal computer market is ready to embrace Arm technology, he said.
+The San Diego-based company’s stock gained as much as 1.5% following the announcement Tuesday, but then retreated Wednesday as part of a broader tech downturn. Qualcomm shares have lagged a general rally by semiconductor equities this year, hurt by sluggish demand in its main market: smartphone chips.
+With Snapdragon X, Qualcomm looks to wow the industry with far speedier performance. It claims the new chip can run 50% faster at peak times than Apple’s M2, which that company has touted as the leading computer processor on the market.
+Qualcomm will have to show it can back up these bold assertions if it wants to make inroads in the PC market. Intel’s technology, which AMD licenses for its own processors, remains dominant in the industry.
+So far, only Apple’s in-house designs have gained significant ground at the expense of that standard, and its share of industry shipments only recently passed 10%.
+But the way people use PCs is changing, Amon said in the interview. The product has already become more of a communication device and the addition of artificial intelligence capabilities, such as Microsoft Corp.’s 365 Copilot, will bring further transformation.
+“The whole experience becomes an AI experience,” he said. “We just unveiled the fastest CPU of any mobile computing device.”
+Snapdragon X stems from Amon’s 2021 purchase of startup Nuvia Inc. That company, founded by former Apple executive Gerard Williams, brought Qualcomm new chip designs and helped make it less reliant on off-the-shelf technology from Arm.
+Read More: Qualcomm Buys Server Chip Designer Nuvia for $1.4 Billion
+In addition to general advantages in performance, the new processor will have features specifically designed for artificial intelligence software, Qualcomm said. The chipmaker has argued that AI will only reach its full potential if it migrates out of data centers and into end-user devices, such as phones and PCs.
+Nvidia is the leader in data center chips that speed AI computing, and its own efforts to push into PC processors should intensify competition. That company’s PC offering, along with the new Arm chip from AMD, are expected as early as 2025.
+Intel, meanwhile, finds itself under attack in a market that it dominated since the 1980s. That company, still one of the world’s largest chipmakers, is trying to regain its footing with a huge investment in new technology under CEO Pat Gelsinger.
+Separately, Qualcomm announced a new version of its Snapdragon 8 lineup for smartphones. That so-called system on a chip, which contains a processor, modem and other components, is the first to be designed with AI workloads in mind, Qualcomm said.
+--With assistance from Ed Ludlow and Caroline Hyde.
+(Corrects story that ran Oct. 25 to show that specification in second paragraph is gigahertz not megahertz.)
+Most Read from Bloomberg Businessweek
+Is This Poop-Test Startup Just Wellness Theater?
+How Drug Cartels Transformed Ecuador Into a ‘Narco State’
+America’s Culture Wars Have Liberal Parents Opting for Home-Schooling
+How Conspiratorial Thinking About Road Fees Infected the UK
+Hollywood Loves Halloween: Inside the Lucrative Business of Horror Movies
+©2023 Bloomberg L.P.

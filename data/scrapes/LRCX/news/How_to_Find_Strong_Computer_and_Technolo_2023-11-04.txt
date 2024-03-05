@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/strong-computer-technology-stocks-slated-130007285.html
+title:How_to_Find_Strong_Computer_and_Technology_Stocks_Slated_for_Positive_Earnings_Surprises
+Two factors often determine stock prices in the long run: earnings and interest rates. Investors can't control the latter, but they can focus on a company's earnings results every quarter.
+Life and the stock market are both about expectations, and rising above what is expected is often rewarded, while falling short can come with negative consequences. Investors might want to try to capture stronger returns by finding positive earnings surprises.
+2 Stocks to Add to Your Watchlist
+The Zacks Earnings ESP, or Expected Surprise Prediction, aims to find earnings surprises by focusing on the most recent analyst revisions. The basic premise is that if an analyst reevaluates their earnings estimate ahead of an earnings release, it means they likely have new information that could possibly be more accurate. The core of the ESP model is comparing the Most Accurate Estimate to the Zacks Consensus Estimate, where the resulting percentage difference between the two equals the Expected Surprise Prediction.
+The final step today is to look at a stock that meets our ESP qualifications. Qualcomm (QCOM) earns a Zacks Rank #3 nine days from its next quarterly earnings release on November 1, 2023, and its Most Accurate Estimate comes in at $2.02 a share.
+By taking the percentage difference between the $2.02 Most Accurate Estimate and the $1.92 Zacks Consensus Estimate, Qualcomm has an Earnings ESP of 5.37%.
+QCOM is just one of a large group of Computer and Technology stocks with a positive ESP figure. Lam Research (LRCX) is another qualifying stock you may want to consider.
+Lam Research, which is readying to report earnings on January 24, 2024, sits at a Zacks Rank #2 (Buy) right now. It's Most Accurate Estimate is currently $7.07 a share, and LRCX is 93 days out from its next earnings report.
+Lam Research's Earnings ESP figure currently stands at 1.6% after taking the percentage difference between its Most Accurate Estimate and its Zacks Consensus Estimate of $6.96.
+QCOM and LRCX's positive ESP metrics may signal that a positive earnings surprise for both stocks is on the horizon.
+Find Stocks to Buy or Sell Before They're Reported
+Use the Zacks Earnings ESP Filter to turn up stocks with the highest probability of positively, or negatively, surprising to buy or sell before they're reported for profitable earnings season trading. Check it out here >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+QUALCOMM Incorporated (QCOM) : Free Stock Analysis Report
+Lam Research Corporation (LRCX) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

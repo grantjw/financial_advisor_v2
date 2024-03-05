@@ -1,0 +1,18 @@
+url:https://finance.yahoo.com/news/1-us-consumer-watchdog-proposes-174633783.html
+title:UPDATE_3US_consumer_watchdog_proposes_rules_for_Big_Tech_payments_digital_wallets
+(Adds paragraph 3 and 10, adds no immediate comment from PayPal, CashApp, Google and Apple)
+By Douglas Gillison and Hannah Lang
+WASHINGTON, Nov 7 (Reuters) - The top U.S. consumer financial watchdog on Tuesday proposed to regulate tech giants' digital payments and smartphone wallet services, saying they rival traditional payment methods in scale and scope but lack consumer safeguards.
+The Consumer Financial Protection Bureau's (CFPB) proposal would subject companies like Alphabet, Apple, PayPal and Block's CashApp to bank-like supervision, with CFPB examiners inspecting their privacy protections, executives' conduct and compliance with laws barring unfair and deceptive practices.
+If finalized, the proposal would cover about 17 companies that together send more than 13 billion payments annually, according to a CFPB official. The agency declined to name the other platforms that would be covered beyond GooglePay, ApplePay, PayPal and CashApp.
+Google, Apple, PayPal and CashApp did not immediately respond to a request for comment.
+The proposal marks a long-anticipated and ambitious move by CFPB Director Rohit Chopra to assert the agency's full authority over Big Tech, a sector he has frequently criticized for privacy and competition issues.
+Since becoming director in 2021, Chopra has steadily increased CFPB scrutiny of the sector, seeking information in 2021 on how Big Tech companies use consumer data and last year launching an inquiry into their payments platforms.
+In a statement on Tuesday, Chopra said the tech sector had expanded into financial services traditionally provided by the closely regulated banking sector.
+"Today's rule would crack down on one avenue for regulatory arbitrage by ensuring large technology firms and other nonbank payments companies are subjected to appropriate oversight," he said.
+In a speech last month, Chopra said CFPB research had found tech giants collected vast amounts of consumer payments data with few limits, scant transparency and confusing corporate policies, putting consumers at risk of Chinese-style surveillance by the companies.
+Speaking about Tuesday's proposal, senior CFPB officials said it was imperative to look into privacy compliance at these larger firms with a wealth of consumer data, noting that many of their business models focus on monetizing that data.
+Representatives of Big Tech companies have previously highlighted their efforts to protect consumer data.
+Tuesday's proposal would apply to companies handling more than five million transactions a year. The agency said the rule would also foster competition by ensuring that both traditional financial players and the tech sector were equally subject to the same oversight.
+The proposal is now subject to a notice-and-comment period expected to end in early 2024. (Reporting by Douglas Gillison and Hannah Lang in Washington Additional reporting by Chris Prentice in New York Editing by Matthew Lewis and Mark Potter)
+Related Quotes

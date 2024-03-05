@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/super-micro-computer-inc-smci-223809440.html
+title:Super_Micro_Computer_Inc_SMCI_Reports_Q1_2024_Earnings_Net_Sales_at_212_Billion
+Super Micro Computer Inc (NASDAQ:SMCI) reported net sales of $2.12 billion in Q1 2024, compared to $2.18 billion in Q4 2023 and $1.85 billion in Q1 2023.
+The company's net income was $157 million, down from $194 million in Q4 2023 and $184 million in Q1 2023.
+Diluted net income per common share was $2.75, compared to $3.43 in Q4 2023 and $3.35 in Q1 2023.
+SMCI's cash flow from operations for Q1 2024 was $271 million, with capital expenditures of $3 million.
+Warning! GuruFocus has detected 2 Warning Sign with SMCI.
+Super Micro Computer Inc (NASDAQ:SMCI), a leading manufacturer of IT solutions for AI, Cloud, Storage, and 5G/Edge, announced its financial results for the first quarter of fiscal year 2024 on November 1, 2023. The company reported net sales of $2.12 billion, a slight decrease from the $2.18 billion reported in the fourth quarter of fiscal year 2023, but an increase from the $1.85 billion reported in the same quarter of the previous year.
+The company's gross margin for the quarter was 16.7%, compared to 17.0% in the fourth quarter of fiscal year 2023 and 18.8% in the same quarter of the previous year. The net income for the quarter was $157 million, a decrease from $194 million in the fourth quarter of fiscal year 2023 and $184 million in the same quarter of the previous year. The diluted net income per common share was $2.75, compared to $3.43 in the fourth quarter of fiscal year 2023 and $3.35 in the same quarter of the previous year.
+Charles Liang, President and CEO of Supermicro, commented on the results,
+I am pleased to announce that we are off to a good start to fiscal 2024, achieving first quarter revenue of $2.12B. Our teams executed with passion and precision despite the ongoing GPU supply constraints. We are working diligently to meet these challenges and given my confidence in my team and the strong demand we are seeing for AI infrastructure and compelling new and upcoming compute and storage products we are now raising our fiscal year 2024 outlook to $10B - $11B in revenue."
+For the second quarter of fiscal year 2024, the company expects net sales of $2.7 billion to $2.9 billion, GAAP net income per diluted share of $3.75 to $4.24, and non-GAAP net income per diluted share of $4.40 to $4.88. For the fiscal year 2024, the company maintains its guidance for net sales from a range of $10 billion to $11 billion.
+As of September 30, 2023, the company had total cash and cash equivalents of $543 million and total bank debt of $146 million. The cash flow provided by operations for the first quarter of fiscal year 2024 was $271 million, with capital expenditures of $3 million.
+The non-GAAP gross margin for the first quarter of fiscal year 2024 was 17.0%, which adds back stock-based compensation expenses of $6 million. The non-GAAP diluted net income per common share for the first quarter of fiscal year 2024 was $3.43, with adjustments for stock-based compensation expenses of $41 million, net of the related tax effects of $16 million.
+Explore the complete 8-K earnings release (here) from Super Micro Computer Inc for further details.
+This article first appeared on GuruFocus.

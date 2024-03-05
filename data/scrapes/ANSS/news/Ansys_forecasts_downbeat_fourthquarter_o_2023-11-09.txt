@@ -1,0 +1,10 @@
+url:https://finance.yahoo.com/news/ansys-forecasts-downbeat-fourth-quarter-222615354.html
+title:Ansys_forecasts_downbeat_fourthquarter_on_US_export_curbs_hit
+Nov 1 (Reuters) -
+Software-developer Ansys Inc forecast fourth-quarter revenue and profit below market estimates on Tuesday, expecting impact from the tightening of U.S. export restrictions and approval processes.
+Shares of the Pennsylvania-based company fell 10.3% in aftermarket trading.
+The company expects fourth-quarter revenue between $769.2 million and $819.2 million, compared to LSEG estimates of $819.23 million.
+The company's sales to certain Chinese customers face disruptions due to expanded U.S. export restrictions, with the third quarter's results facing a hit of $20 million.
+The Biden administration's export restrictions to China has impacted several other companies, especially chipmakers such as Nvidia Corp, Advanced Micro Devices and Intel .
+Ansys's revenue for the quarter ended Sept. 30 was $458.8 million, while adjusted profit was $1.41 per share compared with analysts' estimate for revenue of $469.64 million and adjusted profit of $1.26 per share.
+The software-developer's forecast for fourth-quarter adjusted earnings per share was also below estimates. (Reporting by Tanya Jain in Bengaluru; Editing by Shailesh Kuber)

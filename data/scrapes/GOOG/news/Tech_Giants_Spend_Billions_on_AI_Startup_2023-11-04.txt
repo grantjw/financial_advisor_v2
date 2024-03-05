@@ -1,0 +1,3 @@
+url:https://finance.yahoo.com/m/52a681df-1f10-37ca-95f1-7766ff6b6279/tech-giants-spend-billions-on.html
+title:Tech_Giants_Spend_Billions_on_AI_StartupsAnd_Get_Just_as_Much_Back
+Microsoft, Amazon and Google benefit from OpenAI and Anthropic paying for the expensive cloud services needed to run their products.

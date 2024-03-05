@@ -1,0 +1,4 @@
+model_name,loss
+mistralai/Mistral-7B-v0.1,2.375946044921875
+results/dpo-finqa/final_model,2.109828233718872
+results/sft-finqa/final_model,2.0664615631103516

@@ -1,0 +1,20 @@
+url:https://finance.yahoo.com/news/biogen-inc-biib-reports-mixed-200615772.html
+title:Biogen_Inc_BIIB_Reports_Mixed_Q3_2023_Results_and_Revises_FullYear_Guidance
+Biogen Inc (NASDAQ:BIIB) reported a third-quarter revenue of $2.53 billion, a slight increase from $2.51 billion in Q3 2022.
+GAAP diluted EPS showed a loss of $(0.47), a significant decline from $7.84 in the prior year, while Non-GAAP diluted EPS was $4.36, down 9% year-over-year.
+The company updated its full-year 2023 guidance, reflecting the acquisition of Reata Pharmaceuticals and regulatory approval for ZURZUVAE.
+Warning! GuruFocus has detected 4 Warning Signs with BIIB.
+On November 8, 2023, Biogen Inc (NASDAQ:BIIB) released its third-quarter financial results, revealing a complex quarter marked by strategic moves and a challenging market environment. The company's revenue saw a marginal increase to $2.53 billion, up 1% from the same quarter last year, while GAAP diluted EPS experienced a significant drop to a loss of $(0.47) compared to a profit of $7.84 in Q3 2022. Non-GAAP diluted EPS also decreased by 9% to $4.36.
+Biogen's multiple sclerosis (MS) product revenue declined by 14% to $1.16 billion, while spinal muscular atrophy revenue increased by 4% to $448 million. Biosimilars revenue also saw a 4% rise to $194 million. The company's total product revenue fell by 8% to $1.81 billion, but contract manufacturing, royalty, and other revenue surged by 135% to $304 million.
+Cost of sales increased by 40%, with GAAP and Non-GAAP cost of sales at $660 million, representing 26% of total revenue. GAAP R&D expenses rose by 34% to $736 million, and GAAP SG&A expenses increased by 40% to $788 million. These increases were primarily due to acquisition-related charges from the recent acquisition of Reata, including stock-based compensation expense associated with the accelerated vesting of stock options previously granted to Reata employees.
+Biogen's leadership expressed confidence in the company's long-term growth, citing the FDA approval for LEQEMBI and ZURZUVAE, the closing of the Reata transaction, and the initiation of a $1 billion "Fit for Growth" cost savings program. President and CEO Christopher A. Viehbacher stated,
+We believe we have the key elements in place to position Biogen for long-term sustainable growth."
+He emphasized the company's focus on execution and leadership in Alzheimer's disease through the LEQEMBI launch and the development of tau-directed ASO (BIIB080).
+For the full year 2023, Biogen updated its guidance, now expecting a low-single digit percentage decline in total revenue versus the reported full year 2022, and a Non-GAAP diluted EPS range of $14.50 to $15.00, reflecting approximately $0.75 of dilution from the Reata acquisition.
+Biogen ended the quarter with $2.29 billion in cash, cash equivalents, and marketable securities, and a total debt of $7.29 billion, resulting in net debt of $4.99 billion. The company generated a net cash flow from operations of $592 million and a free cash flow of $518 million after accounting for capital expenditures of $74 million.
+The company's financial position remains robust, with no shares repurchased during the quarter and $2.05 billion remaining under the share repurchase program authorized in October 2020.
+Biogen's earnings conference call for the third quarter was broadcasted on November 8, 2023, and is accessible through the Investors section of Biogens website, with supplemental information available in the form of a slide presentation.
+As Biogen navigates the current financial landscape, the company's strategic initiatives and pipeline developments will be critical in shaping its future performance and market position. Investors and stakeholders will be closely monitoring Biogen's execution of its growth strategies and cost-saving measures in the coming quarters.
+Explore the complete 8-K earnings release (here) from Biogen Inc for further details.
+This article first appeared on GuruFocus.
+Related Quotes

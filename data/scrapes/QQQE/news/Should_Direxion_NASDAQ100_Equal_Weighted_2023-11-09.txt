@@ -1,0 +1,35 @@
+url:https://finance.yahoo.com/news/direxion-nasdaq-100-equal-weighted-102006498.html
+title:Should_Direxion_NASDAQ100_Equal_Weighted_Index_Shares_QQQE_Be_on_Your_Investing_Radar
+The Direxion NASDAQ-100 Equal Weighted Index Shares (QQQE) was launched on 03/21/2012, and is a passively managed exchange traded fund designed to offer broad exposure to the Large Cap Growth segment of the US equity market.
+The fund is sponsored by Direxion. It has amassed assets over $792.34 million, making it one of the average sized ETFs attempting to match the Large Cap Growth segment of the US equity market.
+Why Large Cap Growth
+Large cap companies typically have a market capitalization above $10 billion. Considered a more stable option, large cap companies boast more predictable cash flows and are less volatile than their mid and small cap counterparts.
+While growth stocks do boast higher than average sales and earnings growth rates, and they are expected to grow faster than the wider market, investors should note these kinds of stocks have higher valuations. Additionally, growth stocks have a greater level of risk associated with them. Even though growth stocks are more likely to outperform their value counterparts in strong bull markets, value stocks have a record of delivering better returns in almost all markets than growth stocks.
+Costs
+Cost is an important factor in selecting the right ETF, and cheaper funds can significantly outperform their more expensive counterparts if all other fundamentals are the same.
+Annual operating expenses for this ETF are 0.35%, putting it on par with most peer products in the space.
+It has a 12-month trailing dividend yield of 0.96%.
+Sector Exposure and Top Holdings
+While ETFs offer diversified exposure, which minimizes single stock risk, a deep look into a fund's holdings is a valuable exercise. And, most ETFs are very transparent products that disclose their holdings on a daily basis.
+This ETF has heaviest allocation to the Information Technology sector--about 36% of the portfolio. Healthcare and Consumer Discretionary round out the top three.
+Looking at individual holdings, Sirius Xm Holdings Inc (SIRI) accounts for about 1.13% of total assets, followed by Crowdstrike Holdings Inc - A (CRWD) and Zscaler Inc (ZS).
+The top 10 holdings account for about 10.87% of total assets under management.
+Performance and Risk
+QQQE seeks to match the performance of the NASDAQ-100 Equal Weighted Index before fees and expenses. The NASDAQ-100 Equal Weighted Index consists of companies in the NASDAQ-100 Index but each of the securities is initially set at a weight of 1.00% of the Index. The NASDAQ-100 Index includes 100 of the largest non-financial securities listed on NASDAQ based on capitalization.
+The ETF has added roughly 11.04% so far this year and it's up approximately 13.20% in the last one year (as of 10/30/2023). In the past 52-week period, it has traded between $61.04 and $80.76.
+The ETF has a beta of 1.06 and standard deviation of 22.37% for the trailing three-year period, making it a medium risk choice in the space. With about 103 holdings, it effectively diversifies company-specific risk.
+Alternatives
+Direxion NASDAQ-100 Equal Weighted Index Shares holds a Zacks ETF Rank of 2 (Buy), which is based on expected asset class return, expense ratio, and momentum, among other factors. Because of this, QQQE is a great option for investors seeking exposure to the Style Box - Large Cap Growth segment of the market. There are other additional ETFs in the space that investors could consider as well.
+The Vanguard Growth ETF (VUG) and the Invesco QQQ (QQQ) track a similar index. While Vanguard Growth ETF has $86.09 billion in assets, Invesco QQQ has $193.08 billion. VUG has an expense ratio of 0.04% and QQQ charges 0.20%.
+Bottom-Line
+While an excellent vehicle for long term investors, passively managed ETFs are a popular choice among institutional and retail investors due to their low costs, transparency, flexibility, and tax efficiency.
+To learn more about this product and other ETFs, screen for products that match your investment objectives and read articles on latest developments in the ETF investing universe, please visit Zacks ETF Center.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Direxion NASDAQ-100 Equal Weighted Index Shares (QQQE): ETF Research Reports
+Sirius XM Holdings Inc. (SIRI) : Free Stock Analysis Report
+Invesco QQQ (QQQ): ETF Research Reports
+Vanguard Growth ETF (VUG): ETF Research Reports
+Zscaler, Inc. (ZS) : Free Stock Analysis Report
+CrowdStrike (CRWD) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

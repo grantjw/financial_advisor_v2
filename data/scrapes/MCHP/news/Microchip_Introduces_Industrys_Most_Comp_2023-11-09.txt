@@ -1,0 +1,24 @@
+url:https://finance.yahoo.com/news/microchip-introduces-industry-most-complete-130000323.html
+title:Microchip_Introduces_Industrys_Most_Complete_Solution_for_800G_Active_Electrical_Cables_AECs_Used_for_Generative_AI_Networks
+New META-DX2C 800G retimer is supported by a complete hardware and software reference design with key Microchip components
+CHANDLER, Ariz., Nov. 08, 2023 (GLOBE NEWSWIRE) -- The rise of generative AI and AI/ML technologies is fueling demand for more high-speed connections and, in turn, the push toward 800G connectivity in backend data center networks and applications. This can be optimally addressed using Active Electrical Cables (AECs), but there are numerous design and development hurdles for cable vendors to overcome. To address this, Microchip Technology Inc. (Nasdaq: MCHP) today announces an accelerated development path for these Quad Small Form Factor Pluggable Double Density (QSFP-DD) and Octal Small Form Factor Pluggable (OSFP) AEC cable products using its META-DX2C 800G retimer. The retimer is supported by a comprehensive solution for 800G AEC product development including a hardware reference design and complete Common Management Interface Specification (CMIS) software package to minimize development resources needed for cable manufacturers.
+“The newest and most compact member of our META-DX2 Ethernet PHY family leverages Microchip’s unique breadth of microcontrollers and other key components to provide a complete reference design that accelerates AEC product development, reduces resource investments and simplifies supply-chain management,” said Maher Fahmi, vice president for Microchip’s communications business unit. “The META-DX2C retimer enables AEC connections for the high-density networks that are needed for generative AI applications.
+The META-DX2C retimer uses high-performance, long-reach 112G SerDes that can support up to 40 dB reach, enabling the design of thinner and longer AECs that are crucial for dense hyperscaler infrastructure buildouts. Additionally, Microchip is offering a fully validated paddle card hardware reference design and a software package that implements the CMIS software in a Microchip 32-bit PIC32 microcontroller. Microchip’s META-DX2C compact retimer can also solve similar connectivity challenges in high-capacity data center switches and routers where high density and data rates create signal integrity problems.
+"Generative AI is impacting how data center infrastructure is being built and the amount of network connectivity that is required, in a big way,” said Alan Weckel, co-founder and analyst with the market research firm 650 Group. “To address this challenge, hyperscalers need solutions that are very high bandwidth as well as low power and low cost. We are seeing a transition to active electrical cables as the optimal solution for this challenge. Microchip’s META-DX2C 800G AEC retimer is aligned with this trend and is the type of solution needed to enable growth in this area."
+Development Package
+Microchip ’s META-DX2C 800G AEC solution is supported by a paddle card reference design that includes the META-DX2C retimer, PIC32 microcontroller, oscillators, buck regulator and linear voltage regulator, all from Microchip. Having these elements available from a single supplier can simplify a customer’s supply chain management. The included software development kit supports the CMIS 5.2 specification.
+Availability
+The META-DX2C retimer, part #PM6254, with hardware reference design, firmware solution and SDK, is available now. For additional information visit the META-DX family webpage or contact a Microchip sales representative.
+ResourcesHigh-res images available through Flickr or editorial contact (feel free to publish):·Application image: www.flickr.com/photos/microchiptechnology/53253255988/sizes/l/ 
+About Microchip TechnologyMicrochip Technology Inc. is a leading provider of smart, connected and secure embedded control solutions. Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market. The company solutions serve more than 125,000 customers across the industrial, automotive, consumer, aerospace and defense, communications and computing markets. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support along with dependable delivery and quality. For more information, visit the Microchip website at www.microchip.com.
+Note: The Microchip name and logo and the Microchip logo are registered trademarks of Microchip Technology Incorporated in the U.S.A. and other countries. All other trademarks mentioned herein are the property of their respective companies.
+Editorial Contact:
+Reader Inquiries:
+Brian Thorsen
+1-888-624-7435
+480-792-7182
+ 
+brian.thorsen@microchip.com
+ 
+
+Related Quotes

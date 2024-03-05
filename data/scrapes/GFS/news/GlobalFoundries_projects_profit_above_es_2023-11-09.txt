@@ -1,0 +1,12 @@
+url:https://finance.yahoo.com/news/globalfoundries-projects-profit-above-estimates-135229176.html
+title:GlobalFoundries_projects_profit_above_estimates_in_positive_sign_for_chip_market
+(Reuters) - Contract chipmaker GlobalFoundries forecast fourth-quarter profit above analysts' estimates on Tuesday, providing the latest sign that a supply glut in the semiconductor industry was easing.
+The company's shares rose 4.5% in premarket trading after the July-September quarter earnings also beat expectations.
+The forecast feeds into recent signals that the slump in the industry may have bottomed out as customers such as electronics makers rebuild inventory after several quarters of clearing excess stock caused by a sudden post-pandemic demand drop.
+Both Intel and Advanced Micro Devices have indicated that a recovery is afoot in the personal computer market, a key source of revenue for semiconductor makers.
+"Although the global economic and geopolitical landscape remains uncertain, we are collaborating closely with our customers to support their efforts to reduce inventory levels," CEO Thomas Caulfield said in a statement.
+GlobalFoundries said it expects adjusted profit per share to be in the range of 53 cents to 64 cents in the three months to December, above estimates of 52 cents, according to LSEG data.
+The company, whose customers range from mobile phone chip designer Qualcomm to the U.S. Department of Defense, said net revenue fell 11% to $1.85 billion in the third quarter, but came in line with estimates.
+Adjusted earnings of 55 cents per share beat estimates of 49 cents.
+(Reporting by Arsheeya Bajwa in Bengaluru; Editing by Sriraj Kalluvila)
+Related Quotes

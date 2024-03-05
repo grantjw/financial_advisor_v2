@@ -1,0 +1,32 @@
+url:https://finance.yahoo.com/news/canon-advanced-chip-machines-cost-210001729.html
+title:Canons_Advanced_Chip_Machines_to_Cost_a_Fraction_of_ASMLs_Best
+(Bloomberg) -- Canon Inc. plans to price its new chipmaking gear at a fraction of the cost of ASML Holding NV’s best lithography machines, seeking to make inroads in the cutting-edge equipment now playing a central role in the US-China tech rivalry.
+Most Read from Bloomberg
+Rockstar Plans to Announce Much Anticipated ‘Grand Theft Auto VI’
+US 30-Year Mortgage Rate Tumbles by Most in More Than a Year
+VIX Notches Its Longest Slide Since October 2015: Markets Wrap
+Virginia Democrats Fend Off Republican Sweep in Win for Abortion Rights
+Adam Neumann Remains a Billionaire Even With WeWork Bankruptcy
+The Tokyo-based company’s new nanoimprint technology would open up a way for smaller semiconductor makers to produce advanced chips, now almost wholly the domain of the sector’s biggest firms, Chief Executive Officer Fujio Mitarai said.
+“The price will have one digit less than ASML’s EUVs,” said the 88-year-old, now on his third stint as Canon’s president after last stepping back from day-to-day operations in 2016. He added that a final pricing decision hasn’t been made.
+Veldhoven, Netherlands-based ASML is the only supplier of extreme ultraviolet lithography tools, the world’s most advanced chipmaking machines costing hundreds of millions of dollars each. The product of decades of research and investment, EUV rigs are essential for mass-producing the fastest and most energy-efficient chips, which cram millions of transistors into every square millimeter of silicon.
+Only a handful of cash-rich companies can afford to invest in the tools, which are now under scrutiny for their linchpin status in the tech supply chain. ASML is banned from exporting EUV systems to Chinese customers, following US pressure on its allies to restrict technology flows to Beijing.
+That’s fueled hope for Canon’s new tools, which came to market last month. Tokyo’s chipmaking export curbs, which were expanded in July, do not explicitly name nanoimprint lithography.
+But Canon may not be able to ship the machines to China, according to Mitarai. “My understanding is that exports of anything beyond 14 nanometer technology is banned, so I don’t think we’ll be able to sell.” An official at Japan’s Economy Ministry said he couldn’t comment on how export curbs would affect a particular company or product.
+Canon’s shares are up 27% since the start of the year. Rival Nikon Corp., which also trails ASML in lithography tools, is up 24%.
+Canon has been working on nanoimprint processes for almost a decade with Dai Nippon Printing Co. and memory chipmaker Kioxia Holdings Corp. Unlike EUV lithography, which works by reflecting light, Canon’s technology stamps circuit patterns directly onto wafers to create chips at geometries it says are equivalent to the most advanced nodes, albeit at a much slower rate.
+The new machine gives chipmakers the option to lower reliance on foundries, while also making it more feasible for contract chipmakers such as Taiwan Semiconductor Manufacturing Co. and Samsung Electronics Co. to make small lots of chips. The machines require 1/10 of the power of their EUV counterparts, Canon said.
+“I don’t expect nanoimprint technology to overtake EUVs, but I’m confident this will create new opportunities and demand,” Mitarai said. “We are already fielding many inquiries from customers.”
+Canon, which has until now focused on products used to make less advanced chips, began betting on nanoimprint technology in 2014 with an acquisition of pioneer Molecular Imprints Inc. A TSMC supplier, Canon is building its first new plant for lithography equipment in two decades in Utsunomiya, north of Tokyo, to go online in 2025.
+Mitarai, who has been Canon’s president for almost 18 years altogether and its CEO since 2006, said he has no interest in staying in power for life. Born in 1935, he’s credited with rescuing Canon’s troubled operations when he first took the reins in 1995.
+Canon recently appointed a raft of new directors to join its board next year, including Canon USA CEO Kazuto Ogawa, 65, Industrial Group Head Hiroaki Takeishi, 59, and Senior Managing Executive Officer Minoru Asada, 61, a sign of a new group of executives rising in the ranks.
+“It’s my responsibility to find a successor,” said Mitarai, who declined to comment on details such as timing, potential candidates and how actively the firm was hunting for its next CEO.
+“I want it to be a total surprise,” he said. “Our employees will learn about it first, and then the rest of the world will hear about it through a press conference.”
+Most Read from Bloomberg Businessweek
+Elon Musk’s Brain Implant Startup Is Ready to Start Surgery
+In Uruguay, a Tax Haven With Lots of Beaches and Little Crime
+Can a Triangle-Shaped Jet Cut Fuel Consumption in Half?
+Private Equity Courts a Growing Class of Mini-Millionaires
+Top-Ranked MBA Programs Struggle to Reverse Declining Applications
+©2023 Bloomberg L.P.
+Related Quotes

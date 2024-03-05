@@ -1,0 +1,28 @@
+url:https://finance.yahoo.com/news/amd-stock-surges-9-upbeat-164500213.html
+title:AMD_Stock_Surges_9_on_Upbeat_Q3_Earnings_ETFs_to_Benefit
+Chipmaker Advanced Micro Devices AMD reported third-quarter 2023 non-GAAP earnings of 70 cents per share, beating the Zacks Consensus Estimate by 2.94% and climbing 4.5% year over year. Revenues of $5.8 billion beat the Zacks Consensus Estimate by 1.65% and increased 4.2% year over year. However, the guidance was unimpressive. The company expects weakness in the Gaming and Embedded segment to hurt revenues in the current quarter.
+Data Center revenues declined 0.7% year over year to $1.6 billion and accounted for 27.6% of total revenues. Sequentially, revenues increased 21%, driven by strong adoption of fourth-generation AMD EPYC CPUs. Our model estimate for third-quarter Data Center revenues was pegged at $1.62 billion.
+The Client segment revenues increased 42.2% year over year to $1.46 billion and accounted for 25.1% of total revenues. Higher Ryzen mobile processor sales drove top-line growth. Our model estimate for third-quarter Client revenues was pegged at $1.24 billion.
+The Gaming segment revenues decreased 7.7% year over year to $1.51 billion and accounted for 26% of total revenues. The decline was primarily attributed to lower semi-custom revenues. Our model estimate for third-quarter Gaming revenues was pegged at $1.61 billion.
+The Embedded segment revenues were $1.24 billion, down 4.6% year over year. The segment accounted for 21.4% of total revenues. The top line suffered from lower performance in the communications market. Our model estimate for third-quarter Embedded revenues was pegged at $1.23 billion.
+AMD expects fourth-quarter 2023 revenues to be $6.1 billion (+/-$300 million), which indicates year-over-year growth of 9% and 5% sequentially at the mid-point.
+It expects to witness year-over-year growth in the Data Center and Client segments by double-digit percentage. The Gaming segment is expected to decline due to the matured console cycle. Softness in the embedded market will likely hurt Embedded revenues.
+Sequentially, Data Center segment revenues are expected to grow on a double-digit percentage, while Client is expected to increase. However, Gaming and Embedded segment revenues are expected to decline by a double-digit percentage.
+The stock jumped more than 9.6% on Nov 1, 2023 on 2.45 times elevated volume. The stock currently has a Zacks Rank #3 (Hold). Based on short-term price targets offered by 28 analysts, the average price target for Advanced Micro Devices comes to $139.00. The forecasts range from a low of $80.00 to a high of $200.00. The average price target represents an increase of 41.12% from the last closing price of $98.50.
+Against this backdrop, investors can bet on AMD stock. Those who are worried about weak guidance for Q4, may opt for the ETF route. There are a few ETFs that are heavy on Advanced Micro Devices stock. These AMD-heavy ETFs minimize the company-specific risks and offer better exposure to the broader industry.
+Simplify Volt RoboCar Disruption and Tech ETF VCAR – 10.80% Weight in AMD
+AOT Growth and Innovation ETF AOTG – 8.64% Weight in AMD
+iShares Semiconductor ETF SOXX – 8.55% Weight in AMD
+Invesco PHLX Semiconductor ETF SOXQ – 8.50% Weight in AMD
+Spear Alpha ETF SPRX – 8.10% Weight in AMD
+AXS Esoterica NextG Economy ETF WUGI – 7.87% Weight in AMD
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Advanced Micro Devices, Inc. (AMD) : Free Stock Analysis Report
+iShares Semiconductor ETF (SOXX): ETF Research Reports
+AXS Esoterica NextG Economy ETF (WUGI): ETF Research Reports
+Simplify Volt Robocar Disruption and Tech ETF (VCAR): ETF Research Reports
+Invesco PHLX Semiconductor ETF (SOXQ): ETF Research Reports
+Spear Alpha ETF (SPRX): ETF Research Reports
+AOT Growth and Innovation ETF (AOTG): ETF Research Reports
+To read this article on Zacks.com click here.
+Zacks Investment Research

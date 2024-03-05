@@ -1,0 +1,39 @@
+url:https://finance.yahoo.com/news/ansys-receives-four-tsmc-2023-130000661.html
+title:Ansys_Receives_Four_TSMC_2023_OIP_Partner_of_the_Year_Awards_for_Joint_Development_of_Leading_Multiphysics_Technology_and_Design_Solutions
+Ansys receives four awards for joint development of advanced silicon signoff capabilities, 3D-IC prototyping, RF design, and partner collaboration
+/ Key Highlights
+Ansys secured an award in the category of Joint Development of 2nm and N3P Design Infrastructure for delivering foundry-certified, state-of-the-art power integrity and reliability signoff verification tools for TSMC's newest process technologies
+Ansys earned an award in the category of Joint Development of 3Dblox Design Prototyping Solution to provide power integrity and thermal feasibility analysis for TSMC's 3DFabric advanced packaging technologies
+Ansys earned two awards in the categories of Joint Development of Millimeter-Wave Design Solutions and Partner Collaboration for two years of collaborative effort and the delivery of four reference flows that showcase the synergy of the OIP ecosystem
+PITTSBURGH, Oct. 19, 2023 /PRNewswire/ -- Ansys (Nasdaq: ANSS) has been recognized by TSMC as a recipient of four TSMC Open Innovation Platform® (OIP) Partner of the year awards for 2023. The OIP Partner of the Year awards honor TSMC Open Innovation Platform ecosystem partners' pursuit of excellence in next-generation design enablement over the past year. Ansys and other OIP ecosystem partners collaborate with TSMC to effectively promote innovation in the semiconductor industry.
+TSMC announced award winners at its 2023 OIP Ecosystem Forum, which brings together the semiconductor design partners and TSMC customers, providing an ideal platform to discuss the latest technologies and design solutions for HPC, AI/ML, mobile, automotive, and IoT applications. Ansys received awards in the following categories:
+TSMC's OIP Partner of the Year award for Joint Development of 2nm and N3P Design Infrastructure recognizes that Ansys power integrity and reliability solutions remain on the forefront of silicon process enablement and voltage drop signoff.
+The OIP Partner of the Year award for Joint Development of 3Dblox Design Prototyping Solution follows the delivery of comprehensive support by Ansys RedHawk-SC™, Ansys RedHawk-SC Electrothermal™, and Ansys Totem™ for TSMC's 3DBlox language standard for easy interchange of 3D-IC design data.
+Both the OIP Partner Collaboration award and the Joint Development of Millimeter-Wave Design Solutions award reflect the two tiers of collaborative effort with OIP partners to jointly develop four reference flows for radio-frequency (RF) design enablement with Ansys RaptorX™, Ansys Exalto™, Ansys VeloceRF™, and Ansys Totem™ across multiple TSMC process technologies.
+"We congratulate Ansys for winning these four 2023 TSMC OIP Partner of the Year awards," said Dan Kochpatcharin, head of the design infrastructure management division at TSMC. "Our continuous collaboration with our design ecosystem partners keeps us at the forefront of design enablement, while giving our customers access to state-of-the-art solutions for power, performance, area, and thermal reliability benefits to accelerate the innovation for their differentiated products built with TSMC's advanced process and 3DFabric technologies."
+Ansys provides a broad range of multiphysics analysis tools that have become increasingly central for advanced semiconductor manufacturing. Traditional signoff analyses, like voltage drop and electromigration, become more acute at 2nm and 3nm as transistor architectures grow more complex, design sizes grow larger, and ultra-low supply voltages lead to vanishing safety margins.
+"TSMC is a leading technology innovator in the semiconductor industry and working closely with TSMC has been an essential component in the success of our multiphysics signoff technology products," said John Lee, vice president and general manager of Electronics, Semiconductor, and Optics Business Unit at Ansys. "Thanks to this close collaboration, our joint customers are able to use Ansys tools with confidence on the most challenging and high-frequency and multi-die design projects in the industry."
+/ About Ansys
+Our Mission: Powering Innovation that Drives Human Advancement™
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–T
+/ Contacts
+
+Media         
+Mary Kate Joyce  
+
+724.820.4368 
+
+marykate.joyce@ansys.com  
+
+
+ Investors       
+Kelsey DeBriyn 
+
+724.820.3927 
+
+kelsey.debriyn@ansys.com  
+ 
+View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-receives-four-tsmc-2023-oip-partner-of-the-year-awards-for-joint-development-of-leading-multiphysics-technology-and-design-solutions-301961787.html
+SOURCE Ansys

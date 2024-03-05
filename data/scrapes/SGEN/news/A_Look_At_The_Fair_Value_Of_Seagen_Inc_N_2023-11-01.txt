@@ -1,0 +1,73 @@
+url:https://finance.yahoo.com/news/look-fair-value-seagen-inc-183619781.html
+title:A_Look_At_The_Fair_Value_Of_Seagen_Inc_NASDAQSGEN
+The projected fair value for Seagen is US$202 based on 2 Stage Free Cash Flow to Equity
+Seagen's US$215 share price indicates it is trading at similar levels as its fair value estimate
+Our fair value estimate is 11% lower than Seagen's analyst price target of US$225
+Today we will run through one way of estimating the intrinsic value of Seagen Inc. (NASDAQ:SGEN) by taking the expected future cash flows and discounting them to today's value. This will be done using the Discounted Cash Flow (DCF) model. It may sound complicated, but actually it is quite simple!
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.
+ See our latest analysis for Seagen 
+We are going to use a two-stage DCF model, which, as the name states, takes into account two stages of growth. The first stage is generally a higher growth period which levels off heading towards the terminal value, captured in the second 'steady growth' period. To begin with, we have to get estimates of the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+Generally we assume that a dollar today is more valuable than a dollar in the future, and so the sum of these future cash flows is then discounted to today's value:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$32.0m
+US$421.1m
+US$655.0m
+US$977.0m
+US$1.23b
+US$1.46b
+US$1.67b
+US$1.84b
+US$1.99b
+US$2.11b
+Growth Rate Estimate Source
+Analyst x2
+Analyst x3
+Analyst x1
+Analyst x1
+Est @ 26.07%
+Est @ 18.90%
+Est @ 13.87%
+Est @ 10.36%
+Est @ 7.89%
+Est @ 6.17%
+ Present Value ($, Millions) Discounted @ 6.2% 
+US$30.1
+US$374
+US$548
+US$770
+US$914
+US$1.0k
+US$1.1k
+US$1.1k
+US$1.2k
+US$1.2k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$8.2b
+After calculating the present value of future cash flows in the initial 10-year period, we need to calculate the Terminal Value, which accounts for all future cash flows beyond the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 6.2%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$2.1b× (1 + 2.2%) ÷ (6.2%– 2.2%) = US$54b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$54b÷ ( 1 + 6.2%)10= US$30b
+The total value is the sum of cash flows for the next ten years plus the discounted terminal value, which results in the Total Equity Value, which in this case is US$38b. The last step is to then divide the equity value by the number of shares outstanding. Relative to the current share price of US$215, the company appears around fair value at the time of writing. The assumptions in any calculation have a big impact on the valuation, so it is better to view this as a rough estimate, not precise down to the last cent.
+The calculation above is very dependent on two assumptions. The first is the discount rate and the other is the cash flows. Part of investing is coming up with your own evaluation of a company's future performance, so try the calculation yourself and check your own assumptions. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Seagen as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 6.2%, which is based on a levered beta of 0.800. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Currently debt free.
+Weakness
+Expensive based on P/S ratio and estimated fair value.
+Opportunity
+Forecast to reduce losses next year.
+Threat
+Has less than 3 years of cash runway based on current free cash flow.
+Valuation is only one side of the coin in terms of building your investment thesis, and it ideally won't be the sole piece of analysis you scrutinize for a company. It's not possible to obtain a foolproof valuation with a DCF model. Preferably you'd apply different cases and assumptions and see how they would impact the company's valuation. If a company grows at a different rate, or if its cost of equity or risk free rate changes sharply, the output can look very different. For Seagen, we've compiled three important aspects you should further examine:
+Financial Health: Does SGEN have a healthy balance sheet? Take a look at our free balance sheet analysis with six simple checks on key factors like leverage and risk.
+Future Earnings: How does SGEN's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. The Simply Wall St app conducts a discounted cash flow valuation for every stock on the NASDAQGS every day. If you want to find the calculation for other stocks just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

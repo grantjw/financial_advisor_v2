@@ -1,0 +1,69 @@
+url:https://finance.yahoo.com/news/20-least-productive-states-us-231402920.html
+title:20_Least_Productive_States_in_the_US
+In this article, we will be navigating through the US productivity scenario while covering the 20 least productive states in the US. If you wish to skip our detailed analysis, you can move directly to the 5 Least Productive States in the US.
+The US economy has been majorly driven by its labor productivity growth. High productivity growth in the country has also boosted real incomes. However, the country has not been experiencing the same productivity boosts as it experienced earlier. On February 16, McKinsey reported that labor productivity in the US has grown at just an average rate of 1.4% since 2005. The labor participation rate has also declined making the US operate well below its long-term productivity average.
+However, chances of a productivity comeback continue to exist. Replicating the historical productivity growth as witnessed before 2005 can add $10 trillion to the US GDP and an additional income gain over the next decade.
+The trend of the US states converging in productivity has shifted over time as some states have moved far ahead in their productivity journey. California, Massachusetts, New York, and Washington are some of the most productive states in this regard. On the opposite end of the productivity spectrum are the states with below-average productivity and slower-than-average growth. The lagging states constitute a significant portion since they account for 44% of the total employment and 37% of the real GDP of the nation.
+A major factor halting productivity in states is an insufficient supply of labor which deprives firms of the skilled talent they require. This talent serves as a prerequisite for productivity growth. Labor participation also affects state productivity. Many Americans have been discouraged from being a part of the workforce due to either an inability to secure opportunities that match their skills or simply a lack of required skills. You can take a look at some of the least developed states in the US.
+The productivity statistics are disparate among the US states. While some states are increasingly falling behind, others lead their ways with substantial economic progress. The most productive states in the country have maintained an economic standing which has led to multinationals choosing them as attractive destinations. This relationship is two-way since many states offering skilled talent and ample resources drive the growth of highly productive firms. Some of these firms include Intel Corporation (NASDAQ:INTC), Amazon.com, Inc. (NASDAQ:AMZN), and International Business Machines Corporation (NYSE:IBM) headquartered in productive US states such as California, Washington, and New York respectively. Let's take a look at some of the recent developments from these companies.
+Intel Corporation (NASDAQ:INTC) has been striving to restore its position as the best chip manufacturer. On September 19, Reuters reported its new chip is capable of running a generative AI chatbot on a laptop without sending sensitive data off the device. At a recent software developer conference in Silicon Valley, the company demonstrated the innovation. This chip has incorporated new AI data-crunching features and will be launched in December. Intel Corporation (NASDAQ:INTC) is also working on a new supercomputer that would be used by Stability AI, which is a startup that makes image-generating software.
+Simultaneously, Washington hosts the e-commerce giant, Amazon.com, Inc. (NASDAQ:AMZN). Amazon's rapid growth transformed Seattle's South Lake Union district thereby contributing to an economic boom in the region. The company invests in the local community to drive this economic progress. On November 6, Amazon.com, Inc. (NASDAQ:AMZN) reported its partnership with the Gary Sinise Foundation (GSF) to give $150,000 to the Seattle Fire Department to support Seattle first responders on the front lines. Earlier in September, the firm announced that it would be creating more than 250,000 full-time, part-time, and seasonal fulfillment center and transportation roles for the holiday season, of which 7,000 new job opportunities will be in Washington.
+International Business Machines Corporation (NYSE:IBM) is another leading American tech company, headquartered in New York. At the beginning of October, the company’s CEO met President Biden to discuss the US economy and appreciated the state’s efforts to create voluntary guidelines for deploying artificial intelligence to boost productivity in the economy. In this regard, the company continues to update its AI portfolio. On October 31, International Business Machines Corporation (NYSE:IBM) introduced its new IBM Storage Scale System 6000 which is a cloud-scale global data platform manufactured to meet AI workload demands. The platform has the ability to store structured and semi-structured data that is generated every day and will be a beneficial addition to today's transformative AI technology era.
+Now that we have reviewed the state of productivity across the US, we can move to the 20 least productive states in the country.
+20 Least Productive States in the US
+Our Methodology:
+In order to compile a list of the 20 least productive states in the US, we started our research by choosing appropriate metrics to represent state-level productivity. The primary metric we selected was labor productivity. The rationale behind our primary metric was that labor productivity is a significant indicator of long-term economic growth. The labor productivity index was sourced from the US Bureau of Labor Statistics (BLS). Hence, states that have the least labor productivity among all other states qualify for our list. The data available for this metric was from 2022.
+Furthermore, we selected the per capita real GDP in every state as our secondary metric. Since this metric is the economic output in a state per person, it represents the economic performance of a US state. Hence, we used this measure to back our research up. This measure was sourced from the Institute for Policy & Social Research at the University of Kansas. The per capita real GDP data was available from 2022. Therefore, a lower per capita GDP in a state represents less productivity when compared to other states.
+Finally, we ranked the 20 least productive states in the US on a priority basis, in order of their labor productivity and per capita real GDP, as of 2022.
+Labor Productivity as of 2022: 107.72
+Per Capita Real GDP as of 2022: $78,455
+The economy of Texas is subject to several challenges such as a decline in the manufacturing sector activity where new orders declined and led to some layoffs in 2022. Job growth was also slow during 2022. Texas is still recovering the detrimental effects of the pandemic such as supply chain issues and labor shortages. All of these conditions rank the state as one of the least productive states in the US.
+Labor Productivity as of 2022: 107.46
+Per Capita Real GDP as of 2022: $59,837
+In 2022, Oklahoma’s service sector experienced a shortage of workers despite offering raised wages. The state has also been vulnerable to poverty which has driven down its economic performance. The median household income is also low. Hence, Oklahoma is one of the 20 least productive states in the US.
+Labor Productivity as of 2022: 107.36
+Per Capita Real GDP as of 2022: $68,238
+North Carolina makes it to the 20 least productive states in the US. The state’s farming industry is a significant part of its economy. It experienced high material costs, lower production, and a lack of labor workers which affected the overall state economy.
+Labor Productivity as of 2022: 107.04
+Per Capita Real GDP as of 2022: $56,010
+South Carolina is not as productive as other US states since the state had a relatively lower real GDP per capita in 2022. The state also relies on many low-wage jobs which end up halting the state's productivity. In addition to inadequate income opportunities, poverty in the state further reduces economic development.
+Labor Productivity as of 2022: 106.79
+Per Capita Real GDP as of 2022: $61,859
+Michigan also experiences low productivity among other states in the US. The state’s economy lags behind other progressive US states due to relatively low average private sector worker wage and low labor participation. A core focus on manufacturing has also deviated focus from placemaking and investing in public education which could boost the state economy.
+Labor Productivity as of 2022: 106.48
+Per Capita Real GDP as of 2022: $80,484
+Lack of a qualified talent pool slows down productivity in New Jersey. The economic prosperity across New Jersey's social groups is also disparate since Blacks and Hispanics continue to have lower access to quality jobs. The labor force participation rate for the state’s working-age population has also declined over the past decade making New Jersey one of the least productive US states.
+Labor Productivity as of 2022: 106.15
+Per Capita Real GDP as of 2022: $53,848
+West Virginia ranks as one of the 20 least productive states in the US. The labor force participation is low in the state which works as an obstacle against the state’s economic progress. The state largely depends on its energy sector. Factors including volatile energy demand, shortage of key manufacturing equipment, and congestion at seaports have resulted in a fluctuation in export shipments from the state which reduced its productivity.
+Labor Productivity as of 2022: 105.93      
+Per Capita Real GDP as of 2022: $54,750
+Alabama is another least productive state in the United States. The state’s labor productivity is one of the lowest in the country. Alabama faces a labor crisis since it lags behind the majority of the US states due to its low labor participation rate.
+Labor Productivity as of 2022: 105.89
+Per Capita Real GDP as of 2022: $57,900
+The 20 least productive states in the US include Montana as well. The state’s labor market is tight due to a long-run decline in the state’s labor force participation rate. Since the population in the state has aged, a significant portion of the population has left the workforce. Montana’s per capita income also falls below the national average.
+Labor Productivity as of 2022: 105.87
+Per Capita Real GDP as of 2022: $57,688
+Kentucky is one of the least productive states in the US. This is because the state ranks low on several measures including the share of jobs in high-tech industries, economic health, and innovation potential. The proportion of the population in poverty is also high in Kentucky. Furthermore, the state employers also experience a labor shortage which drives productivity down.
+Labor Productivity as of 2022: 105.70
+Per Capita Real GDP as of 2022: $54,248
+The median household income in Arkansas was lower than the national average in 2022. In 2022, the state recorded a per capita real GDP of $54,248 which is also low. Hence, Arkansas is one of the 20 least productive states in the US.
+Labor Productivity as of 2022: 105.05
+Per Capita Real GDP as of 2022: $63,117
+Missouri ranks as one of the least productive US states since the labor productivity is low in the state. The output per worker is also low in Missouri which further reduces state productivity.
+Labor Productivity as of 2022: 103.46
+Per Capita Real GDP as of 2022: $66,698
+Indiana is another state that ranks low in terms of productivity among other US states. The state’s manufacturing sector drives its economy but it is vulnerable to inflation and supply chain disruption issues. The labor market is also tight which reduces the overall state productivity.
+Labor Productivity as of 2022: 103.00
+Per Capita Real GDP as of 2022: $65,283
+Rhode Island experiences low unemployment but it is subject to a labor shortage, especially in industries like hospitality where workforce levels have not completely recovered since the pandemic’s outbreak. This leads to a continued slowing economic growth in Rhode Island which makes it one of the 20 least productive states in the US.
+Labor Productivity as of 2022: 99.49            
+Per Capita Real GDP as of 2022: $81,586
+Wyoming classifies as one of the least productive states in the US. Wyoming’s aging population has led to a reduction in the workforce which is available to employers in the state. The mining, government, and information industries are still lagging while recovering from the pandemic which lowers the overall state productivity.
+Click to continue reading and see 5 Least Productive States in the US.
+Suggested articles:
+30 Most Interesting Cities in America
+12 Stocks that Could Skyrocket According to Investment Newsletters
+14 Best Cyclical Stocks To Invest In
+Disclosure: None. 20 Least Productive States in the US is originally published on Insider Monkey.
+Related Quotes

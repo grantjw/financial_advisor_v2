@@ -1,0 +1,24 @@
+url:https://finance.yahoo.com/news/splunk-cut-workforce-7-cisco-124354870.html
+title:Splunk_to_Cut_7_of_Staff_After_Cisco_Acquisition_Announcement
+(Bloomberg) -- Splunk Inc. is cutting about 7% of its global workforce, citing an uncertain economic environment ahead of a planned acquisition by Cisco Systems Inc.
+Most Read from Bloomberg
+Amazon’s Jeff Bezos Announces Move to Miami From Seattle
+Sam Bankman-Fried Convicted of Fraud in Stunning FTX Crash
+Hedge Fund Executive’s Sudden Death Exposes a Firm Deep in Trouble
+Israel’s Fight With Iran Proxies in Syria Poisons Russia Ties
+Apple Warns of Sluggish Holiday Quarter After China Slowdown
+“The overall market has retracted and we expect the macro environment will continue to be unpredictable for the foreseeable future,” Chief Executive Officer Gary Steele wrote in a message to employees Wednesday.
+Steele said the layoffs were not related to the recently announced deal with Cisco. The networking giant agreed to buy Splunk for $28 billion in September as it bets on software for growth.
+The cuts “are the continuation of the important initiatives we’ve undertaken across Splunk for more than a year to align our resources and operating structure,” Steele wrote.
+The job reductions would impact roughly 560 employees, based on a January headcount of 8,000 which Splunk disclosed in a May filing. Most of those will affect staff in the US, the San Francisco-based company said.
+The downsizing effort will mean about $42 million in charges, the company said. The cuts and associated costs should be completed by April 30.
+Splunk is known for data observability services, which allow companies to monitor internal systems for network health, cybersecurity risks and other insights. It competes with companies like Datadog Inc. and Dynatrace Inc. Cisco has said it expects to compete the acquisition within 9 months to a year.
+Steele’s comments about market contraction “raise questions about when demand may recover and dims hopes for near-term stabilization in information-technology spending,” Bloomberg Intelligence analyst Sunil Rajgopal wrote in a note.
+(Updates with analyst comment in final paragraph.)
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+World’s Safest Market Becomes a Magnet for Big Investors
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+Foxconn Makes Your iPhone. Now It Wants to Make Your Electric Car
+©2023 Bloomberg L.P.

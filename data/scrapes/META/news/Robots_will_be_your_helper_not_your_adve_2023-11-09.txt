@@ -1,0 +1,34 @@
+url:https://finance.yahoo.com/news/robots-will-be-your-helper-not-your-adversary-says-robotics-firm-ceo-212151311.html
+title:Robots_will_be_your_helper_not_your_adversary_says_robotics_firm_CEO
+Robots, in our collective imagination, are objects of fascination and fear. While our inner 5-year-olds marvel at the thought of Transformers or C-3PO in real life, the adult side of us fret over concerns about how robots might affect — or even replace — human jobs.
+Make no mistake about it — robots will take on jobs, but not in the way you most fear, said Boston Dynamics CEO Robert Playter at Yahoo Finance's Invest conference. Boston Dynamics, founded in 1992, is a leading robotics design and engineering company that counts Meta (META), Nestle Purina, Anheuser-Busch (BUD), and DHL Express among its clients. Playter said that the company's industrial robots will conduct tasks that humans simply don't want, or aren't well suited to.
+"The jobs this robot is performing are so monotonous that people don't excel at them," he said. "Would you want the job where you walk through the factory with a clipboard, recording temperatures, pressures, and gauges repetitively every day, multiple times a day?"
+This is the sort of role most people would rather avoid or might end up doing incorrectly out of boredom, making it a perfect job for robots, Playter added.
+One of Boston Dynamics' most well-known robots, Spot, does this and other jobs like it. The four-legged robot dog — famous for the fluidity of its movement — is being deployed at-scale in industrial contexts, such as factory inspection at Nestle Purina.
+Other applications for Spot include situations that are too dangerous or unsafe for humans.
+"We've had Spot at the Fukushima nuclear power plants, and it's been to Chernobyl," said Playter. "For the police, if they have to serve a warrant to a murder suspect, you don't want the cop opening the door. That's a very dangerous environment. So, having a robot mediate that first contact with a potential suspect is actually going to be safer for folks."
+Developing robots is a long, expensive process — it took at least $100 million to create Spot. There's also a gulf between having a functional robot and a scalable use case. A robot may perform reliably, but it has to fill a real need that drives widespread adoption, such as cost or efficiency savings.
+"We are building a new industry here, and you have to cross the chasm with a high-value use case that is scalable and is going to pay for the development of these machines," said Playter.
+So, if you're waiting for that robot maid in your home, we're still about 10 to 20 years off, said Playter. That's the key, unavoidable reality in the robotics business — you can't build Spot the way you would a car. For the foreseeable future, this is a capital-intensive, time-intensive, and incredibly specialized process.
+"You have to iterate on the hardware, there is software, and the first prototype is not going to be reliable enough, so you won't be able to deliver it," Playter told Yahoo Finance. "There are a bunch of little companies out there that claim they're going to launch a humanoid in two years, but I think they're just blowing smoke."
+Tesla (TSLA) CEO Elon Musk — also the owner of X, formerly Twitter — has been especially bullish about robotics, unveiling a series of humanoid robots in 2022 and doubling down this year.
+"I think he's been watching too many science fiction movies, and I believe the fear-mongering is a bit overblown," Playter referred to Musk's doomsday prediction of robots wiping out human jobs. But the billionaire should be taken seriously, Playter added. He has the built-in advantage of possessing the manufacturing power, the software expertise, the economy of scale, and the financial wherewithal to fund the efforts.
+But Boston Dynamics is driving in a different direction than the famous carmaker. "On the other hand, he is saying things that don't make sense to me, like intentionally making the robots slow and weak for safety," said Playter. "You want to create robots that are strong and powerful because that's the only way they will be useful."
+Nevertheless, the AI boom could move the robotics industry forward. Boston Dynamics is currently working on integrating Spot with Open AI's ChatGPT.
+"AI is the brain, the robot is the body, and together, I think we're going to build an entirely new industry that's basically going to change business," he said.
+See the latest coverage from Yahoo Finance's Invest event: 
+Meredith Whitney: Housing prices are due for a fall starting in 2024
+'Democracy is on the line': Former CNN boss on 2024 election
+Former CNN boss Jeff Zucker: 'Cable is still powerful'
+Bob Iger 'has his hands full' amid stock price decline, activist fight: Ex-Disney exec
+Anthony Scaramucci on clawing back FTX's 30% stake in his firm
+Consumers will pay up for new ESPN streaming service, former Disney exec says
+Cava aims to forge a new path in fast casual, says CEO
+Marriott CEO: We remain committed to the Middle East
+Consumers 'starting to cut back' on discretionary spending, Klarna CEO says
+What Americans get wrong about the Biden economy
+3 warning signs for Biden: Yahoo Finance-Ipsos poll
+Allie Garfinkle is a Senior Tech Reporter at Yahoo Finance. Follow her on X, formerly Twitter, at @agarfinks and on LinkedIn.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance
+Related Quotes

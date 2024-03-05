@@ -1,0 +1,527 @@
+url:https://finance.yahoo.com/news/first-solar-inc-announces-third-200200076.html
+title:First_Solar_Inc_Announces_Third_Quarter_2023_Financial_Results
+Net sales of $801 million
+Net income per diluted share of $2.50
+Net cash balance of $1.3 billion
+Maintain full-year 2023 revenue guidance and raise the mid-point of EPS guidance from $7.50 to $7.60
+YTD net bookings of 27.8 GW; 6.8 GW since second quarter earnings call with an average selling price of $0.30 per watt, excluding India
+Expected sales backlog of 81.8 GW
+TEMPE, Ariz., October 31, 2023--(BUSINESS WIRE)--First Solar, Inc. (Nasdaq: FSLR) (the "Company") today announced financial results for the third quarter ended September 30, 2023.
+Net sales for the third quarter were $801 million, a decrease of $10 million from the prior quarter. The decrease was primarily driven by a reduction in volume of modules sold.
+The Company reported third quarter net income per diluted share of $2.50, compared to net income per diluted share of $1.59 in the second quarter of 2023.
+Cash, cash equivalents, restricted cash, restricted cash equivalents, and marketable securities, less debt at the end of the third quarter, decreased to $1.3 billion from $1.5 billion at the end of the prior quarter. The decrease was primarily a result of capital expenditures related to manufacturing capacity expansions in Alabama, India, and Ohio, offset by operating cash flows and a final drawdown under our India financing facility.
+"Since our last earnings call, we have made steady progress, establishing the foundations for our long-term growth journey, including investments in manufacturing and the infrastructure needed to rapidly evolve and scale our technology," said Mark Widmar, CEO of First Solar. "Our growth is underpinned by our points of differentiation and solid market fundamentals, including continued strong demand for our products, proven manufacturing excellence, a uniquely advantaged technology platform, and, crucially, a balanced business model focused on delivering value to our customers and our shareholders."
+Our 2023 guidance has been updated as follows:
+Prior
+Current
+Net Sales
+$3.4B to $3.6B
+Unchanged
+Gross Margin (1)
+$1.2B to $1.3B
+Unchanged
+Operating Expenses (2)
+$450M to $475M
+$440M to $470M
+Operating Income (3)
+$745M to $870M
+$770M to $870M
+Earnings per Diluted Share
+$7.00 to $8.00
+$7.20 to $8.00
+Net Cash Balance (4)
+$1.5B to $1.8B
+Unchanged
+Capital Expenditures
+$1.7B to $1.9B
+Unchanged
+Volume Sold
+11.8GW to 12.3GW
+Unchanged
+——————————
+(1)
+Includes $110 million to $120 million of ramp and underutilization costs and $670 million to $700 million of Section 45X tax benefits
+(2)
+Includes $75 million to $85 million of production start-up expense and $36 million of litigation losses
+(3)
+Includes $185 million to $205 million of production start-up expense and ramp and underutilization costs, $36 million of litigation losses, and $670 million to $700 million of Section 45X tax benefits
+(4)
+Defined as cash, cash equivalents, restricted cash, restricted cash equivalents, and marketable securities, less expected debt at the end of 2023
+The guidance figures presented above are forward-looking statements that are subject to a variety of assumptions and estimates, including with respect to certain factors related to the Inflation Reduction Act of 2022 (the "IRA"). Among other things, such factors include (i) the total advanced manufacturing production credit available to us under Section 45X of the Internal Revenue Code and (ii) the timing and ability to monetize such credit. Investors are encouraged to listen to the conference call and to review the accompanying materials, which contain more information about First Solar’s third quarter 2023 financial results, 2023 guidance, and financial outlook.
+Conference Call Details
+First Solar has scheduled a conference call for today, October 31, 2023 at 4:30 p.m. ET, to discuss this announcement. A live webcast of this conference call and accompanying materials are available at investor.firstsolar.com. An audio replay of the conference call will be available through Thursday, November 30, 2023, and can be accessed by dialing +1 (800) 770-2030 if you are calling from within the United States or +1 (647) 362-9199 if you are calling from outside the United States and entering the replay passcode 99681. A replay of the webcast will also be available on the Investors section of the Company’s website approximately two hours after the conclusion of the call and remain available for 30 days.
+About First Solar, Inc.
+First Solar is a leading American solar technology company and global provider of responsibly-produced eco-efficient solar modules advancing the fight against climate change. Developed at research and development labs in California and Ohio, the Company’s advanced thin film photovoltaic ("PV") modules represent the next generation of solar technologies, providing a competitive, high-performance, lower-carbon alternative to conventional crystalline silicon PV panels. From raw material sourcing and manufacturing through end-of-life module recycling, First Solar’s approach to technology embodies sustainability and a responsibility towards people and the planet. For more information, please visit www.firstsolar.com.
+For First Solar Investors
+This release contains forward-looking statements which are made pursuant to safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements in this release, other than statements of historical fact, are forward-looking statements. These forward-looking statements include, but are not limited to, statements concerning: demand for our technology; increased research and development investment; new domestic and international capacity coming online; production and delivery of our new Series 7 modules; our financial guidance for 2023, including future financial results, net sales, gross margin, operating expenses, operating income, earnings per diluted share, net cash balance, capital expenditures, volume sold, shipments, bookings, products and our business and financial objectives for 2023; the availability of benefits under certain production linked incentive programs, and the impact of the IRA including the total advanced manufacturing production credit available to us under Section 45X of the Internal Revenue Code. These forward-looking statements are often characterized by the use of words such as "estimate," "expect," "anticipate," "project," "plan," "intend," "seek," "believe," "forecast," "foresee," "likely," "may," "should," "goal," "target," "might," "will," "could," "predict," "continue," "contingent" and the negative or plural of these words and other comparable terminology. Forward-looking statements are only predictions based on our current expectations and our projections about future events and therefore speak only as of the date of this release. You should not place undue reliance on these forward-looking statements. We undertake no obligation to update any of these forward-looking statements for any reason, whether as a result of new information, future developments or otherwise. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from those expressed or implied by our forward-looking statements. These factors include, but are not limited to: structural imbalances in global supply and demand for PV solar modules; our competitive position and other key competitive factors; the market for renewable energy, including solar energy; the reduction, elimination, expiration or introduction of government subsidies, policies, and support programs for solar energy projects; the impact of public policies, such as tariffs or other trade remedies imposed on solar cells and modules; the passage of legislation intended to encourage renewable energy investments through tax credits, such as the IRA; the impact of the IRA on our expected results of operations in future periods, which may be affected by technical guidance, regulations, subsequent amendments or interpretations of the law; interest rate fluctuations and both our and our customers’ ability to secure financing; changes in the exchange rates between the functional currencies of our subsidiaries and other currencies in which assets and liabilities are denominated; our ability to execute on our long-term strategic plans; the loss of any of our large customers, or the ability of our customers and counterparties to perform under their contracts with us; our ability to execute on our solar module technology and cost reduction roadmaps; our ability to improve the wattage of our solar modules; our ability to incorporate technology improvements into our manufacturing process, including the production of bifacial solar modules and the implementation of our Copper Replacement ("CuRe") program; the satisfaction of conditions precedent in our sales agreements; our ability to attract new customers and to develop and maintain existing customer and supplier relationships; general economic and business conditions, including those influenced by U.S., international, and geopolitical events; environmental responsibility, including with respect to cadmium telluride ("CdTe") and other semiconductor materials; claims under our limited warranty obligations; changes in, or the failure to comply with, government regulations and environmental, health, and safety requirements; effects arising from and results of pending litigation; future collection and recycling costs for solar modules covered by our module collection and recycling program; supply chain disruptions, including demurrage and detention charges; our ability to protect our intellectual property; our ability to prevent and/or minimize the impact of cyber-attacks or other breaches of our information systems; our continued investment in research and development; the supply and price of components and raw materials, including CdTe; our ability to construct production facilities to support product lines, including Series 6 and Series 7 module manufacturing; our ability to avoid manufacturing interruptions, including during the ramp of our Series 7 modules manufacturing facilities; our ability to attract and retain key executive officers and associates; the severity and duration of public health threats (including pandemics such as COVID-19 and similarly infectious diseases), including the potential impact on our business, financial condition, and results of operations; and the matters discussed under the captions "Risk Factors" and "Management’s Discussion and Analysis of Financial Condition and Results of Operations" of our most recent Annual Report on Form 10-K and our subsequently filed Quarterly Reports on Form 10-Q, as supplemented by our other filings with the Securities and Exchange Commission.
+FIRST SOLAR, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except share data)
+(Unaudited)
+September 30, 2023
+December 31, 2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+1,492,958
+$
+1,481,269
+Marketable securities
+329,516
+1,096,712
+Accounts receivable trade, net
+753,520
+324,337
+Accounts receivable unbilled
+33,603
+30,654
+Inventories
+882,787
+636,312
+Other current assets
+331,618
+222,137
+Total current assets
+3,824,002
+3,791,421
+Property, plant and equipment, net
+4,072,857
+3,536,902
+Deferred tax assets, net
+133,407
+78,680
+Restricted marketable securities
+183,700
+182,070
+Government grants receivable
+582,202
+—
+Goodwill
+28,473
+14,462
+Intangible assets, net
+66,379
+31,106
+Inventories
+261,359
+260,395
+Other assets
+430,266
+356,192
+Total assets
+$
+9,582,645
+$
+8,251,228
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+$
+110,795
+$
+341,409
+Income taxes payable
+33,583
+29,397
+Accrued expenses
+600,421
+382,782
+Deferred revenue
+372,167
+263,215
+Other current liabilities
+46,730
+21,245
+Total current liabilities
+1,199,105
+1,038,048
+Accrued solar module collection and recycling liability
+130,131
+128,114
+Long-term debt
+464,040
+184,349
+Deferred revenue
+1,349,602
+944,725
+Other liabilities
+137,391
+119,937
+Total liabilities
+3,280,269
+2,415,173
+Commitments and contingencies
+Stockholders’ equity:
+Common stock, $0.001 par value per share; 500,000,000 shares authorized; 106,844,040 and 106,609,094 shares issued and outstanding at September 30, 2023 and December 31, 2022, respectively
+107
+107
+Additional paid-in capital
+2,879,412
+2,887,476
+Accumulated earnings
+3,621,827
+3,140,289
+Accumulated other comprehensive loss
+(198,970
+)
+(191,817
+)
+Total stockholders’ equity
+6,302,376
+5,836,055
+Total liabilities and stockholders’ equity
+$
+9,582,645
+$
+8,251,228
+FIRST SOLAR, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+(Unaudited)
+Three Months Ended
+Nine Months Ended
+September 30, 2023
+June 30, 2023
+September 30, 2022
+September 30, 2023
+September 30, 2022
+Net sales
+$
+801,090
+$
+810,673
+$
+628,933
+$
+2,160,049
+$
+1,616,928
+Cost of sales
+424,915
+500,253
+607,951
+1,361,403
+1,607,683
+Gross profit
+376,175
+310,420
+20,982
+798,646
+9,245
+Operating expenses:
+Selling, general and administrative
+50,172
+46,328
+46,368
+140,528
+121,990
+Research and development
+41,190
+36,745
+29,183
+108,445
+81,520
+Production start-up
+12,059
+23,377
+19,768
+54,930
+40,337
+Litigation loss
+—
+35,590
+—
+35,590
+—
+Total operating expenses
+103,421
+142,040
+95,319
+339,493
+243,847
+Gain on sales of businesses, net
+211
+135
+5,984
+329
+253,272
+Operating income (loss)
+272,965
+168,515
+(68,353
+)
+459,482
+18,670
+Foreign currency loss, net
+(987
+)
+(4,652
+)
+(4,859
+)
+(11,586
+)
+(12,041
+)
+Interest income
+23,254
+25,026
+9,749
+74,102
+14,954
+Interest expense, net
+(3,734
+)
+(1,415
+)
+(2,991
+)
+(5,897
+)
+(9,092
+)
+Other (expense) income, net
+(1,033
+)
+997
+4,774
+(1,492
+)
+2,679
+Income (loss) before taxes
+290,465
+188,471
+(61,680
+)
+514,609
+15,170
+Income tax (expense) benefit
+(22,067
+)
+(17,892
+)
+12,512
+(33,071
+)
+(51,788
+)
+Net income (loss)
+$
+268,398
+$
+170,579
+$
+(49,168
+)
+$
+481,538
+$
+(36,618
+)
+Net income (loss) per share:
+Basic
+$
+2.51
+$
+1.60
+$
+(0.46
+)
+$
+4.51
+$
+(0.34
+)
+Diluted
+$
+2.50
+$
+1.59
+$
+(0.46
+)
+$
+4.49
+$
+(0.34
+)
+Weighted-average number of shares used in per share calculations:
+Basic
+106,834
+106,827
+106,596
+106,795
+106,532
+Diluted
+107,498
+107,278
+106,596
+107,326
+106,532
+FIRST SOLAR, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+(Unaudited)
+Nine Months EndedSeptember 30,
+2023
+2022
+Cash flows from operating activities:
+Net income (loss)
+$
+481,538
+$
+(36,618
+)
+Adjustments to reconcile net income (loss) to cash provided by operating activities:
+Depreciation, amortization and accretion
+218,303
+199,183
+Impairments and net losses on disposal of long-lived assets
+304
+62,793
+Share-based compensation
+23,209
+21,121
+Deferred income taxes
+(46,053
+)
+(4,600
+)
+Gain on sales of businesses, net
+(329
+)
+(253,272
+)
+Other, net
+89
+(6,998
+)
+Changes in operating assets and liabilities:
+Accounts receivable, trade and unbilled
+(385,046
+)
+177,020
+Inventories
+(247,729
+)
+(164,205
+)
+Project assets and PV solar power systems
+8,626
+(160,300
+)
+Government grants receivable
+(429,744
+)
+—
+Other assets
+(149,635
+)
+(49,071
+)
+Income tax receivable and payable
+(16,809
+)
+40,902
+Accounts payable and accrued expenses
+121,382
+(42,809
+)
+Deferred revenue
+472,934
+293,872
+Other liabilities
+(9,889
+)
+1,136
+Net cash provided by operating activities
+41,151
+78,154
+Cash flows from investing activities:
+Purchases of property, plant and equipment
+(1,039,863
+)
+(576,704
+)
+Purchases of marketable securities
+(3,220,467
+)
+(2,278,125
+)
+Proceeds from sales and maturities of marketable securities
+3,996,439
+1,870,973
+Proceeds from sales of businesses, net of cash and restricted cash sold
+—
+363,898
+Acquisitions, net of cash acquired
+(35,739
+)
+—
+Other investing activities
+—
+(2,561
+)
+Net cash used in investing activities
+(299,630
+)
+(622,519
+)
+Cash flows from financing activities:
+Proceeds from borrowings under long-term debt, net of issuance costs
+307,214
+297,405
+Repayment of long-term debt
+—
+(75,896
+)
+Payments of tax withholdings for restricted shares
+(31,100
+)
+(12,048
+)
+Net cash provided by financing activities
+276,114
+209,461
+Effect of exchange rate changes on cash, cash equivalents, restricted cash, and restricted cash equivalents
+(855
+)
+39,866
+Net increase (decrease) in cash, cash equivalents, restricted cash, and restricted cash equivalents
+16,780
+(295,038
+)
+Cash, cash equivalents, restricted cash, and restricted cash equivalents, beginning of the period
+1,493,462
+1,455,837
+Cash, cash equivalents, restricted cash, and restricted cash equivalents, end of the period
+$
+1,510,242
+$
+1,160,799
+Supplemental disclosure of noncash investing and financing activities:
+Property, plant and equipment acquisitions funded by liabilities
+$
+185,064
+$
+163,147
+Proceeds to be received from asset-based government grants
+$
+152,458
+$
+—
+Acquisitions funded by contingent consideration
+$
+18,500
+$
+—
+Proceeds to be received from sales of businesses
+$
+208
+$
+72,689
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231031888717/en/
+Contacts
+First Solar Investors investor@firstsolar.com
+First Solar Media media@firstsolar.com

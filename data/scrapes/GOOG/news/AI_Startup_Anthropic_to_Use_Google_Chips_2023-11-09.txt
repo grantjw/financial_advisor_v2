@@ -1,0 +1,26 @@
+url:https://finance.yahoo.com/news/ai-startup-anthropic-google-chips-165000795.html
+title:AI_Startup_Anthropic_to_Use_Google_Chips_in_Expanded_Partnership
+(Bloomberg) -- Artificial intelligence startup Anthropic will be one of the first companies to use new chips from Alphabet Inc.’s Google, deepening their partnership after a recent cloud computing agreement.
+Most Read from Bloomberg
+Rockstar Plans to Announce Much Anticipated ‘Grand Theft Auto VI’
+US 30-Year Mortgage Rate Tumbles by Most in More Than a Year
+VIX Notches Its Longest Slide Since October 2015: Markets Wrap
+Virginia Democrats Fend Off Republican Sweep in Win for Abortion Rights
+Adam Neumann Remains a Billionaire Even With WeWork Bankruptcy
+Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text.
+As the race to build ever-larger AI models heats up, tech giants like Google are cultivating relationships with the startups at the cutting edge of the field. Anthropic recently agreed to spend more than $3 billion on Google’s cloud computing services over four years, according to a person with knowledge of the matter. Separately, Google has committed to invest $2 billion in the startup, Bloomberg has reported.
+Anthropic has used Google Cloud services since 2021, the year the startup was founded. As part of the new agreement, Anthropic will use more of Google Cloud’s infrastructure and security features, the companies said.
+“We’re really excited about the efficiency of the TPUs,” Anthropic Chief Executive Officer Dario Amodei said, referring to the Google chips. “Those are starting to show gains for us already.”
+Amazon.com Inc., Google’s rival in cloud services, also is an Anthropic backer. That company said in a filing that it invested $1.25 billion in the form of a convertible note, with the ability to invest $2.75 billion more in a second note.
+Amazon also has a deal with Anthropic that lets the startup use its AWS cloud services and chips. The e-commerce giant has said that Anthropic plans to run “the majority of its workloads on AWS.” Amodei emphasized to Bloomberg that Anthropic is taking a “multi-cloud” approach, meaning it won’t get exclusive with any one provider.
+Google Cloud CEO Thomas Kurian said he wasn’t bothered by Anthropic’s work with AWS.
+“Large companies always want to choose multiple clouds — it helps them use the best of each,” he said. “We are used to competing and also collaborating with other cloud providers.”
+Kurian added that he views the latest TPU chips as a selling point for Google’s cloud. In addition to Anthropic, AI startups Hugging Face and AssemblyAI are using the chips. Google also uses the technology to support its own products, such as the chatbot Bard.
+Most Read from Bloomberg Businessweek
+Elon Musk’s Brain Implant Startup Is Ready to Start Surgery
+In Uruguay, a Tax Haven With Lots of Beaches and Little Crime
+Can a Triangle-Shaped Jet Cut Fuel Consumption in Half?
+Private Equity Courts a Growing Class of Mini-Millionaires
+Top-Ranked MBA Programs Struggle to Reverse Declining Applications
+©2023 Bloomberg L.P.
+Related Quotes

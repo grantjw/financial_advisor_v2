@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/strong-computer-technology-stocks-slated-130006484.html
+title:How_to_Find_Strong_Computer_and_Technology_Stocks_Slated_for_Positive_Earnings_Surprises
+Earnings are arguably the most important single number on a company's quarterly financial report. Wall Street clearly dives into all of the other metrics and management's input, but the EPS figure helps cut through all the noise.
+The earnings figure itself is key, but a beat or miss on the bottom line can sometimes be just as, if not more, important. Therefore, investors should consider paying close attention to these earnings surprises, as a big beat can help a stock climb even higher.
+2 Stocks to Add to Your Watchlist
+The Zacks Earnings ESP is more formally known as the Expected Surprise Prediction, and it aims to grab the inside track on the latest analyst estimate revisions ahead of a company's report. The idea is relatively intuitive as a newer projection might be based on more complete information. The ESP is calculated by comparing the Most Accurate Estimate to the Zacks Consensus Estimate, with the percentage difference between the two giving us the Zacks ESP figure.
+The last thing we will do today, now that we have a grasp on the ESP and how powerful of a tool it can be, is to look at a qualifying stock. Sabre (SABR) holds a Zacks Rank #1 at the moment and its Most Accurate Estimate comes in at -$0.04 a share two days away from its upcoming earnings release on November 2, 2023.
+By taking the percentage difference between the -$0.04 Most Accurate Estimate and the -$0.07 Zacks Consensus Estimate, Sabre has an Earnings ESP of 40.74%.
+SABR is one of just a large database of Computer and Technology stocks with positive ESPs. Another solid-looking stock is Synopsys (SNPS).
+Synopsys is a Zacks Rank #1 (Strong Buy) stock, and is getting ready to report earnings on November 29, 2023. SNPS' Most Accurate Estimate sits at $3.07 a share 29 days from its next earnings release.
+For Synopsys, the percentage difference between its Most Accurate Estimate and its Zacks Consensus Estimate of $3.04 is 0.94%.
+Because both stocks hold a positive Earnings ESP, SABR and SNPS could potentially post earnings beats in their next reports.
+Find Stocks to Buy or Sell Before They're Reported
+Use the Zacks Earnings ESP Filter to turn up stocks with the highest probability of positively, or negatively, surprising to buy or sell before they're reported for profitable earnings season trading. Check it out here >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Sabre Corporation (SABR) : Free Stock Analysis Report
+Synopsys, Inc. (SNPS) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

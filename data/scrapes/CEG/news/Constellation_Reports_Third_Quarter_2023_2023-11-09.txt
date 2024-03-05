@@ -1,0 +1,478 @@
+url:https://finance.yahoo.com/news/constellation-reports-third-quarter-2023-114300959.html
+title:Constellation_Reports_Third_Quarter_2023_Results
+Earnings Release Highlights
+GAAP Net Income of $731 million and Adjusted EBITDA (non-GAAP) of nearly $1.2 billion for the third quarter of 2023
+Raising guidance range for full year 2023 Adjusted EBITDA (non-GAAP) to $3,800 million to $4,000 million
+Delivering on our commitment to shareholders:
+Expanded the nation's largest, highly reliable carbon-free nuclear fleet by acquiring a 44% stake in South Texas Project Electric Generating Station
+Repurchased $250 million of shares, returning value to shareholders and completing three quarters of our $1.0 billion share repurchase program
+Achieved major milestone in bid to build world's largest nuclear-powered hydrogen production facility with U.S. Department of Energy grant of up to $1.0 billion for MachH2 hydrogen hub
+Reached agreement with ComEd, one of the nation's largest utilities, to power its 54 metered facilities with locally produced, carbon-free nuclear energy, every hour of every day
+Earned 2023 Great Place to Work® certification based on positive ratings from our employees on their experience working at Constellation
+BALTIMORE, November 06, 2023--(BUSINESS WIRE)--Constellation Energy Corporation (Nasdaq: CEG) today reported its financial results for the third quarter of 2023.
+"Our continued strong performance this quarter is the result of pairing the nation’s largest clean energy fleet with an unmatched commercial business, allowing us to produce affordable and reliable carbon-free energy when and where American families and businesses need it," said Joe Dominguez, president and CEO of Constellation. "This combination of businesses is the fundamental strength of our strategy. It allows us to help customers like Microsoft and ComEd manage their energy costs in a volatile market, while also lowering their carbon emissions with clean energy matched to their use in every hour of every day. We continue to execute our growth strategy, closing on the South Texas Project transaction ahead of schedule and moving forward with $1.5 billion in growth spending on equipment to increase the output of our nuclear plants, wind repowering and pursuit of a nuclear-powered clean hydrogen facility as part of a multi-state hub."
+"Our generation fleet performed at peak levels during a summer of record heat, while our commercial business continued to win new business and realize higher margins," said Dan Eggers, executive vice president and chief financial officer. "Our gross margin outlook for 2023 is now $850 million higher than our expectations at the start of the year and our outlook for 2024 has increased. Based on current market conditions and the continued strength of our operations, we are raising 2023 adjusted EBITDA guidance to a $3.9 billion mid-point and narrowing the range to $3.8 billion to $4 billion."
+Third Quarter 2023
+Our GAAP Net Income for the third quarter of 2023 increased to $731 million from ($188) million GAAP Net Loss in the third quarter of 2022. Adjusted EBITDA (non-GAAP) for the third quarter of 2023 increased to $1,199 million from $592 million in the third quarter of 2022. For the reconciliations of GAAP Net Income (Loss) to Adjusted EBITDA (non-GAAP), refer to the tables beginning on page 3.
+Adjusted EBITDA (non-GAAP) in the third quarter of 2023 primarily reflects:
+Favorable market and portfolio conditions; partially offset by unfavorable labor, contracting, and materials, and decreased ZEC revenue.
+Recent Developments and Third Quarter Highlights
+Delivering on Our Capital Allocation Promises: In alignment with our capital and strategic plan, on November 1, 2023 we completed our acquisition of a 44% undivided ownership interest in the South Texas Project Nuclear Generating Station, a 2,645-megawatt, dual-unit nuclear plant located about 90 miles southwest of Houston, for $1.75 billion. We issued senior notes with net proceeds of approximately $1.4 billion which was in part used to fund the acquisition. This acquisition is complementary to and aligned strategically with our existing clean energy business operations.We’ve also continued our share repurchase program, repurchasing over 2.3 million shares for a total of $250 million in the third quarter 2023. To date, we have successfully repurchased approximately 8.5 million shares, utilizing $756 million, inclusive of taxes and transaction costs, of the $1 billion authorization.
+Clean Hydrogen Hub Awarded: We are excited to be a major participant in the MachH2 hydrogen hub recently selected for up to $1 billion by the Department of Energy. A portion of the hub funding will be used to build the world's largest nuclear-powered clean hydrogen production facility at our LaSalle Clean Energy Center in Illinois. The project will produce an estimated 33,450 tons of clean hydrogen each year and create thousands of good-paying jobs. We estimate the facility will cost approximately $900 million, with a portion of the MachH2 award offsetting the project’s cost.
+Major Utility Carbon-Free Energy Matching Deal: We signed a historic agreement with Commonwealth Edison (ComEd) to power its 54 metered facilities with locally produced carbon-free nuclear energy, every hour of every day. ComEd’s hourly carbon-free energy purchase will match its anticipated electricity use of approximately 65,000 megawatt-hours annually. This agreement follows a similar deal between Constellation and Microsoft announced in the second quarter of 2023 to power one of its Virginia data centers with nearly 100 percent carbon-free nuclear energy. Together, the two transactions are setting a new standard for how companies across the U.S. can achieve real emissions reductions.
+2023 Great Place to Work Certification: In the third quarter we were Certified™ by Great Place To Work®. The designation is based on how our employees rate their experience working at Constellation. In a survey of about 5,000 of our employees, 81% of those who responded said it is a great place to work – about 24 points higher than the average U.S. company. Great Place To Work® is acknowledged worldwide as a global benchmark for workplace culture, employee experience and the leadership behaviors proven to deliver strong market performance, employee retention and increased innovation.
+Nuclear Operations: Our nuclear fleet, including our owned output from the Salem Generating Station, produced 44,125 gigawatt-hours (GWhs) in the third quarter of 2023, compared with 43,794 GWhs in the third quarter of 2022. Excluding Salem, our nuclear plants at ownership achieved a 97.2% capacity factor for the third quarter of 2023, compared with 96.4% for the third quarter of 2022. There were 20 planned refueling outage days in the third quarter of 2023 and five in the third quarter of 2022. There were 10 non-refueling outage days in the third quarter of 2023 and 26 in the third quarter of 2022.
+Natural Gas, Oil, and Renewables Operations: The dispatch match rate for our fleet was 98.5% in the third quarter of 2023, compared with 98.7%1 in the third quarter of 2022. Renewable energy capture for our fleet was 96.6% in the third quarter of 2023, compared with 96.4%1 in the third quarter of 2022.
+________
+1Prior year dispatch match and energy capture was previously reported as 98.8% and 95.7%, respectively. The update reflects a change to include the Conowingo run-of-river hydroelectric operational performance within renewable energy capture, and remove the performance from dispatch match.
+GAAP/Adjusted EBITDA (non-GAAP) Reconciliation
+Adjusted EBITDA (non-GAAP) for the third quarter of 2023 and 2022, respectively, does not include the following items that were included in our reported GAAP Net Income (Loss):
+(in millions)
+Three Months EndedSeptember 30, 2023
+Three Months EndedSeptember 30, 2022
+GAAP Net Income (Loss) Attributable to Common Shareholders
+$
+731
+$
+(188
+)
+Income Taxes
+209
+(149
+)
+Depreciation and Amortization
+266
+262
+Interest Expense, Net
+82
+75
+Unrealized (Gain) Loss on Fair Value Adjustments
+(215
+)
+550
+Asset Impairments
+71
+—
+Plant Retirements and Divestitures
+—
+5
+Decommissioning-Related Activities
+79
+88
+Pension & OPEB Non-Service Credits
+(14
+)
+(27
+)
+Separation Costs
+18
+30
+ERP System Implementation Costs
+5
+5
+Change in Environmental Liabilities
+13
+3
+Prior Merger Commitment
+—
+(50
+)
+Noncontrolling Interests
+(46
+)
+(12
+)
+Adjusted EBITDA (non-GAAP)
+$
+1,199
+$
+592
+Webcast Information
+We will discuss third quarter 2023 earnings in a conference call scheduled for today at 10 a.m. Eastern Time. The webcast and associated materials can be accessed at https://investors.constellationenergy.com.
+About Constellation
+A Fortune 200 company headquartered in Baltimore, Constellation Energy Corporation (Nasdaq: CEG) is the nation’s largest producer of clean, carbon-free energy and a leading supplier of energy products and services to businesses, homes, community aggregations and public sector customers across the continental United States, including three fourths of Fortune 100 companies. With annual output that is nearly 90% carbon-free, our hydro, wind and solar facilities paired with the nation’s largest nuclear fleet have the generating capacity to power the equivalent of more than 16 million average homes, providing about 11% of the nation’s clean energy. We are further accelerating the nation’s transition to a carbon-free future by helping our customers reach their sustainability goals, setting our own ambitious goal of achieving 100% carbon-free generation by 2040, and by investing in promising emerging technologies to eliminate carbon emissions across all sectors of the economy. Follow Constellation on LinkedIn and Twitter.
+Non-GAAP Financial Measures
+In analyzing and planning for our business, we supplement our use of net income as determined under generally accepted accounting principles in the United States (GAAP), with Adjusted EBITDA (non-GAAP) as a performance measure. Adjusted EBITDA (non-GAAP) reflects an additional way of viewing our business that, when viewed with our GAAP results and the accompanying reconciliation to GAAP net income included above, may provide a more complete understanding of factors and trends affecting our business. Adjusted EBITDA (non-GAAP) should not be relied upon to the exclusion of GAAP financial measures and is, by definition, an incomplete understanding of our business, and must be considered in conjunction with GAAP measures. In addition, Adjusted EBITDA (non-GAAP) is neither a standardized financial measure, nor a presentation defined under GAAP and may not be comparable to other companies’ presentations or deemed more useful than the GAAP information provided elsewhere in this press release and earnings release attachments. We have provided the non-GAAP financial measure as supplemental information and in addition to the financial measures that are calculated and presented in accordance with GAAP. Adjusted EBITDA (non-GAAP) should not be deemed more useful than, a substitute for, or an alternative to the most comparable GAAP Net Income measure provided in this earnings release and attachments. A reconciliation of projected Adjusted EBITDA, which is a forward-looking non-GAAP financial measure, to the most directly comparable GAAP financial measure, is not provided because we are unable to provide such reconciliation without unreasonable effort. The inability to provide each reconciliation is due to the unpredictability of the amounts and timing of events affecting the items we exclude from the non-GAAP measure. This press release and earnings release attachments provide reconciliations of Adjusted EBITDA (non-GAAP) to the most directly comparable financial measures calculated and presented in accordance with GAAP, are posted on our website: www.ConstellationEnergy.com, and have been furnished to the Securities and Exchange Commission on Form 8-K on November 6, 2023.
+Cautionary Statements Regarding Forward-Looking Information
+This press release contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. Words such as "could," "may," "expects," "anticipates," "will," "targets," "goals," "projects," "intends," "plans," "believes," "seeks," "estimates," "predicts," and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements.
+The factors that could cause actual results to differ materially from the forward-looking statements made by Constellation Energy Corporation and Constellation Energy Generation, LLC, (Registrants) include those factors discussed herein, as well as the items discussed in (1) the Registrants' 2022 Annual Report on Form 10-K in (a) Part I, ITEM 1A. Risk Factors, (b) Part II, ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 19, Commitments and Contingencies; (2) the Registrants' Third Quarter 2023 Quarterly Report on Form 10-Q (to be filed on November 6, 2023) in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 13, Commitments and Contingencies; and (3) other factors discussed in filings with the SEC by the Registrants.
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this press release. Neither Registrant undertakes any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this press release.
+Constellation Energy Corporation
+GAAP Consolidated Statements of Operations and
+Adjusted EBITDA (non-GAAP) Reconciling Adjustments
+(unaudited)
+(in millions, except per share data)
+Three Months Ended September 30, 2023
+Three Months Ended September 30, 2022
+GAAP (a)
+Non-GAAP Adjustments
+GAAP (a)
+Non-GAAP Adjustments
+Operating revenues
+$
+6,111
+$
+(178
+)
+(b),(c)
+$
+6,051
+$
+680
+(b),(c)
+Operating expenses
+Purchased power and fuel
+3,367
+(38
+)
+(b)
+4,695
+132
+(b)
+Operating and maintenance
+1,353
+(78
+)
+(c),(d),(f),(l),(o)
+989
+191
+(c),(d),(f),(g),(l),(n)
+Depreciation and amortization
+266
+(266
+)
+(h)
+262
+(262
+)
+(h)
+Taxes other than income taxes
+148
+—
+145
+—
+Total operating expenses
+5,134
+6,091
+Loss on sales of assets and businesses
+—
+—
+(1
+)
+1
+(g)
+Operating income
+977
+(41
+)
+Other income and (deductions)
+Interest expense, net
+(82
+)
+82
+(i)
+(75
+)
+75
+(i)
+Other, net
+—
+23
+(b),(c),(e),(m)
+(196
+)
+220
+(b),(c),(e),(m)
+Total other income and (deductions)
+(82
+)
+(271
+)
+Income (loss) before income taxes
+895
+(312
+)
+Income taxes
+205
+(205
+)
+(j)
+(123
+)
+123
+(j)
+Equity in losses of unconsolidated affiliates
+—
+—
+(4
+)
+—
+Net income (loss)
+690
+(193
+)
+Net loss attributable to noncontrolling interests
+(41
+)
+46
+(k)
+(5
+)
+12
+(k)
+Net income (loss) attributable to common shareholders
+$
+731
+$
+(188
+)
+Effective tax rate
+22.9
+%
+39.4
+%
+Earnings per average common share
+Basic
+$
+2.27
+$
+(0.57
+)
+Diluted
+$
+2.26
+$
+(0.57
+)
+Average common shares outstanding
+Basic
+322
+327
+Diluted
+323
+328
+__________
+(a)
+Results reported in accordance with GAAP.
+(b)
+Adjustment for mark-to-market on economic hedges and fair value adjustments related to gas imbalances and equity investments.
+(c)
+Adjustment for all gains and losses associated with NDTs, ARO accretion, ARO remeasurement, and any earnings neutral impacts of contractual offset for Regulatory Agreement Units.
+(d)
+Adjustment for certain incremental costs related to the separation (system-related costs, third-party costs paid to advisors, consultants, lawyers, and other experts assisting in the separation), including a portion of the amounts billed to us pursuant to the TSA.
+(e)
+Adjustment for Pension and Other Postretirement Employee Benefits (OPEB) Non-Service credits.
+(f)
+Adjustment for costs related to a multi-year ERP system implementation
+(g)
+Adjustments related to plant retirements and divestitures.
+(h)
+Adjustment for depreciation and amortization expense.
+(i)
+Adjustment for interest expense.
+(j)
+Adjustment for income taxes.
+(k)
+Adjustment for elimination of the noncontrolling interest related to certain adjustments.
+(l)
+Adjustment for changes in environmental liabilities.
+(m)
+Adjustment includes amounts contractually owed to Exelon under the tax matters agreement.
+(n)
+Reversal of a charge related to a 2012 merger commitment.
+(o)
+Adjustment for an asset impairment.
+Constellation Energy Corporation
+GAAP Consolidated Statements of Operations and
+Adjusted EBITDA (non-GAAP) Reconciling Adjustments
+(unaudited)
+(in millions, except per share data)
+Nine Months Ended September 30, 2023
+Nine Months Ended September 30, 2022
+GAAP (a)
+Non-GAAPAdjustments
+GAAP (a)
+Non-GAAPAdjustments
+Operating revenues
+$
+19,122
+$
+(1,320
+)
+(b),(c)
+$
+17,107
+$
+1,896
+(b),(c)
+Operating expenses
+Purchased power and fuel
+11,983
+(1,466
+)
+(b)
+11,754
+1,263
+(b)
+Operating and maintenance
+4,263
+(260
+)
+(c),(d),(f),(l),(o),(p)
+3,466
+57
+(c),(d),(e),(f),(g),(l),(n)
+Depreciation and amortization
+808
+(808
+)
+(h)
+818
+(818
+)
+(h)
+Taxes other than income taxes
+419
+—
+415
+(2
+)
+(d)
+Total operating expenses
+17,473
+16,453
+Gain on sales of assets and businesses
+28
+(28
+)
+(g)
+13
+1
+(g)
+Operating income
+1,677
+667
+Other income and (deductions)
+Interest expense, net
+(292
+)
+292
+(i)
+(187
+)
+187
+(i)
+Other, net
+919
+(857
+)
+(b),(c),(e),(m)
+(1,169
+)
+1,213
+(b),(c),(d), (e),(g),(m)
+Total other income and (deductions)
+627
+(1,356
+)
+Income (loss) before income taxes
+2,304
+(689
+)
+Income taxes
+677
+(677
+)
+(j)
+(504
+)
+504
+(j)
+Equity in losses of unconsolidated affiliates
+(11
+)
+—
+(10
+)
+—
+Net income (loss)
+1,616
+(195
+)
+Net (loss) income attributable to noncontrolling interests
+(44
+)
+70
+(k)
+(1
+)
+37
+(k)
+Net income (loss) attributable to common shareholders
+$
+1,660
+$
+(194
+)
+Effective tax rate
+29.4
+%
+73.1
+%
+Earnings per average common share
+Basic
+$
+5.12
+$
+(0.59
+)
+Diluted
+$
+5.11
+$
+(0.59
+)
+Average common shares outstanding
+Basic
+324
+327
+Diluted
+325
+328
+__________
+(a)
+Results reported in accordance with GAAP.
+(b)
+Adjustment for mark-to-market on economic hedges and fair value adjustments related to gas imbalances and equity investments.
+(c)
+Adjustment for all gains and losses associated with NDTs, ARO accretion, ARO remeasurement, and any earnings neutral impacts of contractual offset for Regulatory Agreement Units.
+(d)
+Adjustment for certain incremental costs related to the separation (system-related costs, third-party costs paid to advisors, consultants, lawyers, and other experts assisting in the separation), including a portion of the amounts billed to us pursuant to the TSA.
+(e)
+Adjustment for Pension and Other Postretirement Employee Benefits (OPEB) Non-Service credits.
+(f)
+Adjustment for costs related to a multi-year ERP system implementation
+(g)
+Adjustments related to plant retirements and divestitures.
+(h
+Adjustment for depreciation and amortization expense.
+(i)
+Adjustment for interest expense.
+(j)
+Adjustment for income taxes.
+(k)
+Adjustment for elimination of the noncontrolling interest related to certain adjustments.
+(l)
+Adjustment for changes in environmental liabilities.
+(m)
+Adjustment includes amounts contractually owed to Exelon under the tax matters agreement.
+(n)
+Reversal of a charge related to a 2012 merger commitment.
+(o)
+Adjustment for an asset impairment.
+(p)
+Adjustment for acquisition related costs.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231104859670/en/
+Contacts
+Paul AdamsCorporate Communications667-218-7700
+Emily DuncanInvestor Relations833-447-2783

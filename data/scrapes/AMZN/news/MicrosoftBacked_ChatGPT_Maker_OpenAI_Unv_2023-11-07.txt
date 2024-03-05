@@ -1,0 +1,3 @@
+url:https://finance.yahoo.com/m/5935d101-80e6-3b6b-93d0-54745fd0a987/microsoft-backed-chatgpt.html
+title:MicrosoftBacked_ChatGPT_Maker_OpenAI_Unveils_Faster_Cheaper_AI_Model
+ChatGPT maker OpenAI unveiled its most powerful artificial intelligence model yet at its developer conference Monday, in a move that could help the startup push ahead of rivals.

@@ -1,0 +1,10 @@
+url:https://finance.yahoo.com/news/qualcomm-forecasts-revenue-profits-above-200014656.html
+title:Qualcomm_forecasts_revenue_profits_above_estimates
+By Stephen Nellis and Chavi Mehta
+Nov 1 (Reuters) - Chip designer Qualcomm forecast first-quarter sales and profits above Wall Street targets on Wednesday as a smartphone sales slump finally starts to ease and a renewed contract with Apple helps boost its outlook.
+The San Diego, California-based company forecast current-quarter revenue of $9.1 billion to $9.9 billion, with a midpoint above analysts' expectations of $9.2 billion according to LSEG data. Qualcomm predicted current-quarter adjusted profits of $2.25 to $2.45 per share, beating expectations of $2.23 according to LSEG.
+For the just-ended fiscal fourth quarter, Qualcomm reported sales of $8.67 billion and adjusted profits of $2.02 per share, both above analysts' estimates of $8.51 billion and $1.91 per share, according to LSEG data.
+Chipmakers have been grappling with a smartphone market slump. Qualcomm is also facing new competition from Huawei Technologies, which has resumed producing its own smartphone chips after relying on the U.S. company for the past several years.
+Analysts also expect major Qualcomm customer Samsung Electronics to resume using some of its own in-house chips after using all Qualcomm chips in its most recent devices.
+But Qualcomm is also making advances, saying in September it signed a fresh supply agreement with iPhone maker Apple that runs to 2026. Last week it disclosed plans for a renewed push into the laptop market with backing from Microsoft .
+Fourth-quarter sales in Qualcomm's chip unit were $7.4 billion, beating analysts' estimate of $7.26 billion according to FactSet data. In Qualcomm's intellectual property licensing business, sales of $1.26 billion were in line with estimates of $1.25 billion according to FactSet data. (Reporting by Chavi Mehta in Bengaluru and Stephen Nellis in San Francisco; Editing by Richard Chang)

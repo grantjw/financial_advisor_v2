@@ -1,0 +1,15 @@
+url:https://finance.yahoo.com/news/cadence-expands-pfizer-license-molecular-144500339.html
+title:Cadence_Expands_Pfizers_License_to_Molecular_Design_Software
+Includes access to computational software designed to help advance innovation in traditional and AI-based drug discovery
+SAN JOSE, Calif., October 25, 2023--(BUSINESS WIRE)--Cadence Molecular Sciences (OpenEye)—a business unit of Cadence Design Systems (Nasdaq: CDNS)—announced today that Pfizer Inc. has signed an agreement to extend and expand access to Cadence® products and programming toolkits for advanced molecular design.
+"We’re excited to continue to support Pfizer as they innovate across their therapeutic portfolio, utilizing this unique set of research tools to aid in their early-stage drug discovery process," said Anthony Nicholls, PhD, corporate vice president, Cadence Molecular Sciences. "As we expand this agreement with Pfizer, we hope to continue to enable high-quality science at the frontier of medicine."
+Cadence Molecular Sciences’ physics-and AI-based modeling and cheminformatics computational software is an enabler of early-stage drug discovery innovation. The software is used by major pharmaceutical and biotech companies worldwide to help accelerate and advance therapeutic research.
+"Cadence’s molecular design technology continues to be an important resource to help us progress our early scientific discovery efforts across our therapeutic portfolio," said Sergio Rotstein, vice president, Digital R&D Solutions, Pfizer.
+To learn more about Cadence Molecular Sciences (OpenEye) and its technologies, please visit https://www.cadence.com/openeye.
+About Cadence
+Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design™ strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to complete systems for the most dynamic market applications, including hyperscale computing, 5G communications, automotive, mobile, aerospace, consumer, industrial and healthcare. For nine years in a row, Fortune magazine named Cadence one of the 100 Best Companies to Work For. Learn more at www.cadence.com.
+© 2023 Cadence Design Systems, Inc. All rights reserved worldwide. Cadence, the Cadence logo and the other Cadence marks found at www.cadence.com/go/trademarks are trademarks or registered trademarks of Cadence Design Systems, Inc. All other trademarks are the property of their respective owners.
+Category: Featured
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231025376182/en/
+Contacts
+For more information, please contact:Cadence Newsroom408-944-7039newsroom@cadence.com

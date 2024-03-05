@@ -1,0 +1,11 @@
+url:https://finance.yahoo.com/news/fda-panel-says-vertex-crispr-222610620.html
+title:FDA_panel_says_VertexCRISPR_to_assess_safety_risks_of_gene_therapy_in_followup_study
+Oct 31 (Reuters) - A panel of advisers to the U.S. health regulator said on Tuesday Vertex Pharmaceuticals and CRISPR Therapeutics could assess potential safety risks of their sickle cell disease gene therapy after approval.
+If the therapy is approved, Vertex has proposed a 15-year follow up of patients to evaluate the safety outcomes of the therapy.
+The inherited red-blood-cell disorder causes the cells to become sickle-shaped due to abnormal levels of hemoglobin in the body. A vaso-occlusive crisis occurs when sickled red blood cells block blood flow to the point that tissues become deprived of oxygen and causes pain.
+The panel members said the 15-year follow up will help generate data from real-time monitoring of the therapy, which uses the new gene editing CRISPR technology.
+Staff reviewers to the U.S. Food and Drug Administration said the new type of technology raised concerns about the "off target", or unintended genomic alterations that can potentially cause other side effects, but did not raise any concerns about the therapy's efficacy.
+The therapy, exagamglogene autotemcel or exa-cel, met the main goal of a late-stage study. Patients who were treated with the therapy were free from severe vaso-occlusive crisis for 12 months from the infusion of exa-cel. "With regards to off target analysis we want to be careful to not let the perfect be the enemy of the good," said Dr. Scot Wolfe, professor at the department of molecular, cell and cancer biology at UMass Chan Medical School.
+Analysts have been optimistic the therapy, which is a first-of-its-kind product to reach the FDA for review, will win the health regulator's nod by Dec. 8.
+"It was made pretty clear that any theoretical off-target editing concerns do not outweigh the benefits of drug approval," said Salim Syed, analyst at Mizuho.
+(Reporting by Sriparna Roy in Bengaluru; Editing by Krishna Chandra Eluri)

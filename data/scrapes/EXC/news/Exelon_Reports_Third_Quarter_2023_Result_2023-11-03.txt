@@ -1,0 +1,4049 @@
+url:https://finance.yahoo.com/news/exelon-reports-third-quarter-2023-105000845.html
+title:Exelon_Reports_Third_Quarter_2023_Results
+Earnings Release Highlights
+GAAP Net Income of $0.70 per share and Adjusted (non-GAAP) Operating Earnings of $0.67 per share for the third quarter of 2023
+Narrowing guidance range for full year 2023 Adjusted (non-GAAP) Operating Earnings from $2.30-$2.42 per share to $2.32-$2.40 per share
+Reaffirming fully regulated operating EPS compounded annual growth target of 6-8% from 2021 and 2022 guidance midpoints through 2025 and 2026, respectively, with expectation to be at midpoint or better of growth range
+Strong utility reliability performance – every utility achieved top quartile in outage duration and outage frequency, and ComEd and PHI delivered best-on-record performance for the third straight quarter
+CHICAGO, November 02, 2023--(BUSINESS WIRE)--Exelon Corporation (Nasdaq: EXC) today reported its financial results for the third quarter of 2023.
+"In the third quarter we continued to see strong execution of our financial plan and our strategy to lead the energy transformation, achieving top-quartile service reliability and key milestones in our six active rate reviews," said Exelon President and CEO Calvin Butler. "As power generation decarbonizes and demand increases from development of major data center hubs, we are embarking on interstate transmission projects selected to meet reliability requirements, including PJM’s most recent recommendation to include our proposal to build needed transmission in Maryland and Pennsylvania. We also will be key partners in facilitating two of the recently announced national hydrogen hubs located in Exelon’s service areas, and three of our operating companies were also selected for federal grants through the landmark Infrastructure Investment and Jobs Act to improve reliability and connectivity in the communities we serve and expand benefits for our customers. We continue to be excited by the progress toward the aggressive goals we’ve set to build a sustainable energy future for our customers and communities."
+"Despite an active summer storm season, Exelon’s third quarter performance remained in line with expectations, as we recorded Adjusted (non-GAAP) Operating Earnings of $0.67 per share," said Exelon Executive Vice President and CFO Jeanne Jones. "We’re also continuing to execute on the $7.2 billion capital investment planned for 2023, designed to address the needs of tomorrow’s grid. We are narrowing our 2023 EPS guidance range to $2.32 to $2.40 per share. We look forward to ending the year strong and further establishing our position as the nation’s leading transmission and delivery company."
+Third Quarter 2023
+Exelon's GAAP Net Income from Continuing Operations for the third quarter of 2023 increased to $0.70 per share from $0.68 GAAP Net Income from Continuing Operations per share in the third quarter of 2022. Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 decreased to $0.67 per share from $0.75 per share in the third quarter of 2022. For the reconciliations of GAAP Net Income from Continuing Operations to Adjusted (non-GAAP) Operating Earnings, refer to the tables beginning on page 3.
+Adjusted (non-GAAP) Operating Earnings in the third quarter of 2023 primarily reflect:
+Lower utility earnings primarily due to increased operating expense as a result of higher storm costs at PECO, BGE and PHI, unfavorable weather at PECO, increased depreciation expense at BGE and PHI, and increased interest expense at BGE. This was partially offset by higher electric distribution formula rate earnings at ComEd from higher allowed ROE due to an increase in U.S. treasury rates and the impacts of higher rate base, rate increases at PECO, BGE, and PHI, and carrying costs related to the carbon mitigation credit (CMC) regulatory asset at ComEd.
+Higher costs at the Exelon holding company primarily due to higher interest expense.
+Operating Company Results1
+ComEd
+ComEd's third quarter of 2023 GAAP Net Income increased to $333 million from $291 million in the third quarter of 2022. ComEd's Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 increased to $338 million from $293 million in the third quarter of 2022, primarily due to increases in electric distribution formula rate earnings (reflecting higher allowed ROE due to an increase in U.S. Treasury rates and the impacts of higher rate base) and carrying costs related to the CMC regulatory asset. Due to revenue decoupling, ComEd's distribution earnings are not affected by actual weather or customer usage patterns.
+PECO
+PECO’s third quarter of 2023 GAAP Net Income increased to $146 million from $135 million in the third quarter of 2022. PECO's Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 decreased to $149 million from $174 million in the third quarter of 2022, primarily due to unfavorable weather and an increase in storm costs, partially offset by gas distribution rate increases.
+___________
+1 Exelon’s four business units include ComEd, which consists of electricity transmission and distribution operations in northern Illinois; PECO, which consists of electricity transmission and distribution operations and retail natural gas distribution operations in southeastern Pennsylvania; BGE, which consists of electricity transmission and distribution operations and retail natural gas distribution operations in central Maryland; and PHI, which consists of electricity transmission and distribution operations in the District of Columbia and portions of Maryland, Delaware, and New Jersey and retail natural gas distribution operations in northern Delaware.
+BGE
+BGE’s third quarter of 2023 GAAP Net Income increased to $45 million from $33 million in the third quarter of 2022. BGE's Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 decreased to $47 million from $70 million in the third quarter of 2022, primarily due to an increase in depreciation expense, interest expense, and storm costs, partially offset by favorable impacts of the multi-year plans. Due to revenue decoupling, BGE's distribution earnings are not affected by actual weather or customer usage patterns.
+PHI
+PHI’s third quarter of 2023 GAAP Net Income decreased to $232 million from $289 million in the third quarter of 2022. PHI’s Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 decreased to $234 million from $286 million in the third quarter of 2022, primarily due to an increase in depreciation expense and storm costs. This is partially offset by distribution and transmission rate increases. Due to revenue decoupling, PHI's distribution earnings related to Pepco Maryland, DPL Maryland, Pepco District of Columbia, and ACE are not affected by actual weather or customer usage patterns.
+Recent Developments and Third Quarter Highlights
+Dividend: On November 1, 2023, Exelon’s Board of Directors declared a regular quarterly dividend of $0.36 per share on Exelon’s common stock for the fourth quarter of 2023. The dividend is payable on Friday, December 8, 2023, to shareholders of record of Exelon as of 5 p.m. Eastern time on Wednesday, November 15, 2023.
+Financing Activities:
+On September 13, 2023, Pepco issued $100 million of First Mortgage Bonds, 5.35% Series, due September 13, 2033. Pepco used the proceeds to repay existing indebtedness and for general corporate purposes.
+GAAP/Adjusted (non-GAAP) Operating Earnings Reconciliation
+Adjusted (non-GAAP) Operating Earnings for the third quarter of 2023 do not include the following items (after tax) that were included in reported GAAP Net Income from Continuing Operations:
+(in millions, except per share amounts)
+Exelon
+Earnings per
+Diluted
+Share
+Exelon
+ComEd
+PECO
+BGE
+PHI
+2023 GAAP Net Income from Continuing Operations
+$
+0.70
+$
+700
+$
+333
+$
+146
+$
+45
+$
+232
+Mark-to-Market Impact of Economic Hedging Activities (net of taxes of $4)
+0.01
+12
+—
+—
+—
+—
+Asset Retirement Obligation (net of taxes of $1)
+—
+(1
+)
+—
+—
+—
+(1
+)
+Separation Costs (net of taxes of $5, $2, $1, $1, and $1, respectively)
+0.01
+14
+5
+3
+2
+4
+Income Tax-Related Adjustments (entire amount represents tax expense)
+(0.05
+)
+(54
+)
+—
+—
+—
+—
+2023 Adjusted (non-GAAP) Operating Earnings
+$
+0.67
+$
+671
+$
+338
+$
+149
+$
+47
+$
+234
+Adjusted (non-GAAP) Operating Earnings for the third quarter of 2022 do not include the following items (after tax) that were included in reported GAAP Net Income from Continuing Operations:
+(in millions, except per share amounts)
+Exelon
+Earnings per
+Diluted
+Share
+Exelon
+ComEd
+PECO
+BGE
+PHI
+2022 GAAP Net Income from Continuing Operations
+$
+0.68
+$
+676
+$
+291
+$
+135
+$
+33
+$
+289
+Asset Retirement Obligation (net of taxes of $2)
+—
+(4
+)
+—
+—
+—
+(4
+)
+Asset Impairments (net of taxes of $10)
+0.04
+37
+—
+—
+37
+—
+Separation Costs (net of taxes of $1, $1, $0, $0, and $0, respectively)
+—
+(3
+)
+2
+1
+1
+1
+Income Tax-Related Adjustments (entire amount represents tax expense)
+0.04
+38
+—
+38
+—
+—
+2022 Adjusted (non-GAAP) Operating Earnings
+$
+0.75
+$
+745
+$
+293
+$
+174
+$
+70
+$
+286
+__________
+Note:
+Amounts may not sum due to rounding.
+Unless otherwise noted, the income tax impact of each reconciling item between GAAP Net Income from Continuing Operations and Adjusted (non-GAAP) Operating Earnings is based on the marginal statutory federal and state income tax rates for each Registrant, taking into account whether the income or expense item is taxable or deductible, respectively, in whole or in part. For all items, the marginal statutory income tax rates for 2023 and 2022 ranged from 24.0% to 29.0%.
+Webcast Information
+Exelon will discuss third quarter 2023 earnings in a conference call scheduled for today at 9 a.m. Central Time (10 a.m. Eastern Time). The webcast and associated materials can be accessed at https://investors.exeloncorp.com.
+About Exelon
+Exelon (Nasdaq: EXC) is a Fortune 250 company and the nation’s largest utility company, serving more than 10 million customers through six fully regulated transmission and distribution utilities — Atlantic City Electric (ACE), Baltimore Gas and Electric (BGE), Commonwealth Edison (ComEd), Delmarva Power & Light (DPL), PECO Energy Company (PECO), and Potomac Electric Power Company (Pepco). More than 19,000 Exelon employees dedicate their time and expertise to supporting our communities through reliable, affordable and efficient energy delivery, workforce development, equity, economic development and volunteerism. Follow Exelon on X, formerly known as Twitter @Exelon.
+Non-GAAP Financial Measures
+In addition to net income as determined under generally accepted accounting principles in the United States (GAAP), Exelon evaluates its operating performance using the measure of Adjusted (non-GAAP) Operating Earnings because management believes it represents earnings directly related to the ongoing operations of the business. Adjusted (non-GAAP) Operating Earnings exclude certain costs, expenses, gains and losses, and other specified items. This measure is intended to enhance an investor’s overall understanding of period over period operating results and provide an indication of Exelon’s baseline operating performance excluding items that are considered by management to be not directly related to the ongoing operations of the business. In addition, this measure is among the primary indicators management uses as a basis for evaluating performance, allocating resources, setting incentive compensation targets, and planning and forecasting of future periods. Adjusted (non-GAAP) Operating Earnings is not a presentation defined under GAAP and may not be comparable to other companies’ presentation. Exelon has provided the non-GAAP financial measure as supplemental information and in addition to the financial measures that are calculated and presented in accordance with GAAP. Adjusted (non-GAAP) Operating Earnings should not be deemed more useful than, a substitute for, or an alternative to the most comparable GAAP Net Income measures provided in this earnings release and attachments. This press release and earnings release attachments provide reconciliations of Adjusted (non-GAAP) Operating Earnings to the most directly comparable financial measures calculated and presented in accordance with GAAP, are posted on Exelon’s website: www.exeloncorp.com, and have been furnished to the Securities and Exchange Commission on Form 8-K on Nov. 2, 2023.
+Cautionary Statements Regarding Forward-Looking Information
+This press release contains certain forward-looking statements within the meaning of federal securities laws that are subject to risks and uncertainties. Words such as "could," "may," "expects," "anticipates," "will," "targets," "goals," "projects," "intends," "plans," "believes," "seeks," "estimates," "predicts," "should," and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements.
+The factors that could cause actual results to differ materially from the forward-looking statements made by Exelon Corporation, Commonwealth Edison Company, PECO Energy Company, Baltimore Gas and Electric Company, Pepco Holdings LLC, Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (Registrants) include those factors discussed herein, as well as the items discussed in (1) the Registrants' 2022 Annual Report on Form 10-K in (a) Part I, ITEM 1A. Risk Factors, (b) Part II, ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 18, Commitments and Contingencies; (2) the Registrants' Third Quarter 2023 Quarterly Report on Form 10-Q (to be filed on Nov. 2, 2023) in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 12, Commitments and Contingencies; and (3) other factors discussed in filings with the SEC by the Registrants.
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this press release. None of the Registrants undertakes any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this press release.
+Earnings Release Attachments
+Table of Contents
+Consolidating Statement of Operations
+1
+Consolidated Balance Sheets
+3
+Consolidated Statements of Cash Flows
+5
+Reconciliation of GAAP Net Income from Continuing Operations to Adjusted (non-GAAP) Operating Earnings and Analysis of Earnings
+6
+Statistics
+ComEd
+10
+PECO
+11
+BGE
+14
+Pepco
+17
+DPL
+18
+ACE
+20
+Consolidating Statements of Operations
+(unaudited)
+(in millions)
+ComEd
+PECO
+BGE
+PHI
+Other (a)
+Exelon
+Three Months Ended September 30, 2023
+Operating revenues
+$
+2,268
+$
+1,037
+$
+932
+$
+1,773
+$
+(30
+)
+$
+5,980
+Operating expenses
+Purchased power and fuel
+896
+411
+380
+710
+—
+2,397
+Operating and maintenance
+385
+277
+214
+339
+(28
+)
+1,187
+Depreciation and amortization
+357
+100
+161
+257
+15
+890
+Taxes other than income taxes
+100
+59
+80
+134
+10
+383
+Total operating expenses
+1,738
+847
+835
+1,440
+(3
+)
+4,857
+Operating income (loss)
+530
+190
+97
+333
+(27
+)
+1,123
+Other income and (deductions)
+Interest expense, net
+(119
+)
+(52
+)
+(47
+)
+(80
+)
+(139
+)
+(437
+)
+Other, net
+16
+11
+6
+28
+20
+81
+Total other income and (deductions)
+(103
+)
+(41
+)
+(41
+)
+(52
+)
+(119
+)
+(356
+)
+Income (loss) before income taxes
+427
+149
+56
+281
+(146
+)
+767
+Income taxes
+94
+3
+11
+49
+(90
+)
+67
+Net income (loss)
+333
+146
+45
+232
+(56
+)
+700
+Net income (loss) attributable to common shareholders
+$
+333
+$
+146
+$
+45
+$
+232
+$
+(56
+)
+$
+700
+Three Months Ended September 30, 2022
+Operating revenues
+$
+1,378
+$
+1,014
+$
+870
+$
+1,598
+$
+(15
+)
+$
+4,845
+Operating expenses
+Purchased power and fuel
+121
+403
+350
+610
+—
+1,484
+Operating and maintenance
+355
+243
+235
+277
+38
+1,148
+Depreciation and amortization
+333
+92
+148
+238
+14
+825
+Taxes other than income taxes
+104
+60
+77
+129
+7
+377
+Total operating expenses
+913
+798
+810
+1,254
+59
+3,834
+Operating income (loss)
+465
+216
+60
+344
+(74
+)
+1,011
+Other income and (deductions)
+Interest expense, net
+(104
+)
+(45
+)
+(39
+)
+(72
+)
+(105
+)
+(365
+)
+Other, net
+14
+8
+5
+19
+76
+122
+Total other income and (deductions)
+(90
+)
+(37
+)
+(34
+)
+(53
+)
+(29
+)
+(243
+)
+Income (loss) before income taxes
+375
+179
+26
+291
+(103
+)
+768
+Income taxes
+84
+44
+(7
+)
+2
+(31
+)
+92
+Net income (loss)
+291
+135
+33
+289
+(72
+)
+676
+Net income (loss) attributable to common shareholders
+$
+291
+$
+135
+$
+33
+$
+289
+$
+(72
+)
+$
+676
+Change in net income (loss) from 2022 to 2023
+$
+42
+$
+11
+$
+12
+$
+(57
+)
+$
+16
+$
+24
+Consolidating Statements of Operations
+(unaudited)
+(in millions)
+...
+ComEd
+PECO
+BGE
+PHI
+Other (a)
+Exelon
+Nine Months Ended September 30, 2023
+Operating revenues
+$
+5,836
+$
+2,977
+$
+2,986
+$
+4,615
+$
+(54
+)
+$
+16,360
+Operating expenses
+Purchased power and fuel
+2,068
+1,197
+1,145
+1,805
+—
+6,215
+Operating and maintenance
+1,077
+786
+632
+952
+88
+3,535
+Depreciation and amortization
+1,045
+297
+487
+741
+46
+2,616
+Taxes other than income taxes
+282
+156
+239
+366
+20
+1,063
+Total operating expenses
+4,472
+2,436
+2,503
+3,864
+154
+13,429
+Operating income (loss)
+1,364
+541
+483
+751
+(208
+)
+2,931
+Other income and (deductions)
+Interest expense, net
+(357
+)
+(149
+)
+(135
+)
+(238
+)
+(398
+)
+(1,277
+)
+Other, net
+50
+26
+14
+80
+161
+331
+Total other income and (deductions)
+(307
+)
+(123
+)
+(121
+)
+(158
+)
+(237
+)
+(946
+)
+Income (loss) from continuing operations before income taxes
+1,057
+418
+362
+593
+(445
+)
+1,985
+Income taxes
+235
+8
+76
+103
+(148
+)
+274
+Net income (loss) from continuing operations after income taxes
+822
+410
+286
+490
+(297
+)
+1,711
+Net income from discontinued operations after income taxes
+—
+—
+—
+—
+—
+—
+Net income (loss)
+822
+410
+286
+490
+(297
+)
+1,711
+Net income attributable to noncontrolling interests
+—
+—
+—
+—
+—
+—
+Net income (loss) attributable to common shareholders
+$
+822
+$
+410
+$
+286
+$
+490
+$
+(297
+)
+$
+1,711
+Nine Months Ended September 30, 2022
+Operating revenues
+$
+4,536
+$
+2,877
+$
+2,810
+$
+4,223
+$
+(34
+)
+$
+14,412
+Operating expenses
+Purchased power and fuel
+1,041
+1,093
+1,093
+1,609
+(1
+)
+4,835
+Operating and maintenance
+1,045
+705
+658
+867
+161
+3,436
+Depreciation and amortization
+982
+277
+470
+697
+46
+2,472
+Taxes other than income taxes
+289
+155
+225
+362
+30
+1,061
+Total operating expenses
+3,357
+2,230
+2,446
+3,535
+236
+11,804
+Loss on sale of assets and businesses
+(2
+)
+—
+—
+—
+—
+(2
+)
+Operating income (loss)
+1,177
+647
+364
+688
+(270
+)
+2,606
+Other income and (deductions)
+Interest expense, net
+(308
+)
+(129
+)
+(110
+)
+(216
+)
+(300
+)
+(1,063
+)
+Other, net
+40
+23
+16
+56
+300
+435
+Total other income and (deductions)
+(268
+)
+(106
+)
+(94
+)
+(160
+)
+—
+(628
+)
+Income (loss) from continuing operations before income taxes
+909
+541
+270
+528
+(270
+)
+1,978
+Income taxes
+203
+67
+3
+10
+73
+356
+Net income (loss) from continuing operations after income taxes
+706
+474
+267
+518
+(343
+)
+1,622
+Net income from discontinued operations after income taxes
+—
+—
+—
+—
+117
+117
+Net income (loss)
+706
+474
+267
+518
+(226
+)
+1,739
+Net income attributable to noncontrolling interests
+—
+—
+—
+—
+1
+1
+Net income (loss) attributable to common shareholders
+$
+706
+$
+474
+$
+267
+$
+518
+$
+(227
+)
+$
+1,738
+Change in net income (loss) from continuing operations from 2022 to 2023
+$
+116
+$
+(64
+)
+$
+19
+$
+(28
+)
+$
+46
+$
+89
+__________
+(a)
+Other primarily includes eliminating and consolidating adjustments, Exelon’s corporate operations, shared service entities, and other financing and investment activities.
+Exelon
+Consolidated Balance Sheets
+(unaudited)
+(in millions)
+September 30, 2023
+December 31, 2022
+Assets
+Current assets
+Cash and cash equivalents
+$
+300
+$
+407
+Restricted cash and cash equivalents
+435
+566
+Accounts receivable
+Customer accounts receivable
+2,575
+2,544
+Customer allowance for credit losses
+(341
+)
+(327
+)
+Customer accounts receivable, net
+2,234
+2,217
+Other accounts receivable
+1,168
+1,426
+Other allowance for credit losses
+(88
+)
+(82
+)
+Other accounts receivable, net
+1,080
+1,344
+Inventories, net
+Fossil fuel
+105
+208
+Materials and supplies
+657
+547
+Regulatory assets
+2,307
+1,641
+Other
+401
+406
+Total current assets
+7,519
+7,336
+Property, plant, and equipment, net
+72,458
+69,076
+Deferred debits and other assets
+Regulatory assets
+8,128
+8,037
+Goodwill
+6,630
+6,630
+Receivable related to Regulatory Agreement Units
+2,923
+2,897
+Investments
+246
+232
+Other
+1,355
+1,141
+Total deferred debits and other assets
+19,282
+18,937
+Total assets
+$
+99,259
+$
+95,349
+September 30, 2023
+December 31, 2022
+Liabilities and shareholders’ equity
+Current liabilities
+Short-term borrowings
+$
+1,720
+$
+2,586
+Long-term debt due within one year
+1,654
+1,802
+Accounts payable
+2,684
+3,382
+Accrued expenses
+1,315
+1,226
+Payables to affiliates
+5
+5
+Regulatory liabilities
+437
+437
+Mark-to-market derivative liabilities
+44
+8
+Unamortized energy contract liabilities
+8
+10
+Other
+933
+1,155
+Total current liabilities
+8,800
+10,611
+Long-term debt
+39,431
+35,272
+Long-term debt to financing trusts
+390
+390
+Deferred credits and other liabilities
+Deferred income taxes and unamortized investment tax credits
+11,792
+11,250
+Regulatory liabilities
+9,236
+9,112
+Pension obligations
+1,085
+1,109
+Non-pension postretirement benefit obligations
+515
+507
+Asset retirement obligations
+269
+269
+Mark-to-market derivative liabilities
+113
+83
+Unamortized energy contract liabilities
+29
+35
+Other
+2,129
+1,967
+Total deferred credits and other liabilities
+25,168
+24,332
+Total liabilities
+73,789
+70,605
+Commitments and contingencies
+Shareholders’ equity
+Common stock
+20,956
+20,908
+Treasury stock, at cost
+(123
+)
+(123
+)
+Retained earnings
+5,233
+4,597
+Accumulated other comprehensive loss, net
+(596
+)
+(638
+)
+Total shareholders’ equity
+25,470
+24,744
+Total liabilities and shareholders’ equity
+$
+99,259
+$
+95,349
+Exelon
+Consolidated Statements of Cash Flows
+(unaudited)
+(in millions)
+Nine Months Ended September 30,
+2023
+2022
+Cash flows from operating activities
+Net income
+$
+1,711
+$
+1,739
+Adjustments to reconcile net income to net cash flows provided by operating activities:
+Depreciation, amortization, and accretion, including nuclear fuel and energy contract amortization
+2,616
+2,679
+Asset impairments
+—
+46
+Gain on sales of assets and businesses
+—
+(8
+)
+Deferred income taxes and amortization of investment tax credits
+210
+256
+Net fair value changes related to derivatives
+21
+(59
+)
+Net realized and unrealized losses on NDT funds
+—
+205
+Net unrealized losses on equity investments
+—
+16
+Other non-cash operating activities
+(237
+)
+265
+Changes in assets and liabilities:
+Accounts receivable
+82
+(1,049
+)
+Inventories
+(8
+)
+(121
+)
+Accounts payable and accrued expenses
+(454
+)
+823
+Option premiums paid, net
+—
+(39
+)
+Collateral (paid) received, net
+(183
+)
+1,456
+Income taxes
+50
+3
+Regulatory assets and liabilities, net
+(395
+)
+(689
+)
+Pension and non-pension postretirement benefit contributions
+(97
+)
+(596
+)
+Other assets and liabilities
+(24
+)
+(786
+)
+Net cash flows provided by operating activities
+3,292
+4,141
+Cash flows from investing activities
+Capital expenditures
+(5,540
+)
+(5,179
+)
+Proceeds from NDT fund sales
+—
+488
+Investment in NDT funds
+—
+(516
+)
+Collection of DPP
+—
+169
+Proceeds from sales of assets and businesses
+—
+16
+Other investing activities
+25
+36
+Net cash flows used in investing activities
+(5,515
+)
+(4,986
+)
+Cash flows from financing activities
+Changes in short-term borrowings
+(1,116
+)
+(335
+)
+Proceeds from short-term borrowings with maturities greater than 90 days
+400
+1,150
+Repayments on short-term borrowings with maturities greater than 90 days
+(150
+)
+(925
+)
+Issuance of long-term debt
+5,300
+5,801
+Retirement of long-term debt
+(1,209
+)
+(2,067
+)
+Issuance of common stock
+—
+563
+Dividends paid on common stock
+(1,074
+)
+(999
+)
+Proceeds from employee stock plans
+30
+26
+Transfer of cash, restricted cash, and cash equivalents to Constellation
+—
+(2,594
+)
+Other financing activities
+(101
+)
+(121
+)
+Net cash flows provided by financing activities
+2,080
+499
+Decrease in cash, restricted cash, and cash equivalents
+(143
+)
+(346
+)
+Cash, restricted cash, and cash equivalents at beginning of period
+1,090
+1,619
+Cash, restricted cash, and cash equivalents at end of period
+$
+947
+$
+1,273
+Exelon
+Reconciliation of GAAP Net Income (Loss) from Continuing Operations to Adjusted (non-GAAP) Operating Earnings and Analysis of Earnings
+Three Months Ended September 30, 2023 and 2022
+(unaudited)
+(in millions, except per share data)
+Exelon
+Earnings per
+Diluted
+Share
+ComEd
+PECO
+BGE
+PHI
+Other (a)
+Exelon
+2022 GAAP Net Income (Loss) from Continuing Operations
+$
+0.68
+$
+291
+$
+135
+$
+33
+$
+289
+$
+(72
+)
+$
+676
+Asset Retirement Obligation (net of taxes of $2)
+—
+—
+—
+—
+(4
+)
+—
+(4
+)
+Asset Impairments (net of taxes of $10) (1)
+0.04
+—
+—
+37
+—
+—
+37
+Separation Costs (net of taxes of $1, $0, $0, $0, $2, and $1, respectively) (2)
+—
+2
+1
+1
+1
+(8
+)
+(3
+)
+Income Tax-Related Adjustments (entire amount represents tax expense) (3)
+0.04
+—
+38
+—
+—
+—
+38
+2022 Adjusted (non-GAAP) Operating Earnings (Loss)
+$
+0.75
+$
+293
+$
+174
+$
+70
+$
+286
+$
+(78
+)
+$
+745
+Year Over Year Effects on Adjusted (non-GAAP) Operating Earnings:
+Weather
+$
+(0.03
+)
+$
+—
+(b)
+$
+(29
+)
+$
+—
+(b)
+$
+(1
+)
+(b)
+$
+—
+$
+(30
+)
+Load
+0.01
+—
+(b)
+11
+—
+(b)
+(1
+)
+(b)
+—
+10
+Distribution and Transmission Rates (4)
+0.06
+36
+(c)
+6
+(c)
+8
+(c)
+11
+(c)
+—
+61
+Other Energy Delivery (5)
+0.10
+46
+(c)
+23
+(c)
+3
+(c)
+31
+(c)
+—
+103
+Operating and Maintenance Expense (6)
+(0.05
+)
+(20
+)
+(24
+)
+(15
+)
+(35
+)
+44
+(50
+)
+Pension and Non-Pension Postretirement Benefits
+(0.01
+)
+2
+—
+(1
+)
+(4
+)
+(12
+)
+(15
+)
+Depreciation and Amortization Expense (7)
+(0.04
+)
+(17
+)
+(6
+)
+(10
+)
+(12
+)
+(1
+)
+(46
+)
+Interest Expense and Other (8)
+(0.11
+)
+(2
+)
+(6
+)
+(8
+)
+(41
+)
+(50
+)
+(107
+)
+Share Differential (9)
+(0.01
+)
+—
+—
+—
+—
+—
+—
+Total Year Over Year Effects on Adjusted (non-GAAP) Operating Earnings
+$
+(0.08
+)
+$
+45
+$
+(25
+)
+$
+(23
+)
+$
+(52
+)
+$
+(19
+)
+$
+(74
+)
+2023 GAAP Net Income (Loss) from Continuing Operations
+$
+0.70
+$
+333
+$
+146
+$
+45
+$
+232
+$
+(56
+)
+$
+700
+Mark-to-Market Impact of Economic Hedging Activities (net of taxes of $4)
+0.01
+—
+—
+—
+—
+12
+12
+Asset Retirement Obligation (net of taxes of $1)
+—
+—
+—
+—
+(1
+)
+—
+(1
+)
+Separation Costs (net of taxes of $2, $1, $1, $1, and $5, respectively) (2)
+0.01
+5
+3
+2
+4
+—
+14
+Income Tax-Related Adjustments (entire amount represents tax expense) (3)
+(0.05
+)
+—
+—
+—
+—
+(54
+)
+(54
+)
+2023 Adjusted (non-GAAP) Operating Earnings (Loss)
+$
+0.67
+$
+338
+$
+149
+$
+47
+$
+234
+$
+(97
+)
+$
+671
+Note:
+Amounts may not sum due to rounding.
+Unless otherwise noted, the income tax impact of each reconciling item between GAAP Net Income from Continuing Operations and Adjusted (non-GAAP) Operating Earnings is based on the marginal statutory federal and state income tax rates for each Registrant, taking into account whether the income or expense item is taxable or deductible, respectively, in whole or in part. For all items, the marginal statutory income tax rates for 2023 and 2022 ranged from 24.0% to 29.0%.
+(a)
+Other primarily includes eliminating and consolidating adjustments, Exelon’s corporate operations, shared service entities, and other financing and investment activities.
+(b)
+For ComEd, BGE, Pepco, DPL Maryland, and ACE, customer rates are adjusted to eliminate the impacts of weather and customer usage on distribution volumes.
+(c)
+For regulatory recovery mechanisms, including ComEd’s distribution formula rate and energy efficiency formula, ComEd, PECO, BGE, and PHI utilities transmission formula rates, and riders across all utilities, revenues increase and decrease i) as fully recoverable costs fluctuate (with no impact on net earnings), and ii) pursuant to changes in rate base, capital structure and ROE (which impact net earnings).
+(1)
+Reflects costs related to the impairment of an office building at BGE, which are recorded in Operating and maintenance expense.
+(2)
+Represents costs related to the separation primarily comprised of system-related costs, third-party costs paid to advisors, consultants, lawyers, and other experts assisting in the separation, and employee-related severance costs, which are recorded in Operating and maintenance expense and Other, net.
+(3)
+In 2022, reflects an adjustment to exclude one-time non-cash impacts associated with the remeasurement of deferred income taxes as a result of the reduction in Pennsylvania corporate income tax rate. In 2023, reflects the adjustment to state deferred income taxes due to changes in forecasted apportionment.
+(4)
+For ComEd, reflects increased electric distribution revenues due to higher allowed electric distribution ROE driven by an increase in treasury rates and higher rate base. For PECO, reflects increased revenue primarily due to distribution rate increases. For BGE, reflects increased revenue primarily due to distribution rate increases. For PHI, reflects increased revenue primarily due to distribution and transmission rate increases.
+(5)
+For ComEd, reflects increased electric distribution, transmission, and energy efficiency revenues due to higher fully recoverable costs and also reflects carrying costs related to the CMC regulatory assets. For PECO, reflects increased transmission and energy efficiency revenues due to regulatory required programs. For PHI, reflects higher revenues due to certain EDIT benefits being fully amortized and passed through to customers, which is offset in Interest expense and Other.
+(6)
+Represents Operating and maintenance expense, excluding pension and non-pension postretirement benefits. For PECO, primarily reflects increased storm costs and increased program costs related to regulatory required programs. For BGE, primarily reflects increased storm costs. For PHI, reflects increased credit loss expense and increased storm costs. For Corporate, primarily reflects a decrease in Operating and maintenance expense with an offsetting decrease in other income, for costs billed to Constellation for services provided by Exelon through the Transition Services Agreement (TSA).
+(7)
+Reflects ongoing capital expenditures across all utilities.
+(8)
+For PHI, primarily reflects higher income tax expense due to certain EDIT benefits being fully amortized and passed through to customers, with an offsetting increase in Other energy delivery. For Corporate, primarily reflects a decrease in other income for costs billed to Constellation for services provided by Exelon through the TSA, with an offsetting decrease in Operating and maintenance expense.
+(9)
+Reflects the impact on earnings per share due to the increase in Exelon's average diluted common shares outstanding as a result of the August 2022 common stock issuance.
+Exelon
+Reconciliation of GAAP Net Income (Loss) from Continuing Operations to Adjusted (non-GAAP) Operating Earnings and Analysis of Earnings
+Nine Months Ended September 30, 2023 and 2022
+(unaudited)
+(in millions, except per share data)
+Exelon
+Earnings
+per Diluted
+Share
+ComEd
+PECO
+BGE
+PHI
+Other (a)
+Exelon
+2022 GAAP Net Income (Loss) from Continuing Operations
+$
+1.65
+$
+706
+$
+474
+$
+267
+$
+518
+$
+(343
+)
+$
+1,622
+ERP System Implementation Costs (net of taxes of $0) (1)
+—
+—
+—
+—
+—
+1
+1
+Asset Retirement Obligation (net of taxes of $2)
+—
+—
+—
+—
+(4
+)
+—
+(4
+)
+Asset Impairments (net of taxes of $10) (2)
+0.04
+—
+—
+37
+—
+—
+37
+Separation Costs (net of taxes of $4, $2, $2, $3, $0 and $10, respectively) (3)
+0.03
+9
+4
+4
+7
+1
+25
+Income Tax-Related Adjustments (entire amount represents tax expense) (4)
+0.13
+—
+38
+—
+3
+89
+130
+2022 Adjusted (non-GAAP) Operating Earnings (Loss)
+$
+1.84
+$
+715
+$
+517
+$
+308
+$
+523
+$
+(252
+)
+$
+1,811
+Year Over Year Effects on Adjusted (non-GAAP) Operating Earnings:
+Weather
+$
+(0.10
+)
+$
+—
+(b)
+$
+(92
+)
+$
+—
+(b)
+$
+(12
+)
+(b)
+$
+—
+$
+(104
+)
+Load
+—
+—
+(b)
+4
+—
+(b)
+(4
+)
+(b)
+—
+—
+Distribution and Transmission Rates (5)
+0.24
+101
+(c)
+41
+(c)
+33
+(c)
+60
+(c)
+—
+235
+Other Energy Delivery (6)
+0.22
+105
+(c)
+44
+(c)
+(3
+)
+(c)
+76
+(c)
+—
+222
+Operating and Maintenance Expense (7)
+(0.08
+)
+(33
+)
+(64
+)
+(13
+)
+(22
+)
+54
+(78
+)
+Pension and Non-Pension Postretirement Benefits
+(0.02
+)
+8
+2
+(3
+)
+(12
+)
+(14
+)
+(19
+)
+Depreciation and Amortization Expense (8)
+(0.10
+)
+(45
+)
+(15
+)
+(10
+)
+(25
+)
+(4
+)
+(99
+)
+Interest Expense and Other (9)
+(0.20
+)
+(12
+)
+(24
+)
+(23
+)
+(62
+)
+(73
+)
+(194
+)
+Share Differential (10)
+(0.02
+)
+—
+—
+—
+—
+—
+—
+Total Year Over Year Effects on Adjusted (non-GAAP) Operating Earnings
+$
+(0.06
+)
+$
+124
+$
+(104
+)
+$
+(19
+)
+$
+(1
+)
+$
+(37
+)
+$
+(37
+)
+2023 GAAP Net Income (Loss) from Continuing Operations
+$
+1.72
+$
+822
+$
+410
+$
+286
+$
+490
+$
+(297
+)
+$
+1,711
+Mark-to-Market Impact of Economic Hedging Activities (net of taxes of $4)
+0.01
+—
+—
+—
+—
+14
+14
+Change in Environmental Liabilities (net of taxes of $8)
+0.03
+—
+—
+—
+29
+—
+29
+Asset Retirement Obligation (net of taxes of $1)
+—
+—
+—
+—
+(1
+)
+—
+(1
+)
+SEC Matter Loss Contingency (net of taxes of $0)
+0.05
+—
+—
+—
+—
+46
+46
+Separation Costs (net of taxes of $3, $1, $1, $2, $0, and $7, respectively) (3)
+0.02
+7
+3
+3
+5
+1
+19
+Change in FERC Audit Liability (net of taxes of $4)
+0.01
+11
+—
+—
+—
+—
+11
+Income Tax-Related Adjustments (entire amount represents tax expense) (4)
+(0.05
+)
+—
+—
+—
+—
+(54
+)
+(54
+)
+2023 Adjusted (non-GAAP) Operating Earnings (Loss)
+$
+1.78
+$
+839
+$
+413
+$
+289
+$
+522
+$
+(289
+)
+$
+1,774
+Note:
+Amounts may not sum due to rounding.
+Unless otherwise noted, the income tax impact of each reconciling item between GAAP Net Income from Continuing Operations and Adjusted (non-GAAP) Operating Earnings is based on the marginal statutory federal and state income tax rates for each Registrant, taking into account whether the income or expense item is taxable or deductible, respectively, in whole or in part. For all items, the marginal statutory income tax rates for 2023 and 2022 ranged from 24.0% to 29.0%.
+(a)
+Other primarily includes eliminating and consolidating adjustments, Exelon’s corporate operations, shared service entities, and other financing and investment activities.
+(b)
+For ComEd, BGE, Pepco, DPL Maryland, and ACE, customer rates are adjusted to eliminate the impacts of weather and customer usage on distribution volumes.
+(c)
+For regulatory recovery mechanisms, including ComEd’s distribution formula rate and energy efficiency formula, ComEd, PECO, BGE, and PHI utilities transmission formula rates, and riders across all utilities, revenues increase and decrease i) as fully recoverable costs fluctuate (with no impact on net earnings), and ii) pursuant to changes in rate base, capital structure and ROE (which impact net earnings).
+(1)
+Reflects costs related to a multi-year Enterprise Resource Planning (ERP) system implementation, which are recorded in Operating and maintenance expense.
+(2)
+Reflects costs related to the impairment of an office building at BGE, which are recorded in Operating and maintenance expense.
+(3)
+Represents costs related to the separation primarily comprised of system-related costs, third-party costs paid to advisors, consultants, lawyers, and other experts assisting in the separation, and employee-related severance costs, which are recorded in Operating and maintenance expense and Other, net.
+(4)
+In 2022, for PECO, reflects an adjustment to exclude one-time non-cash impacts associated with the remeasurement of deferred income taxes as a result of the reduction in Pennsylvania corporate income tax rate. For Corporate, in connection with the separation, Exelon recorded an income tax expense primarily due to the long-term marginal state income tax rate change, the recognition of valuation allowances against the net deferred tax assets positions for certain standalone state filing jurisdictions, and nondeductible transaction costs partially offset by a one-time impact associated with a state tax benefit. In 2023, reflects the adjustment to state deferred income taxes dues to changes in forecasted apportionment.
+(5)
+For ComEd, reflects increased electric distribution revenues due to higher allowed electric distribution ROE driven by an increase in treasury rates and higher rate base. For PECO, reflects increased revenue primarily due to distribution rate increases. For BGE, reflects increased revenue due to distribution rate increases. For PHI, reflects increased revenue primarily due to distribution and transmission rate increases.
+(6)
+For ComEd, reflects increased electric distribution, transmission, and energy efficiency revenues due to higher fully recoverable costs and also reflects carrying costs related to the CMC regulatory assets. For PECO, reflects increased transmission and energy efficiency revenues due to regulatory required programs. For PHI, reflects higher revenues due to certain EDIT benefits being fully amortized and passed through to customers, which is offset in Interest expense and Other and the regulatory asset amortization of the ACE Purchase Power Agreement termination obligation recorded in the first quarter of 2022, which is fully recoverable.
+(7)
+Represents Operating and maintenance expense, excluding pension and non-pension postretirement benefits. For ComEd, reflects increased contracting costs. For PECO, primarily reflects increased storm costs and increased program costs related to regulatory required programs. For BGE, primarily reflects increased storm costs. For PHI, reflects increased contracting costs due to timing. For Corporate, includes the following three items: 1) a decrease in Operating and maintenance expense with an offsetting decrease in other income for costs billed to Constellation for services provided by Exelon through the TSA 2) lower BSC costs that were historically allocated to Generation but are presented as part of continuing operations in Exelon’s results as these costs do not qualify as expenses of the discontinued operations per the accounting rules (YTD Q1 2023 includes no costs compared to one month of costs for the period prior to the separation for YTD Q1 2022), and 3) an increase in costs for the DPA related matters.
+(8)
+Reflects ongoing capital expenditures across all utilities and higher depreciation rates effective January 2023 for ComEd. For PHI, includes the regulatory asset amortization of the ACE Purchase Power Agreement termination obligation recorded in the first quarter of 2022, which is fully recoverable in Other Energy Delivery.
+(9)
+For PHI, primarily reflects higher income tax expense due to certain EDIT benefits being fully amortized and passed through to customers, with an offsetting increase in Other energy delivery. For Corporate, primarily reflects an increase in interest expense and a decrease in other income for costs billed to Constellation for services provided by Exelon through the TSA, with an offsetting decrease in Operating and maintenance expense. These items are partially offset by an increase in other income for the proposed settlement of the DPA related derivative claims.
+(10)
+Reflects the impact on earnings per share due to the increase in Exelon's average diluted common shares outstanding as a result of the August 2022 common stock issuance.
+ComEd Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+8,199
+8,467
+(3.2
+)%
+(5.3
+)%
+$
+1,047
+$
+935
+12.0
+%
+Small commercial & industrial
+7,822
+8,003
+(2.3
+)%
+(2.3
+)%
+540
+217
+148.8
+%
+Large commercial & industrial
+7,039
+6,973
+0.9
+%
+0.2
+%
+263
+(117
+)
+(324.8
+)%
+Public authorities & electric railroads
+209
+216
+(3.2
+)%
+(3.5
+)%
+11
+3
+266.7
+%
+Other(b)
+—
+—
+n/a
+n/a
+265
+246
+7.7
+%
+Total electric revenues(c)
+23,269
+23,659
+(1.6
+)%
+(2.6
+)%
+2,126
+1,284
+65.6
+%
+Other Revenues(d)
+142
+94
+51.1
+%
+Total Electric Revenues
+$
+2,268
+$
+1,378
+64.6
+%
+Purchased Power
+$
+896
+$
+121
+640.5
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+15
+75
+79
+(80.0
+)%
+(81.0
+)%
+Cooling Degree-Days
+791
+778
+722
+1.7
+%
+9.6
+%
+Nine Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+20,217
+21,835
+(7.4
+)%
+(3.3
+)%
+$
+2,744
+$
+2,610
+5.1
+%
+Small commercial & industrial
+21,854
+22,705
+(3.7
+)%
+(2.3
+)%
+1,363
+953
+43.0
+%
+Large commercial & industrial
+20,101
+20,361
+(1.3
+)%
+(0.7
+)%
+553
+48
+1,052.1
+%
+Public authorities & electric railroads
+622
+659
+(5.6
+)%
+(4.8
+)%
+33
+22
+50.0
+%
+Other(b)
+—
+—
+n/a
+n/a
+716
+718
+(0.3
+)%
+Total electric revenues(c)
+62,794
+65,560
+(4.2
+)%
+(2.2
+)%
+5,409
+4,351
+24.3
+%
+Other Revenues(d)
+427
+185
+130.8
+%
+Total Electric Revenues
+$
+5,836
+$
+4,536
+28.7
+%
+Purchased Power
+$
+2,068
+$
+1,041
+98.7
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+3,267
+3,953
+3,829
+(17.4
+)%
+(14.7
+)%
+Cooling Degree-Days
+1,089
+1,155
+988
+(5.7
+)%
+10.2
+%
+Number of Electric Customers
+2023
+2022
+Residential
+3,733,678
+3,711,894
+Small commercial & industrial
+391,222
+390,303
+Large commercial & industrial
+1,887
+1,892
+Public authorities & electric railroads
+4,802
+4,854
+Total
+4,131,589
+4,108,943
+__________
+(a)
+Reflects revenues from customers purchasing electricity directly from ComEd and customers purchasing electricity from a competitive electric generation supplier, as all customers are assessed delivery charges. For customers purchasing electricity from ComEd, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling $9 million and $6 million for the three months ended September 30, 2023 and 2022, respectively, and $14 million and $14 million for the nine months ended September 30, 2023 and 2022, respectively.
+(d)
+Includes alternative revenue programs and late payment charges.
+PECO Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+4,134
+4,386
+(5.7
+)%
+4.9
+%
+$
+654
+$
+620
+5.5
+%
+Small commercial & industrial
+2,070
+2,139
+(3.2
+)%
+0.8
+%
+148
+149
+(0.7
+)%
+Large commercial & industrial
+3,830
+3,943
+(2.9
+)%
+(0.4
+)%
+67
+93
+(28.0
+)%
+Public authorities & electric railroads
+152
+172
+(11.6
+)%
+(10.8
+)%
+7
+8
+(12.5
+)%
+Other(b)
+—
+—
+n/a
+n/a
+80
+71
+12.7
+%
+Total electric revenues(c)
+10,186
+10,640
+(4.3
+)%
+1.7
+%
+956
+941
+1.6
+%
+Other Revenues(d)
+14
+—
+n/a
+Total Electric Revenues
+970
+941
+3.1
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+2,134
+2,197
+(2.9
+)%
+(5.4
+)%
+43
+46
+(6.5
+)%
+Small commercial & industrial
+1,939
+2,054
+(5.6
+)%
+(8.1
+)%
+16
+20
+(20.0
+)%
+Large commercial & industrial
+4
+6
+(33.3
+)%
+(7.1
+)%
+—
+—
+n/a
+Transportation
+5,278
+5,162
+2.2
+%
+8.3
+%
+7
+5
+40.0
+%
+Other(f)
+—
+—
+n/a
+n/a
+1
+2
+(50.0
+)%
+Total natural gas revenues(g)
+9,355
+9,419
+(0.7
+)%
+1.1
+%
+67
+73
+(8.2
+)%
+Other Revenues(d)
+—
+—
+n/a
+Total Natural Gas Revenues
+67
+73
+(8.2
+)%
+Total Electric and Natural Gas Revenues
+$
+1,037
+$
+1,014
+2.3
+%
+Purchased Power and Fuel
+$
+411
+$
+403
+2.0
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+18
+19
+22
+(5.3
+)%
+(18.2
+)%
+Cooling Degree-Days
+1,064
+1,290
+1,022
+(17.5
+)%
+4.1
+%
+Nine Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+10,186
+11,204
+(9.1
+)%
+0.7
+%
+$
+1,617
+$
+1,538
+5.1
+%
+Small commercial & industrial
+5,616
+5,889
+(4.6
+)%
+—
+%
+415
+386
+7.5
+%
+Large commercial & industrial
+10,398
+10,691
+(2.7
+)%
+(0.3
+)%
+196
+229
+(14.4
+)%
+Public authorities & electric railroads
+464
+489
+(5.1
+)%
+(5.0
+)%
+23
+23
+—
+%
+Other(b)
+—
+—
+n/a
+n/a
+219
+202
+8.4
+%
+Total electric revenues(c)
+26,664
+28,273
+(5.7
+)%
+0.1
+%
+2,470
+2,378
+3.9
+%
+Other Revenues(d)
+14
+12
+16.7
+%
+Total Electric Revenues
+2,484
+2,390
+3.9
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+23,697
+28,240
+(16.1
+)%
+(3.9
+)%
+335
+335
+—
+%
+Small commercial & industrial
+14,381
+16,238
+(11.4
+)%
+(1.8
+)%
+123
+125
+(1.6
+)%
+Large commercial & industrial
+39
+20
+95.0
+%
+3.6
+%
+1
+—
+n/a
+Transportation
+17,482
+18,508
+(5.5
+)%
+(2.3
+)%
+20
+19
+5.3
+%
+Other(f)
+—
+—
+n/a
+n/a
+12
+7
+71.4
+%
+Total natural gas revenues(g)
+55,599
+63,006
+(11.8
+)%
+(2.9
+)%
+491
+486
+1.0
+%
+Other Revenues(d)
+2
+1
+100.0
+%
+Total Natural Gas Revenues
+493
+487
+1.2
+%
+Total Electric and Natural Gas Revenues
+$
+2,977
+$
+2,877
+3.5
+%
+Purchased Power and Fuel
+$
+1,197
+$
+1,093
+9.5
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+2,236
+2,632
+2,866
+(15.0
+)%
+(22.0
+)%
+Cooling Degree-Days
+1,297
+1,725
+1,408
+(24.8
+)%
+(7.9
+)%
+Number of Electric Customers
+2023
+2022
+Number of Natural Gas Customers
+2023
+2022
+Residential
+1,531,168
+1,523,269
+Residential
+505,370
+500,934
+Small commercial & industrial
+155,932
+155,516
+Small commercial & industrial
+44,743
+46,074
+Large commercial & industrial
+3,111
+3,120
+Large commercial & industrial
+9
+9
+Public authorities & electric railroads
+10,416
+10,393
+Transportation
+629
+656
+Total
+1,700,627
+1,692,298
+Total
+550,751
+547,673
+__________
+(a)
+Reflects delivery volumes and revenues from customers purchasing electricity directly from PECO and customers purchasing electricity from a competitive electric generation supplier as all customers are assessed distribution charges. For customers purchasing electricity from PECO, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling $2 million and $3 million for the three months ended September 30, 2023 and 2022, respectively, and $5 million and $5 million for the nine months ended September 30, 2023 and 2022, respectively.
+(d)
+Includes alternative revenue programs and late payment charges.
+(e)
+Reflects delivery volumes and revenues from customers purchasing natural gas directly from PECO and customers purchasing natural gas from a competitive natural gas supplier as all customers are assessed distribution charges. For customers purchasing natural gas from PECO, revenue also reflects the cost of natural gas.
+(f)
+Includes revenues primarily from off-system sales.
+(g)
+Includes operating revenues from affiliates totaling less than $1 million and less than $1 million for the three months ended September 30, 2023 and 2022, respectively, and $1 million and $1 million for the nine months ended September 30, 2023 and 2022, respectively.
+BGE Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-
+Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+3,601
+3,664
+(1.7
+)%
+(1.4
+)%
+$
+512
+$
+406
+26.1
+%
+Small commercial & industrial
+722
+754
+(4.2
+)%
+(1.4
+)%
+86
+88
+(2.3
+)%
+Large commercial & industrial
+3,664
+3,703
+(1.1
+)%
+(1.2
+)%
+144
+158
+(8.9
+)%
+Public authorities & electric railroads
+50
+46
+8.7
+%
+3.9
+%
+7
+7
+—
+%
+Other(b)
+—
+—
+n/a
+n/a
+104
+101
+3.0
+%
+Total electric revenues(c)
+8,037
+8,167
+(1.6
+)%
+(1.3
+)%
+853
+760
+12.2
+%
+Other Revenues(d)
+(17
+)
+(3
+)
+466.7
+%
+Total Electric Revenues
+836
+757
+10.4
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+2,258
+2,321
+(2.7
+)%
+(2.0
+)%
+57
+70
+(18.6
+)%
+Small commercial & industrial
+782
+844
+(7.3
+)%
+(7.1
+)%
+10
+13
+(23.1
+)%
+Large commercial & industrial
+7,512
+7,943
+(5.4
+)%
+(5.2
+)%
+25
+28
+(10.7
+)%
+Other(f)
+7
+82
+(91.5
+)%
+n/a
+4
+2
+100.0
+%
+Total natural gas revenues(g)
+10,559
+11,190
+(5.6
+)%
+(4.7
+)%
+96
+113
+(15.0
+)%
+Other Revenues(d)
+—
+—
+n/a
+Total Natural Gas Revenues
+96
+113
+(15.0
+)%
+Total Electric and Natural Gas Revenues
+$
+932
+$
+870
+7.1
+%
+Purchased Power and Fuel
+$
+380
+$
+350
+8.6
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+41
+50
+70
+(18.0
+)%
+(41.4
+)%
+Cooling Degree-Days
+706
+711
+617
+(0.7
+)%
+14.4
+%
+Nine Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-
+Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+9,162
+9,985
+(8.2
+)%
+(0.2
+)%
+$
+1,308
+$
+1,158
+13.0
+%
+Small commercial & industrial
+2,005
+2,126
+(5.7
+)%
+(0.7
+)%
+253
+239
+5.9
+%
+Large commercial & industrial
+9,812
+10,090
+(2.8
+)%
+(1.2
+)%
+412
+418
+(1.4
+)%
+Public authorities & electric railroads
+153
+152
+0.7
+%
+(0.3
+)%
+22
+20
+10.0
+%
+Other(b)
+—
+—
+n/a
+n/a
+303
+297
+2.0
+%
+Total electric revenues(c)
+21,132
+22,353
+(5.5
+)%
+(0.7
+)%
+2,298
+2,132
+7.8
+%
+Other Revenues(d)
+24
+(10
+)
+(340.0
+)%
+Total Electric Revenues
+2,322
+2,122
+9.4
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+22,954
+28,382
+(19.1
+)%
+1.0
+%
+406
+448
+(9.4
+)%
+Small commercial & industrial
+5,706
+6,895
+(17.2
+)%
+(3.3
+)%
+66
+77
+(14.3
+)%
+Large commercial & industrial
+28,785
+31,854
+(9.6
+)%
+(3.9
+)%
+124
+128
+(3.1
+)%
+Other(f)
+1,692
+5,472
+(69.1
+)%
+n/a
+28
+50
+(44.0
+)%
+Total natural gas revenues(g)
+59,137
+72,603
+(18.5
+)%
+(1.7
+)%
+624
+703
+(11.2
+)%
+Other Revenues(d)
+40
+(15
+)
+(366.7
+)%
+Total Natural Gas Revenues
+664
+688
+(3.5
+)%
+Total Electric and Natural Gas Revenues
+$
+2,986
+$
+2,810
+6.3
+%
+Purchased Power and Fuel
+$
+1,145
+$
+1,093
+4.8
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+2,195
+2,737
+2,942
+(19.8
+)%
+(25.4
+)%
+Cooling Degree-Days
+917
+990
+879
+(7.4
+)%
+4.3
+%
+Number of Electric Customers
+2023
+2022
+Number of Natural Gas Customers
+2023
+2022
+Residential
+1,208,230
+1,200,786
+Residential
+655,753
+653,413
+Small commercial & industrial
+115,557
+115,778
+Small commercial & industrial
+37,950
+38,128
+Large commercial & industrial
+13,007
+12,774
+Large commercial & industrial
+6,289
+6,222
+Public authorities & electric railroads
+264
+266
+Total
+1,337,058
+1,329,604
+Total
+699,992
+697,763
+__________
+(a)
+Reflects revenues from customers purchasing electricity directly from BGE and customers purchasing electricity from a competitive electric generation supplier as all customers are assessed distribution charges. For customers purchasing electricity from BGE, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling $1 million and $2 million for the three months ended September 30, 2023 and 2022, respectively, and $4 million and $5 million for the nine months ended September 30, 2023 and 2022, respectively.
+(d)
+Includes alternative revenue programs and late payment charges.
+(e)
+Reflects delivery volumes and revenues from customers purchasing natural gas directly from BGE and customers purchasing natural gas from a competitive natural gas supplier as all customers are assessed distribution charges. For customers purchasing natural gas from BGE, revenue also reflects the cost of natural gas.
+(f)
+Includes revenues primarily from off-system sales.
+(g)
+Includes operating revenues from affiliates totaling $1 million and $1 million for the three months ended September 30, 2023 and 2022, respectively, and $2 million and $8 million for the nine months ended September 30, 2023 and 2022, respectively.
+Pepco Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+2,529
+2,384
+6.1
+%
+1.3
+%
+$
+405
+$
+318
+27.4
+%
+Small commercial & industrial
+315
+299
+5.4
+%
+3.7
+%
+54
+44
+22.7
+%
+Large commercial & industrial
+3,975
+3,866
+2.8
+%
+2.3
+%
+303
+303
+—
+%
+Public authorities & electric railroads
+175
+176
+(0.6
+)%
+(0.4
+)%
+9
+9
+—
+%
+Other(b)
+—
+—
+n/a
+n/a
+67
+57
+17.5
+%
+Total electric revenues(c)
+6,994
+6,725
+4.0
+%
+2.0
+%
+838
+731
+14.6
+%
+Other Revenues(d)
+(16
+)
+(7
+)
+128.6
+%
+Total Electric Revenues
+$
+822
+$
+724
+13.5
+%
+Purchased Power
+$
+288
+$
+230
+25.2
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+11
+19
+8
+(42.1
+)%
+37.5
+%
+Cooling Degree-Days
+1,182
+1,218
+1,184
+(3.0
+)%
+(0.2
+)%
+Nine Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather-
+Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+6,090
+6,390
+(4.7
+)%
+—
+%
+$
+954
+$
+826
+15.5
+%
+Small commercial & industrial
+831
+855
+(2.8
+)%
+(0.2
+)%
+134
+117
+14.5
+%
+Large commercial & industrial
+10,299
+10,499
+(1.9
+)%
+(0.1
+)%
+838
+806
+4.0
+%
+Public authorities & electric railroads
+442
+451
+(2.0
+)%
+(1.3
+)%
+25
+25
+—
+%
+Other(b)
+—
+—
+n/a
+n/a
+187
+157
+19.1
+%
+Total electric revenues(c)
+17,662
+18,195
+(2.9
+)%
+(0.1
+)%
+2,138
+1,931
+10.7
+%
+Other Revenues(d)
+36
+(12
+)
+(400.0
+)%
+Total Electric Revenues
+$
+2,174
+$
+1,919
+13.3
+%
+Purchased Power
+$
+750
+$
+605
+24.0
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+1,840
+2,357
+2,437
+(21.9
+)%
+(24.5
+)%
+Cooling Degree-Days
+1,572
+1,721
+1,693
+(8.7
+)%
+(7.1
+)%
+Number of Electric Customers
+2023
+2022
+Residential
+862,321
+853,873
+Small commercial & industrial
+54,082
+54,423
+Large commercial & industrial
+22,952
+22,789
+Public authorities & electric railroads
+205
+196
+Total
+939,560
+931,281
+__________
+(a)
+Reflects revenues from customers purchasing electricity directly from Pepco and customers purchasing electricity from a competitive electric generation supplier as all customers are assessed distribution charges. For customers purchasing electricity from Pepco, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling $1 million and $2 million for the three months ended September 30, 2023 and 2022, respectively, and $5 million and $4 million for the nine months ended September 30, 2023 and 2022, respectively.
+(d)
+Includes alternative revenue programs and late payment charge revenues.
+DPL Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+1,620
+1,574
+2.9
+%
+1.2
+%
+$
+255
+$
+207
+23.2
+%
+Small commercial & industrial
+683
+667
+2.4
+%
+1.6
+%
+70
+65
+7.7
+%
+Large commercial & industrial
+1,154
+1,167
+(1.1
+)%
+(0.5
+)%
+32
+43
+(25.6
+)%
+Public authorities & electric railroads
+9
+10
+(10.0
+)%
+(5.4
+)%
+3
+4
+(25.0
+)%
+Other(b)
+—
+—
+n/a
+n/a
+67
+55
+21.8
+%
+Total electric revenues(c)
+3,466
+3,418
+1.4
+%
+0.6
+%
+427
+374
+14.2
+%
+Other Revenues(d)
+(1
+)
+—
+n/a
+Total Electric Revenues
+426
+374
+13.9
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+414
+374
+10.7
+%
+8.3
+%
+12
+10
+20.0
+%
+Small commercial & industrial
+350
+331
+5.7
+%
+4.4
+%
+7
+6
+16.7
+%
+Large commercial & industrial
+381
+397
+(4.0
+)%
+(4.0
+)%
+1
+3
+(66.7
+)%
+Transportation
+1,119
+1,284
+(12.9
+)%
+(13.0
+)%
+3
+3
+—
+%
+Other(g)
+—
+—
+n/a
+n/a
+1
+16
+(93.8
+)%
+Total natural gas revenues
+2,264
+2,386
+(5.1
+)%
+(5.7
+)%
+24
+38
+(36.8
+)%
+Other Revenues(f)
+—
+—
+n/a
+Total Natural Gas Revenues
+24
+38
+(36.8
+)%
+Total Electric and Natural Gas Revenues
+$
+450
+$
+412
+9.2
+%
+Purchased Power and Fuel
+$
+201
+$
+183
+9.8
+%
+Electric Service Territory
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+26
+31
+25
+(16.1
+)%
+4.0
+%
+Cooling Degree-Days
+1,007
+1,046
+919
+(3.7
+)%
+9.6
+%
+Natural Gas Service Territory
+% Change
+Heating Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+37
+32
+35
+15.6
+%
+5.7
+%
+Nine Months Ended September 30, 2023 and 2022
+Electric and Natural Gas Deliveries
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -Normal %Change
+2023
+2022
+% Change
+Electric (in GWhs)
+Electric Deliveries and Revenues(a)
+Residential
+3,993
+4,257
+(6.2
+)%
+(0.8
+)%
+$
+626
+$
+570
+9.8
+%
+Small commercial & industrial
+1,765
+1,809
+(2.4
+)%
+(0.8
+)%
+189
+173
+9.2
+%
+Large commercial & industrial
+3,138
+3,207
+(2.2
+)%
+(0.6
+)%
+98
+99
+(1.0
+)%
+Public authorities & electric railroads
+31
+32
+(3.1
+)%
+(4.4
+)%
+11
+11
+—
+%
+Other(b)
+—
+—
+n/a
+n/a
+186
+168
+10.7
+%
+Total electric revenues(c)
+8,927
+9,305
+(4.1
+)%
+(0.8
+)%
+1,110
+1,021
+8.7
+%
+Other Revenues(d)
+13
+(2
+)
+(750.0
+)%
+Total Electric Revenues
+1,123
+1,019
+10.2
+%
+Natural Gas (in mmcfs)
+Natural Gas Deliveries and Revenues(e)
+Residential
+4,781
+5,810
+(17.7
+)%
+(4.9
+)%
+88
+77
+14.3
+%
+Small commercial & industrial
+2,494
+2,882
+(13.5
+)%
+(0.3
+)%
+40
+35
+14.3
+%
+Large commercial & industrial
+1,166
+1,259
+(7.4
+)%
+(7.2
+)%
+3
+9
+(66.7
+)%
+Transportation
+4,350
+4,934
+(11.8
+)%
+(7.9
+)%
+11
+11
+—
+%
+Other(f)
+—
+—
+n/a
+n/a
+8
+25
+(68.0
+)%
+Total natural gas revenues
+12,791
+14,885
+(14.1
+)%
+(5.2
+)%
+150
+157
+(4.5
+)%
+Other Revenues(d)
+—
+—
+n/a
+Total Natural Gas Revenues
+150
+157
+(4.5
+)%
+Total Electric and Natural Gas Revenues
+$
+1,273
+$
+1,176
+8.2
+%
+Purchased Power and Fuel
+$
+562
+$
+507
+10.8
+%
+Electric Service Territory
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+2,223
+2,724
+2,891
+(18.4
+)%
+(23.1
+)%
+Cooling Degree-Days
+1,259
+1,392
+1,269
+(9.6
+)%
+(0.8
+)%
+Natural Gas Service Territory
+% Change
+Heating Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+2,306
+2,828
+3,020
+(18.5
+)%
+(23.6
+)%
+Number of Electric Customers
+2023
+2022
+Number of Natural Gas Customers
+2023
+2022
+Residential
+484,425
+480,779
+Residential
+129,436
+129,005
+Small commercial & industrial
+64,101
+63,685
+Small commercial & industrial
+10,039
+10,044
+Large commercial & industrial
+1,245
+1,230
+Large commercial & industrial
+14
+16
+Public authorities & electric railroads
+593
+597
+Transportation
+165
+156
+Total
+550,364
+546,291
+Total
+139,654
+139,221
+__________
+(a)
+Reflects delivery volumes and revenues from customers purchasing electricity directly from DPL and customers purchasing electricity from a competitive electric generation supplier as all customers are assessed distribution charges. For customers purchasing electricity from DPL, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling $2 million and $1 million for the three months ended September 30, 2023 and 2022, respectively and $5 million for both the nine months ended September 30, 2023 and 2022.
+(d)
+Includes alternative revenue programs and late payment charges.
+(e)
+Reflects delivery volumes and revenues from customers purchasing natural gas directly from DPL and customers purchasing natural gas from a competitive natural gas supplier as all customers are assessed distribution charges. For customers purchasing natural gas from DPL, revenue also reflects the cost of natural gas.
+(f)
+Includes revenues primarily from off-system sales.
+ACE Statistics
+Three Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+1,587
+1,516
+4.7
+%
+(2.0
+)%
+$
+299
+$
+283
+5.7
+%
+Small commercial & industrial
+509
+478
+6.5
+%
+4.1
+%
+75
+70
+7.1
+%
+Large commercial & industrial
+923
+885
+4.3
+%
+3.1
+%
+51
+55
+(7.3
+)%
+Public authorities & electric railroads
+10
+9
+11.1
+%
+7.8
+%
+4
+3
+33.3
+%
+Other(b)
+—
+—
+n/a
+n/a
+68
+54
+25.9
+%
+Total electric revenues(c)
+3,029
+2,888
+4.9
+%
+0.7
+%
+497
+465
+6.9
+%
+Other Revenues(d)
+5
+(3
+)
+(266.7
+)%
+Total Electric Revenues
+$
+502
+$
+462
+8.7
+%
+Purchased Power
+$
+221
+$
+197
+12.2
+%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+31
+38
+31
+(18.4
+)%
+—
+%
+Cooling Degree-Days
+852
+955
+879
+(10.8
+)%
+(3.1
+)%
+Nine Months Ended September 30, 2023 and 2022
+Electric Deliveries (in GWhs)
+Revenue (in millions)
+2023
+2022
+% Change
+Weather -
+Normal %Change
+2023
+2022
+% Change
+Electric Deliveries and Revenues(a)
+Residential
+3,122
+3,293
+(5.2
+)%
+(2.9
+)%
+$
+601
+$
+611
+(1.6
+)%
+Small commercial & industrial
+1,227
+1,179
+4.1
+%
+5.3
+%
+180
+171
+5.3
+%
+Large commercial & industrial
+2,455
+2,396
+2.5
+%
+3.2
+%
+163
+151
+7.9
+%
+Public authorities & electric railroads
+33
+34
+(2.9
+)%
+(1.7
+)%
+13
+11
+18.2
+%
+Other(b)
+—
+—
+n/a
+n/a
+194
+190
+2.1
+%
+Total electric revenues(c)
+6,837
+6,902
+(0.9
+)%
+0.7
+%
+1,151
+1,134
+1.5
+%
+Other Revenues(d)
+21
+(14
+)
+(250.0
+)%
+Total Electric Revenues
+$
+1,172
+$
+1,120
+4.6
+%
+Purchased Power
+$
+493
+$
+497
+(0.8
+)%
+% Change
+Heating and Cooling Degree-Days
+2023
+2022
+Normal
+From 2022
+From Normal
+Heating Degree-Days
+2,558
+3,007
+3,037
+(14.9
+)%
+(15.8
+)%
+Cooling Degree-Days
+1,007
+1,231
+1,183
+(18.2
+)%
+(14.9
+)%
+Number of Electric Customers
+2023
+2022
+Residential
+504,330
+501,869
+Small commercial & industrial
+62,410
+62,204
+Large commercial & industrial
+2,980
+3,075
+Public authorities & electric railroads
+729
+731
+Total
+570,449
+567,879
+__________
+(a)
+Reflects delivery volumes and revenues from customers purchasing electricity directly from ACE and customers purchasing electricity from a competitive electric generation supplier as all customers are assessed distribution charges. For customers purchasing electricity from ACE, revenues also reflect the cost of energy and transmission.
+(b)
+Includes transmission revenue from PJM, wholesale electric revenue, and mutual assistance revenue.
+(c)
+Includes operating revenues from affiliates totaling less than $1 million for both the three months ended September 30, 2023 and 2022, and $1 million and $2 million for the nine months ended September 30, 2023 and 2022, respectively.
+(d)
+Includes alternative revenue programs.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231102856728/en/
+Contacts
+James GherardiCorporate Communications312-394-7417
+Andrew PlengeInvestor Relations312-394-2345

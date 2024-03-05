@@ -1,0 +1,32 @@
+url:https://finance.yahoo.com/news/broadcom-vmware-61-billion-deal-095539703.html
+title:Broadcom_Confident_VMware_Deal_to_Close_Despite_China_Review
+(Bloomberg) -- Broadcom Inc. and software maker VMware Inc. said their $61 billion merger is on track to close before a November deadline, working to reassure investors while China drags out its review of the deal.
+Most Read from Bloomberg
+Intuit Is Closing Personal-Finance App Mint, Shifts Users to Credit Karma
+S&P 500 Rises Almost 2%; Apple Down in Late Hours: Markets Wrap
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Harvard, Yale Warned by Top Law Firms About Antisemitism
+Bankman-Fried Found Guilty of Fraud at FTX Criminal Trial
+The companies didn’t say in a joint statement on Monday how close they might be to an approval from Chinese regulators — the last major hurdle to completing the deal. But they said there’s “no legal impediment” to closing under US merger regulations. The agreement between the companies expires on Nov. 26. They had maintained until last month that they expected to close by Oct. 30.
+The combination of the US chipmaker and cloud software company, one of the biggest technology mergers ever, could become the latest casualty of an escalating fight between the US and China for tech dominance. Washington recently tightened export restrictions aimed at blocking China’s access to high-performing semiconductors. Meanwhile, there are signs that a new smartphone developed by China’s Huawei Technologies Co. using an advanced chip is eating into the sales of Apple Inc.’s iPhone 15 series.
+Chinese regulators have tanked several large merger deals in recent years by dragging their feet on approvals, which are required because the country is the world’s biggest buyer of many products, including semiconductors. In the most recent example, Intel Corp. dropped its $5.4 billion attempt to acquire Tower Semiconductor Ltd. after failing to secure a nod in time.
+Last year, DuPont de Nemours Inc. scuttled a proposed $5.2 billion acquisition of Rogers Corp. after failing to get timely clearance from Beijing. In 2018, US-based Qualcomm Inc. scrapped a $44 billion bid for Dutch chipmaker NXP Semiconductors NV after a drawn-out review by China’s State Administration for Market Regulation.
+Broadcom and VMware pointed out in their statement on Monday that the deal has already received legal clearance in other major markets, including the EU, UK, South Korea and Japan. The Financial Times had previously reported that antitrust regulators in China may take longer to approve the combination given a tightening of US chip sanctions, sending shares of VMWare below the offer price.
+VMWare shares were trading at $142.25 midday Monday New York. Under the deal terms, shareholders could choose to receive either $142.50 in cash or 0.252 shares of Broadcom stock for each VMware share. About 96% of shareholders elected to recieve the stock consideration, according to the statement. Broadcom shares were down 1.1% to $828.88.
+For the investor community, the company’s statement “was about as positive as we could expect absent deal close this morning,” said Cabot Henderson, a merger arbitrage strategist at JonesTrading, “although one can never feel completely confident given China approval is something of a black box.”
+Read More: VMWare Falls on Report China is Holding Up $61 Billion Buyout
+Failing to win approval from China could pose a significant setback for San Jose, California-based Broadcom, which derives about 35% of its revenue from the country. If the merger is terminated because the takeover doesn’t gain regulatory approvals in time, Broadcom may be on the hook for a $1.5 billion termination fee under the terms of the agreement.
+Broadcom Chief Executive Officer Hock Tan aims to turn VMware into the centerpiece of his software operations after previously purchasing CA Technologies and Symantec Corp.’s corporate security business. VMware, founded in 1998, pioneered so-called virtualization programs, which consolidated applications and workloads on a smaller number of server computers. The innovation made it easier for servers to handle more than one program.
+Failure to win approval from China would also mark the second time Broadcom has been ensnared by US-China tensions. In 2018, former President Donald Trump blocked Broadcom’s hostile $117 billion takeover of Qualcomm, scuttling a deal that had been scrutinized over a potential threat to US national security. Trump’s order came as Broadcom was in the midst of moving its headquarters from Singapore to the U.S.
+VMware agreed to the takeover in May 2022, setting a record for an acquisition by a chipmaker. The largest previous purchase was Advanced Micro Devices Inc.’s $34.1 billion takeover of Xilinx Inc. The deal included a so-called go-shop clause, which let VMware solicit competing offers, but no other suitors emerged.
+Read More: How the Broadcom-VMware Agreement Came Together
+The VMware transaction was part of a flurry of dealmaking in 2022. Microsoft Corp. agreed that January to buy video-game publisher Activision Blizzard Inc. for $69 billion. A consortium backed by Vista Equity Partners set out to acquire software maker Citrix Systems Inc. for $13 billion, and Elon Musk announced a $44 billion buyout of Twitter Inc. in April. Those deals have all now closed.
+--With assistance from Yiqin Shen.
+(Updates with analyst comment.)
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+World’s Safest Market Becomes a Magnet for Big Investors
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+Foxconn Makes Your iPhone. Now It Wants to Make Your Electric Car
+©2023 Bloomberg L.P.

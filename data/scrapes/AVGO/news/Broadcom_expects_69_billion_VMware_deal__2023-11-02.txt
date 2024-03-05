@@ -1,0 +1,9 @@
+url:https://finance.yahoo.com/news/broadcom-expects-69-billion-vmware-140706699.html
+title:Broadcom_expects_69_billion_VMware_deal_to_close_before_November_deadline
+(Reuters) - U.S. chipmaker Broadcom expects its $69 billion buyout of cloud-computing firm VMware to close before the November deadline, the companies said on Monday, amid investor concerns about securing China's approval for the deal.
+China's State Administration of Market Regulation (SAMR) has not signed off on the deal and is likely to delay its decision, the Financial Times reported earlier this month, after U.S. President Joe Biden's administration introduced tougher chip controls.
+The companies did not disclose details regarding China's approval on Monday, but said there was "no legal impediment" to the deal closing under U.S. merger regulations.
+Broadcom has received legal merger clearance in Australia, Brazil, Canada, the European Union, Israel, Japan, South Africa, South Korea, Taiwan and the United Kingdom, along with foreign investment control clearance in all necessary jurisdictions.
+The deal, Broadcom's largest ever, received EU antitrust approval after the company offered remedies to help rival Marvell Technology.
+Broadcom said in May last year it would buy VMware in a deal consisting of $61 billion in equity and the rest in debt, as the chipmaker aimed to diversify into enterprise software.
+(Reporting by Harshita Mary Varghese; Editing by Devika Syamnath)

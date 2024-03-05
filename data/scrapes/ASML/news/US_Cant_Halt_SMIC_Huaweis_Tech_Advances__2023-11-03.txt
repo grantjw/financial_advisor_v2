@@ -1,0 +1,32 @@
+url:https://finance.yahoo.com/news/us-t-halt-smic-huawei-052645811.html
+title:US_Cant_Halt_SMIC_Huaweis_Tech_Advances_Chip_Guru_Says
+(Bloomberg) -- The US won’t be able to stop Chinese firms including Semiconductor Manufacturing International Corp. and Huawei Technologies Co. from making progress in chip technology, according to one of the semiconductor industry’s leading figures.
+Most Read from Bloomberg
+China’s Ex-Premier Li Keqiang, a Reformer Sidelined by Xi, Dies
+House Speaker Mike Johnson’s First Big Bill Cuts Biden’s Climate Change Funding
+Israel Latest: US Strikes Two Iran-Linked Facilities in Syria
+Tech Giants Signal Rebound as Amazon, Intel Rally: Markets Wrap
+China, US Release Dueling Videos With Accusations of Provocation
+SMIC and Huawei, which stunned Washington by unveiling a made-in-China phone processor, can use existing older machines to make even more sophisticated silicon, said Burn J. Lin, a former Taiwan Semiconductor Manufacturing Co. vice president. SMIC should be able to advance to the next generation at 5 nanometers with machines from ASML Holding NV that it already operates, said Lin, who at TSMC championed the lithography technology that transformed chipmaking.
+Huawei electrified the chip industry when it unveiled a 7nm processor made by SMIC in the Mate 60 Pro, triggering celebration in China and accusations in the US that a campaign to contain the country’s tech ascent had failed. And Yangtze Memory Technologies Co. is now also producing some of the most advanced memory chips in the industry. In October, the Biden administration tightened existing curbs to close loopholes through which the country may be accessing advanced American gear, marking a new phase in a struggle to influence technologies crucial to the economic and political balance.
+Read more: Huawei’s Profit Doubles With Made-in-China Chip Breakthrough
+But that may not stop China’s technological ascent, said Lin, who’s highly regarded in the industry for being the first person to propose immersion lithography, the technology that ASML’s core products rely on.
+SMIC used ASML’s immersion lithography machines to make the 7nm chip for Huawei. Beyond trying to reach the 5nm milestone, it’s likely China will experiment with new materials or advanced chip packaging to make more powerful semiconductors, Lin said. Shares in SMIC gained as much as 5.8% in Hong Kong, their biggest gain in about two weeks.
+“It is just not possible for the US to completely prevent China from improving its chip technology,” Lin said in an interview this week at National Tsing Hua University in Hsinchu, where he serves as dean of the semiconductor research college. That echoed comments from Arm Holdings Plc boss Rene Haas this month.
+“What the US really should do is to focus on maintaining its chip design leadership instead of trying to limit China’s progress, which is futile as China is adopting a whole nation strategy to boost its chip industry, and hurting the global economy,” Lin added.
+In fact, the US may have inadvertently granted SMIC a golden opportunity, he argued.
+In 2020, Washington effectively banned TSMC — supplier of the world’s most advanced silicon to Apple Inc. and Nvidia Corp. — from doing business with Huawei. That’s when SMIC stepped up to inherit the massive orders that helped it improve its manufacturing technique, Lin said. Representatives at SMIC and YMTC did not respond to requests for comment.
+A debate is now raging in the US and beyond about whether Washington and its allies should step up their Chinese containment campaign. US Commerce Secretary Gina Raimondo has said Washington doesn’t have evidence China can make advanced chips “at scale.” But Under Secretary of Commerce for Industry and Security Alan Estevez said it’s “absolutely” a concern for Washington that the Asian nation could use 7nm technology — or better — in military applications.
+Industry analysts including Haitong International Securities’s Jeff Pu have estimated that Huawei could build as many as 70 million smartphones using its own Kirin chips in 2024 — not insignificant compared to the roughly 220 million iPhones that Apple Inc. ships annually.
+In another area of concern for Washington, China is also charging ahead on memory chips — a more commoditized type of silicon than processors but still critical in everything from smartphones and AI training servers to military drones.
+Canadian research firm TechInsights Inc. discovered an advanced chip made by Yangtze Memory in a solid state drive launched around July — months after US curbs announced last year forced foreign equipment suppliers to sever ties with the Chinese semiconductor company. TechInsights, which unearthed SMIC’s and Huawei’s 7nm chip through a joint investigation with Bloomberg News, found the 232-layer quad-level cell 3D NAND die during a routine device teardown, calling it one of the most advanced it had seen.
+“YMTC is quietly developing advanced technology despite being hampered by issues following sanctions,” TechInsights said in a blog post on Tuesday. “Evidence is mounting that China’s momentum to overcome trade restrictions and build its own domestic semiconductor supply chain is more successful than expected.”
+--With assistance from Gao Yuan, Ian King and Jane Lanhee Lee.
+(Updates with SMIC share action from the fifth paragraph)
+Most Read from Bloomberg Businessweek
+Sam Bankman-Fried Takes Stand in Reminder of Crypto’s Epic Fall
+X, One Year Later: How Elon Musk Made a Mess of Twitter’s Business
+Venezuela’s Primary Sweep Puts Maduro and Biden in the Hot Seat
+Li Keqiang: ‘Economic Openness Serves Everyone Better’
+The War That Broke Social Media
+©2023 Bloomberg L.P.

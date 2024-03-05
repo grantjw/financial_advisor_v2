@@ -1,0 +1,76 @@
+url:https://finance.yahoo.com/news/automatic-data-processing-inc-nasdaq-120011722.html
+title:Automatic_Data_Processing_Incs_NASDAQADP_Intrinsic_Value_Is_Potentially_64_Above_Its_Share_Price
+The projected fair value for Automatic Data Processing is US$359 based on 2 Stage Free Cash Flow to Equity
+Automatic Data Processing is estimated to be 39% undervalued based on current share price of US$218
+Our fair value estimate is 44% higher than Automatic Data Processing's analyst price target of US$249
+Does the November share price for Automatic Data Processing, Inc. (NASDAQ:ADP) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. It may sound complicated, but actually it is quite simple!
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.
+ See our latest analysis for Automatic Data Processing 
+We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows. Generally the first stage is higher growth, and the second stage is a lower growth phase. To begin with, we have to get estimates of the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+Generally we assume that a dollar today is more valuable than a dollar in the future, so we need to discount the sum of these future cash flows to arrive at a present value estimate:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$5.14b
+US$5.60b
+US$6.24b
+US$6.39b
+US$6.83b
+US$7.17b
+US$7.46b
+US$7.72b
+US$7.96b
+US$8.19b
+Growth Rate Estimate Source
+Analyst x2
+Analyst x3
+Analyst x3
+Analyst x1
+Analyst x1
+Est @ 4.92%
+Est @ 4.09%
+Est @ 3.51%
+Est @ 3.10%
+Est @ 2.82%
+ Present Value ($, Millions) Discounted @ 6.6% 
+US$4.8k
+US$4.9k
+US$5.2k
+US$5.0k
+US$5.0k
+US$4.9k
+US$4.8k
+US$4.6k
+US$4.5k
+US$4.3k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$48b
+The second stage is also known as Terminal Value, this is the business's cash flow after the first stage. For a number of reasons a very conservative growth rate is used that cannot exceed that of a country's GDP growth. In this case we have used the 5-year average of the 10-year government bond yield (2.2%) to estimate future growth. In the same way as with the 10-year 'growth' period, we discount future cash flows to today's value, using a cost of equity of 6.6%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$8.2b× (1 + 2.2%) ÷ (6.6%– 2.2%) = US$189b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$189b÷ ( 1 + 6.6%)10= US$100b
+The total value, or equity value, is then the sum of the present value of the future cash flows, which in this case is US$148b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Relative to the current share price of US$218, the company appears quite good value at a 39% discount to where the stock price trades currently. Remember though, that this is just an approximate valuation, and like any complex formula - garbage in, garbage out.
+The calculation above is very dependent on two assumptions. The first is the discount rate and the other is the cash flows. Part of investing is coming up with your own evaluation of a company's future performance, so try the calculation yourself and check your own assumptions. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Automatic Data Processing as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 6.6%, which is based on a levered beta of 0.887. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Earnings growth over the past year exceeded the industry.
+Debt is well covered by earnings and cashflows.
+Dividends are covered by earnings and cash flows.
+Weakness
+Dividend is low compared to the top 25% of dividend payers in the Professional Services market.
+Opportunity
+Annual earnings are forecast to grow for the next 3 years.
+Good value based on P/E ratio and estimated fair value.
+Threat
+Annual earnings are forecast to grow slower than the American market.
+Although the valuation of a company is important, it is only one of many factors that you need to assess for a company. The DCF model is not a perfect stock valuation tool. Preferably you'd apply different cases and assumptions and see how they would impact the company's valuation. For example, changes in the company's cost of equity or the risk free rate can significantly impact the valuation. What is the reason for the share price sitting below the intrinsic value? For Automatic Data Processing, there are three important aspects you should explore:
+Risks: For instance, we've identified   1 warning sign for Automatic Data Processing  that you should be aware of.
+Future Earnings: How does ADP's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. Simply Wall St updates its DCF calculation for every American stock every day, so if you want to find the intrinsic value of any other stock just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

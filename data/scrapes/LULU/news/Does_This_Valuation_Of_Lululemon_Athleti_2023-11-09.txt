@@ -1,0 +1,75 @@
+url:https://finance.yahoo.com/news/does-valuation-lululemon-athletica-inc-130011814.html
+title:Does_This_Valuation_Of_Lululemon_Athletica_Inc_NASDAQLULU_Imply_Investors_Are_Overpaying
+Lululemon Athletica's estimated fair value is US$316 based on 2 Stage Free Cash Flow to Equity
+Current share price of US$408 suggests Lululemon Athletica is potentially 29% overvalued
+ Analyst price target for LULU is US$428, which is 36% above our fair value estimate
+Today we will run through one way of estimating the intrinsic value of Lululemon Athletica Inc. (NASDAQ:LULU) by taking the expected future cash flows and discounting them to their present value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.
+ See our latest analysis for Lululemon Athletica 
+We're using the 2-stage growth model, which simply means we take in account two stages of company's growth. In the initial period the company may have a higher growth rate and the second stage is usually assumed to have a stable growth rate. To start off with, we need to estimate the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+A DCF is all about the idea that a dollar in the future is less valuable than a dollar today, so we need to discount the sum of these future cash flows to arrive at a present value estimate:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$1.21b
+US$1.33b
+US$1.44b
+US$1.59b
+US$2.11b
+US$2.35b
+US$2.55b
+US$2.73b
+US$2.87b
+US$3.00b
+Growth Rate Estimate Source
+Analyst x11
+Analyst x12
+Analyst x7
+Analyst x4
+Analyst x2
+Est @ 11.48%
+Est @ 8.70%
+Est @ 6.76%
+Est @ 5.40%
+Est @ 4.44%
+ Present Value ($, Millions) Discounted @ 7.7% 
+US$1.1k
+US$1.1k
+US$1.2k
+US$1.2k
+US$1.5k
+US$1.5k
+US$1.5k
+US$1.5k
+US$1.5k
+US$1.4k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$13b
+We now need to calculate the Terminal Value, which accounts for all the future cash flows after this ten year period. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 7.7%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$3.0b× (1 + 2.2%) ÷ (7.7%– 2.2%) = US$56b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$56b÷ ( 1 + 7.7%)10= US$26b
+The total value, or equity value, is then the sum of the present value of the future cash flows, which in this case is US$40b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Relative to the current share price of US$408, the company appears slightly overvalued at the time of writing. Valuations are imprecise instruments though, rather like a telescope - move a few degrees and end up in a different galaxy. Do keep this in mind.
+Now the most important inputs to a discounted cash flow are the discount rate, and of course, the actual cash flows. Part of investing is coming up with your own evaluation of a company's future performance, so try the calculation yourself and check your own assumptions. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Lululemon Athletica as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 7.7%, which is based on a levered beta of 1.101. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Currently debt free.
+Weakness
+Earnings declined over the past year.
+Expensive based on P/E ratio and estimated fair value.
+Opportunity
+Annual earnings are forecast to grow faster than the American market.
+Threat
+Revenue is forecast to grow slower than 20% per year.
+Although the valuation of a company is important, it is only one of many factors that you need to assess for a company. The DCF model is not a perfect stock valuation tool. Preferably you'd apply different cases and assumptions and see how they would impact the company's valuation. If a company grows at a different rate, or if its cost of equity or risk free rate changes sharply, the output can look very different. Why is the intrinsic value lower than the current share price? For Lululemon Athletica, we've put together three important factors you should further research:
+Risks: Take risks, for example - Lululemon Athletica has   2 warning signs   we think you should be aware of.
+Future Earnings: How does LULU's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. Simply Wall St updates its DCF calculation for every American stock every day, so if you want to find the intrinsic value of any other stock just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Related Quotes

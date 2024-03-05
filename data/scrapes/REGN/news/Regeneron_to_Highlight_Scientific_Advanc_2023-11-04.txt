@@ -1,0 +1,196 @@
+url:https://finance.yahoo.com/news/regeneron-highlight-scientific-advancements-across-110000146.html
+title:Regeneron_to_Highlight_Scientific_Advancements_Across_Diversified_Pipeline_in_DifficulttoTreat_Blood_Cancers_and_Disorders_at_ASH
+Ten abstracts, including three oral presentations, spotlight the expanding body of evidence supporting odronextamab in follicular lymphoma and diffuse large B-cell lymphoma
+Additional presentations include the first review of primary endpoint results with longer follow-up from the pivotal trial for linvoseltamab in heavily pre-treated patients with multiple myeloma
+TARRYTOWN, N.Y., Nov. 03, 2023 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced that new and updated data from its hematology pipeline will be shared in 19 abstracts at the American Society of Hematology (ASH) Annual Meeting from December 9 to 12 in San Diego, CA. These include research across six investigational medicines that span eight difficult-to-treat blood cancers and disorders. Together, these presentations showcase the diversity of approaches Regeneron is advancing through its hematology pipeline and its dedication to leading-edge research.
+“We are fusing our legacy of innovation with our deep scientific expertise in hematology to advance research across multiple modalities as we aim to ultimately make a meaningful impact in patients’ lives. Our data at ASH are a testament to our progress towards this ambition,” said L. Andres Sirulnik, M.D., Ph.D., Senior Vice President, Translational and Clinical Sciences, Hematology at Regeneron. “In addition to new results from our pivotal trials evaluating odronextamab and linvoseltamab, we are presenting findings on our growing blood disorders pipeline. Further, our presentations span emerging measures of disease that contribute to a deeper understanding of these advanced conditions, which in the future could form the basis of response-directed treatment paradigms.”
+At ASH, 10 abstracts will feature updated data and analyses for Regeneron’s most advanced investigational blood cancer medicine, odronextamab (CD20xCD3 bispecific antibody), in relapsed/refractory (R/R) follicular lymphoma (FL) and R/R diffuse large B-cell lymphoma (DLBCL). Among them are three oral presentations from its pivotal trial (ELM-2), including: the final analysis in R/R DLBCL patients; a comprehensive analysis of minimal residual disease status and circulating tumor DNA profiling in R/R FL and DLBCL patients; and updated analyses and long-term follow-up of efficacy, safety and patient reported outcomes in R/R FL. Furthermore, the company will share long-term survival outcomes and a responder analysis for odronextamab from a Phase 1 trial (ELM-1) in R/R DLBCL patients who have progressed after CAR-T therapy, a patient population who have a particularly dismal prognosis and limited effective treatment options. Odronextamab is currently under regulatory review for the treatment of R/R FL and R/R DLBCL by the U.S. Food and Drug Administration, with a target action date of March 31, 2024, as well as by the European Medicines Agency.
+Five presentations will highlight data supporting linvoseltamab (BCMAxCD3 bispecific antibody), including the first presentation of primary endpoint results with longer follow-up from the pivotal Phase 2 trial (LINKER-MM1) in heavily pre-treated patients with multiple myeloma. Additionally, two presentations will review the latest results from three Phase 2 studies evaluating pozelimab (C5 antibody) in combination with Alnylam Pharmaceuticals, Inc.’s cemdisiran (siRNA C5 inhibitor) in patients with paroxysmal nocturnal hemoglobinuria, a rare blood disorder.
+Regeneron presentations at ASH:
+Abstract title 
+Abstract 
+Presenting/Lead Author
+Presentationdate/time(PT)
+Odronextamab
+Circulating Tumor DNA Analysis Associates with Progression-Free Survival (PFS) with Odronextamab Monotherapy in Relapsed/Refractory (R/R) Follicular Lymphoma (FL) and Diffuse Large B-Cell Lymphoma (DLBCL): Identification of Minimal Residual Disease Status and High-Risk Subgroups from the Phase 2 ELM-2 Study
+#427 Oral Presentation
+Jon E. Arnason
+Sunday,December 10,9:30 AM
+ 
+ 
+ 
+ 
+Final Analysis of the Phase 2 ELM-2 Study: Odronextamab in Patients with Relapsed/Refractory (R/R) Diffuse Large B-Cell Lymphoma (DLBCL)
+#436 Oral Presentation
+Sabarish Ram Ayyappan
+Sunday,December 10,10:15 AM
+ 
+ 
+ 
+ 
+Maintenance of Moderate to High Levels of Functioning and Quality of Life with Odronextamab Monotherapy in Patients with Relapsed or Refractory Follicular Lymphoma
+#669 Oral Presentation
+Benoît Tessoulin
+Sunday,December 10,5:00 PM
+ 
+ 
+ 
+ 
+Odronextamab Monotherapy for the Treatment of Relapsed/Refractory (R/R) Follicular Lymphoma (FL) and Diffuse Large B-Cell Lymphoma (DLBCL): Focus on Clinical Pharmacology and Pharmacometrics in the ELM-1 and ELM-2 Studies
+#1436 Poster Presentation
+Min Zhu
+Saturday,December 9,5:30-7:30 PM
+ 
+ 
+ 
+ 
+Results of a Second, Prespecified Analysis of the Phase 2 Study ELM-2 Confirm High Rates of Durable Complete Response with Odronextamab in Patients with Relapsed/Refractory (R/R) Follicular Lymphoma (FL) with Extended Follow-Up
+#3041 Poster Presentation
+Jose (J.C.) C. Villasboas Bisneto
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Trial in Progress: Phase 1 Trial Evaluating the Safety and Tolerability of Odronextamab in Combination with Cemiplimab in Relapsed/Refractory Aggressive B-cell Non-Hodgkin Lymphoma
+#3100 Poster Presentation
+Cecilia Carpio
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Odronextamab Demonstrates Durable Complete Responses in Patients with Diffuse Large B-Cell Lymphoma (DLBCL) Progressing After CAR-T Therapy: Outcomes from the ELM-1 Study
+#4461 Poster Presentation
+Jennifer L. Crombie
+Monday,December 11,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Health-Related Quality of Life and Symptoms in Patients with Relapsed or Refractory Diffuse Large B-Cell Lymphoma Treated with Odronextamab Monotherapy in the Phase 2 ELM-2 Study
+#4504 Poster Presentation
+Elżbieta Iskierka-Jażdżewska
+Monday,December 11,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Key prognostic factors in patients with relapsed/refractory follicular lymphoma: An evidence based systematic literature and medical review
+#7261 Online publication
+Ana Jimenéz-Ubieto
+N/A
+ 
+ 
+ 
+ 
+Key prognostic factors in patients with relapsed/refractory diffuse large B-cell lymphoma: An evidence based systematic literature and medical review
+#7258 Online Publication
+Bastien von Tresckow
+N/A
+ 
+ 
+ 
+ 
+Linvoseltamab
+Incidence of Second Primary Malignancies in Medicare-Insured Patients in the US with Triple-Class Exposed Relapsed/Refractory Multiple Myeloma
+#912 Oral Presentation
+Sikander Ailawadhi
+Monday,December 11,4:00 PM
+ 
+ 
+ 
+ 
+Health-Related Quality of Life (HRQoL) Among Patients with Triple-Class Exposed Relapsed/Refractory Multiple Myeloma (RRMM) Treated with Linvoseltamab in LINKER-MM1: Interim Assessment Up to 36 Weeks of Treatment
+#3359 Poster Presentation
+James E. Hoffman
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Trial In Progress: A Phase 2 Study of Linvoseltamab for the Treatment of High-Risk Smoldering Multiple Myeloma (LINKER-SMM1)
+#3393 Poster Presentation
+Paula Rodriguez-Otero
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Real-World Study of Patients with Triple-Class Exposed Relapsed/Refractory Multiple Myeloma: Analysis Across a Spectrum of Advanced Disease Stage Medicare Patients in the United States
+#3773 Poster Presentation
+Qiufei Ma
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Patterns of Response to 200 mg Linvoseltamab in Patients with Relapsed/Refractory Multiple Myeloma: Longer Follow-up of the LINKER-MM1 study
+#4746 Poster Presentation
+Sundar Jagannath
+Monday,December 11,6:00-8:00 PM
+ 
+ 
+ 
+ 
+Pozelimab + Cemdisiran*
+Psychometric Evaluation of the PNH Symptom Questionnaire (PNH-SQ) Among Patients With Paroxysmal Nocturnal Hemoglobinuria from Three Phase 2 Clinical Trials With Pozelimab Monotherapy or in Combination With Cemdisiran
+#3752 Poster Presentation
+Christopher Hartford
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+52-Week Open-Label Extension Data from A Phase 2 Study Evaluating the Safety and Efficacy of Pozelimab and Cemdisiran Combination Therapy in Patients with Paroxysmal Nocturnal Hemoglobinuria Who Switched from Eculizumab
+#2716 Poster Presentation
+Richard J. Kelly
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+REGN7999 (TMPRSS6 inhibitor)
+Single Ascending Doses of REGN7999, A Monoclonal Antibody Inhibitor of TMPRSS6, Increase Serum Hepcidin And Cause Deep, Sustained Reductions in Serum Iron in Healthy Human Volunteers
+#3841 Poster Presentation
+Nikhil Singh
+Monday,December 11,6:00-8:00 PM
+ 
+ 
+ 
+ 
+REGN7257 (IL2RG antibody)
+Blockade of Common Gamma Chain Cytokine Signaling with REGN7257, an Interleukin 2 Receptor Gamma (IL2RG) Monoclonal Antibody, in Combination with Costimulatory Blockers Delayed Skin Graft Rejection in Mice
+#2550 Poster Presentation
+Audrey Le Floc’h
+Sunday,December 10,6:00-8:00 PM
+ 
+ 
+ 
+ 
+REGV131-LNP1265 (in vivo CRISPR/Cas9-based Factor 9 gene insertion therapy)**
+Novel Approaches for Gene-Based Therapies: Targeted Gene Insertion of Factor 9 as a Durable Treatment for Hemophilia B
+Invited Talk
+Leah Sabin
+Saturday,December 9,9:30-10:45 AM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*In collaboration with Alnylam Pharmaceuticals, Inc.**In collaboration with Intellia Therapeutics, Inc.
+The potential uses of odronextamab, linvoseltamab, pozelimab, cemdisiran, REGN7999, REGN7257, and REGV131-LNP1265 described above are investigational, and their safety and efficacy have not been fully evaluated by any regulatory authority.
+About Regeneron in HematologyAt Regeneron, we’re applying more than three decades of biology expertise with our proprietary VelociSuite® technologies to develop medicines for patients with diverse blood cancers and rare blood disorders.
+Our blood cancer research is focused on bispecific antibodies that are being investigated both as monotherapies and in combination with each other and emerging therapeutic modalities. Together, they provide us with unique combinatorial flexibility to develop customized and potentially synergistic cancer treatments.
+Our research and collaborations to develop potential treatments for rare blood disorders include explorations in antibody medicine, gene editing and gene-knockout technologies, and investigational RNA-approaches focused on depleting abnormal proteins or blocking disease-causing cellular signaling.
+If you are interested in learning more about our clinical trials, please contact us (clinicaltrials@regeneron.com or 844-734-6643) or visit our clinical trials website.
+About Regeneron Regeneron (NASDAQ: REGN) is a leading biotechnology company that invents, develops and commercializes life-transforming medicines for people with serious diseases. Founded and led for 35 years by physician-scientists, our unique ability to repeatedly and consistently translate science into medicine has led to numerous FDA-approved treatments and product candidates in development, almost all of which were homegrown in our laboratories. Regeneron’s medicines and pipeline are designed to help patients with eye diseases, allergic and inflammatory diseases, cancer, cardiovascular and metabolic diseases, hematologic conditions, infectious diseases and rare diseases.
+Regeneron is accelerating and improving the traditional drug development process through its proprietary VelociSuite® technologies, such as VelocImmune®, which uses unique genetically humanized mice to produce optimized fully human antibodies and bispecific antibodies, and through ambitious research initiatives such as the Regeneron Genetics Center®, which is conducting one of the largest genetics sequencing efforts in the world.
+For additional information about Regeneron, please visit www.regeneron.com or follow Regeneron on LinkedIn.
+Forward-Looking Statements and Use of Digital MediaThis press release includes forward-looking statements that involve risks and uncertainties relating to future events and the future performance of Regeneron Pharmaceuticals, Inc. (“Regeneron” or the “Company”), and actual events or results may differ materially from these forward-looking statements. Words such as “anticipate,” “expect,” “intend,” “plan,” “believe,” “seek,” “estimate,” variations of such words, and similar expressions are intended to identify such forward-looking statements, although not all forward-looking statements contain these identifying words. These statements concern, and these risks and uncertainties include, among others, the nature, timing, and possible success and therapeutic applications of products marketed or otherwise commercialized by Regeneron and/or its collaborators or licensees (collectively, “Regeneron’s Products”) and product candidates being developed by Regeneron and/or its collaborators or licensees (collectively, “Regeneron’s Product Candidates”) and research and clinical programs now underway or planned, including without limitation odronextamab (CD20xCD3 bispecific antibody), linvoseltamab (BCMAxCD3 bispecific antibody), pozelimab (C5 antibody) in combination with Alnylam Pharmaceuticals, Inc.’s cemdisiran (siRNA C5 inhibitor), and other of Regeneron’s Product Candidates discussed or referenced in this press release; the likelihood, timing, and scope of possible regulatory approval and commercial launch of Regeneron’s Product Candidates and new indications for Regeneron’s Products, including odronextamab for the treatment of relapsed/refractory (“R/R”) diffuse large B-cell lymphoma and R/R follicular lymphoma, linvoseltamab for the treatment of multiple myeloma, and pozelimab in combination with cemdisiran for the treatment of paroxysmal nocturnal hemoglobinuria; uncertainty of the utilization, market acceptance, and commercial success of Regeneron’s Products and Regeneron’s Product Candidates and the impact of studies (whether conducted by Regeneron or others and whether mandated or voluntary), including the studies discussed or referenced in this press release, on any of the foregoing or any potential regulatory approval of Regeneron’s Products and Regeneron’s Product Candidates (such as odronextamab, linvoseltamab, and pozelimab in combination with cemdisiran); the ability of Regeneron’s collaborators, licensees, suppliers, or other third parties (as applicable) to perform manufacturing, filling, finishing, packaging, labeling, distribution, and other steps related to Regeneron’s Products and Regeneron’s Product Candidates; the ability of Regeneron to manage supply chains for multiple products and product candidates; safety issues resulting from the administration of Regeneron’s Products and Regeneron’s Product Candidates (such as odronextamab, linvoseltamab, and pozelimab in combination with cemdisiran) in patients, including serious complications or side effects in connection with the use of Regeneron’s Products and Regeneron’s Product Candidates in clinical trials; determinations by regulatory and administrative governmental authorities which may delay or restrict Regeneron’s ability to continue to develop or commercialize Regeneron’s Products and Regeneron’s Product Candidates; ongoing regulatory obligations and oversight impacting Regeneron’s Products, research and clinical programs, and business, including those relating to patient privacy; the availability and extent of reimbursement of Regeneron’s Products from third-party payers, including private payer healthcare and insurance programs, health maintenance organizations, pharmacy benefit management companies, and government programs such as Medicare and Medicaid; coverage and reimbursement determinations by such payers and new policies and procedures adopted by such payers; competing drugs and product candidates that may be superior to, or more cost effective than, Regeneron’s Products and Regeneron’s Product Candidates; the extent to which the results from the research and development programs conducted by Regeneron and/or its collaborators or licensees may be replicated in other studies and/or lead to advancement of product candidates to clinical trials, therapeutic applications, or regulatory approval; unanticipated expenses; the costs of developing, producing, and selling products; the ability of Regeneron to meet any of its financial projections or guidance and changes to the assumptions underlying those projections or guidance; the potential for any license, collaboration, or supply agreement, including Regeneron’s agreements with Sanofi and Bayer (or their respective affiliated companies, as applicable) as well as Regeneron’s agreement with Alnylam Pharmaceuticals, Inc. as referenced in this press release, to be cancelled or terminated; the impact of public health outbreaks, epidemics, or pandemics (such as the COVID-19 pandemic) on Regeneron's business; and risks associated with intellectual property of other parties and pending or future litigation relating thereto (including without limitation the patent litigation and other related proceedings relating to EYLEA® (aflibercept) Injection and REGEN-COV® (casirivimab and imdevimab)), other litigation and other proceedings and government investigations relating to the Company and/or its operations, the ultimate outcome of any such proceedings and investigations, and the impact any of the foregoing may have on Regeneron’s business, prospects, operating results, and financial condition. A more complete description of these and other material risks can be found in Regeneron’s filings with the U.S. Securities and Exchange Commission, including its Form 10-K for the year ended December 31, 2022 and its Form 10-Q for the quarterly period ended September 30, 2023. Any forward-looking statements are made based on management’s current beliefs and judgment, and the reader is cautioned not to rely on any forward-looking statements made by Regeneron. Regeneron does not undertake any obligation to update (publicly or otherwise) any forward-looking statement, including without limitation any financial projection or guidance, whether as a result of new information, future events, or otherwise.
+Regeneron uses its media and investor relations website and social media outlets to publish important information about the Company, including information that may be deemed material to investors. Financial and other information about Regeneron is routinely posted and is accessible on Regeneron's media and investor relations website (https://investor.regeneron.com) and its LinkedIn page (https://www.linkedin.com/company/regeneron-pharmaceuticals).
+Contacts: Media RelationsTammy Allen Tel: +1 914-306-2698tammy.allen@regeneron.com
+Investor RelationsVesna TosicTel: +1 914-847-5443vesna.tosic@regeneron.com

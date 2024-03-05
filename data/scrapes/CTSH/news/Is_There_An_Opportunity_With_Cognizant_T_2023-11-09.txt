@@ -1,0 +1,76 @@
+url:https://finance.yahoo.com/news/opportunity-cognizant-technology-solutions-corporations-130050798.html
+title:Is_There_An_Opportunity_With_Cognizant_Technology_Solutions_Corporations_NASDAQCTSH_49_Undervaluation
+Cognizant Technology Solutions' estimated fair value is US$126 based on 2 Stage Free Cash Flow to Equity
+Cognizant Technology Solutions' US$64.96 share price signals that it might be 49% undervalued
+Our fair value estimate is 70% higher than Cognizant Technology Solutions' analyst price target of US$74.10
+How far off is Cognizant Technology Solutions Corporation (NASDAQ:CTSH) from its intrinsic value? Using the most recent financial data, we'll take a look at whether the stock is fairly priced by taking the forecast future cash flows of the company and discounting them back to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.
+ View our latest analysis for Cognizant Technology Solutions 
+We're using the 2-stage growth model, which simply means we take in account two stages of company's growth. In the initial period the company may have a higher growth rate and the second stage is usually assumed to have a stable growth rate. In the first stage we need to estimate the cash flows to the business over the next ten years. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+A DCF is all about the idea that a dollar in the future is less valuable than a dollar today, so we discount the value of these future cash flows to their estimated value in today's dollars:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$2.26b
+US$2.46b
+US$3.04b
+US$3.34b
+US$3.55b
+US$3.74b
+US$3.90b
+US$4.05b
+US$4.18b
+US$4.30b
+Growth Rate Estimate Source
+Analyst x10
+Analyst x9
+Analyst x2
+Analyst x2
+Est @ 6.59%
+Est @ 5.26%
+Est @ 4.32%
+Est @ 3.67%
+Est @ 3.22%
+Est @ 2.90%
+ Present Value ($, Millions) Discounted @ 7.4% 
+US$2.1k
+US$2.1k
+US$2.5k
+US$2.5k
+US$2.5k
+US$2.4k
+US$2.4k
+US$2.3k
+US$2.2k
+US$2.1k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$23b
+We now need to calculate the Terminal Value, which accounts for all the future cash flows after this ten year period. For a number of reasons a very conservative growth rate is used that cannot exceed that of a country's GDP growth. In this case we have used the 5-year average of the 10-year government bond yield (2.2%) to estimate future growth. In the same way as with the 10-year 'growth' period, we discount future cash flows to today's value, using a cost of equity of 7.4%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$4.3b× (1 + 2.2%) ÷ (7.4%– 2.2%) = US$83b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$83b÷ ( 1 + 7.4%)10= US$41b
+The total value, or equity value, is then the sum of the present value of the future cash flows, which in this case is US$64b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Relative to the current share price of US$65.0, the company appears quite good value at a 49% discount to where the stock price trades currently. Valuations are imprecise instruments though, rather like a telescope - move a few degrees and end up in a different galaxy. Do keep this in mind.
+We would point out that the most important inputs to a discounted cash flow are the discount rate and of course the actual cash flows. If you don't agree with these result, have a go at the calculation yourself and play with the assumptions. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Cognizant Technology Solutions as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 7.4%, which is based on a levered beta of 1.054. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Debt is not viewed as a risk.
+Dividends are covered by earnings and cash flows.
+Weakness
+Earnings declined over the past year.
+Dividend is low compared to the top 25% of dividend payers in the IT market.
+Opportunity
+Annual earnings are forecast to grow for the next 3 years.
+Good value based on P/E ratio and estimated fair value.
+Threat
+Annual earnings are forecast to grow slower than the American market.
+Valuation is only one side of the coin in terms of building your investment thesis, and it ideally won't be the sole piece of analysis you scrutinize for a company. DCF models are not the be-all and end-all of investment valuation. Instead the best use for a DCF model is to test certain assumptions and theories to see if they would lead to the company being undervalued or overvalued. For instance, if the terminal value growth rate is adjusted slightly, it can dramatically alter the overall result. Can we work out why the company is trading at a discount to intrinsic value? For Cognizant Technology Solutions, there are three additional factors you should consider:
+Risks: Take risks, for example - Cognizant Technology Solutions has   1 warning sign   we think you should be aware of.
+Future Earnings: How does CTSH's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other Solid Businesses: Low debt, high returns on equity and good past performance are fundamental to a strong business. Why not explore our interactive list of stocks with solid business fundamentals to see if there are other companies you may not have considered!
+PS. Simply Wall St updates its DCF calculation for every American stock every day, so if you want to find the intrinsic value of any other stock just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

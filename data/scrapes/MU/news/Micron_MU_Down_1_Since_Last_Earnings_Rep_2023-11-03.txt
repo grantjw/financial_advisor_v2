@@ -1,0 +1,32 @@
+url:https://finance.yahoo.com/news/micron-mu-down-1-since-153003790.html
+title:Micron_MU_Down_1_Since_Last_Earnings_Report_Can_It_Rebound
+It has been about a month since the last earnings report for Micron (MU). Shares have lost about 1% in that time frame, outperforming the S&P 500.
+Will the recent negative trend continue leading up to its next earnings release, or is Micron due for a breakout? Before we dive into how investors and analysts have reacted as of late, let's take a quick look at the most recent earnings report in order to get a better handle on the important catalysts.
+Micron reported better-than-expected fourth-quarter fiscal 2023 results. The company reported a non-GAAP loss of $1.07 per share, narrower than the Zacks Consensus Estimate of a loss of $1.19. However, the bottom line compared unfavorably with the prior-year quarter’s earnings of $1.45 per share.
+The quarterly revenues of Micron plunged 39.6% year over year to $4.01 billion but surpassed the consensus mark of $3.91 billion. Weak consumer demand and substantial customer inventory adjustments across end markets amid macroeconomic uncertainty were the main reasons behind the drastic year-over-year decline in the quarterly performance.
+However, MU registered sequential growth in the top and bottom lines. Fourth-quarter revenues and gross margin came in above the midpoint of its previously provided guidance range, while the EPS exceeded the high end of the guidance range.
+DRAM (Dynamic Random Access Memory) revenues of $2.76 billion, accounting for 69% of the total revenues in the fiscal fourth quarter, declined 42.7% year over year but improved 3% sequentially. Bit shipments increased in the mid-teen percentage range sequentially, while the average selling price (ASP) declined in the high-single-digit percentage range on a quarter-over-quarter basis.
+NAND revenues of $1.21 billion, representing 30% of the total top line, were down 28.6% on a year-over-year basis but up 19% quarter over quarter. While NAND ASP decreased in the mid-teen percentage sequentially, bit shipments increased more than 40%.
+Other revenues were 1% of the total revenues of $50 million in the reported quarter.
+Segment-wise, revenues of $1.2 billion from the Computing and Networking Business Unit plunged 59% from the year-ago quarter while declining 14% sequentially. Revenues of $1.21 billion from the Mobile Business Unit declined 20% on a year-over-year basis but increased 48% on a quarter-over-quarter basis.
+The Embedded Business Unit’s revenues logged in at $860 million, down 34% from the year-ago period and 6% from the previous quarter. Revenues from the Storage Business Unit, comprising solid-state drive NAND components, totaled $739 million, down 17% year over year but up 18% sequentially.
+For the fourth quarter, Micron posted a non-GAAP gross loss of $366 million compared to a non-GAAP gross profit of $2.68 billion reported in the year-ago quarter. The non-GAAP gross margin of -9% reflects a significant decline from the year-ago quarter’s 40%. However, the metrics registered a significant improvement from the second quarter’s non-GAAP gross loss of $603 million and gross margin of -16%.
+Micron’s non-GAAP operating loss of $1.21 billion compared unfavorably with the non-GAAP operating income of $1.66 billion in the prior-year quarter. In the third quarter of fiscal 2023, the company reported a non-GAAP operating loss of $1.47 billion.
+The non-GAAP operating margin came in at negative 30%, while it posted an operating margin of positive 25% in the year-ago quarter. In the third quarter of fiscal 2023, MU posted a non-GAAP operating margin of negative 39%.
+Non-GAAP operating expenses came in at $842 million compared with the previous quarter’s $866 million and the year-ago quarter’s $1.01 billion.
+Micron exited the reported quarter with cash and investments of $10.5 billion compared with the $11.4 billion recorded at the end of the prior quarter. It ended the quarter with total liquidity of $13 billion, down from $13.9 billion compared with the third quarter.
+Micron’s long-term debt as of Aug 31, 2023 was $13.3 billion compared with the $12.99 billion witnessed at the end of the fiscal 2023 third quarter.
+The company generated operating cash flow of $249 million in the fourth quarter and $1.56 billion in the full fiscal 2023. It generated adjusted free cash flow of negative $758 million in the fourth quarter and a negative $5.45 billion in full-fiscal 2023.
+Micron announced that its board approved a quarterly cash dividend of 11.5 cents per share, payable on Oct 25, 2023, to shareholders of record as of Oct 10. However, the company temporarily suspended its share buyback plan since the second quarter of fiscal 2023. In the first quarter of fiscal 2023, MU had repurchased stocks worth $425 million.
+Micron provided guidance for the first quarter of fiscal 2024. The company anticipates revenues of $4.40 billion (+/-$200 million) for the fiscal first quarter. For the fiscal first quarter, MU projects a non-GAAP gross margin of 4% (+/-200 basis points). Operating expenses on a non-GAAP basis are estimated at $900 million (+/-$15 million). The adjusted loss per share is anticipated at $1.07 (+/-7 cents).
+How Have Estimates Been Moving Since Then?
+It turns out, estimates review flatlined during the past month.
+VGM Scores
+At this time, Micron has a poor Growth Score of F, a grade with the same score on the momentum front. Charting a somewhat similar path, the stock was allocated a grade of D on the value side, putting it in the bottom 40% for this investment strategy.
+Overall, the stock has an aggregate VGM Score of F. If you aren't focused on one strategy, this score is the one you should be interested in.
+Outlook
+Micron has a Zacks Rank #3 (Hold). We expect an in-line return from the stock in the next few months.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Micron Technology, Inc. (MU) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

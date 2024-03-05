@@ -1,0 +1,25 @@
+url:https://finance.yahoo.com/news/amd-beats-earnings-estimates-misses-q4-guidance-204339270.html
+title:AMD_beats_earnings_estimates_misses_Q4_guidance
+AMD (AMD) reported its third quarter earnings Tuesday after the bell, but not all the chips fell its way.
+While it beat estimates on the top and bottom line, the company missed on its Q4 guidance. AMD's shares fell about 4% in after-hours trading, but gained back the loss after optimism about its latest data center chips grew. The stock is up 8% on Wednesday.
+In Q3, AMD reeled in $5.8 billion in revenue and $0.70 in EPS, but forecasted $6.1 billion in revenue for the next quarter, missing analysts' expectations of $6.4 billion.
+Amid the AI boom, AMD is playing catch-up with Nvidia (NVDA), which currently rules the roost when it comes to AI chips. But the underdog has been making headway — AMD CEO Lisa Su recently made the case that the AI field is more wide open than it might appear right now.
+"I'm not a believer in moats when the market is moving as fast as this," Su told the audience at the 2023 Code Conference. "When you think about moats, ... [they are in] markets where people are not really wanting to change things a lot."
+Looking ahead, AMD's newest data center chip, the MI300, could be the push it needs to narrow the gap on the competition.
+The company is betting that a ramp-up of its MI300 chips will give it a piece of the lucrative data center business, as tech firms race to secure power to train their AI models. "This growth would make MI300 the fastest product to ramp to $1 billion in sales in AMD history," Su said in a call with analysts.
+TD Cowen's Matthew Ramsay, writing on Oct. 16, noted that while this might be a "choppy" earnings season for AMD and competitors like Broadcom (AVGO) and Marvell (MRVL), these companies are set up for strong growth by the end of 2024 and into 2025.
+"We continue to emphasize that the vast majority of these semis franchises ... are high-quality, high-margin businesses and long-term secular trends remain quite positive," he wrote.
+Last Friday, Cathie Wood's Ark Invest bought more than 50,000 shares of AMD, a purchase valued at more than $5 million.
+The chipmaker's shares are up about 50% year to date.
+Here are the key numbers that AMD reported as compared to analysts' expectations compiled by Bloomberg:
+Revenue: $5.8 billion actual versus $5.7 billion expected
+Adjusted EPS: $0.70 actual versus $0.68 expected
+Adjusted operating margin: 22% actual versus 21.6% expected
+Q4 revenue outlook: ~$6.1 billion actual versus $6.4 billion expected
+Currently, Wall Street analyst recommendations for AMD shake out to 39 Buys, 12 Holds, and one Sell.
+AMD's gaming revenue came in at $1.5 billion, down 8% year over year and missing analysts' expectations of $1.53 billion. AMD's gaming chips are used in video game consoles like Sony’s PlayStation 5.
+The company's embedded segment revenue for Q3 was $1.2 billion, amid a still-sluggish PC market. The number marks a decline of 5% year over year and falls short of estimates of $1.31 billion.
+AMD will keep AI and data centers as its focus in 2024. "We will definitely increase both R&D investment and the go-to-market investment to address those opportunities," Su told analysts. "The way to think about it is that our objective is to drive top-line growth, much faster than OpEx growth, so our investment can drive long-term growth."
+Allie Garfinkle is a Senior Tech Reporter at Yahoo Finance. Follow her on X, formerly Twitter, at @agarfinks and on LinkedIn.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance

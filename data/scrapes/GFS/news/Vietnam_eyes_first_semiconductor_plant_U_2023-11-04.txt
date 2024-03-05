@@ -1,0 +1,20 @@
+url:https://finance.yahoo.com/news/vietnam-eyes-first-semiconductor-plant-030707060.html
+title:Vietnam_eyes_first_semiconductor_plant_US_officials_warn_of_high_costs
+By Francesco Guarascio
+HANOI (Reuters) - Vietnam is holding talks with chips companies with the aim of boosting investment in the country and possibly building its first chipmaking plant, or fab, two business executives said, despite warnings from U.S. industry officials about high costs.
+The Southeast Asian electronics manufacturing hub already hosts U.S. giant Intel's largest semiconductor packaging and testing plant worldwide and is home to several chip designing software firms. It is working on a strategy to attract more semiconductor investment, including from foundries, which focus on manufacturing chips.
+Meetings with half a dozen U.S. chip firms took place in recent weeks, including with fab operators, Vu Tu Thanh, head of the Vietnam office of the US-ASEAN Business Council, told Reuters. He declined to identify the firms because talks were still at a preliminary stage.
+A chip executive, who declined to be identified because he was not allowed to talk to media, said talks with potential investors have involved U.S. contract manufacturer GlobalFoundries and Taiwan's PSMC.
+The aim was to build Vietnam's first fab, most likely for less advanced chips used in cars or for telecoms applications, the executive added.
+The meetings followed an historic upgrade of formal ties between Vietnam and the U.S. in September, when President Joe Biden visited Hanoi and the White House described the former foe as potentially a "critical player" in semiconductor global supply chains.
+GlobalFoundries attended a restricted business summit during Biden's visit after an invitation from the president himself, the company said, but has since shown no immediate interest in investing in Vietnam, a person familiar with the matter said.
+"We do not comment on market rumors," a GlobalFoundries spokesperson said when asked about subsequent contacts. PSMC did not reply to a request for comment.
+Industry officials said meetings at this stage were mostly to test interest and discuss potential incentives and subsidies, including on power supplies, infrastructure and the availability of trained workforce.
+The Vietnamese government has said it wants its first fab by the end of this decade and on Monday said chip companies would benefit from "the highest incentives available in Vietnam".
+It may also support local firms such as state-owned tech company Viettel to build fabs with imported equipment, Hung Nguyen, senior program manager on supply chains at Hanoi's University Vietnam, told Reuters.
+Viettel did not reply to a request for comment.
+$50 BILLION BET
+However, Robert Li, Vice President of U.S. Synopsys, a leading chip design firm with operations in Vietnam, urged the government to "think twice" before doling out subsidies to build fabs.
+Speaking at "Vietnam Semiconductor Summit" in Hanoi on Sunday, he said building a foundry could cost as much as $50 billion, and would entail competing on subsidies with China, the U.S., South Korea and the European Union which have announced spending plans on chips between $50 and $150 billion each.
+John Neuffer, President of the U.S. Semiconductor Industry Association, at the same conference recommended the government focus on chip sectors where Vietnam was already strong, such as assembling, packaging and testing.
+(Reporting by Francesco Guarascio @fraguarascio; additional reporting by Khanh Vu in Hanoi and Fanny Potkin in Singapore; Editing by Lincoln Feast.)

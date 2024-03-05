@@ -1,0 +1,37 @@
+url:https://finance.yahoo.com/news/google-argues-search-payments-necessary-224203444.html
+title:Google_Argues_Search_Payments_Are_Necessary_to_Support_Android
+(Bloomberg) -- Google insists that the billions of dollars in revenue-share payments it makes to smartphone makers and wireless carriers ensures those companies innovate and support the Android software ecosystem, helping it better compete against Apple Inc.’s iPhone, according to a company executive.
+Most Read from Bloomberg
+Rockstar Plans to Announce Much Anticipated ‘Grand Theft Auto VI’
+US 30-Year Mortgage Rate Tumbles by Most in More Than a Year
+VIX Notches Its Longest Slide Since October 2015: Markets Wrap
+Virginia Democrats Fend Off Republican Sweep in Win for Abortion Rights
+Xi to Meet US Business Leaders for Dinner in San Francisco
+The competition between Alphabet Inc.’s Google and Apple is “as intense as it gets,” said Jamie Rosenberg, testifying in the search giant’s defense Wednesday during the Justice Department’s antitrust trial in Washington. Rosenberg, now a part-time employee at the search giant, joined the company in 2010 to focus on Android and the app store Google Play.
+By sharing revenue from search with smartphone makers like Samsung Electronics Co. and wireless carriers like Verizon Communications Inc., Rosenberg said, Google ensures those companies have resources to promote new Android products and help maintain them, by continuing to offer security updates, for example.
+“We want our partners to have aligned incentives,” he said, adding that the revenue-share is a “reinforcing mechanism” for that.
+The Justice Department sued Google for antitrust violations, claiming that the billions of dollars Google pays to Apple, Samsung and others to be the default search engine on mobile phones and PCs has blocked rivals from competing. In exchange for default placement, Google pays the companies a portion of the search advertising revenue it earns.
+Lawyers for the Justice Department sought to undermine Rosenberg’s testimony Wednesday, arguing Google could support its Android smartphone operating system with money derived from the Google Play store. In 2021, the Google Play store made more than $12 billion in operating profit and had an almost 71% profit margin, according to lawyers for Epic Games Inc., which is suing Google for antitrust violations related to the app store.
+In order to put Google apps on devices, manufacturers must sign a mobile app distribution agreement, often referred to as a MADA, Rosenberg said. That agreement requires a company to pre-load a bundle of 11 Google apps on the device including Search, Chrome and Play, he said, but they don’t have to be the default choices.
+Smartphone makers and wireless carriers can sign separately a revenue-share deal to set Google search and the Chrome web browser as the default. These agreements motivate other companies to make or sell more Android devices, Rosenberg said. Google paid $26 billion in 2021 in revenue sharing deals, an executive testified earlier in the trial.
+In response to questions by Justice Department attorney Meagan Bellshaw, Rosenberg acknowledged that Google doesn’t put any conditions on what the wireless carriers or smartphone manufacturers do with the money from the revenue share.
+“We don’t require them to share with us how they are using the funds,” he said.
+Google’s Play Store — where the company takes a 15% to 30% fee on purchases — is also “a significant source of revenue,” Rosenberg said.
+Rosenberg pushed back on the idea that the company could use just Google Play’s revenue to fund the Android ecosystem.
+“We have a commercial interest in seeing Android succeed because of Play. The assumption we would see the same success on Play if we weren’t doing as good a job on search, I don’t think you can necessarily make that connection,” he said.
+Recent Changes
+More recently, Rosenberg said, Google has changed its strategy with the US wireless carriers, entering a pair of agreements – a revenue-share deal and one that offers money to the companies to incentivze them to sell more Android phones. Under that structure, the revenue-share percentage is lower, but overall the carriers can make more money by helping to sell more Android phones, he said.
+“Frankly we felt we were doing our part more than they were doing their part,” he said of the US wireless carriers. The revenue-share alone was “not motivating them.”
+In 2020, Google also renegotiated its deal with Samsung, splitting the single revenue-share agreement into three: one focused on search, one on services and a third on marketing, Rosenberg said. In response to questions, he acknowledged that Samsung’s marketing agreement was contingent on the first one making Google search exclusive.
+“All of these are about making the devices more competitive with iOS,” Rosenberg said.
+Google’s agreements differ in Europe where the bloc’s competition regulators found in 2018 that its Android contracts violated the law. There, smartphone makers must pay a fee to license nine of Google’s apps including Google Play, Rosenberg said. Google separately offers a free license for its search app and Chrome, the web browser where its search engine is the default. If the manufacturer agrees to put those two on the phone, the tech giant will pay the cost of the license for the other apps, he said.
+Because of the EU case, Rosenberg said, Google doesn’t pay search revenue shares in the bloc.
+In internal documents from 2019, however, Google executives said such deals were still needed since the European “ruling created opportunity for rivals to secure full Search exclusivity on devices.” Both Microsoft Corp. and Amazon.com Inc. were “actively pursuing deals for Bing/Alexa on devices not covered by” Google’s revenue-share deals, according to the documents.
+Most Read from Bloomberg Businessweek
+Elon Musk’s Brain Implant Startup Is Ready to Start Surgery
+In Uruguay, a Tax Haven With Lots of Beaches and Little Crime
+Private Equity Courts a Growing Class of Mini-Millionaires
+Can a Triangle-Shaped Jet Cut Fuel Consumption in Half?
+Top-Ranked MBA Programs Struggle to Reverse Declining Applications
+©2023 Bloomberg L.P.
+Related Quotes

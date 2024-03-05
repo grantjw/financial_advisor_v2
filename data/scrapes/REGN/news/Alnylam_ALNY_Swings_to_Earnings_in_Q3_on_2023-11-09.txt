@@ -1,0 +1,43 @@
+url:https://finance.yahoo.com/news/alnylam-alny-swings-earnings-q3-154700900.html
+title:Alnylam_ALNY_Swings_to_Earnings_in_Q3_on_Collaboration_Revenues
+Alnylam Pharmaceuticals, Inc. ALNY reported third-quarter 2023 earnings of $1.15 per share due to higher revenues from collaborators. The Zacks Consensus Estimate was pegged at a loss of $1.61 per share.
+The third-quarter earnings included stock-based compensation expenses and realized/unrealized gain on marketable equity securities. Excluding these items, the adjusted earnings were $1.74 per share.
+The company reported an adjusted loss of $1.58 in the year-ago quarter.
+Alnylam recorded total revenues of $750.5 million in the quarter, up 184% from the year-ago quarter, surpassing the Zacks Consensus Estimate of $406 million. Net product revenues were $313.2 million, up 35% year over year on a reported basis and 33% at constant exchange rate (CER), driven by increased patient demand for the newly approved drug, Amvuttra (vutrisiran), along with Givlaari (givosiran) and Oxlumo (lumasiran). The increase was partially offset by a decrease in demand for Onpattro (patisiran) due to patients switching to Amvuttra.
+Net revenues from collaborations were $427.5 million, up significantly from $29.3 million in the year-ago quarter. The massive uptick is driven by revenues related to Alnylam’s collaborations with Roche RHHBY and Regeneron REGN. During the quarter, the company recognized $310 million from the upfront payment received from Roche for the zilebesiran agreement and $65 million from Regeneron.
+We would like to remind the investors that Alnylam announced entering into a strategic collaboration with Roche to co-develop and co-commercialize zilebesiran for the treatment of hypertension in July 2023.Under the terms of the agreement, Alnylam is also eligible to receive additional payments from Roche upon the fulfillment of certain developmental, regulatory and sales-based milestones, amounting to a potential deal value of up to $2.8 billion.
+The $65 million received from Regeneron was a cumulative adjustment from the $100 million milestone received for achieving certain criteria during the early clinical development of ALN-APP in central nervous system indications.
+In 2019, Alnylam and Regeneron entered into a global and strategic collaboration agreement to co-develop and co-commercialize RNAi therapeutics for a broad range of eye and central nervous system diseases. Following the initial agreement, in July 2020, Regeneron exercised its co-development/co-commercialization option on Alnylam’s first central nervous system targeted development candidate, ALN-APP.
+Alnylam earned collaboration revenues of $18.4 million in the reported quarter from Novartis NVS. Novartis has exclusive and worldwide rights to manufacture and commercialize RNAi therapeutics targeting PCSK9 for the treatment of hypercholesterolemia and other human diseases, including Leqvio (inclisiran).
+Novartis recently reported that the FDA has extended Leqvio’s label to include earlier use in patients with elevated LDL-C who have an increased risk of heart disease as an adjunct to diet and statin therapy.
+Alnylam is entitled to receive license fees from these collaboration agreements.
+During the third quarter, ALNY recorded royalty revenues of $9.9 million, primarily due to Novartis’ sales of Leqvio, which continued to increase following its launch in the U.S. market in the first quarter of 2022. In the year-ago quarter, the company recorded royalty revenues of $2.7 million.
+Shares of Alnylam have plunged 32% year to date compared with the industry’s decline of 22.5%.
+Image Source: Zacks Investment Research
+Onpattro (patisiran) is approved for the treatment of the polyneuropathy of hereditary transthyretin-mediated (hATTR) amyloidosis. The injection recorded sales of $81.6 million in the third quarter, down 44% on a reported basis. Onpattro sales beat the Zacks Consensus Estimate of $80 million as well as our estimate of $81.1 million.
+In June 2022, the FDA approved Alnylam’s RNAi therapeutic, Amvuttra, for the treatment of adult patients with polyneuropathy of hATTR amyloidosis. The European Commission approved Amvuttra for treating hATTR amyloidosis in adult patients with stage 1 or stage 2 polyneuropathy in September.
+Amvuttra generated sales worth $148.7 million in the third quarter, up 489% on a reported basis. The initial uptake for the product has been encouraging with new patients starting treatment as well as several patients switching from Onpattro. Amvuttra sales beat the Zacks Consensus Estimate of $147 million as well as our estimate of $120.8 million.
+As of Sep 30, 2023, more than 3,790 patients were on commercial Onpattro or Amvuttra treatment worldwide, up from 3,490 patients at the end of the second quarter, representing 8% quarterly patient growth.
+Givlaari (givosiran), approved for the treatment of acute hepatic porphyria, recorded sales of $54.1 million, reflecting a year-over-year increase of 19% on a reported basis and 17% at CER. Givlaari sales missed the Zacks Consensus Estimate of $62 million as well as our estimate of $81.8 million.
+Oxlumo (lumasiran) recorded global net product revenues of about $28.7 million in the third quarter of 2023, reflecting a year-over-year increase of 75% on a reported basis and 69% at CER. Oxlumo sales beat the Zacks Consensus Estimate of $28 million and our estimate of $24.1 million.
+Adjusted research and development (R&D) expenses increased 16% year over year to $224 million, driven by an increase in headcount to support the company’s R&D pipeline along with higher expenses incurred in development and study activities.
+Adjusted selling, general and administrative (SG&A) expenses rose 2% year over year to $164.4 million because of higher headcount expenses and investments supporting the launch activities for Amvuttra.
+Cash, cash equivalents and marketable securities as of Sep 30, 2023, amounted to $2.4 billion compared with $2.1 billion as of Jun 30, 2023.
+Alnylam maintained its expectations for net product revenues for Onpattro, Amvuttra, Givlaari and Oxlumo in the range of $1,200-$1,285 million for 2023. Our estimate for net product revenues is pegged at $1,239.3 million for 2023.
+Net revenues from collaborations and royalties are now expected in the range of $575-$625 million, up from the previously guided range of $100-$175 million. Adjusted R&D and SG&A expenses are anticipated in the band of $1,575-$1,650 million, which remained unchanged from the previous guidance.
+The Zacks Consensus Estimate for total revenues in 2023 is pegged at $1.46 billion.
+ 
+Alnylam Pharmaceuticals, Inc. price-consensus-chart | Alnylam Pharmaceuticals, Inc. Quote
+During the quarter, Alnylam announcedpositive top-line results from its mid-stage study of zilebesiran in development for the treatment of hypertension in patients at high cardiovascular risk.
+Also, during the third quarter, the FDA issueda Complete Response Letter (CRL) to ALNY in response to the company’s supplemental New Drug Application (sNDA) for the label expansion of Onpattro (patisiran).
+The sNDA is seeking regulatory approval for Onpattro to treat the cardiomyopathy of ATTR amyloidosis.
+Per Alnylam, the CRL was issued to the company on the grounds that the existing study data did not establish the clinical meaningfulness of Onpattro’s treatment effects for the cardiomyopathy of ATTR amyloidosis. Hence, the sNDA could not be approved in its present form.
+Based on the FDA’s CRL, Alnylam has decided to discontinue pursuing an expanded indication for Onpattro in the United States. However, the company will continue to focus on the phase III HELIOS-B label-expanding study of Amvuttra (vutrisiran) in the treatment of the cardiomyopathy of ATTR amyloidosis, expecting top-line data in early 2024.
+Alnylam currently has a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Regeneron Pharmaceuticals, Inc. (REGN) : Free Stock Analysis Report
+Alnylam Pharmaceuticals, Inc. (ALNY) : Free Stock Analysis Report
+Novartis AG (NVS) : Free Stock Analysis Report
+Roche Holding AG (RHHBY) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

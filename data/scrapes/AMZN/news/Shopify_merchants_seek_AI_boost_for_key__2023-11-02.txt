@@ -1,0 +1,17 @@
+url:https://finance.yahoo.com/news/shopify-merchants-seek-ai-boost-191303748.html
+title:Shopify_merchants_seek_AI_boost_for_key_sales_decisions
+By Arriana McLymore
+NEW YORK (Reuters) - A week after e-commerce giant Amazon said it is giving its sellers new generative artificial intelligence advertising tools this holiday season, Shopify has to prove to investors that its AI products will spark growth when it reports results on Thursday.
+Wall Street is expecting it to show revenue growth of 22.38% to $1.67 billion compared to last year, according to estimates from LSEG.
+Shopify Chief Financial Officer Jeff Hoffmeister said at a September conference that its AI tools are set to be a "superpower" for sellers who need help choosing their merchandise mix and geographic expansion.
+Shopify provides software and services to online sellers. It also provides apps for merchants to sell directly on marketplaces like Amazon and Walmart, which are also building out AI additions for merchants.
+In July, the company announced Shopify Magic, a suite of AI-powered product descriptions, virtual assistants, blog posting and email campaign tools for merchants after completing its divestiture from its logistics arm in May. As part of the AI suite, Shopify launched AI app Sidekick, which helps sellers decide on inventory, promotions and marketing, lessening their dependence on third-party widgets.
+Analysts expect sales of Shopify's merchant products, which includes Shopify Magic, to increase 21% to $1.2 billion compared to last year, the first deceleration in four quarters.
+For comparison, Amazon's third-party seller services grew 19.8% in the third-quarter as part of a major push to get more merchants on its marketplace.
+Michael Morton, an analyst at MoffettNathanson, said he wants Shopify to map out its plan to gain more enterprise customers like Meta and boots-maker Hunter, but does not believe the e-commerce platform's AI tools will be a near-term selling point in grabbing larger clients.
+Shopify Magic is part of the company's long-term strategy to gain more merchants on its platform that will pay higher prices for its services.
+The Ottawa-based company in April raised prices for its monthly subscriptions. Shopify's subscriptions include Shopify Magic at no additional charge.
+Shopify President Harley Finkelstein said during the company's second-quarter call that bringing larger merchants to the platform increased sales volumes for the Shopify's loan, payment and point-of-sales tools and led to higher "cross-sell" volumes.
+Generative AI is going to be a "tougher sell" for merchants who are seeing their business hit by slowing demand and are less willing to experiment, said Angelo Zino, an analyst at CFRA Research.
+"As long as [Shopify] can prove that there are productivity enhancements associated with [AI], there's going to be a way for them to monetize it, but maybe not as much initially," Zino said.
+(Reporting by Arriana McLymore in New York City; Editing by Josie Kao)

@@ -1,0 +1,40 @@
+url:https://finance.yahoo.com/news/google-2019-code-yellow-blurred-215036448.html
+title:Googles_2019_Code_Yellow_Blurred_Line_Between_Search_Ads
+(Bloomberg) -- The former head of search at Alphabet Inc.’s Google told colleagues in February 2019 that his team was “getting too involved with ads for the good of the product and company,” according to emails shown at the Justice Department’s landmark antitrust trial against the search giant.
+Most Read from Bloomberg
+Israel Latest: Blinken Making Another Visit to the Middle East
+Saudi Forces on Alert After Clash With Iran-Backed Houthis
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Innovent, Lilly Obesity Drug Spurs More Weight Loss in Trial
+Zillow Plunges After Verdict on Real Estate Brokerage Commissions
+Google maintains a firewall between its ads and search teams so that its engineers can innovate on Google’s search engine, unsullied by the influence of the team whose goal is to maximize advertising revenue. But in February 2019, testimony at the antitrust trial revealed Tuesday, Google internally declared a “Code Yellow” amid concerns the company might not meet its goals for search revenue for the quarter.
+As part of the emergency, which lasted for seven weeks, engineers from Google’s search and Chrome browser teams were reassigned to figure out why user queries had slowed, according to the documents.
+Ben Gomes, Google’s former head of search, was called by the company in its defense to show that it had made various advancements in search, particularly in mobile. However, cross examination by Justice Department lawyer David Dahlquist revealed the tensions between Gomes’ search team and its advertising counterparts.
+The questioning sought to undermine Google’s contentions that its search team focuses solely on improving the user experience and has sometimes been pulled into the advertising side, where the Justice Department alleges Google has been able to raise prices without pushback.
+The trial, now in its eighth week, focuses on whether Google has illegally maintained its monopoly by spending billions of dollars to stifle competition and preserve its monopoly over online search.
+Earlier: Google’s Pichai Refutes DOJ Allegations of Deleting Evidence
+In a statement, Google pushed back on the idea that search results and innovation were affected by the company’s ad revenue goals. “The organic results you see in search are not affected by our ads systems or by the ads we show for a query,” said Peter Schottenfels, a Google spokesperson.
+Google argues that it has captured about 90% of the market for search on the merits of a superior product, and that its advancements in internet search have benefited the public. But emails revealed in court on Tuesday showed that there was some concern among key members of the company’s search team that Google was focused on growth over innovation.
+In a 2019 email, Gomes wrote to other executives that his search team was “getting too close to the money.”
+Emails as Evidence
+“I think it is good for us to aspire to query growth and to aspire to more users. But I think we are getting too involved with ads for the good of the product and company,” Gomes wrote.
+“I am getting concerned that growth is all we are thinking about,” he ended the email.
+Query growth is measured by looking at the number of user queries, which the Justice Department argued can translate to increased revenue, since greater queries provide more opportunities for Google to run search ads against them.
+Gomes testified in court that he was feeling frustrated and sent the email at 6 a.m. At the time, Google set its metrics on the number of user queries, which Gomes said he believed wasn’t a good one since product improvements should help users find answers quickly.
+“I did not care for queries as a metric,” he said. “I think this metric of just using queries is not one that optimizes appropriately.”
+Google ended the “Code Yellow” emergency in mid-March. Prabhakar Raghavan, then head of Google’s advertising, wrote to Gomes at the time, praising the “heroic” engineering that resolved the issue. Back then, Gomes and Raghavan were of equal rank, both reporting to Google Chief Executive Officer Sundar Pichai.
+‘Query Softness’
+“The core query softness continues without mitigation,” Raghavan said, asking Gomes for a meeting. “At this rate the full year plan is a bad miss and will need drastic steps on the query side.”
+Gomes drafted a response to Raghavan that he shared with other executives, acknowledging “feeling annoyed both personally and on behalf of the team.”
+“Most headcount (non assistant) for search has gone into projects that are growth oriented. To the point, I worry that we are really not investing in research or speculation adequately,” Gomes wrote. “We could increase queries quite easily in the short term in user negative ways (turn off spell correction, turn off ranking improvement, place refinements all over the page).”
+Gomes said in his testimony Tuesday that he believed Raghavan was implying his team hadn’t done enough, but he said they would never have taken steps that would negatively impact users.
+“I was discussing things we would never do, like turn off spell correction,” he said.
+Gomes said he never sent the email to Raghavan, using the draft he shared to get “the annoyance off my chest.” Gomes and Raghavan met and agreed to stop using queries as a metric, instead creating a new metric that measures groups of queries.
+Gomes left his position as head of search about a year later. Raghavan has now replaced him as Google’s head of both search and advertising.
+Most Read from Bloomberg Businessweek
+How Drug Cartels Transformed Ecuador Into a ‘Narco State’
+Is This Poop-Test Startup Just Wellness Theater?
+America’s Culture Wars Have Liberal Parents Opting for Home-Schooling
+Hollywood Loves Halloween: Inside the Lucrative Business of Horror Movies
+How Conspiratorial Thinking About Road Fees Infected the UK
+©2023 Bloomberg L.P.

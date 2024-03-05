@@ -1,0 +1,27 @@
+url:https://finance.yahoo.com/news/fed-stays-put-5-winning-172700174.html
+title:Fed_Stays_Put_5_Winning_Tech_ETFs
+As expected, the Federal Reserve announced on Wednesday that it would keep its benchmark interest rate within the range of 5.25% to 5.50%. This marks the highest interest rate level in over two decades. However, the central bank has left the door open for potential future actions as it continues to grapple with the persistent challenge of reining in inflation and steering the economy toward its target of 2% inflation.
+In response to the Fed's decision, Treasury yields edged lower, with the 10-year yield trading falling to 4.77% from 4.88% recorded on the day before. As the Fed stayed put and yields fell, high growth sectors like technology that outperform in a low-rate environment, gained.
+In its official statement, the Fed upgraded its assessment of the United States economy for the third quarter of 2023, moving from describing it as "solid" in September to now characterizing it as "strong." This shift in language reflects the recent surge in economic activity that has caught the attention of policymakers and analysts alike. Notably, the U.S. economy grew at an annualized rate of 4.9% in Q3 (read: Consumer Spending Boosts U.S. Q3 GDP: ETFs to Buy).
+The U.S. central bank noted that job gains have "moderated" compared to their previous assessment, where they indicated that job growth had "slowed" during the period between meetings. Despite this moderation, job gains are still considered robust, and the unemployment rate remains at historically low levels. However, the statement emphasized that inflation continues to pose a concern and remains elevated.
+Market dynamics regarding future rate hikes saw a notable shift following the Fed’s announcement. According to the CME FedWatch Tool, investors have now priced in a 67.3% likelihood that the Federal Reserve will keep rates steady through its January meeting. This reflects a substantial increase from the 59.3% probability observed just a day prior. Plus, there is 75% chance of the Fed keeping rates same in the December meeting, up from 68.9% likelihood recorded on Oct 31, 2023.
+below Chances of rates falling from the highs have impacted key tech ETFs positively on Nov 1, 2023. Against this backdrop, below we highlight a few tech ETFs that have surged on Nov 1, 2023.
+Technology Select Sector SPDR Fund (XLK)
+The fund puts about 47% weights in Apple and Microsoft. The fund charges 10 bps in fees. The ETF XLK advanced about 1.9% on Nov 1, 2023 while it gained about 0.3% after hours.
+VanEck Semiconductor ETF (SMH)
+The fund is heavy on Nvidia (21.58%), followed by Taiwan Semiconductor (TSM). The fund SMH, which charges 35 bps in fees, gained 2.5% on Nov 1, 2023 and added about 0.9% after hours.
+Fidelity MSCI Information Technology Index ETF (FTEC)
+This fund is also heavy on Apple (21.80%) and Microsoft (20.70%). The fund charges 8 bps in fees. The fund edged higher by 1.7% and advanced more than 1.6% after hours.
+iShares Expanded Tech-Software Sector ETF (IGV)
+This fund is heavy on Microsoft (8.69%), Abobe (8.30%) and Salesforce (8.12%). The fund charges 41 bps in fees. The fund inched up 0.8% and added about 0.3% after hours.
+iShares Global Tech ETF (IXN)
+The top holdings of the fund are Apple (21.24%), Microsoft (19.77%) and Nvidia (4.52%). The fund charges 41 bps in fees. The fund edged higher by 1.8% and advanced about 0.02% after hours.
+(Disclaimer: This article has been written with the assistance of Generative AI. However, the author has reviewed, revised, supplemented, and rewritten parts of this content to ensure its originality and the precision of the incorporated information.)
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Technology Select Sector SPDR ETF (XLK): ETF Research Reports
+VanEck Semiconductor ETF (SMH): ETF Research Reports
+Fidelity MSCI Information Technology Index ETF (FTEC): ETF Research Reports
+iShares Global Tech ETF (IXN): ETF Research Reports
+iShares Expanded Tech-Software Sector ETF (IGV): ETF Research Reports
+To read this article on Zacks.com click here.
+Zacks Investment Research

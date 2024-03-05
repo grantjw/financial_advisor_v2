@@ -1,0 +1,84 @@
+url:https://finance.yahoo.com/news/gilead-present-breaking-data-real-150000338.html
+title:Gilead_to_Present_Late_Breaking_Data_and_Real_World_Evidence_Highlighting_Key_Hepatitis_Indications_at_The_Liver_Meeting_2023
+– Three Oral Presentations and 30 Posters Across HBV, HCV, HDV, and Fibrosis, Including Late-Breaking Data on Hepcludex® (bulevirtide) in HDV, Demonstrate Gilead’s Commitment to Addressing Unmet Needs for People Living with Liver Disease –
+– Studies Evaluate Safety and Efficacy of Hepcludex® (bulevirtide) in People Living with Chronic HDV –
+FOSTER CITY, Calif., November 03, 2023--(BUSINESS WIRE)--Gilead Sciences, Inc. (Nasdaq: GILD) today announced the presentation of new viral hepatitis data at the American Association for the Study of Liver Diseases (AASLD) The Liver Meeting®, from November 10-14, 2023. Key findings from more than 80 presentations will include a late-breaker oral presentation of primary endpoint results from the Phase 2b MYR204 study evaluating Hepcludex® (bulevirtide), an investigational therapy in the U.S. and outside of the European Economic Area, in combination with pegylated interferon alfa-2a (PegIFNα) in patients with chronic hepatitis delta virus (HDV), and an integrated analysis of Week 96 data from pivotal Phase 2b and Phase 3 studies evaluating the efficacy and safety of bulevirtide monotherapy. Gilead will also present long-term (8-year) results from ongoing studies of Vemlidy® (tenofovir alafenamide, TAF) in chronic hepatitis B (HBV), two-year efficacy, safety, and resistance data on TAF in pediatric patients with chronic HBV. In the U.S., Vemlidy is indicated for the treatment of chronic HBV in adults and pediatric patients 12 years of age and older with compensated liver disease. The use of Vemlidy for other patient populations is investigational, and the safety and efficacy for these uses have not been established. Additionally, real-world data on efforts that support the World Health Organization’s (WHO) HBV and hepatitis C (HCV) elimination goals will be presented. These latest data demonstrate the company’s ongoing efforts to address the unmet needs of people affected by viral hepatitis.
+"We look forward to sharing our latest findings in the treatment of people living with HDV with the broader liver community at The Liver Meeting," said Anu Osinusi, Vice President Clinical Research for Hepatitis, Respiratory and Emerging Viruses at Gilead Sciences. "Despite meaningful advances in the treatment of people living with viral hepatitis, much work remains to improve diagnosis, care, and services to address the unmet needs of people living with viral hepatitis and pursue our continued commitment to help achieve HBV and HCV elimination goals by 2030."
+Driving Innovation in HDV Treatment
+A leader in HDV research, Gilead will present late-breaking primary endpoint data from the Phase 2b MYR 204 study assessing the safety and efficacy of bulevirtide in combination with PegIFN (Oral LBP- 5009). Separately, data from a pooled analysis from the MYR204 study and the Phase 3 MYR301 (Oral 63) study on improved virologic and biochemical response by Week 96 with continued treatment with bulevirtide in those who were early non- and partial responders at Week 24 (Oral 63) will be presented. Data on the improvement in noninvasive tests regardless of virologic response in patients receiving bulevirtide for 96 weeks will also be presented (Poster 1473-C).
+In July 2023, the EMA granted full Marketing Authorization (MA) for bulevirtide. Bulevirtide was initially granted conditional MA from the EMA in July 2020 to provide access to people living with HDV urgent access to treatment. In the U.S. and outside of the European Economic Area, bulevirtide is an investigational agent. In these regions, health authorities have not established the safety and efficacy of bulevirtide.
+Key Abstracts at AASLD 2023:
+Abstract
+Abstract Title
+HDV
+Oral LBP 5009
+Efficacy and Safety of Bulevirtide in Combination With Pegylated Interferon alfa-2a in Patients With Chronic Hepatitis Delta: Primary Endpoint Results From a Phase 2b Open-Label, Randomized, Multicenter Study MYR204
+Oral 63
+Results from an integrated analysis at week 96: continued treatment of early virologic non-responder or partial responders with bulevirtide monotherapy for chronic hepatitis D leads to improvement in virologic and biochemical responses
+Poster 1237-C
+No detectable resistance to bulevirtide monotherapy through 96 weeks treatment in patients with chronic hepatitis D
+Poster 1473-C
+Improvement in noninvasive tests (LSM, FIB-4, and APRI) is seen through 96 weeks of bulevirtide monotherapy in CHD regardless of virologic response
+Poster 1233-C
+National and regional prevalence of hepatitis delta virus among commercially insured patients in the US
+HBV
+Poster 1422-C
+Impact of long-term treatment with continuous tenofovir alafenamide (TAF) or after switch from tenofovir disoproxil fumarate (TDF) on hepatocellular carcinoma (HCC) incidence in patients with chronic hepatitis B (CHB)
+Poster 1430-C
+No resistance to tenofovir alafenamide (TAF) in adult, HBeAg-positive and HBeAg-negative participants with chronic hepatitis B infection treated with TAF for up to 8 years
+Poster 1414-C
+Efficacy and safety of tenofovir alafenamide (TAF) at 2 years in children and adolescents with chronic hepatitis B (CHB)
+Poster 1429-C
+No Detected Resistance to Tenofovir Alafenamide (TAF) Through 96 Weeks of Treatment in Children and Adolescents with Chronic Hepatitis B
+HCV
+Poster 1881-A
+Long-Term Safety and Efficacy of Sofosbuvir-Based Direct-Acting Antivirals in Pediatric Patients with Hepatitis C Virus
+Poster 1817-A
+Complexity of HCV patients attended at addiction setting in real-world practice. Results from Complexadic Study
+Poster 2833-C
+Early menopause and primary ovarian insufficiency in women with and without chronic hepatitis C: a retrospective observational study of women in the United States
+Poster 1904-A
+Local Elimination Programs Leading to Global Action in HCV(LEGA-C): Outcome of studies and the impact focusing on activities within United States
+Fibrosis
+Poster 2059-A
+Increased Cardiovascular and Kidney Disease Risk in Patients with Advanced Fibrosis Due to Non-Alcoholic Steatohepatitis
+Poster 4533-C
+Associations Between Liver Biomarkers and Clinical Outcomes in Patients with Primary Sclerosing Cholangitis: A Retrospective Real-world Study
+For more information, including a complete list of abstract titles being presented at the meeting, please visit https://journals.lww.com/hep/toc/2023/10001.
+Please see below for the U.S. Indication and Important Safety Information, including BOXED WARNING, for Vemlidy.
+U.S. Important Safety Information and Indication for Vemlidy
+BOXED WARNING: POST TREATMENT SEVERE ACUTE EXACERBATION OF HEPATITIS B
+Discontinuation of anti-hepatitis B therapy, including VEMLIDY, may result in severe acute exacerbations of hepatitis B. Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue anti-hepatitis B therapy, including VEMLIDY. If appropriate, resumption of anti-hepatitis B therapy may be warranted.
+WARNINGS AND PRECAUTIONS
+Risk of Development of HIV-1 Resistance in HBV/HIV-1 Coinfected Patients: Due to this risk, VEMLIDY alone should not be used for the treatment of HIV-1 infection. Safety and efficacy of VEMLIDY have not been established in HBV/HIV-1 coinfected patients. HIV antibody testing should be offered to all HBV-infected patients before initiating therapy with VEMLIDY, and, if positive, an appropriate antiretroviral combination regimen that is recommended for HBV/HIV-1 coinfected patients should be used.
+New Onset or Worsening Renal Impairment: Postmarketing cases of renal impairment, including acute renal failure, proximal renal tubulopathy (PRT), and Fanconi syndrome have been reported with TAF-containing products. Patients with impaired renal function and/or taking nephrotoxic agents (including NSAIDs) are at increased risk of renal-related adverse reactions. Discontinue VEMLIDY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome. Monitor renal function in all patients – See Dosage and Administration.
+Lactic Acidosis and Severe Hepatomegaly with Steatosis: Fatal cases have been reported with the use of nucleoside analogs, including tenofovir disoproxil fumarate (TDF). Discontinue VEMLIDY if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity develop, including hepatomegaly and steatosis in the absence of marked transaminase elevations.
+ADVERSE REACTIONS
+Most common adverse reactions (incidence ≥5%; all grades) in all clinical studies through week 144 were headache, upper respiratory tract infection, abdominal pain, cough, back pain, arthralgia, fatigue, nausea, diarrhea, dyspepsia, and pyrexia.
+DRUG INTERACTIONS
+Coadministration of VEMLIDY with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of tenofovir and the risk of adverse reactions.
+Coadministration of VEMLIDY is not recommended with the following: oxcarbazepine, phenobarbital, phenytoin, rifabutin, rifampin, rifapentine, or St. John’s wort. Such coadministration is expected to decrease the concentration of tenofovir alafenamide, reducing the therapeutic effect of VEMLIDY. Drugs that strongly affect P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) activity may lead to changes in VEMLIDY absorption.
+Consult the full prescribing information for VEMLIDY for more information on potentially significant drug interactions, including clinical comments.
+DOSAGE AND ADMINISTRATION
+Testing Prior to Initiation: HIV infection.
+Prior to or When Initiating, and During Treatment: On a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients. In patients with chronic kidney disease, also assess serum phosphorus.
+Dosage: 1 tablet taken once daily with food.
+Renal Impairment: Not recommended in patients with end stage renal disease (ESRD; eCrCl <15 mL/min) who are not receiving chronic hemodialysis; in patients on chronic hemodialysis, on hemodialysis days, administer VEMLIDY after completion of hemodialysis treatment. No data are available to make dose recommendations in pediatric patients with renal impairment.
+Hepatic Impairment: Not recommended in patients with decompensated (Child-Pugh B or C) hepatic impairment.
+INDICATION
+VEMLIDY is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults and pediatric patients 12 years of age and older with compensated liver disease.
+About HDV
+Chronic hepatitis delta virus (HDV) is the most severe form of viral hepatitis and can have mortality rates as high as 50% within five years in cirrhotic patients. HDV occurs only as a co-infection in individuals who have hepatitis B virus (HBV). It is estimated that at least 12 million people worldwide are likely currently co-infected with HDV and HBV. HDV co-infection is associated with a faster progression to liver fibrosis, cirrhosis, hepatic decompensation and an increased risk of liver cancer and death. In the U.S. and Europe, there are approximately more than 230,000 people living with HDV; however, it remains underdiagnosed globally.
+About Gilead Sciences in Liver Disease
+For more than 20 years, Gilead has sought to address some of the biggest challenges in liver disease. The company has transformed the trajectory of many liver diseases through a relentless pursuit of innovation and pioneering access programs to bring meaningful therapies to people around the world. More work is required, and Gilead is committed to advancing innovative therapeutics to address the most pressing unmet needs in liver disease and overcoming barriers to better care.
+About Gilead Sciences
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+Forward-Looking Statements
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead’s ability to initiate, progress or complete clinical trials or studies within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials or studies, including those involving , Hepcludex (bulevirtide) and Vemlidy; uncertainties relating to regulatory applications and related filing and approval timelines, including the risk that the FDA and other regulatory authorities may not approve bulevirtide for the treatment of HDV, and the risk that any such approvals, if granted, may be subject to significant limitations on use; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2023, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The reader is cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation and disclaims any intent to update any such forward-looking statements.
+U.S. Prescribing Information for Vemlidy, including BOXED WARNING, is available at www.gilead.com
+Hepcludex, Vemlidy, Gilead and the Gilead Logo are registered trademarks of Gilead Sciences, Inc., or its related companies.
+For more information about Gilead Sciences, please visit the company’s website at www.gilead.com, follow Gilead (@GileadSciences) on X (Twitter) or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231102250720/en/
+Contacts
+Jacquie Ross, Investorsinvestor_relations@gilead.com
+Meaghan Smith, Mediapublic_affairs@gilead.com

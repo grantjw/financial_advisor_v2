@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/stocks-are-getting-punished-more-than-usual-for-missing-wall-street-estimates-180148878.html
+title:Stocks_are_getting_punished_more_than_usual_for_missing_Wall_Street_estimates
+Stocks that have missed Wall Street's expectations for earnings per share are selling off by the most we've seen since 2011.
+Data out from FactSet on Tuesday showed on average S&P 500 companies reporting weaker-than-expected earnings per share in the third quarter have seen their stocks fall 5.2% in the following two days on average. That's more than double the five-year average and marks the worst performance since stocks fell 8% in the following two days during the second quarter of 2011.
+"Investors aren't praising every single stock out there," eToro US investment analyst Callie Cox told Yahoo Finance Live. "They're really [homing in] on the fundamentals and trying to understand what benefits and what doesn't in a high rate environment."
+The trend played out in the market on Wednesday, in particular among stocks leading Yahoo Finance's trending tickers page. Warner Bros. Discovery (WBD), Toast (TOST), and Upstart Holdings (UPST) were all tanking as of midday, with each stock down as much as 16% during the trading session.
+To Cox, this market action shows investors are being more selective and taking note of companies that could be impacted the most by the Fed's "higher for longer" interest rate stance.
+One of those companies is AI lending platform Upstart. The company posted an earnings per share loss of $0.05 in the most recent quarter, wider than the $0.02 loss expected by Wall Street analysts. Additionally, Upstart's revenue fell 14% from the same quarter a year ago, and its guidance for sales in the upcoming quarter came in lower than what Wall Street had hoped for.
+"In the third quarter, rates were at an all-time high in our marketplace, higher than we expected them to be, reflecting both decades high interest rates and significantly elevated risk in the consumer economy," Upstart CEO David Girouard said on the company's earnings call Tuesday night. "This is not a path we would have chosen and is obviously not constructive to our growth, but it reflects the reality of operating responsibly in this environment."
+Upstart had been up more than 400% at one point this year amid 2023's AI exuberance but has since fallen drastically, with shares down nearly 30% on Wednesday alone and now up about 60% on the year.
+Upstart is a part of the Russell 2000 index (^RUT), which has lagged throughout 2023 amid fears of how higher interest rates could impact smaller growth-stage companies. The small cap index was down more than 1.2% on Wednesday.
+"It's important as an investor to really understand what kind of risks you're taking on because companies are getting hit hard by higher interest rates, especially smaller speculative companies, and you see that flow through in events like earnings and management calls," Cox said. "The effects [of higher interest rates] become more apparent."
+Josh Schafer is a reporter for Yahoo Finance.
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+Read the latest financial and business news from Yahoo Finance
+Related Quotes

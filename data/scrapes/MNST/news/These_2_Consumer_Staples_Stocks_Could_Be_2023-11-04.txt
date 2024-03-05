@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/2-consumer-staples-stocks-could-130006677.html
+title:These_2_Consumer_Staples_Stocks_Could_Beat_Earnings_Why_They_Should_Be_on_Your_Radar
+Wall Street watches a company's quarterly report closely to understand as much as possible about its recent performance and what to expect going forward. Of course, one figure often stands out among the rest: earnings.
+The earnings figure itself is key, but a beat or miss on the bottom line can sometimes be just as, if not more, important. Therefore, investors should consider paying close attention to these earnings surprises, as a big beat can help a stock climb even higher.
+2 Stocks to Add to Your Watchlist
+The Zacks Earnings ESP, or Expected Surprise Prediction, aims to find earnings surprises by focusing on the most recent analyst revisions. The basic premise is that if an analyst reevaluates their earnings estimate ahead of an earnings release, it means they likely have new information that could possibly be more accurate. The core of the ESP model is comparing the Most Accurate Estimate to the Zacks Consensus Estimate, where the resulting percentage difference between the two equals the Expected Surprise Prediction.
+Now that we understand what the ESP is and how beneficial it can be, let's dive into a stock that currently fits the bill. Dutch Bros (BROS) earns a Zacks Rank #2 right now and its Most Accurate Estimate sits at $0.08 a share, just four days from its upcoming earnings release on November 7, 2023.
+By taking the percentage difference between the $0.08 Most Accurate Estimate and the $0.07 Zacks Consensus Estimate, Dutch Bros has an Earnings ESP of 12.18%.
+BROS is one of just a large database of Consumer Staples stocks with positive ESPs. Another solid-looking stock is Monster Beverage (MNST).
+Monster Beverage, which is readying to report earnings on February 27, 2024, sits at a Zacks Rank #3 (Hold) right now. It's Most Accurate Estimate is currently $0.40 a share, and MNST is 116 days out from its next earnings report.
+The Zacks Consensus Estimate for Monster Beverage is $0.40, and when you take the percentage difference between that number and its Most Accurate Estimate, you get the Earnings ESP figure of 0.85%.
+BROS and MNST's positive ESP metrics may signal that a positive earnings surprise for both stocks is on the horizon.
+Find Stocks to Buy or Sell Before They're Reported
+Use the Zacks Earnings ESP Filter to turn up stocks with the highest probability of positively, or negatively, surprising to buy or sell before they're reported for profitable earnings season trading. Check it out here >>
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Dutch Bros Inc. (BROS) : Free Stock Analysis Report
+Monster Beverage Corporation (MNST) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

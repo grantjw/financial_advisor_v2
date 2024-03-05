@@ -1,0 +1,28 @@
+url:https://finance.yahoo.com/news/this-israeli-company-is-building-a-road-that-charges-electric-vehicles-in-detroit-150138838.html
+title:This_Israeli_company_is_building_a_road_that_charges_electric_vehicles_in_Detroit
+Wireless electric road charging has long been hailed as a potential holy grail for widespread electric vehicle adoption.
+Later this year, the technology will get its first real test in the US, when Israeli company Electreon and the state of Michigan unveil a 1-mile stretch of road in Detroit that will allow drivers to charge on the go, marking the first public deployment in the country.
+"You can go longer range," said Stefan Tongur, vice president of business development at Electreon US. "You don't need to have a huge battery, which drives costs down, and it makes it easier for the grid. At the end of the day, if we want to reach a high level of [EV] adoption, ... charging is the main barrier."
+Electreon’s technology, known as dynamic charging, works similarly to the wireless pads that charge your smartphone. It embeds copper coils that are connected directly to the power grid into the pavement. Vehicles are equipped with receiver plates installed under the car or truck, so the charge passes through to the battery every time that vehicle drives over electrified roads.
+It’s all operated remotely through Electreon’s software and servers. That means Electreon can dial down the charge when the power grid is stretched and dial up the power when there's more capacity.
+"As a vehicle has a small battery on board, it doesn't really matter whether it charges in this mile or the next mile, but that could mean everything to the utility," said Regan Zane, director of Utah State University’s Center for Advancing Sustainability through Powered Infrastructure for Roadway Electrification (ASPIRE), where Electreon has been testing its technology. "Having that flexible resource could be a game-changing solution for the utility."
+The deployment of dynamic charging in the US comes as charging infrastructure and range anxiety continue to slow EV adoption in the country.
+While electric vehicle sales volume hit another record in the third quarter, accounting for 7.9% of total industry sales, according to Cox Automotive, drivers continue to express hesitation about the lack of chargers in place.
+In a recent Yahoo Finance-Ipsos poll, 77% of people surveyed said a lack of charging stations on the road or charging at home would discourage them from going electric.
+Another factor is that roughly 30% of chargers aren’t working at any given moment, according to Akshay Singh, industrial and automotive principal at PwC.
+"They’re not reliable — that’s a big, big factor," said Singh. "The problem is that if you look at a lot of the [charging] companies, they don’t have a robust maintenance program in place."
+Singh added that high capital costs tied to electric vehicle chargers have also slowed deployment, with a 350-kilowatt charger costing "upwards" of $250,000. Charge point operators need 15% to 20% utilization just to break even, he said.
+PwC estimates the EV charging market would need to grow five-fold to $40 billion in order to meet the demand that would come with 50% adoption in the US.
+Dynamic charging technology has already been deployed in nearly half a dozen countries. Sweden has led the way, with public buses and trucks already charging on the go along a short stretch of highway on the island of Gotland. Electreon’s technology has also been deployed in Israel, Germany, and Italy. In October, the company announced it had signed a memorandum of understanding with the government of China’s Shandong Province to integrate Electreon’s technology in the world’s largest EV market.
+Dynamic charging in Detroit is being deployed in partnership with Ford (F), and the project is scheduled to be completed by the end of the year, according to the Michigan Department of Transportation.
+Congress is also betting on the technology with a bill that proposes setting aside $250 million in grants for wireless EV charging initiatives.
+While dynamic charging may finally be generating interest globally, the price to implement the technology — a cost of $1.2 million per mile — remains a hurdle.
+Challenging economics contributed to Qualcomm Technologies (QCOM) selling its Halo wireless EV charging business back in 2019 as well as Bombardier (BDRBF) selling its EV charging systems business, along with its entire transportation business to Alstom in 2021.
+Aside from Electreon, Renault and Swedish trucking giant Scania AB have continued with their own developments of dynamic charging.
+Tongur sees a patchwork approach to charging in the medium term, with in-road charging playing a role within a larger infrastructure.
+"I think having a shared charging platform that can charge any type of vehicle, not just trucks, ... makes the greatest sense for us to meet the electrification demand that will come and that is coming," Tongur said. "That's why we need to start thinking and doing stuff right now."
+For more on our NEXT Series, click here, and tune in to Yahoo Finance every Monday at 10 a.m. ET.
+Akiko Fujita is an anchor and reporter for Yahoo Finance. Follow her on Twitter @AkikoFujita.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance
+Related Quotes

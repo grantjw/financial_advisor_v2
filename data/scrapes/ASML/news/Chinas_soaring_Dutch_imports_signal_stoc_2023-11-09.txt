@@ -1,0 +1,28 @@
+url:https://finance.yahoo.com/news/chinas-soaring-dutch-imports-signal-093000921.html
+title:Chinas_soaring_Dutch_imports_signal_stockpiling_of_ASML_kit_ahead_of_USbacked_export_controls
+China's imports from the Netherlands soared in October, in what is seen as further evidence of Chinese stockpiling of hi-tech chipmaking equipment before export controls on the products take effect in January.
+Chinese customs data released on Tuesday showed that despite a broad-based decline in trade between the European Union and China, Dutch shipments rose by 29.5 per cent last month, compared to a year earlier.
+Detailed data released later this month will show another huge splurge on advanced photolithography machines made by Europe's most valuable tech company ASML, analysts predict.
+Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.
+Recognised as the world leader in the lithography machines that print the finest of patterns onto the most advanced and smallest microchips, ASML is one of the most important nodes in the chip supply chain. In recent years it has become the focus of a geopolitical tussle.
+"The stunning surge in Chinese imports from the Netherlands over the past few months is a result of Beijing's buying spree of Dutch chip machinery company ASML before the drawbridge gets pulled up," said Sander Tordoir, a senior economist at the Centre for European Reform.
+Rem Korteweg, a senior research fellow at the Clingendael Institute, a Dutch think tank, drew the same conclusion, saying the uptick was "almost certainly related to ASML machinery".
+"China is buying all the ASML kit they can get their hands on," he added.
+Under reported pressure from the United States, which has taken a series of measures to halt China's ability to source technology that could be used to bolster its military capabilities, the Dutch government slapped restrictions on shipments of advanced tools to China.
+These restrictions legally took effect on September 1, with a "grace period" until January 1, 2024.
+They will place ASML's advanced immersion deep ultraviolet (DUV) lithography machines out of reach for Chinese buyers, which have already been cut off from buying the Dutch company's higher end extreme ultraviolet (EUV) machines.
+But customs data suggest that Chinese companies are using this period to fill their inventories as its chip makers face a race against time to dodge US efforts to constrain their development.
+In September, Chinese imports of these machines from the Netherlands rose by 1,850 per cent to US$1.3 billion compared to a year earlier, calculations based on China's customs data showed. In August the increase was 343 per cent, and 1,677 per cent in July, respectively.
+An assembly engineer works on a Twinscan DUV lithography system at ASML in Veldhoven, the Netherlands, in June. Photo: Reuters alt=An assembly engineer works on a Twinscan DUV lithography system at ASML in Veldhoven, the Netherlands, in June. Photo: Reuters>
+ASML's own corporate literature tells a similar story. In the third quarter of this year, China accounted for 46 per cent of ASML's sales, the company's quarterly report showed. This was up from 24 per cent in quarter two and 8 per cent in the first quarter.
+"The Chinese lithography buying spree is evident in ASML's quarterly earnings reports ... each machine costs tens of millions of euros," Tordoir said. "China scooping them up is therefore capable of driving macro-statistics like Dutch exports to China."
+Jan-Peter Kleinhans, director for technology and geopolitics at the German think tank Stiftung Neue Verantwortung, said the figures could represent a clearing of existing orders. ASML's third quarterly briefing said a "strong backlog of around €38 billion (US$41 billion) provides us with a good basis to navigate these short-term uncertainties".
+"So equipment shipments that are popping up right now in customs statistics were purchases from several quarters ago," said Kleinhans.
+"Nonetheless, based on ASML's own quarterly sales figures, China is outspending everybody else since several quarters, especially if you take into account that China cannot buy the much more expensive EUV equipment."
+Last month US regulators released a new set of rules that could further hamper international businesses' efforts to service the Chinese market. The update expands export controls on AI chips, supercomputing and semiconductor manufacturing equipment.
+It is seen by industry analysts as a way of asserting US dominance on the global chips market.
+"The US is sending a clear signal to the world's cutting-edge chip developers: don't even bother putting time and resources into developing a high-performance computing chip for the China market. The rules will catch up," according to a report this week from Rhodium Group, a research house.
+Overall EU-China trade fell by 7.5 per cent in October compared to a year earlier. China's exports to the bloc fell by 10.6 per cent, with imports down 1.3 per cent.
+This article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century. For more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages. Copyright © 2023 South China Morning Post Publishers Ltd. All rights reserved.
+Copyright (c) 2023. South China Morning Post Publishers Ltd. All rights reserved.
+Related Quotes

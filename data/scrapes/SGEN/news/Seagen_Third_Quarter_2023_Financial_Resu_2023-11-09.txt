@@ -1,0 +1,308 @@
+url:https://finance.yahoo.com/news/seagen-third-quarter-2023-financial-120000740.html
+title:Seagen_Third_Quarter_2023_Financial_Results_Reflect_Strong_Product_Sales_Growth_and_Significant_Portfolio_and_Pipeline_Progress
+-Record Net Product Sales of $571 Million in 3Q23, a 33% Increase Over 3Q22, Primarily Driven by PADCEV® First-Line Launch-
+-PADCEV with Keytruda® Potentially Practice Changing for First-Line Metastatic Urothelial Cancer after EV-302 Trial Demonstrates Near Doubling of Median Overall Survival-
+-Proposed Pfizer Transaction On-Track and Anticipated to Close in Late-2023 or Early-2024, Subject to Closing Conditions, with Ongoing FTC Review and Recent EC Approval-
+BOTHELL, Wash., November 01, 2023--(BUSINESS WIRE)--Seagen Inc. (Nasdaq:SGEN) (Seagen or the Company) reported financial results today for the third quarter ended September 30, 2023.
+David Epstein, Chief Executive Officer of Seagen said, "Seagen continues to build momentum in 2023 and delivered strong performance, marked by record quarterly net product sales, with significant year-over-year growth of 33%, contributing to total revenues of $649 million. Growth was primarily driven by PADCEV (enfortumab vedotin-ejfv), which grew 89% over the same quarter of last year following the successful launch in the U.S. in combination with Keytruda (pembrolizumab) as a front-line treatment for patients with advanced urothelial cancer who are not eligible to receive cisplatin-containing chemotherapy. We also announced positive trial readouts across our commercial portfolio in multiple patient settings." Highlights include:
+PADCEV in combination with Keytruda demonstrated a 53% reduction in the risk of death and a near doubling in the median overall survival (OS) (31.5 months vs 16.1 months) versus chemotherapy in patients with previously untreated locally advanced or metastatic urothelial cancer (la/mUC) who were eligible for cisplatin- or carboplatin-containing chemotherapy regardless of PD-L1 status. Data from the global phase 3 study, EV-302 / KEYNOTE-A39, were presented during the Presidential Symposium at the European Society of Medical Oncology (ESMO) Congress in October.
+TIVDAK (tisotumab vedotin-tftv) demonstrated superior overall survival with a 30% reduction in the risk of death in the innovaTV 301 pivotal trial for patients with recurrent or metastatic cervical cancer with disease progression on or after first-line therapy. Additionally, progression-free survival was statistically significant with a 33% reduction in the risk of disease worsening or death compared with chemotherapy and the confirmed objective response rate was also improved with TIVDAK (17.8%) compared with chemotherapy (5.2%). Results were presented during the Presidential Symposium at ESMO.
+The HER2CLIMB-02 pivotal trial of TUKYSA (tucatinib) in combination with antibody-drug conjugate (ADC) ado-trastuzumab emtansine met the primary endpoint of progression-free survival in patients with previously treated HER2-positive metastatic breast cancer.
+"We remain very excited about the pending acquisition of Seagen by Pfizer as we look to build a world-class oncology organization which will broaden patient reach and accelerate development of our innovative pipeline," concluded Mr. Epstein.
+Roger Dansey, President of Research and Development and Chief Medical Officer, added, "We have now demonstrated an overall survival benefit in targeted indications across all four of our approved products. The PADCEV EV-302 study has the potential to be practice changing and offer a new standard of care for first-line metastatic bladder cancer. Building on our expertise and innovative platform, we are advancing next-generation ADC and immuno-oncology targeted therapies. We recently initiated a phase 3 trial of disitamab vedotin in combination with pembrolizumab in patients with previously untreated locally advanced or metastatic HER2-positive urothelial cancer, along with a phase 1 trial for SGN-EGFRd2, a novel T cell engaging bispecific antibody. We also remain on track to initiate a phase 3 trial of SGN-B6A in patients with previously treated non-small cell lung cancer and to meet our goal of submitting four Investigational New Drug (IND) applications for novel drug candidates in 2023 before year end."
+PRODUCTS HIGHLIGHTS
+PADCEV
+Positive Results for the Phase 3 EV-302 Trial of the Combination of PADCEV and Keytruda as First-Line Treatment for Advanced Urothelial Cancer Presented at the ESMO Congress: In October 2023, data from the phase 3 EV-302 trial, which was conducted in collaboration with Merck and our partner Astellas, were presented during the Presidential Symposium at ESMO in a late-breaking oral presentation demonstrating a 53% reduction in risk of death with PADCEV and Keytruda compared to chemotherapy in patients with previously untreated locally advanced or metastatic urothelial cancer (la/mUC). The combination improved median overall survival by more than 15 months versus chemotherapy. OS results were consistent across all pre-defined subgroups, including cisplatin eligibility and PD-L1 expression level. The safety results in EV-302 were consistent with those previously reported with this combination in EV-103 in cisplatin-ineligible patients with la/mUC. No new safety signals were identified. An extension study in China continues to enroll patients. The EV-302 trial is intended to serve as the basis for global submissions and as the confirmatory trial for the U.S. accelerated approval of this combination. We intend to submit a supplemental Biologics License Application (sBLA) to the U.S. Food and Drug Administration (FDA) this year.
+Data Presented for Muscle-Invasive Bladder Cancer (MIBC) at ESMO: In October 2023, data from Cohort L of the EV-103 phase 1b/2 trial evaluating PADCEV monotherapy as perioperative treatment in cisplatin-ineligible patients with MIBC were presented demonstrating promising activity and a generally manageable safety profile.
+ADCETRIS®
+European Commission Approves ADCETRIS in Combination with Chemotherapy in Previously Untreated CD30+ Stage III Hodgkin Lymphoma: In October 2023, the European Commission approved the ADCETRIS (brentuximab vedotin) combination based on updated positive overall survival results from the Phase 3 ECHELON-1 study. ADCETRIS has been previously approved as a therapy for adult patients in Europe in six distinct indications, including those with previously untreated CD30+ Stage IV Hodgkin lymphoma.
+Presenting Combination Data in Metastatic Solid Tumors at the Society for Immunotherapy of Cancer (SITC) Annual Meeting: Initial data of ADCETRIS in combination with Keytruda in metastatic solid tumors will be presented at the SITC Annual Meeting being held November 3-5, 2023.
+TUKYSA
+Phase 3 HER2CLIMB-02 Trial Combining TUKYSA and Kadcyla® Meets Primary Endpoint of Progression-Free Survival: In August 2023, the Company announced that the phase 3 HER2CLIMB-02 clinical trial of TUKYSA in combination with the antibody-drug conjugate Kadcyla (ado-trastuzumab emtansine) met its primary endpoint of progression-free survival (PFS), including for patients with active brain metastases. Patients in the trial had unresectable locally advanced or metastatic HER2-positive breast cancer and had received previous treatment with a taxane and trastuzumab.​ Overall survival data, a secondary endpoint, are not yet mature. Discontinuations due to adverse events were more common in the combination arm of the trial, but no new safety signals emerged for the combination. Results will be presented at an upcoming meeting.
+TIVDAK
+Positive Results for Phase 3 innovaTV 301 Clinical Trial Presented at ESMO: In October 2023, data from the innovaTV 301 trial, conducted in collaboration with our partner Genmab, were presented in an oral session during the Presidential Symposium at ESMO that demonstrated a 30% reduction in risk of death compared to chemotherapy and a manageable and tolerable safety profile consistent with the known safety profile as presented in the U.S. prescribing information. No new safety signals were observed. The results from innovaTV 301 are intended to serve as the confirmatory trial for the U.S. accelerated approval and support potential global regulatory applications.
+PIPELINE PROGRAMS
+Initiated a Phase 3 Trial for Disitamab Vedotin for Patients with HER2-Positive, Metastatic Urothelial Cancer: The Company initiated a phase 3 trial evaluating disitamab vedotin in combination with pembrolizumab versus chemotherapy in patients with previously untreated locally advanced or metastatic HER2-positive urothelial cancer in the third quarter of 2023.
+Planning to Initiate Phase 3 Trial for SGN-B6A in Patients with Previously Treated Non-Small Cell Lung Cancer (NSCLC) Before Year End: The Company expects to initiate a phase 3 trial for SGN-B6A, a novel, vedotin ADC targeting integrin beta-6, as a monotherapy in previously treated patients with NSCLC before the end of 2023.
+Reported Initial Results for SGN-B7H4V at ESMO: In October 2023, initial first-in-human clinical data for SGN-B7H4V were presented at ESMO demonstrating antitumor activity across a variety of dose levels, dose schedules and tumor types with commonly observed adverse events including peripheral neuropathy, neutropenia, diarrhea, and nausea, consistent with other ADCs. Development remains ongoing in phase 1 dose expansion cohorts in breast, endometrial, ovarian and other B7H4-expressing solid tumors.
+Initiated Clinical Trial for Novel Targeted Therapy and Unveiled Novel ADC Program at AACR-NCI-EORTC Conference: The Company initiated a phase 1 trial for SGN-EGFRd2, a gamma delta bispecific T-cell engager for EGFR-expressing solid tumors. Year to date, the Company has submitted INDs for three novel targeted cancer therapies, including SGN-EGFRd2, SGN-35T and SGN-CEACAM5C, with the goal of submitting one additional IND before year end. Preclinical data for SGN-35T, a next generation CD30-directed ADC with a novel tripeptide drug linker designed to improve the tolerability profile compared with ADCETRIS, were presented at the annual AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics in October.
+For additional information on Seagen’s pipeline, visit www.seagen.com/science/pipeline.
+CORPORATE HIGHLIGHTS
+Update on Pfizer Acquisition: The European Commission approved the acquisition of Seagen by Pfizer unconditionally pursuant to Article 6(1)b under the EU Merger Regulation on October 19, 2023. The completion of the transaction remains subject to other customary closing conditions, including the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, relating to the consummation of the transaction, and the satisfaction or waiver of the other closing conditions specified in the Merger Agreement. The Company continues to expect that the transaction will be completed in late 2023 or early 2024.
+Annual Corporate Responsibility Report Published, Detailing ESG Commitments: Seagen continues to push the boundaries of innovation while upholding its commitment to sustainable practices, as highlighted in the Company’s latest corporate responsibility report, Linking Breakthroughs to Lives. Accomplishments detailed include multiple positive clinical trial results and label expansions across our commercial portfolio, new DEI strategy, publishing our Human Rights Policy and Supplier Code of Conduct, enhancing governance programs across numerous areas including compliance and information security, and new environmental initiatives. Seagen is proud to announce that Newsweek named the Company one of America’s Greenest Companies 2024 and awarded it the highest rating of 5 stars, based on its ESG achievements. The report is available on Seagen’s website at https://www.seagen.com/who-we-are/corporate-responsibility.
+THIRD QUARTER AND NINE-MONTHS 2023 FINANCIAL RESULTS
+Revenues: Total revenues for the third quarter and nine months ended September 30, 2023 were $649 million and $1,772 million, respectively, compared to $510 million and $1,434 million for the same periods in 2022, primarily driven by growth in net product sales.
+Revenues included the following components:
+Three months ended September 30,
+Nine months ended September 30,
+(dollars in millions)
+2023
+2022
+% Change
+2023
+2022
+% Change
+Total Net Product Sales
+$
+571
+$
+428
+33
+%
+$
+1,583
+$
+1,243
+27
+%
+ADCETRIS
+$
+246
+$
+219
+13
+%
+$
+751
+$
+601
+25
+%
+PADCEV
+$
+200
+$
+105
+89
+%
+$
+479
+$
+329
+46
+%
+TUKYSA
+$
+102
+$
+88
+16
+%
+$
+289
+$
+267
+8
+%
+TIVDAK
+$
+23
+$
+16
+40
+%
+$
+64
+$
+45
+42
+%
+Royalty Revenues
+$
+64
+$
+44
+45
+%
+$
+145
+$
+111
+30
+%
+Collaboration and LicenseAgreement Revenues
+$
+14
+$
+38
+(63
+)%
+$
+44
+$
+80
+(45
+)%
+Note: Sum of product sales may not equal total net product sales due to rounding. Percent change reflects actual (unrounded) values.
+Net Product Sales: The increases in net product sales for the third quarter and year-to-date of 2023 compared to the same periods in 2022 were driven by continued commercial execution. ADCETRIS demonstrated year-over-year growth of 13%, primarily attributed to volume growth from greater use in frontline advanced Hodgkin lymphoma, despite recent increased competition in this setting. PADCEV growth was driven by use as first-line treatment for patients with locally advanced or metastatic urothelial cancer who are not eligible to receive cisplatin-containing chemotherapy following its approval for this indication in April 2023. Of note, PADCEV sales in the year-to-date of 2022 included $19 million in sales to another company for a clinical trial they are conducting, while no such sales were booked in the year-to-date of 2023. TUKYSA performance reflects volume growth driven by the important role it serves in the treatment of HER2-positive metastatic breast cancer as well as contributions from its colorectal cancer indication. TIVDAK growth reflects continued uptake in its current indication.
+Royalty Revenues: Growth in royalty revenues were primarily driven by royalties from sales of Polivy® (polatuzumab vedotin) by Roche, which is an ADC that uses Seagen technology, as well as by sales of ADCETRIS outside the U.S. and Canada by Takeda.
+Collaboration and License Agreement Revenues: The decrease in collaboration and license agreement revenues for the third quarter of 2023 was primarily driven by an upfront payment in the prior period and the decrease for the year-to-date also due to a prior period milestone partially offset by collaboration revenue.
+Cost of Sales: Cost of sales for the third quarter and year-to-date in 2023 were $165 million and $458 million, respectively, compared to $108 million and $302 million for the same periods in 2022. The increases reflect higher sales of our medicines and the related gross profit share amounts owed to collaboration partners, which were $103 million and $249 million in the third quarter and year-to-date in 2023, respectively, compared to $71 million and $189 million for the same periods in 2022. Cost of sales also reflects amortization of TUKYSA acquired in-process technology costs, third-party royalties owed for PADCEV and TUKYSA net product sales, and cost of products sold. The year-to-date in 2023 cost of sales included a $47 million inventory write-off related to in-process production of one of our products that did not meet a release specification that was updated in June 2023. This inventory adjustment and new release specification are not expected to impact availability of product supply required to meet current or future demand.
+Research and Development (R&D) Expenses: R&D expenses for the third quarter and year-to-date in 2023 were $449 million and $1,205 million, respectively, compared to $385 million and $987 million for the same periods in 2022 reflecting continued investment in clinical development of the Company's approved drugs and pipeline programs.
+Selling, General and Administrative (SG&A) Expenses: SG&A expenses for the third quarter and year-to-date in 2023 were $266 million and $746 million, respectively, compared to $210 million and $605 million for the same periods in 2022. The increases in 2023 were driven by ongoing commercialization efforts, as well as $40 million in expenses year-to-date associated with the pending acquisition by Pfizer and other corporate activities.
+Non-cash, share-based compensation expense for the nine months ended September 30, 2023 was $288 million, compared to $157 million for the same period in 2022.
+Net Loss: Net loss for the third quarter of 2023 was $216 million, or $1.15 per diluted share, and net loss for the year-to-date of 2023 was $602 million, or $3.21 per diluted share.
+Net loss for the third quarter of 2022 was $191 million, or $1.03 per diluted share, and net loss for the year-to-date of 2022 was $462 million, or $2.51 per diluted share.
+Cash and Investments: As of September 30, 2023, Seagen had $1.2 billion in cash and investments.
+CONFERENCE CALL
+Given the pending acquisition of Seagen by Pfizer, Seagen is no longer providing financial guidance for 2023 and will not be hosting its quarterly conference call and does not expect to do so for future quarters. Earnings materials are available publicly on the Investor Relations page of our website at investor.seagen.com. Please direct any questions to Seagen Investor Relations at the contact information below.
+About Seagen
+Founded 25 years ago, Seagen Inc. is a global biotechnology company that discovers, develops, manufactures, and commercializes targeted cancer therapeutics, with antibody-drug conjugates (ADCs) at our core. Our colleagues work together with urgency to improve and extend the lives of people living with cancer. An ADC technology trailblazer, approximately one-third of FDA-approved and marketed ADCs use Seagen technology. Seagen is headquartered in Bothell, Washington and has locations in California, Canada, Switzerland and across Europe. For additional information, visit www.seagen.com and follow us on X and LinkedIn.
+Forward-Looking Statements
+Certain of the statements made in this press release are forward looking, such as those, among others, relating to Pfizer’s proposed acquisition of the Company; the anticipated timing of completion of the proposed acquisition; the Company’s potential to achieve the noted development and regulatory milestones in 2023, in future periods or at all; the Company’s pipeline and technologies; anticipated activities related to the Company’s planned and ongoing clinical trials, including the timing of IND submissions, trial initiations and presentation of results; the potential for the Company’s clinical trials to support further development, regulatory submissions and potential marketing approvals in the U.S. and in other countries; the potential for the EV-302 clinical trial to serve as a basis for global submissions and the confirmatory trial for the U.S. accelerated approval of PADCEV in combination with Keytruda in la/mUC; the potential for the innovaTV 301 clinical trial to serve as a basis for global submissions and the confirmatory trial for U.S. accelerated approval of TIVDAK; the opportunities for, and the therapeutic and commercial potential of ADCETRIS, PADCEV, TUKYSA, TIVDAK, the Company’s product candidates and the products and product candidates of its licensees and collaborators; plans with respect to regulatory submissions including plans to submit an sBLA based on the results of the EV-302 clinical trial; as well as other statements that are not historical fact. Actual results or developments may differ materially from those projected or implied in these forward-looking statements. Factors that may cause such a difference include without limitation: risks related to the satisfaction or waiver of the conditions to closing the proposed acquisition (including the failure to obtain necessary regulatory approvals) in the anticipated timeframe or at all, including the possibility that the proposed acquisition does not close; disruption from the transaction making it more difficult to maintain business and operational relationships; significant transaction costs; unknown liabilities; the risk of litigation and/or regulatory actions related to the proposed acquisition or Seagen’s business; risks related to the financing of the transaction; the risks that the Company’s ADCETRIS, PADCEV, TUKYSA and TIVDAK net sales, revenues, expenses, costs, and other financial results may not be as expected; risks and uncertainties associated with maintaining or increasing sales of ADCETRIS, PADCEV, TUKYSA and TIVDAK due to competition, adverse events, regulatory action, reimbursement, market adoption by physicians, drug pricing reform, impacts associated with COVID-19 or other factors; the risk that the Company or its collaborators may be delayed or unsuccessful in planned IND submissions, clinical trial initiations, enrollment in and conduct of clinical trials, obtaining data from clinical trials, planned regulatory submissions, and regulatory approvals in the U.S. and in other countries in each case for a variety of reasons including the difficulty and uncertainty of pharmaceutical product development, negative or disappointing clinical trial results, unexpected adverse events or regulatory actions and the inherent uncertainty associated with the regulatory approval process; the possibility that the Company may encounter challenges in commercializing its therapeutic agents, including with respect to reimbursement, compliance, operational or other matters; the possibility of delays or setbacks in obtaining pricing and reimbursement approvals or otherwise commercializing PADCEV and TUKYSA in Europe and other jurisdictions; risks relating to the Company’s collaboration agreements and its ability to achieve progress dependent milestones thereunder; risks associated with ongoing military conflicts, related sanctions, and related economic, financial and geopolitical disruptions; other business effects and uncertainties, including the effects of industry, market, business, economic, political or regulatory conditions; future exchange and interest rates; and changes in laws, regulations, rates and policies. More information about the risks and uncertainties faced by the Company is contained under the caption "Risk Factors" included in the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2023 and the Company’s subsequent periodic reports filed with the Securities and Exchange Commission. Seagen disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise except as required by applicable law.
+Seagen Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited)
+(In thousands, except per share amounts)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2023
+2022
+2023
+2022
+Revenues:
+Net product sales
+$
+570,729
+$
+428,089
+$
+1,583,343
+$
+1,242,889
+Royalty revenues
+63,561
+43,904
+144,927
+111,194
+Collaboration and license agreement revenues
+14,360
+38,307
+43,931
+80,179
+Total revenues
+648,650
+510,300
+1,772,201
+1,434,262
+Costs and expenses:
+Cost of sales
+165,254
+108,122
+457,783
+301,848
+Research and development
+449,047
+384,605
+1,204,930
+986,518
+Selling, general and administrative
+265,687
+210,378
+746,060
+604,862
+Total costs and expenses
+879,988
+703,105
+2,408,773
+1,893,228
+Loss from operations
+(231,338
+)
+(192,805
+)
+(636,572
+)
+(458,966
+)
+Investment and other income, net
+14,978
+4,278
+41,463
+479
+Loss before income taxes
+(216,360
+)
+(188,527
+)
+(595,109
+)
+(458,487
+)
+(Benefit) provision for income taxes
+(571
+)
+2,289
+6,945
+3,650
+Net loss
+$
+(215,789
+)
+$
+(190,816
+)
+$
+(602,054
+)
+$
+(462,137
+)
+Net loss per share - basic and diluted
+$
+(1.15
+)
+$
+(1.03
+)
+$
+(3.21
+)
+$
+(2.51
+)
+Shares used in computation of per share amounts - basic and diluted
+188,135
+184,792
+187,532
+184,199
+Seagen Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In thousands)
+September 30, 2023
+December 31, 2022
+Assets
+Cash, cash equivalents and investments
+$
+1,236,986
+$
+1,735,070
+Other assets
+2,397,275
+1,939,462
+Total assets
+$
+3,634,261
+$
+3,674,532
+Liabilities and Stockholders’ Equity
+Accounts payable and accrued liabilities
+$
+954,716
+$
+818,404
+Long-term liabilities
+129,124
+52,309
+Stockholders’ equity
+2,550,421
+2,803,819
+Total liabilities and stockholders’ equity
+$
+3,634,261
+$
+3,674,532
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231101283813/en/
+Contacts
+Seagen Contacts: For Investors Douglas Maffei, Ph.D.Vice President, Investor Relations(425) 527-4881dmaffei@seagen.com For Media David CaouetteVice President, Corporate Communications(310) 430-3476dcaouette@seagen.com

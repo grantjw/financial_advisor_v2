@@ -1,0 +1,14 @@
+url:https://finance.yahoo.com/news/short-sellers-go-after-renewable-and-ev-stocks-181851383.html
+title:Short_sellers_go_after_renewable_and_EV_stocks
+Short sellers are betting against electric vehicle and solar stocks, both of which have been on a downward trend.
+A new report from treasury and liquidity management platform Hazeltree shows luxury EV startups Rivian (RIVN) and Lucid (LCID), along with EV giant Tesla (TSLA), were among the top 10 shorted names within large and mid-cap stocks in October.
+The report assigns a "crowdedness" score, representing the securities that the highest percentage of funds are shorting.
+One notable deviant from the list of renewable and EV stocks was ExxonMobil (XOM). The oil giant was the most crowded large-cap stock in October, with a score of 99, replacing Tesla after four consecutive months as the top shorted security.
+Among the small-cap stocks, renewables Sunrun (RUN) and Sunnova Energy (NOVA) were among the top 10 most-crowded securities, with the highest percentage of funds shorting those stocks.
+Solar, wind, and electric vehicle stocks have been on a downward trend recently amid industry headwinds and a higher interest rate environment.
+Short selling is when an investor borrows a stock and sells it on the open market with the intention of buying it back later at a lower price. When the security is bought back, it's referred to as covering the short, or closing out the position.
+Renewables and electric vehicle stocks have been trending lower over the last several months. Rivian is down about 35% since mid-July. Lucid is down about 49% over the same period. Sunrun and Sunnova are down more than 50% since mid-July.
+Ines Ferre is a senior business reporter for Yahoo Finance. Follow her on Twitter at @ines_ferre.
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+Read the latest financial and business news from Yahoo Finance
+Related Quotes

@@ -1,0 +1,7 @@
+url:https://finance.yahoo.com/news/1-splunk-lay-off-nearly-130500220.html
+title:UPDATE_1Splunk_to_lay_off_nearly_7_of_its_workforce_amid_economic_woes
+(Recasts first paragraph, adds CEO quote in paragraph 3, background on Cisco deal in paragraph 4)
+Nov 1 (Reuters) - Splunk said on Wednesday it would lay off nearly 7% of its global workforce as the cybersecurity and cloud software company grapples with an uncertain macroeconomic environment.
+Splunk had 8,000 employees as of Jan. 31, of which nearly 560 are set to be impacted by the layoffs.
+"The overall market has retracted and we expect the macro environment will continue to be unpredictable for the foreseeable future," said CEO Gary Steele in an email sent to employees, about a month ahead of its quarterly results.
+The reorganization is unrelated to the deal Cisco Systems made in September to acquire Splunk for about $28 billion, Steele added. (Reporting by Arsheeya Bajwa in Bengaluru; Editing by Shilpi Majumdar)

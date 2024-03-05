@@ -1,0 +1,74 @@
+url:https://finance.yahoo.com/news/calculating-fair-value-cadence-design-130026026.html
+title:Calculating_The_Fair_Value_Of_Cadence_Design_Systems_Inc_NASDAQCDNS
+Using the 2 Stage Free Cash Flow to Equity, Cadence Design Systems fair value estimate is US$198
+Cadence Design Systems' US$231 share price indicates it is trading at similar levels as its fair value estimate
+ The US$271 analyst price target for CDNS is 37% more than our estimate of fair value
+Today we will run through one way of estimating the intrinsic value of Cadence Design Systems, Inc. (NASDAQ:CDNS) by projecting its future cash flows and then discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.
+ Check out our latest analysis for Cadence Design Systems 
+We are going to use a two-stage DCF model, which, as the name states, takes into account two stages of growth. The first stage is generally a higher growth period which levels off heading towards the terminal value, captured in the second 'steady growth' period. In the first stage we need to estimate the cash flows to the business over the next ten years. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+Generally we assume that a dollar today is more valuable than a dollar in the future, so we need to discount the sum of these future cash flows to arrive at a present value estimate:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$1.59b
+US$1.85b
+US$2.18b
+US$2.48b
+US$2.70b
+US$2.88b
+US$3.04b
+US$3.18b
+US$3.30b
+US$3.41b
+Growth Rate Estimate Source
+Analyst x8
+Analyst x6
+Analyst x2
+Analyst x2
+Est @ 8.95%
+Est @ 6.91%
+Est @ 5.48%
+Est @ 4.48%
+Est @ 3.78%
+Est @ 3.29%
+ Present Value ($, Millions) Discounted @ 7.0% 
+US$1.5k
+US$1.6k
+US$1.8k
+US$1.9k
+US$1.9k
+US$1.9k
+US$1.9k
+US$1.8k
+US$1.8k
+US$1.7k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$18b
+After calculating the present value of future cash flows in the initial 10-year period, we need to calculate the Terminal Value, which accounts for all future cash flows beyond the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 7.0%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$3.4b× (1 + 2.2%) ÷ (7.0%– 2.2%) = US$71b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$71b÷ ( 1 + 7.0%)10= US$36b
+The total value is the sum of cash flows for the next ten years plus the discounted terminal value, which results in the Total Equity Value, which in this case is US$54b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Relative to the current share price of US$231, the company appears around fair value at the time of writing. Remember though, that this is just an approximate valuation, and like any complex formula - garbage in, garbage out.
+Now the most important inputs to a discounted cash flow are the discount rate, and of course, the actual cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Cadence Design Systems as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 7.0%, which is based on a levered beta of 0.980. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Earnings growth over the past year exceeded the industry.
+Debt is not viewed as a risk.
+Weakness
+Expensive based on P/E ratio and estimated fair value.
+Opportunity
+Annual earnings are forecast to grow faster than the American market.
+Threat
+Revenue is forecast to grow slower than 20% per year.
+Valuation is only one side of the coin in terms of building your investment thesis, and it ideally won't be the sole piece of analysis you scrutinize for a company. It's not possible to obtain a foolproof valuation with a DCF model. Instead the best use for a DCF model is to test certain assumptions and theories to see if they would lead to the company being undervalued or overvalued. For example, changes in the company's cost of equity or the risk free rate can significantly impact the valuation. For Cadence Design Systems, we've put together three pertinent factors you should explore:
+Risks: To that end, you should be aware of the   1 warning sign  we've spotted with Cadence Design Systems .
+Future Earnings: How does CDNS's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. The Simply Wall St app conducts a discounted cash flow valuation for every stock on the NASDAQGS every day. If you want to find the calculation for other stocks just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

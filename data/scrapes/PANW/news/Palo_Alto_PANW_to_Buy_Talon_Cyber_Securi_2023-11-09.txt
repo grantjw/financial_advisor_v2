@@ -1,0 +1,25 @@
+url:https://finance.yahoo.com/news/palo-alto-panw-buy-talon-142800956.html
+title:Palo_Alto_PANW_to_Buy_Talon_Cyber_Security_for_Prisma_SASE
+Palo Alto Networks PANW recently entered into a definitive agreement to acquire Talon Cyber Security in order to augment its Prisma SASE platform with the latter’s Enterprise Browser technology. This agreement will enable PANW to provide solutions that allow users to securely access business applications from unmanaged devices.
+Amid the productivity-focused Bring Your Own Device work culture, security often takes a back seat, as unmanaged devices come with vulnerabilities that cybercriminals exploit. Unlike centrally managed devices, unmanaged ones may lack enterprise-grade security, making them vulnerable, which can be exploited to breach enterprise applications and access sensitive information.
+Users of Prisma SASE will now be able to leverage Talon Enterprise Browser’s capabilities to access a wide range of software-as-a-service and web applications from their personal devices, including mobile and other non-corporate devices, without compromising their privacy.
+Palo Alto Networks, Inc. price-consensus-chart | Palo Alto Networks, Inc. Quote
+Palo Alto’s Prisma SASE combines WAN and network security services, such as CASB, FWaaS and Zero Trust, into one cloud-delivered model. The solution has been named the sole Leader in Gartner's 2023 Magic Quadrant for Single-Vendor SASE due to its compliance with all the requirements of the category, such as centralized control, monitored network and user activity, traffic inspection, data access control and cloud asset security.
+The recent acquisition will greatly boost Prisma SASE's capabilities, which is similar to how PANW improved its Prisma Cloud platform with the buyout of Cider Security last year. The acquisition of Cider Security for application security and its recent definitive agreement to acquire Dig Security for Data Security Posture Management will ensure the enhancement of Prisma Cloud capabilities.
+Furthermore, the acquisition of Bridgecrew in 2021 and several other important acquisitions like the buyout of Crypsis Group, LightCyber, Morta Security and Cyvera have enabled the company to broaden its portfolio and global reach.
+Currently, PANW sports a Zacks Rank #1 (Strong Buy). Shares of the company have returned 69.8% year to date.
+Some other top-ranked stocks from the broader technology sector are NVIDIA NVDA, NetEase NTES and Asure Software ASUR, each sporting a Zacks Rank #1 at present. You can see the complete list of today’s Zacks #1 Rank stocks here.
+The Zacks Consensus Estimate for NVDA’s third-quarter fiscal 2024 earnings has been revised by 10 cents northward to $3.34 per share in the past 60 days. For fiscal 2024, earnings estimates have increased by 28 cents to $10.74 in the past 60 days.
+NVIDIA's earnings beat the Zacks Consensus Estimate in three of the trailing four quarters, while missing the same on one occasion, the average surprise being 9.8%. Shares of NVDA have rallied 213% year to date.
+The Zacks Consensus Estimate for NetEase's third-quarter 2023 earnings has been revised upward by 8 cents to $1.65 per share in the past 30 days. For fiscal 2023, earnings estimates have increased by 42 cents to $6.96 per share in the past 30 days.
+NTES' earnings beat the Zacks Consensus Estimate in three of the trailing four quarters, while missing the same on one occasion, the average surprise being 24.54%. Shares of NTES have gained 53.6% year to date.
+The Zacks Consensus Estimate for Asure Software's third-quarter 2023 earnings has been revised upward by a penny to 6 cents per share in the past 60 days. For fiscal 2023, earnings estimates have increased by 3 cents to 54 cents per share in the past 60 days.
+ASUR’s earnings beat the Zacks Consensus Estimate in each of the preceding four quarters, the average surprise being 676.39%. Shares of ASUR have declined 9.9% year to date.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+NetEase, Inc. (NTES) : Free Stock Analysis Report
+Asure Software Inc (ASUR) : Free Stock Analysis Report
+Palo Alto Networks, Inc. (PANW) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+Related Quotes

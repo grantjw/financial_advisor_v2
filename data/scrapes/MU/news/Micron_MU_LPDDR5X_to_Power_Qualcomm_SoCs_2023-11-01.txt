@@ -1,0 +1,24 @@
+url:https://finance.yahoo.com/news/micron-mu-lpddr5x-power-qualcomm-134800681.html
+title:Micron_MU_LPDDR5X_to_Power_Qualcomm_SoCs_for_Smartphones
+Micron Technology MU recently partnered with Qualcomm QCOM, a prominent semiconductor company, to introduce cutting-edge mobile system-on-chips (SoCs), which are designed for smartphones with on-device generative artificial intelligence (AI).
+Qualcomm's latest flagship mobile platform for on-device generative AI, known as Snapdragon 8 Gen 3, will incorporate Micron LPDDR5X memory. This memory stands out as the sole mobile-optimized solution in the industry, featuring low-power double data rate capabilities that help to run AI applications with low latency and high bandwidth requirements.
+LPDDR5X is built on Micron's 1-beta process node, facilitating advanced power-saving features that deliver a 12% increase in peak bandwidth compared with the preceding generation and nearly a 30% boost in power efficiency.
+Micron Technology, Inc. price-consensus-chart | Micron Technology, Inc. Quote
+The LPDDR5X's advanced power-saving features, combined with increased peak bandwidth and faster performance, enable generative AI to operate efficiently inside users' mobile devices. This advancement represents a departure from the previous reliance on cloud-intensive frameworks.
+Micron has already started rolling out the samples of LPDDR5X memory, which are intended for utilization in the Qualcomm Snapdragon® 8 Gen 3 SoCs. These memory modules will be integrated by global Original Equipment Manufacturers and smartphone brands, such as ASUS, Honor, iQOO, MEIZU, NIO, Nubia, OnePlus, OPPO, realme, Redmi, RedMagic, Sony, vivo, Xiaomi and ZTE.
+Shares of Micron have outperformed the Zacks Computer and Technology sector in the year-to-date (YTD) period. Shares of MU have gained 36.2% YTD compared with the Computer and Technology sector’s rise of 33.1%Micron is experiencing a surge in demand for memory chips, driven by cloud computing providers, the adoption of 5G cellular networks and the expanding field of artificial intelligence. The company’s recent product launch of 7500 NVMe SSD and a 16Gb DDR5 memory extension for the Micron 1-beta node are aimed at enabling MU's customers with enhanced computational capabilities.
+The company is also successfully overcoming some near-term challenges. Micron previously grappled with issues related to customer inventory accumulation. In the fourth quarter of 2023, MU's customers have made progress in reducing excess inventory of memory and storage products.
+Moreover, its new domestic investments, like the construction of a fab facility in Idaho, will strengthen its supply chain inside the United States and globally. With increased digitization across industries, growing AI landscape and the adoption of cloud computing will fuel the demand for memory chips.
+Currently, Micron and Qualcomm carry a Zacks Rank #3 (Hold) each. Shares of Qualcomm have declined 0.5% year to date.
+Some better-ranked stocks from the broader technology sector are NVIDIA NVDA and Palo Alto Networks PANW, each sporting a Zacks Rank #1 (Strong Buy) at present. You can see the complete list of today’s Zacks #1 Rank stocks here.
+The Zacks Consensus Estimate for NVIDIA’s third-quarter fiscal 2024 earnings has been revised by 2 cents northward to $3.34 per share in the past 30 days. For fiscal 2024, earnings estimates have increased by 7 cents to $10.74 in the past 30 days.
+NVDA's earnings beat the Zacks Consensus Estimate in the preceding three quarters, while missing the same on one occasion, the average surprise being 9.8%. Shares of NVDA have rallied 198.8% YTD.
+The Zacks Consensus Estimate for PANW's first-quarter 2024 earnings has been revised upward by a penny to $1.16 per share in the past 60 days. For fiscal 2024, earnings estimates have increased by 4 cents to $5.34 per share in the past 60 days.
+Palo Alto’s earnings beat the Zacks Consensus Estimate in each of the preceding four quarters, the average surprise being 22.19%. Shares of PANW have surged 80.6% YTD.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+QUALCOMM Incorporated (QCOM) : Free Stock Analysis Report
+Micron Technology, Inc. (MU) : Free Stock Analysis Report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+Palo Alto Networks, Inc. (PANW) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

@@ -1,0 +1,40 @@
+url:https://finance.yahoo.com/news/apple-warns-sluggish-holiday-quarter-215709775.html
+title:Apple_Warns_of_Sluggish_Holiday_Quarter_After_China_Slowdown
+(Bloomberg) -- Apple Inc., already facing a slowdown in China, warned that revenue in the holiday quarter will be about the same as last year, signaling that investors won’t see the growth rebound they were banking on.
+Most Read from Bloomberg
+Intuit Is Closing Personal-Finance App Mint, Shifts Users to Credit Karma
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+S&P 500 Rises Almost 2%; Apple Down in Late Hours: Markets Wrap
+Israel Latest: Troops Encircle Gaza City as Death Toll Climbs
+Harvard, Yale Warned by Top Law Firms About Antisemitism
+Though iPhone revenue is expected to increase in the December quarter, overall sales will be similar to the year-earlier period, Chief Financial Officer Luca Maestri said on a conference call Thursday following Apple’s quarterly report. The tepid outlook sent the shares down as much as 4.6% in late trading.
+Wall Street had projected revenue growth of about 5% in the quarter, which is invariably Apple’s biggest sales period of the year. Revenue from the iPad and the company’s wearables category, which includes its smartwatch line, will drop significantly during the quarter, Apple said.
+The company has been trying to pull out of its longest sales slowdown in decades. It just reported its fourth straight revenue decline, matching a streak it suffered in 2001, as the company struggles with a sluggish computer market and shaky demand in China.
+Revenue fell to $89.5 billion in the fiscal fourth quarter, which ended Sept. 30. That compared with an average Wall Street estimate of $89.4 billion. Apple didn’t provide formal guidance for the current quarter, sticking with a policy it adopted during the pandemic.
+The results suggest that Apple is facing a bigger deceleration in China than feared. The government there has imposed bans on US technology in some workplaces, and a new phone from Huawei Technologies Co. is providing fresh competition. Revenue from that region amounted to $15.1 billion last quarter, down slightly from a year earlier and well short of the $17 billion analysts had predicted.
+Apple shares had closed at $177.57 in New York, leaving them up 37% this year.
+The company updated the iPhone, its flagship product, during the fourth quarter. The period included a little over a week of sales data following the device’s launch on Sept. 22. The Cupertino, California-based company also released new watch models — the Series 9 and Ultra 2 — and updated its AirPods Pro to add a USB-C port.
+Even with the challenges, the iPhone performed slightly better than projected. It generated $43.8 billion in sales, compared with an average estimate of $43.7 billion. And the device reached a quarterly revenue record in mainland China, Chief Executive Officer Tim Cook said during the conference call with analysts. Earnings came in at $1.46 a share last quarter, topping the $1.39 forecast.
+Cook also said the company was investing “quite a bit” in generative artificial intelligence.
+The iPhone accounts for roughly half of Apple’s sales, so the launch of a new model is closely watched by investors. With the iPhone 15, the company redesigned the high-end versions — giving them titanium cases — and added features such as a more powerful zoom camera lens. The hope was to entice smartphone shoppers who had been holding onto their old models for longer these days.
+Apple had a favorable year-over-year comparison this cycle because 2022’s iPhone 14 Pro models faced supply constraints due to shutdowns at Apple’s manufacturing partners in China. The iPhone 15 Pro had no such limitations.
+Thursday’s report follows an upbeat view from Qualcomm Inc., the leading maker of smartphone chips. On Wednesday, it forecast stronger sales for the current quarter than analysts expected, kicking off a rally for its stock.
+What Bloomberg Intelligence Says:
+“The sales miss in China is discouraging and could have been caused by soft consumer spending.”
+— Anurag Rana, BI technology industry analyst
+Click here to read his research.
+In one potentially ominous sign, Qualcomm said that its smartphone chip business saw a 35% increase from Chinese phone makers, suggesting that customers in the region are opting for non-iPhones in larger numbers. The area is Apple’s largest international market, accounting for about a fifth of sales.
+The personal computer market also is poised for a resurgence, but Apple didn’t debut any new models during the quarter. It did unveil new MacBook Pros, iMacs and M3 processors earlier this week, but sales of those machines won’t show up in Apple results until the quarter ending in December.
+Apple brought in $7.61 billion from the Mac during the fourth quarter, missing forecasts of $8.76 billion. The company did release some new computers earlier this year, including a 15-inch MacBook Air and faster desktops.
+Read More: Apple Unveils New Laptops, iMac and Trio of More Powerful Chips
+Revenue for the September quarter might have been stronger if the company had released new iPads during the period, which it sometimes does, or made more significant changes to its accessories. The latest Apple Watches and AirPods only represent modest tweaks from their predecessors.
+The Wearables, Home and Accessories segment, which includes the watch, AirPods, Apple TV set-top box and Beats headphones, brought revenue of $9.32 billion. That fell short of the $9.41 billion estimate.
+The services segment generated $22.3 billion in sales, beating Wall Street targets of $21.4 billion. The company raised the prices for Apple TV+, Arcade and News+ last month, but that change was too recent to affect these results.
+The iPad brought in $6.44 billion. Though that was a 10% decline from last year, it was better than the $6.12 billion projection. Apple hasn’t introduced a new iPad this calendar year, the first time that’s happened since the product first debuted in 2010. It did, however, release a cheaper Apple Pencil stylus for its tablets this week.
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+World’s Safest Market Becomes a Magnet for Big Investors
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+Foxconn Makes Your iPhone. Now It Wants to Make Your Electric Car
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+©2023 Bloomberg L.P.

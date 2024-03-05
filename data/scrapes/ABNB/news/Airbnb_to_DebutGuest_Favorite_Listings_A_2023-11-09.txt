@@ -1,0 +1,34 @@
+url:https://finance.yahoo.com/news/airbnb-debut-guest-favorite-listings-131739926.html
+title:Airbnb_to_DebutGuest_Favorite_Listings_AI_Toolsin_Reliability_Push
+(Bloomberg) -- Airbnb Inc. will roll out new features and artificial intelligence tools in a product refresh meant to increase listings quality on its app.
+Most Read from Bloomberg
+Rockstar Plans to Announce Much Anticipated ‘Grand Theft Auto VI’
+US 30-Year Mortgage Rate Tumbles by Most in More Than a Year
+VIX Notches Its Longest Slide Since October 2015: Markets Wrap
+Virginia Democrats Fend Off Republican Sweep in Win for Abortion Rights
+Xi to Meet US Business Leaders for Dinner in San Francisco
+As part of the changes announced Wednesday, listings with “excellent reviews” — those rated above 4.9 stars on average with below 1% cancellations from hosts — will get a new “Guest Favorite” label, the company said, signaling to users that a rental has a lower rate of customer service issues. Two million out of the more than 7 million homes on its platform qualify for the label, Airbnb said, and eligibility will be refreshed daily.
+The homesharing company will also debut a new AI tool to sort photos by room, as well as provide more context about reviewers and their trips in the review section of an Airbnb listing, including length of stay, number of travelers and other details.
+The updates, some of a dozen as part of Airbnb’s regular winter product release, will make it “more transparent who the best properties are and who the best hosts are,” Chief Executive Officer Brian Chesky said in an interview. First-time Airbnb guests booked lower-rated homes 23% of the time, according to the company, and Chesky says this transparency will mean “the best ones will win and the ones that aren’t as good — they’ll have to either become better or maybe lower their prices to continue your bookings.”
+The changes are the latest in a series of refinements the San Francisco-based company has made this year to adapt to the shift in post-pandemic travel patterns, such as increased competition from hotels and a transition to bookings of long-term stays of 28 days or more from short-term rentals.
+Read more: Short-Term Rentals That Airbnb Turned Into a Rage Are Struggling
+The number of Airbnb rentals continues to increase at a faster pace than bookings, and the company has had to find ways to compete with the traditional hotel stay in terms of quality, consistency and affordability.
+The company earlier this year introduced pricing tools that help hosts set more competitive rates. It also pledged in the fall to verify every listing to ensure the accuracy of its location to prevent guests from falling for ‘bait and switch’ scams.
+In addition to improving customer service, reliability is “one of the final frontiers” needed to fix the foundational problems of Airbnb, Chesky said, adding: “Our capabilities and technology is finally catching up for us to execute it.”
+Read more: Airbnb Is Fundamentally Broken and Needs to Be Fixed, CEO Says
+“People often describe checking into an Airbnb as a ‘moment of truth’ — when you find out if the home you booked meets your expectations,” Chesky said in a statement. “Too often, it doesn’t.”
+‘New Ventures’
+Chesky has faced questions from analysts and investors, including during the company’s earnings call last week, about new monetization opportunities.
+The grand vision has always been to own more parts of the travel-planning process, Chesky said, but “the approach and implementation is going to be wildly different” than it was in the past. Airbnb once had expansive ambitions that included a travel magazine and a flight-booking platform.
+During a product event in New York on Tuesday, Chesky pointed to third-party integrations within its app as a sign of new services to come. The current update includes a new feature where North America-based hosts could connect homes’ smart locks and automatically reset the passcodes for every stay.
+He also pointed to practical applications of AI in the future, such as personalized matching of travelers to homes and hosts based on preferences and other data collected by the company. It could also augment the work of global customer service agents by helping them digest lengthy, multi-language policy documents, he said.
+“We’re ready to go into new ventures to launch new things and the timing literally couldn’t be more perfect,” Chesky said, adding that “The best time to create something new is when there’s a new technology, like the internet. AI is going to be obviously orders of magnitude greater.”
+(Updates with more details from CEO interview and company announcement from sixth paragraph)
+Most Read from Bloomberg Businessweek
+Elon Musk’s Brain Implant Startup Is Ready to Start Surgery
+In Uruguay, a Tax Haven With Lots of Beaches and Little Crime
+Private Equity Courts a Growing Class of Mini-Millionaires
+Can a Triangle-Shaped Jet Cut Fuel Consumption in Half?
+Top-Ranked MBA Programs Struggle to Reverse Declining Applications
+©2023 Bloomberg L.P.
+Related Quotes

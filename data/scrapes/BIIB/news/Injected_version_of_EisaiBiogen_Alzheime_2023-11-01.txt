@@ -1,0 +1,20 @@
+url:https://finance.yahoo.com/news/injected-version-eisai-biogen-alzheimers-212500106.html
+title:Injected_version_of_EisaiBiogen_Alzheimers_drug_effective_side_effects_higher
+By Julie Steenhuysen and Deena Beasley
+BOSTON, Oct 25 (Reuters) - An injected version of Eisai and Biogen's Alzheimer's drug Leqembi works as well as the current intravenous administration at removing toxic brain plaques, but rates of serious side effects were higher, according to an analysis presented by Eisai on Wednesday.
+The Japanese drugmaker's review compared data for 72 patients with early Alzheimer's given Leqembi by subcutaneous injection to prior pivotal trial results from 898 patients who received the drug by infusion.
+The intravenous (IV) form of Leqembi won U.S. approval based on that larger 18-month study showing the drug, which works by removing sticky clumps of beta amyloid from the brain, slowed cognitive decline by 27% for people with early Alzheimer's disease.
+A weekly shot form of Leqembi, given as two consecutive injections, could simplify use of the groundbreaking Alzheimer's treatment, potentially allowing patients to receive the drug at home instead of traveling to an infusion center twice a month.
+The latest data, presented at the Clinical Trials on Alzheimer's Disease meeting in Boston, showed that after six months of treatment, the shot form of Leqembi removed 14% more amyloid than the approved IV formulation.
+Blood concentration levels of the drug were 11% higher with subcutaneous Leqembi than the IV version.
+Rates of infusion- or injection-related side effects were lower for the subcutaneous formulation, but rates of serious side effects were higher.
+The incidence of brain swelling known as ARIA-E was 16.7% for the subcutaneous group and 12.6% for intravenous patients.
+ARIA-H, or brain bleeding, occurred in 22.2% of the subcutaneous patients versus 17.3% of the IV group.
+"We believe that the safety is actually consistent," Priya Singhal, Biogen's head of development, said in an interview.
+"Because it's a very small cohort," she said of the 72-patient group, "one or two cases can actually swing the numbers pretty significantly."
+Eisai and U.S. partner Biogen said they plan to apply for U.S. approval of subcutaneous Leqembi by the end of March based on data from 394 patients.
+LOW TAU DATA
+Separately, Eisai presented an analysis of a small subgroup of patients from its pivotal trial who had early Alzheimer's and low levels of tau, a second protein linked with disease progression and brain cell death.
+It found that in the low-tau population, 60% of patients had improvement in cognitive function, compared with 28% of the placebo group.
+Michael Irizarry, head of clinical research at Eisai's neurology division, acknowledged in an interview that Alzheimer's does not typically progress much for people in the earliest stages of the disease, but said the data "supports treating as early as possible."
+The U.S. government and Eisai are testing Leqembi to see if giving the drug early can prevent dementia symptoms in people who are still cognitively normal but have amyloid in their brain. (Reporting by Julie Steenhuysen in Boston and Deena Beasley in Los Angeles; Editing by Bill Berkrot)

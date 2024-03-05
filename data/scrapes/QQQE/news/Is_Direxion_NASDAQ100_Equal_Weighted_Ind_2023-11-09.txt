@@ -1,0 +1,39 @@
+url:https://finance.yahoo.com/news/direxion-nasdaq-100-equal-weighted-102005504.html
+title:Is_Direxion_NASDAQ100_Equal_Weighted_Index_Shares_QQQE_a_Strong_ETF_Right_Now
+The Direxion NASDAQ-100 Equal Weighted Index Shares (QQQE) was launched on 03/21/2012, and is a smart beta exchange traded fund designed to offer broad exposure to the Style Box - Large Cap Growth category of the market.
+What Are Smart Beta ETFs?
+The ETF industry has traditionally been dominated by products based on market capitalization weighted indexes that are designed to represent the market or a particular segment of the market.
+Investors who believe in market efficiency should consider market cap indexes, as they replicate market returns in a low-cost, convenient, and transparent way.
+However, some investors believe in the possibility of beating the market through exceptional stock selection, and choose a different type of fund that tracks non-cap weighted strategies: smart beta.
+By attempting to pick stocks that have a better chance of risk-return performance, non-cap weighted indexes are based on certain fundamental characteristics, or a combination of such.
+The smart beta space gives investors many different choices, from equal-weighting, one of the simplest strategies, to more complicated ones like fundamental and volatility/momentum based weighting. However, not all of these methodologies have been able to deliver remarkable returns.
+Fund Sponsor & Index
+The fund is managed by Direxion, and has been able to amass over $838.92 million, which makes it one of the average sized ETFs in the Style Box - Large Cap Growth. QQQE seeks to match the performance of the NASDAQ-100 Equal Weighted Index before fees and expenses.
+The NASDAQ-100 Equal Weighted Index consists of companies in the NASDAQ-100 Index but each of the securities is initially set at a weight of 1.00% of the Index. The NASDAQ-100 Index includes 100 of the largest non-financial securities listed on NASDAQ based on capitalization.
+Cost & Other Expenses
+Expense ratios are an important factor in the return of an ETF and in the long-term, cheaper funds can significantly outperform their more expensive cousins, other things remaining the same.
+Annual operating expenses for QQQE are 0.35%, which makes it on par with most peer products in the space.
+The fund has a 12-month trailing dividend yield of 0.89%.
+Sector Exposure and Top Holdings
+Even though ETFs offer diversified exposure that minimizes single stock risk, investors should also look at the actual holdings inside the fund. Luckily, most ETFs are very transparent products that disclose their holdings on a daily basis.
+For QQQE, it has heaviest allocation in the Information Technology sector --about 36.10% of the portfolio --while Consumer Discretionary and Healthcare round out the top three.
+Looking at individual holdings, Old Dominion Freight Line (ODFL) accounts for about 1.27% of total assets, followed by Sirius Xm Hldgs Inc (SIRI) and Airbnb Inc (ABNB).
+The top 10 holdings account for about 11.53% of total assets under management.
+Performance and Risk
+Year-to-date, the Direxion NASDAQ-100 Equal Weighted Index Shares return is roughly 19.64% so far, and it's up approximately 30.50% over the last 12 months (as of 10/17/2023). QQQE has traded between $60.30 and $80.76 in this past 52-week period.
+The ETF has a beta of 1.06 and standard deviation of 22.33% for the trailing three-year period, making it a medium risk choice in the space. With about 102 holdings, it effectively diversifies company-specific risk.
+Alternatives
+Direxion NASDAQ-100 Equal Weighted Index Shares is a reasonable option for investors seeking to outperform the Style Box - Large Cap Growth segment of the market. However, there are other ETFs in the space which investors could consider.
+Vanguard Growth ETF (VUG) tracks CRSP U.S. Large Cap Growth Index and the Invesco QQQ (QQQ) tracks NASDAQ-100 Index. Vanguard Growth ETF has $92.30 billion in assets, Invesco QQQ has $205.78 billion. VUG has an expense ratio of 0.04% and QQQ charges 0.20%.
+Investors looking for cheaper and lower-risk options should consider traditional market cap weighted ETFs that aim to match the returns of the Style Box - Large Cap Growth.
+Bottom Line
+To learn more about this product and other ETFs, screen for products that match your investment objectives and read articles on latest developments in the ETF investing universe, please visit Zacks ETF Center.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Direxion NASDAQ-100 Equal Weighted Index Shares (QQQE): ETF Research Reports
+Sirius XM Holdings Inc. (SIRI) : Free Stock Analysis Report
+Old Dominion Freight Line, Inc. (ODFL) : Free Stock Analysis Report
+Invesco QQQ (QQQ): ETF Research Reports
+Vanguard Growth ETF (VUG): ETF Research Reports
+Airbnb, Inc. (ABNB) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

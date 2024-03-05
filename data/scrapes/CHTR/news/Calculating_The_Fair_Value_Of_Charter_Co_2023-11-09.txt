@@ -1,0 +1,77 @@
+url:https://finance.yahoo.com/news/calculating-fair-value-charter-communications-140016550.html
+title:Calculating_The_Fair_Value_Of_Charter_Communications_Inc_NASDAQCHTR
+The projected fair value for Charter Communications is US$467 based on 2 Stage Free Cash Flow to Equity
+Charter Communications' US$416 share price indicates it is trading at similar levels as its fair value estimate
+ The US$467 analyst price target for CHTRis comparable to our estimate of fair value.
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Charter Communications, Inc. (NASDAQ:CHTR) as an investment opportunity by taking the forecast future cash flows of the company and discounting them back to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.
+ Check out our latest analysis for Charter Communications 
+We're using the 2-stage growth model, which simply means we take in account two stages of company's growth. In the initial period the company may have a higher growth rate and the second stage is usually assumed to have a stable growth rate. To begin with, we have to get estimates of the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+A DCF is all about the idea that a dollar in the future is less valuable than a dollar today, and so the sum of these future cash flows is then discounted to today's value:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$3.86b
+US$4.35b
+US$6.87b
+US$6.71b
+US$6.66b
+US$6.66b
+US$6.71b
+US$6.79b
+US$6.89b
+US$7.01b
+Growth Rate Estimate Source
+Analyst x14
+Analyst x11
+Analyst x5
+Analyst x3
+Est @ -0.85%
+Est @ 0.07%
+Est @ 0.72%
+Est @ 1.17%
+Est @ 1.48%
+Est @ 1.70%
+ Present Value ($, Millions) Discounted @ 9.5% 
+US$3.5k
+US$3.6k
+US$5.2k
+US$4.7k
+US$4.2k
+US$3.9k
+US$3.6k
+US$3.3k
+US$3.0k
+US$2.8k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$38b
+The second stage is also known as Terminal Value, this is the business's cash flow after the first stage. For a number of reasons a very conservative growth rate is used that cannot exceed that of a country's GDP growth. In this case we have used the 5-year average of the 10-year government bond yield (2.2%) to estimate future growth. In the same way as with the 10-year 'growth' period, we discount future cash flows to today's value, using a cost of equity of 9.5%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$7.0b× (1 + 2.2%) ÷ (9.5%– 2.2%) = US$98b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$98b÷ ( 1 + 9.5%)10= US$40b
+The total value, or equity value, is then the sum of the present value of the future cash flows, which in this case is US$78b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Compared to the current share price of US$416, the company appears about fair value at a 11% discount to where the stock price trades currently. Valuations are imprecise instruments though, rather like a telescope - move a few degrees and end up in a different galaxy. Do keep this in mind.
+Now the most important inputs to a discounted cash flow are the discount rate, and of course, the actual cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Charter Communications as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 9.5%, which is based on a levered beta of 1.456. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+No major strengths identified for CHTR.
+Weakness
+Earnings declined over the past year.
+Interest payments on debt are not well covered.
+Opportunity
+Annual earnings are forecast to grow for the next 3 years.
+Good value based on P/E ratio and estimated fair value.
+Threat
+Debt is not well covered by operating cash flow.
+Annual earnings are forecast to grow slower than the American market.
+Whilst important, the DCF calculation ideally won't be the sole piece of analysis you scrutinize for a company. It's not possible to obtain a foolproof valuation with a DCF model. Instead the best use for a DCF model is to test certain assumptions and theories to see if they would lead to the company being undervalued or overvalued. If a company grows at a different rate, or if its cost of equity or risk free rate changes sharply, the output can look very different. For Charter Communications, we've compiled three essential items you should assess:
+Risks: Case in point, we've spotted   1 warning sign for Charter Communications  you should be aware of.
+Management:Have insiders been ramping up their shares to take advantage of the market's sentiment for CHTR's future outlook? Check out our management and board analysis with insights on CEO compensation and governance factors.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. Simply Wall St updates its DCF calculation for every American stock every day, so if you want to find the intrinsic value of any other stock just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Related Quotes

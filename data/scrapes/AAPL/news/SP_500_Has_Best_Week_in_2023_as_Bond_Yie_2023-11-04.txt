@@ -1,0 +1,75 @@
+url:https://finance.yahoo.com/news/asia-stocks-rise-apple-sales-224225257.html
+title:SP_500_Has_Best_Week_in_2023_as_Bond_Yields_Slide_Markets_Wrap
+(Bloomberg) -- Stocks rose and bond yields fell as signals of cooling in both the labor market and services reinforced the idea that the Federal Reserve is done with rate hikes — while bolstering bets on cuts as early as June.
+Most Read from Bloomberg
+Amazon’s Jeff Bezos Announces Move to Miami From Seattle
+Sam Bankman-Fried Convicted of Fraud in Stunning FTX Crash
+Israel’s Fight With Iran Proxies in Syria Poisons Russia Ties
+Hedge Fund Executive’s Sudden Death Exposes a Firm Deep in Trouble
+S&P 500 Has Best Week in 2023 as Bond Yields Slide: Markets Wrap
+All across Wall Street, the superlatives piled up Friday, with the S&P 500 climbing almost 1% and notching its best week of 2023. The market’s “fear gauge” — the VIX — saw its biggest weekly plunge since December 2021. Treasuries rallied, with two-year yields down 15 basis points to 4.84%. The dollar slid the most since July. Oil sank below $81 as the risk premium from the Israel-Hamas war vanished.
+Read: Wall Street Bears Propel Biggest Cross-Asset Rally This Year
+Fed swaps now show traders see an only 16% chance of another hike by January, and have fully priced in a cut by June — instead of July. The US service sector expanded at the weakest pace in five months, job growth moderated and the unemployment rate climbed to 3.9%. Nonfarm payrolls increased 150,000 last month following a downwardly revised 297,000 in September. Wage growth slowed.
+“The US economy showed its first cracks, but markets decided not to care,” said Florian Ielpo at Lombard Odier Asset Management in Switzerland. “For now, all is well — and ‘bull is cool’ looks liberating for a considerable number of investors, be it on the equity or on the bonds’ side.”
+Read: Wall Street Has YOLO Moment on Goldilocks Payrolls: Surveillance
+To George Mateyo, chief investment officer at Key Private Bank, the latest trends only validate the Fed’s decision to pause this week.
+“They also underline a ‘not too hot/not too cold’ backdrop — which will be welcomed news by investors who, up until recently, had been concerned about things overheating,” he added.
+October’s pace of slower net hiring should give Fed officials room to maintain their pause in interest rate policy as they await further progress on inflation, said Russell Price, chief economist at Ameriprise, who currently believes the the Fed is done raising rates.
+The Federal Open Market Committee voted Wednesday to hold interest rates at a 22-year high for a second straight meeting. Fed Chair Jerome Powell said it’s an open question whether the central bank would need to hike again, and that it’s “proceeding carefully,” an assessment that’s often suggested a reluctance to raise rates in the near term.
+Fedspeak
+Fed Bank of Atlanta President Raphael Bostic told Bloomberg Television that policymakers have time to watch how the economy is evolving and be patient when it comes to interest-rate moves.
+Separately, his Minneapolis counterpart Neel Kashkari said that while a slowdown in hiring is welcome news for the central bank, he doesn’t want to overreact to just one month of data. Richmond Fed chief Thomas Barkin had similar thoughts on the latest jobs figures, saying that his view on whether to hike again will depend more on inflation reports.
+“The Federal Reserve could not realistically have hoped for a better jobs report today, but it will need to be one of a number of positive economic reports over the coming months before it’s ready to declare victory,” said Craig Erlam, senior market analyst at Oanda.
+Better Entry Point
+Helped by a growing sense that the Fed’s aggressive rate-hiking regime may be over, the S&P 500 ascended rapidly this week. And Bank of America Corp.’s Michael Hartnett says technical factors no longer stand in the way of a year-end rally in stocks.
+The bank’s in-house sentiment gauge, the Bull & Bear Indicator, is flashing a contrarian buy signal for a third straight week amid poor equity market breadth — a reference to the number of stocks rising — and large outflows from high-yield and emerging-market bonds, the strategist wrote in a note. The indicator has slid to 1.4, below the 2 level that BofA says implies a buy signal.
+Meantime, BofA’s Savita Subramanian says the S&P 500 offers a better entry point now relative to its July peak — and “the probability of a positive surprise in higher beta stocks is high,” while noting that the frequency of clients asking whether they should wait to buy equities has increased.
+“Extreme fear can be just as costly as greed,” she wrote.
+While the stock market has enjoyed a powerful rebound this week, lurking beneath the euphoric surface are still fears about Corporate America’s profit outlook.
+Among companies that have issued guidance this earnings season for next quarter and beyond, more have been providing estimates that trail analysts’ expectations. A gauge of forward guidance that compares corporate forecasts with the Wall Street consensus has been lower only once since 2019, data compiled by Bloomberg Intelligence show.
+‘Manic Dispersion’
+The litany of bullish calls for both the stock and bond markets that have been resounding should be an obvious signal that investor sentiment (at best) remains neutral and (at worst) will quickly revert back toward bullish extremes, according to Dan Wantrobski at Janney Montgomery Scott.
+“Such manic dispersion in outlook implies that the markets may likely need more time to find their footing, and could even see lower levels over the coming months,” he noted. “Our work points to more volatility ahead.”
+Meantime, bonds are looking attractive and set to beat cash over the next year as inflation cools and central banks end policy tightening, according to Goldman Sachs Group Inc.’s head of asset allocation strategy.
+“Bonds are starting to offer an attractive entry point,” said Christian Mueller-Glissmann. “Central banks are very close or already at the end of their rate-hiking cycle. We also recognize the pressure that comes from rising long-dated bond yields on the economy. Those factors set investors up nicely for a much better starting point for buying bonds.”
+Corporate Highlights:
+Apple Inc., which is trying to reverse several successive quarters of revenue decline, reported its lowest revenue from the greater China region since mid-2022.
+The US threw its support behind JetBlue Airways Corp.’s attempt to fight expulsion from Amsterdam’s Schiphol Airport.
+Carvana Co. beat Wall Street’s expectations in the third quarter, defying the challenges posed by rising interest rates and high inflation.
+Fortinet Inc. cut its annual guidance a second time and projecting that fourth-quarter billings and revenue will fall short of expectations.
+Coinbase Global Inc.’s revenue increased more than forecast as the largest US crypto exchange sought to weather an industrywide decline in trading activity.
+DraftKings Inc., the online sportsbook, reported third-quarter sales and monthly unique players that beat consensus estimates.
+Booking Holdings Inc. said travel demand had been diminished by the Israel-Hamas war, even while forecasting growth and reporting earnings that beat expectations.
+The company has greater exposure in Europe and the Middle East than rivals such as Expedia Group Inc.
+Block Inc., the payments giant run by Jack Dorsey, again boosted its forecast for adjusted profit for the year as customers increasingly turn to its popular Cash App.
+Warren Buffett’s Berkshire Hathaway is poised to show that persistently high interest rates have helped the conglomerate more than they hindered it.
+Some of the main moves in markets:
+Stocks
+The S&P 500 rose 0.9% as of 4 p.m. New York time
+The Nasdaq 100 rose 1.2%
+The Dow Jones Industrial Average rose 0.7%
+The MSCI World index rose 1.2%
+Currencies
+The Bloomberg Dollar Spot Index fell 0.8%
+The euro rose 1% to $1.0727
+The British pound rose 1.4% to $1.2374
+The Japanese yen rose 0.7% to 149.47 per dollar
+Cryptocurrencies
+Bitcoin fell 1.1% to $34,536.41
+Ether rose 0.7% to $1,817.63
+Bonds
+The yield on 10-year Treasuries declined nine basis points to 4.57%
+Germany’s 10-year yield declined seven basis points to 2.65%
+Britain’s 10-year yield declined nine basis points to 4.29%
+Commodities
+West Texas Intermediate crude fell 1.8% to $80.95 a barrel
+Spot gold rose 0.3% to $1,992.30 an ounce
+This story was produced with the assistance of Bloomberg Automation.
+--With assistance from Ye Xie, Michael Mackenzie, Christopher DeReza and Michael Tobin.
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+World’s Safest Market Becomes a Magnet for Big Investors
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+Online Gambling Has Millions of Young Africans Battling Addiction
+©2023 Bloomberg L.P.

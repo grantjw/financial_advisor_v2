@@ -1,0 +1,13 @@
+url:https://finance.yahoo.com/news/snapdragon-qualcomm-sets-pace-device-135848898.html
+title:With_Snapdragon_Qualcomm_Sets_the_Pace_for_OnDevice_AI__The_Futurum_Group
+ 
+By Tech Edge Editorial
+Qualcomm Inc. (Nasdaq: QCOM) unveiled new SoC offerings at the Snapdragon Summit, targeting both PCs and smartphones with on-device AI capabilities. 
+The Snapdragon X Elite features the Qualcomm Oryon CPU, offering up to 2x faster CPU performance than competitors with significantly lower power consumption. 
+This new product can run generative AI models with 13 billion parameters and offers 4.5x faster AI processing power compared to rivals. It is expected to be available from leading OEMs in mid-2024. 
+The company is also partnering with industry giants like Microsoft, Meta, Google, Baidu, and OpenAI to enable on-device AI. Qualcomm’s push into on-device AI aligns with the trend toward high-powered, touch-enabled, and lightweight devices. 
+Over the next 2 years, Qualcomm is expected to play a significant role in shaping the future of AI applications in both PCs and smartphones. 
+Read the full report from The Futurum Group 
+Contact:
+Tech Edge
+Editor@executives-edge.com

@@ -1,0 +1,1414 @@
+url:https://finance.yahoo.com/news/ge-healthcare-reports-third-quarter-102000997.html
+title:GE_HealthCare_Reports_Third_Quarter_2023_Financial_Results
+Revenue growth was 5% year-over-year; Organic revenue growth* of 6%
+Net income attributable to GE HealthCare was $375 million versus $487 million for the prior year; Adjusted EBIT* $744 million versus $700 million
+Net income margin was 7.8% versus 10.6% for the prior year; Adjusted EBIT margin* was 15.4% versus Standalone EBIT margin* of 14.2%
+Diluted EPS was $0.83 versus $1.07 for the prior year; Adjusted EPS* was $0.99 versus Standalone Adjusted EPS* of $0.87
+Cash flow from operating activities was $650 million versus $622 million for the prior year; Free cash flow* was $570 million versus $548 million
+The Company raises low end of full-year Adjusted EPS* guidance range
+CHICAGO, October 31, 2023--(BUSINESS WIRE)--GE HealthCare (Nasdaq: GEHC), a leading global precision care innovator, today reported financial results for the third quarter ended September 30, 2023.
+GE HealthCare President and CEO Peter Arduini said, "We delivered another strong quarter of revenue growth with margin performance demonstrating progress on productivity and price. Cash performance was strong as we leveraged lean principles to improve inventory management. We remain confident in our 2023 outlook as we continue to innovate for customers and patients."
+Third Quarter 2023 Total Company Financial Performance
+Revenues of $4.8 billion increased 5% reported and 6% on an Organic basis* year-over-year, driven by volume and price.
+Total company book-to-bill, defined as Total orders divided by Total revenues, was 1.03 times for the quarter, as orders dollars outpaced revenues. Total company orders increased 1% organically.
+Net income attributable to GE HealthCare was $375 million versus $487 million for the prior year, and Adjusted EBIT* was $744 million versus $700 million.
+Net income margin was 7.8% versus 10.6% for the prior year, down 280 basis points ("bps") primarily impacted by standalone interest expense. Adjusted EBIT margin* was 15.4% versus 15.3%, up 10 bps. Adjusted EBIT margin* for the third quarter of 2023 increased 120 bps versus the Company’s estimated 3Q’22 Standalone Adjusted EBIT margin* of 14.2%. Margin was driven by productivity and price, and partially offset by planned investments and inflation.
+Earnings per share ("EPS") from continuing operations were $0.83 versus $1.07, down $0.24 from the prior year. Adjusted EPS* was $0.99 versus $1.20, down $0.21 from the prior year. Both comparisons were impacted by standalone interest expense. Adjusted EPS* for the third quarter of 2023 grew $0.12 versus the Company’s estimated 3Q’22 Standalone Adjusted EPS* of $0.87 with increased volume.
+Cash flow from operating activities was $650 million versus $622 million, up $28 million year-over-year primarily due to strong inventory management. Free cash flow* was $570 million, up $22 million year-over-year.
+Third Quarter 2023 Segment Financial Performance
+Imaging
+Revenues of $2.6 billion increased 5% on both a reported and Organic basis* year-over-year.
+Revenue growth was driven by Molecular Imaging and Computed Tomography as well as Magnetic Resonance, due to supply chain improvements, price, and new product introductions.
+Segment EBIT was $318 million versus $267 million for the prior year.
+Segment EBIT margin was 12.1% versus 10.6% for the prior year, with progress on productivity, price, and volume, partially offset by planned investments.
+Ultrasound
+Revenues of $815 million declined 1% on both a reported and Organic basis*, following double-digit growth in the prior period.
+Segment EBIT was $179 million versus $211 million for the prior year.
+Segment EBIT margin was 22.0% versus 25.6% for prior year due to planned investments including Caption Health and inflation, partially offset by productivity improvements.
+Patient Care Solutions
+Revenues of $764 million increased 9% on both a reported and Organic basis* year-over-year.
+Strong revenue growth from volume, due to supply chain fulfillment improvements and progress on price.
+Segment EBIT was $80 million versus $65 million for the prior year.
+Segment EBIT margin was 10.5% versus 9.3% for the prior year, driven by productivity, volume, and price, partially offset by planned investments and inflation.
+Pharmaceutical Diagnostics
+Revenues of $589 million increased 13% reported and 12% on an Organic basis* year-over-year.
+Strong revenue growth driven by pricing actions and continued volume.
+Segment EBIT of $166 million versus $159 million for the prior year.
+Segment EBIT margin was 28.2% versus 30.5% for the prior year, due to raw material inflation and planned investments, partially offset by price, productivity, and volume.
+Growth and Innovation
+GE HealthCare and Novo Nordisk to Collaborate to Advance Novel Non-Invasive Treatment for Type 2 Diabetes and Obesity with Ultrasound
+GE HealthCare’s growing list of medical institutions conducting human subject research studies with its novel photon counting CT[i] technology further expands with the addition of Stanford Medicine
+GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance
+GE HealthCare Awarded a $44 Million Grant to Develop Artificial Intelligence-Assisted Ultrasound Technology Aimed at Improving Outcomes in Low-and-Middle-Income Countries
+Mayo Clinic and GE HealthCare enter strategic collaboration to advance innovation in medical imaging and theranostics
+GE HealthCare Introduces Vscan Air SL, a Wireless Handheld Ultrasound Device for Rapid Assessments of Cardiac and Vascular Patients
+GE HealthCare Launches CardioVisio for Atrial Fibrillation, a Digital, Patient-Centric Clinical Decision Support Tool to Enable Precision Care
+GE HealthCare Receives FDA Clearance for Portrait Mobile, A First-Of-Its-Kind, Wireless Monitoring Solution Aiding Early Detection of Patient Deterioration
+2023 Guidance
+Full year 2023 guidance is as follows:
+Organic revenue growth* in the range of 6% to 8% year-over-year.
+Adjusted EBIT margin* in the range of 15.0% to 15.5%, reflecting an expansion of 50 to 100 basis points versus 2022 Standalone Adjusted EBIT margin* of 14.5%.
+Adjusted effective tax rate (ETR)* in the range of 23% to 25%.
+Adjusted EPS* in the range of $3.75 to $3.85, raising the low end of range, and representing 11% to 14% growth versus Standalone Adjusted EPS* of $3.38 for 2022. The prior range was $3.70 to $3.85.
+Free cash flow conversion* of 85% or more for the full year. The Company’s cash flow outlook assumes that the legislation requiring R&D capitalization for tax purposes is repealed or deferred beyond 2023. The Free cash flow* impact of this legislation is up to 10 points of Free cash flow conversion* for the year.
+The Company provides its outlook on a non-GAAP basis. Refer to the Non-GAAP Financial Measures in Outlook section below for more details.
+Condensed Consolidated and Combined Statements of Income (Unaudited)
+For the three months ended September 30
+For the nine months ended September 30
+(In millions, except per share amounts)
+2023
+2022
+2023
+2022
+Sales of products
+$
+3,186
+$
+3,012
+$
+9,530
+$
+8,702
+Sales of services
+1,636
+1,564
+4,816
+4,701
+Total revenues
+4,822
+4,576
+14,346
+13,403
+Cost of products
+2,076
+1,995
+6,197
+5,825
+Cost of services
+811
+808
+2,383
+2,331
+Gross profit
+1,935
+1,773
+5,766
+5,247
+Selling, general, and administrative
+996
+908
+3,130
+2,747
+Research and development
+322
+260
+890
+755
+Total operating expenses
+1,318
+1,168
+4,020
+3,502
+Operating income
+617
+605
+1,746
+1,745
+Interest and other financial charges – net
+138
+2
+411
+18
+Non-operating benefit (income) costs
+(94
+)
+(1
+)
+(332
+)
+(4
+)
+Other (income) expense – net
+(63
+)
+(18
+)
+(85
+)
+(63
+)
+Income from continuing operations before income taxes
+636
+622
+1,752
+1,794
+Benefit (provision) for income taxes
+(250
+)
+(129
+)
+(550
+)
+(412
+)
+Net income from continuing operations
+386
+493
+1,202
+1,382
+Income (loss) from discontinued operations, net of taxes
+(4
+)
+—
+(4
+)
+12
+Net income
+382
+493
+1,198
+1,394
+Net (income) loss attributable to noncontrolling interests
+(7
+)
+(6
+)
+(33
+)
+(32
+)
+Net income attributable to GE HealthCare
+375
+487
+1,165
+1,362
+Deemed preferred stock dividend of redeemable noncontrolling interest
+—
+—
+(183
+)
+—
+Net income attributable to GE HealthCare common stockholders
+$
+375
+$
+487
+$
+982
+$
+1,362
+Earnings per share from continuing operations attributable to GE HealthCare common stockholders:
+Basic
+$
+0.83
+$
+1.07
+$
+2.17
+$
+2.97
+Diluted
+0.83
+1.07
+2.16
+2.97
+Earnings per share attributable to GE HealthCare common stockholders:
+Basic
+$
+0.82
+$
+1.07
+$
+2.16
+$
+3.00
+Diluted
+0.82
+1.07
+2.15
+3.00
+Weighted-average number of shares outstanding:
+Basic
+455
+454
+455
+454
+Diluted
+458
+454
+458
+454
+Condensed Consolidated and Combined Statements of Financial Position (Unaudited)
+As of
+(In millions, except share and per share amounts)
+September 30, 2023
+December 31, 2022
+Cash, cash equivalents, and restricted cash
+$
+2,418
+$
+1,445
+Receivables – net of allowances of $91 and $91
+3,373
+3,295
+Due from related parties
+27
+17
+Inventories
+2,128
+2,155
+Contract and other deferred assets
+1,038
+989
+All other current assets
+484
+417
+Current assets
+9,468
+8,318
+Property, plant, and equipment – net
+2,355
+2,314
+Goodwill
+12,914
+12,813
+Other intangible assets – net
+1,332
+1,520
+Deferred income taxes
+4,277
+1,550
+All other assets
+2,036
+1,024
+Total assets
+$
+32,382
+$
+27,539
+Short-term borrowings
+$
+7
+$
+15
+Accounts payable
+2,774
+2,944
+Due to related parties
+102
+146
+Contract liabilities
+1,927
+1,896
+All other current liabilities
+2,755
+2,190
+Current liabilities
+7,565
+7,191
+Long-term borrowings
+10,253
+8,234
+Compensation and benefits
+5,373
+549
+Deferred income taxes
+62
+370
+All other liabilities
+1,826
+1,603
+Total liabilities
+25,079
+17,947
+Commitments and contingencies
+Redeemable noncontrolling interests
+161
+230
+Common stock, par value $0.01 per share, 1,000,000,000 shares authorized, 455,224,438 shares issued and outstanding as of September 30, 2023; 100 shares issued and outstanding as of December 31, 2022
+5
+—
+Additional paid-in capital
+6,469
+—
+Retained earnings
+937
+—
+Net parent investment
+—
+11,235
+Accumulated other comprehensive income (loss) – net
+(280
+)
+(1,878
+)
+Total equity attributable to GE HealthCare
+7,131
+9,357
+Noncontrolling interests
+11
+5
+Total equity
+7,142
+9,362
+Total liabilities, redeemable noncontrolling interests, and equity
+$
+32,382
+$
+27,539
+Condensed Consolidated and Combined Statements of Cash Flows (Unaudited)
+For the nine months ended September 30
+(In millions)
+2023
+2022
+Net income
+$
+1,198
+$
+1,394
+Less: Income (loss) from discontinued operations, net of taxes
+(4
+)
+12
+Net income from continuing operations
+$
+1,202
+$
+1,382
+Adjustments to reconcile Net income from continuing operations to Cash from (used for) operating activities
+Depreciation of property, plant, and equipment
+188
+169
+Amortization of intangible assets
+278
+307
+Gain on fair value remeasurement of contingent consideration
+(17
+)
+(49
+)
+Net periodic postretirement benefit plan (income) expense
+(291
+)
+8
+Postretirement plan contributions
+(259
+)
+(17
+)
+Provision for income taxes
+550
+412
+Share-based compensation
+81
+58
+Cash paid during the year for income taxes
+(375
+)
+(664
+)
+Cash paid during the year for interest
+(318
+)
+—
+Changes in operating assets and liabilities, excluding the effects of acquisitions and dispositions:
+Receivables
+(82
+)
+(107
+)
+Due from related parties
+9
+22
+Inventories
+(85
+)
+(542
+)
+Contract and other deferred assets
+(75
+)
+(168
+)
+Accounts payable
+(93
+)
+369
+Due to related parties
+(87
+)
+(45
+)
+Contract liabilities
+69
+49
+All other operating activities
+356
+(113
+)
+Cash from (used for) operating activities – continuing operations
+1,051
+1,071
+Cash flows – investing activities
+Additions to property, plant and equipment and internal-use software
+(293
+)
+(233
+)
+Dispositions of property, plant, and equipment
+1
+3
+Purchases of businesses, net of cash acquired
+(147
+)
+—
+All other investing activities
+(31
+)
+(73
+)
+Cash from (used for) investing activities – continuing operations
+(470
+)
+(303
+)
+Cash flows – financing activities
+Net increase (decrease) in borrowings (maturities of 90 days or less)
+(9
+)
+8
+Newly issued debt, net of debt issuance costs (maturities longer than 90 days)
+2,020
+3
+Repayments and other reductions (maturities longer than 90 days)
+(9
+)
+(4
+)
+Dividends paid to stockholders
+(28
+)
+—
+Redemption of noncontrolling interests
+(211
+)
+—
+Net transfers (to) from GE
+(1,317
+)
+(703
+)
+All other financing activities
+(24
+)
+(89
+)
+Cash from (used for) financing activities – continuing operations
+422
+(785
+)
+Effect of foreign currency rate changes on cash, cash equivalents, and restricted cash
+(34
+)
+(40
+)
+Increase (decrease) in cash, cash equivalents, and restricted cash
+969
+(57
+)
+Cash, cash equivalents, and restricted cash at beginning of year
+1,451
+561
+Cash, cash equivalents, and restricted cash as of September 30
+$
+2,420
+$
+504
+Non-GAAP Financial Measures
+The non-GAAP financial measures presented in this press release are supplemental measures of GE HealthCare’s performance and its liquidity that the Company believes will help investors understand its financial condition, cash flows, and operating results and assess its future prospects. The Company believes that presenting these non-GAAP financial measures, in addition to the corresponding U.S. GAAP financial measures, are important supplemental measures that exclude non-cash or other items that may not be indicative of or related to its core operating results and the overall health of the Company. The Company believes these non-GAAP financial measures provide investors greater transparency to the information used by management for its operational decision-making and allow investors to see results "through the eyes of management." The Company believes that providing this information assists investors in understanding its operating performance and the methodology used by management to evaluate and measure such performance. When read in conjunction with the Company’s U.S. GAAP results, these non-GAAP financial measures provide a baseline for analyzing trends in the Company’s underlying businesses and can be used by management as one basis for making financial, operational, and planning decisions. Finally, these measures are often used by analysts and other interested parties to evaluate companies in the Company’s industry.
+Management recognizes that these non-GAAP financial measures have limitations, including that they may be calculated differently by other companies or may be used under different circumstances or for different purposes, thereby affecting their comparability from company to company. In order to compensate for these and the other limitations, management does not consider these measures in isolation from or as alternatives to the comparable financial measures determined in accordance with U.S. GAAP. Readers should review the reconciliations and should not rely on any single financial measure to evaluate the Company’s business.
+The Company defines these non-GAAP financial measures as:
+Organic revenue: Total revenues excluding the effects of: (1) net sales from recent acquisitions and dispositions with less than a full year of comparable net sales; and (2) foreign currency exchange rate fluctuations in order to present revenue on a constant currency basis.
+Organic revenue growth rate: Rate of change when comparing Organic revenue, period over period.
+Adjusted EBIT: Net income attributable to GE HealthCare excluding the effects of: (1) Interest and other financial charges – net; (2) Non-operating benefit (income) costs; (3) Provision (benefit) for income taxes; (4) Income (loss) from discontinued operations, net of taxes; (5) Net (income) loss attributable to noncontrolling interests; (6) restructuring costs; (7) acquisition, disposition related charges (benefits); (8) Spin-Off and separation costs; (9) (gain) loss of business and asset dispositions; (10) amortization of acquisition related intangible assets; and (11) investment revaluation (gain) loss. In addition, the Company may from time to time consider excluding other nonrecurring items to enhance comparability between periods.
+Adjusted EBIT margin: Adjusted EBIT divided by Total revenues for the same period.
+Standalone Adjusted EBIT: Adjusted EBIT including the effects of recurring and on-going costs to operate new functions required for a standalone company that management believes provide a better depiction of the operations of GE HealthCare as a standalone company.
+Standalone Adjusted EBIT margin: Standalone Adjusted EBIT divided by Total revenues for the same period.
+The Company believes that Organic revenue and Organic revenue growth rate, by excluding the effect of acquisitions, dispositions, and foreign currency rate fluctuations, provide management and investors with additional understanding of the Company’s core, top-line operating results and greater visibility into underlying revenue trends of its established, ongoing operations. Organic revenue and Organic revenue growth rate also provide greater insight regarding the overall demand for its products and services.
+The Company believes Adjusted EBIT, Adjusted EBIT margin, Standalone Adjusted EBIT, and Standalone Adjusted EBIT margin provide management and investors with additional understanding of its business by highlighting the results from ongoing operations and the underlying profitability factors. These metrics exclude interest expense, interest income, non-operating benefits (income) costs, and tax expense, as well as non-recurring and/or non-cash items, which may have a material impact on the Company’s results. The Company believes this provides additional insight into how its businesses are performing, on a normalized basis. However, these non-GAAP financial measures should not be construed as inferring that the Company’s future results will be unaffected by the items for which the measure adjusts.​
+Adjusted net income: Net income attributable to GE HealthCare excluding (1) Non-operating benefit (income) costs; (2) restructuring costs; (3) acquisition, disposition related charges (benefits); (4) Spin-Off and separation costs; (5) (gain) loss of business and asset dispositions; (6) amortization of acquisition-related intangible assets; (7) investment revaluation (gain) loss; (8) tax effect of reconciling items (items 1-7); (9) certain tax adjustments as described in Adjusted tax expense definition below and (10) Income (loss) from discontinued operations, net of taxes. In addition, the Company may from time to time consider disclosing other nonrecurring items to enhance comparability between periods.
+Adjusted EPS: Diluted earnings per share from continuing operations excluding the per share impact of: (1) deemed preferred stock dividend of redeemable noncontrolling interest, (2) Non-operating benefit (income) costs; (3) restructuring costs; (4) acquisition, disposition related charges (benefits); (5) Spin-Off and separation costs; (6) (gain) loss of business and asset dispositions; (7) amortization of acquisition-related intangible assets; (8) investment revaluation (gain) loss; (9) tax effect of reconciling items (items 1-8); and (10) certain tax adjustments as described in Adjusted tax expense definition below. In addition, the Company may from time to time consider disclosing other nonrecurring items to enhance comparability between periods.
+Standalone Adjusted EPS: Adjusted EPS including the per share impact of the effects of recurring and on-going costs to operate new functions required for a standalone company and interest expense associated with third party debt that management believes provide a better depiction of the operations of GE HealthCare as a standalone company.
+The Company believes Adjusted net income, Adjusted EPS, and Standalone Adjusted EPS provide investors with improved comparability of underlying operating results and a further understanding and additional transparency regarding how it evaluates the business. These non-GAAP financial measures also provide management and investors with additional perspective regarding the impact of certain significant items on the Company’s condensed consolidated and combined earnings. However, they should not be construed as inferring that the Company’s future results will be unaffected by the items for which the measure adjusts.​
+Adjusted tax expense and Adjusted effective tax rate ("ETR"): Adjusted tax expense is Income tax expense less the income tax related to pre-tax income adjustments above and certain income tax adjustments. Examples of certain income tax adjustments include the accrual of a deferred tax liability on the prior period earnings of certain of the Company’s foreign subsidiaries for which the Company is no longer permanently reinvested. Adjusted ETR is Adjusted tax expense divided by Income before income taxes less pre-tax income adjustments above. Adjusted tax expense and Adjusted ETR can be used by investors to review the income tax expense and effective tax rate for the Company’s operations on a consistent basis.
+Free cash flow: Cash from (used for) operating activities - continuing operations adjusting for the effects of (1) additions to property, plant and equipment ("PP&E") and internal-use software; (2) dispositions of PP&E; and (3) impact of factoring programs.
+Free cash flow conversion: Free cash flow divided by Adjusted net income.
+The Company believes that Free cash flow and Free cash flow conversion provide management and investors with important measures of the Company’s ability to generate cash on a normalized basis. These metrics also provide insight into the Company’s flexibility to allocate capital, including reinvesting in the Company for future growth, paying down debt, paying dividends, and pursuing other opportunities that may enhance stockholder value. The Company believes investors may find it useful to compare Free cash flow performance without the effects of the factoring program discontinuation. However, they should not be construed as inferring that the Company’s future results will be unaffected by the items for which the measure adjusts.
+Organic Revenue*
+Unaudited
+For the three months ended September 30
+For the nine months ended September 30
+($ In millions)
+2023
+2022
+% change
+2023
+2022
+% change
+Imaging revenues
+$
+2,635
+$
+2,516
+5
+%
+$
+7,751
+$
+7,276
+7
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+(14
+)
+—
+(159
+)
+—
+Imaging Organic revenue*
+$
+2,649
+$
+2,516
+5
+%
+$
+7,910
+$
+7,276
+9
+%
+Ultrasound revenues
+$
+815
+$
+823
+(1
+)%
+$
+2,513
+$
+2,466
+2
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+1
+—
+(54
+)
+—
+Ultrasound Organic revenue*
+$
+814
+$
+823
+(1
+)%
+$
+2,567
+$
+2,466
+4
+%
+PCS revenues
+$
+764
+$
+701
+9
+%
+$
+2,315
+$
+2,130
+9
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+1
+—
+(22
+)
+—
+PCS Organic revenue*
+$
+763
+$
+701
+9
+%
+$
+2,337
+$
+2,130
+10
+%
+PDx revenues
+$
+589
+$
+522
+13
+%
+$
+1,715
+$
+1,485
+15
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+2
+—
+(23
+)
+—
+PDx Organic revenue*
+$
+587
+$
+522
+12
+%
+$
+1,738
+$
+1,485
+17
+%
+Other revenues
+$
+19
+$
+14
+36
+%
+$
+52
+$
+46
+13
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+—
+—
+—
+—
+Other Organic revenue*
+$
+19
+$
+14
+36
+%
+$
+52
+$
+46
+13
+%
+Total revenues
+$
+4,822
+$
+4,576
+5
+%
+$
+14,346
+$
+13,403
+7
+%
+Less: Acquisitions(1)
+—
+—
+—
+—
+Less: Dispositions(2)
+—
+—
+—
+—
+Less: Foreign currency exchange
+(10
+)
+—
+(258
+)
+—
+Organic revenue*
+$
+4,832
+$
+4,576
+6
+%
+$
+14,604
+$
+13,403
+9
+%
+(1)
+Represents revenues attributable to acquisitions from the date the Company completed the transaction through the end of four quarters following the transaction.
+(2)
+Represents revenues attributable to dispositions for the four quarters preceding the disposition date.
+Unaudited Net Income to Adjusted EBIT* and Standalone Adjusted EBIT* (estimated)
+For the three months ended September 30
+For the nine months ended September 30
+($ In millions)
+2023
+2022
+% change
+2023
+2022
+% change
+Net income attributable to GE HealthCare
+$
+375
+$
+487
+(23
+)%
+$
+1,165
+$
+1,362
+(14
+)%
+Add: Interest and other financial charges - net
+138
+2
+411
+18
+Add: Non-operating benefit (income) costs
+(94
+)
+(1
+)
+(332
+)
+(4
+)
+Less: Benefit (provision) for income taxes
+(250
+)
+(129
+)
+(550
+)
+(412
+)
+Less: Income (loss) from discontinued operations, net of taxes
+(4
+)
+—
+(4
+)
+12
+Less: Net (income) loss attributable to noncontrolling interests
+(7
+)
+(6
+)
+(33
+)
+(32
+)
+EBIT*
+$
+680
+$
+623
+9
+%
+$
+1,831
+$
+1,808
+1
+%
+Add: Restructuring costs(1)
+3
+88
+34
+110
+Add: Acquisition and disposition related charges (benefits)(2)
+(14
+)
+(49
+)
+(15
+)
+(20
+)
+Add: Spin-Off and separation costs(3)
+45
+7
+175
+7
+Add: (Gain) loss of business and asset dispositions(4)
+—
+2
+—
+(1
+)
+Add: Amortization of acquisition-related intangible assets
+32
+28
+95
+90
+Add: Investment revaluation (gain) loss(5)
+(2
+)
+1
+(1
+)
+23
+Adjusted EBIT*
+$
+744
+$
+700
+6
+%
+$
+2,119
+$
+2,017
+5
+%
+Less: Estimated standalone costs(6)
+—
+50
+—
+150
+Less: Estimated incremental interest expense(7)
+—
+—
+—
+—
+Less: Estimated tax effect of reconciling items(8)
+—
+—
+—
+—
+Standalone Adjusted EBIT* (estimate)
+$
+744
+$
+650
+14
+%
+$
+2,119
+$
+1,867
+13
+%
+Net income margin
+7.8
+%
+10.6
+%
+(280) bps
+8.1
+%
+10.2
+%
+(210) bps
+Adjusted EBIT margin*
+15.4
+%
+15.3
+%
+10 bps
+14.8
+%
+15.0
+%
+(20) bps
+Standalone Adjusted EBIT margin* (estimate)
+15.4
+%
+14.2
+%
+120 bps
+14.8
+%
+13.9
+%
+90 bps
+(1)
+Consists of severance, facility closures, and other charges associated with restructuring programs.
+(2)
+Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions.
+(3)
+Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs.
+(4)
+Consists of gains and losses resulting from the sale of assets and investments.
+(5)
+Primarily relates to valuation adjustments for equity investments.
+(6)
+Estimated 3Q’22 quarter to date and year to date expense of recurring and ongoing costs required to operate new functions required for a public company such as external reporting, internal audit, treasury, investor relations, board of directors and officers, stock administration, and expanding the services of existing functions such as information technology, finance, supply chain, human resources, legal, tax, facilities, branding, security, government relations, community outreach, and insurance.
+(7)
+Estimated 3Q’22 quarter to date and year to date additional interest expense related to the GE HealthCare debt issuances on November 22nd, 2022 and the draw down of the term loan on January 3rd, 2023, the amortization of original issue discount and deferred, debt issuance costs, and certain Euro to U.S. Dollar cross currency interest rate swap arrangements with a notional amount of $2.0 billion. Interest expense was calculated assuming constant debt levels throughout the periods.
+(8)
+Estimated 3Q’22 quarter to date and year to date tax effect was determined by applying the respective statutory tax rates to the pre-tax adjustments, as appropriate, in jurisdictions where valuation allowances were not required. The applicable tax rates could be impacted (either higher or lower) depending on many factors including, but not limited to, the profitability in local jurisdictions and may be different from the estimate.
+Unaudited Net Income to Adjusted Net Income* and Standalone Adjusted Net Income* (estimated)
+For the three months ended September 30
+For the nine months ended September 30
+($ In millions)
+2023
+2022
+% change
+2023
+2022
+% change
+Net income attributable to GE HealthCare
+$
+375
+$
+487
+(23
+)%
+$
+1,165
+$
+1,362
+(14
+)%
+Add: Non-operating benefit (income) costs
+(94
+)
+(1
+)
+(332
+)
+(4
+)
+Add: Restructuring costs(1)
+3
+88
+34
+110
+Add: Acquisition and disposition related charges (benefits)(2)
+(14
+)
+(49
+)
+(15
+)
+(20
+)
+Add: Spin-Off and separation costs(3)
+45
+7
+175
+7
+Add: (Gain) loss of business and asset dispositions(4)
+—
+2
+—
+(1
+)
+Add: Amortization of acquisition-related intangible assets
+32
+28
+95
+90
+Add: Investment revaluation (gain) loss(5)
+(2
+)
+1
+(1
+)
+23
+Add: Tax effect of reconciling items
+102
+(17
+)
+103
+(48
+)
+Add: Certain tax adjustments(6)
+—
+—
+30
+—
+Less: Income (loss) from discontinued operations, net of taxes
+(4
+)
+—
+(4
+)
+12
+Adjusted net income*
+$
+451
+$
+546
+(17
+)%
+$
+1,258
+$
+1,507
+(17
+)%
+Less: Estimated standalone costs(7)
+—
+50
+—
+150
+Less: Estimated incremental interest expense(8)
+—
+149
+—
+441
+Less: Estimated tax effect of reconciling items(9)
+—
+(46
+)
+—
+(136
+)
+Standalone Adjusted net income* (estimate)
+$
+451
+$
+393
+15
+%
+$
+1,258
+$
+1,052
+20
+%
+Adjusted net income margin*
+9.4
+%
+11.9
+%
+(250) bps
+8.8
+%
+11.2
+%
+(240) bps
+Standalone Adjusted net income margin* (estimate)
+9.4
+%
+8.6
+%
+80 bps
+8.8
+%
+7.8
+%
+100 bps
+(1)
+Consists of severance, facility closures, and other charges associated with restructuring programs.
+(2)
+Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions.
+(3)
+Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs.
+(4)
+Consists of gains and losses resulting from the sale of assets and investments.
+(5)
+Primarily relates to valuation adjustments for equity investments.
+(6)
+Consists of certain income tax adjustments, including the accrual of a deferred tax liability on the prior period earnings of certain of the Company’s foreign subsidiaries for which the Company is no longer permanently reinvested.
+(7)
+Estimated 3Q’22 quarter to date and year to date expense of recurring and ongoing costs required to operate new functions required for a public company such as external reporting, internal audit, treasury, investor relations, board of directors and officers, stock administration, and expanding the services of existing functions such as information technology, finance, supply chain, human resources, legal, tax, facilities, branding, security, government relations, community outreach, and insurance.
+(8)
+Estimated 3Q’22 quarter to date and year to date additional interest expense related to the GE HealthCare debt issuances on November 22nd, 2022 and the draw down of the term loan on January 3rd, 2023, the amortization of original issue discount and deferred, debt issuance costs, and certain Euro to U.S. Dollar cross currency interest rate swap arrangements with a notional amount of $2.0 billion. Interest expense was calculated assuming constant debt levels throughout the periods.
+(9)
+Estimated 3Q’22 quarter to date and year to date tax effect was determined by applying the respective statutory tax rates to the pre-tax adjustments, as appropriate, in jurisdictions where valuation allowances were not required. The applicable tax rates could be impacted (either higher or lower) depending on many factors including, but not limited to, the profitability in local jurisdictions and may be different from the estimate.
+Unaudited Diluted Continuing Earnings Per Share to Adjusted Earnings Per Share* and Standalone Adjusted Earnings Per Share* (estimated)
+For the three months ended September 30
+For the nine months ended September 30
+(In dollars, except shares outstanding presented in millions)
+2023
+2022
+$ change
+2023
+2022
+$ change
+Diluted earnings per share – continuing operations
+$
+0.83
+$
+1.07
+$
+(0.24
+)
+$
+2.16
+$
+2.97
+$
+(0.81
+)
+Add: Deemed preferred stock dividend of redeemable noncontrolling interest
+—
+—
+0.40
+—
+Add: Non-operating benefit (income) costs
+(0.21
+)
+(0.00
+)
+(0.73
+)
+(0.01
+)
+Add: Restructuring costs(1)
+0.01
+0.19
+0.07
+0.24
+Add: Acquisition and disposition related charges (benefits)(2)
+(0.03
+)
+(0.11
+)
+(0.03
+)
+(0.04
+)
+Add: Spin-Off and separation costs(3)
+0.10
+0.02
+0.38
+0.02
+Add: (Gain) loss of business and asset dispositions(4)
+—
+0.00
+—
+(0.00
+)
+Add: Amortization of acquisition-related intangible assets
+0.07
+0.06
+0.21
+0.20
+Add: Investment revaluation (gain) loss(5)
+(0.00
+)
+0.00
+(0.00
+)
+0.05
+Add: Tax effect of reconciling items
+0.22
+(0.04
+)
+0.23
+(0.11
+)
+Add: Certain tax adjustments(6)
+—
+—
+0.07
+—
+Adjusted earnings per share*(10)
+$
+0.99
+$
+1.20
+$
+(0.21
+)
+$
+2.75
+$
+3.32
+$
+(0.57
+)
+Less: Estimated standalone costs(7)
+—
+0.11
+—
+0.33
+Less: Estimated incremental interest expense(8)
+—
+0.33
+—
+0.97
+Less: Estimated tax effect of reconciling items(9)
+—
+(0.10
+)
+—
+(0.30
+)
+Standalone Adjusted earnings per share* (estimate)(10)
+$
+0.99
+$
+0.87
+$
+0.12
+$
+2.75
+$
+2.32
+$
+0.43
+Diluted weighted-average shares outstanding
+458
+454
+458
+454
+(1)
+Consists of severance, facility closures, and other charges associated with restructuring programs.
+(2)
+Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions.
+(3)
+Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs.
+(4)
+Consists of gains and losses resulting from the sale of assets and investments.
+(5)
+Primarily relates to valuation adjustments for equity investments.
+(6)
+Consists of certain income tax adjustments, including the accrual of a deferred tax liability on the prior period earnings of certain of the Company’s foreign subsidiaries for which the Company is no longer permanently reinvested.
+(7)
+Estimated 3Q’22 quarter to date and year to date expense of recurring and ongoing costs required to operate new functions required for a public company such as external reporting, internal audit, treasury, investor relations, board of directors and officers, stock administration, and expanding the services of existing functions such as information technology, finance, supply chain, human resources, legal, tax, facilities, branding, security, government relations, community outreach, and insurance.
+(8)
+Estimated 3Q’22 quarter to date and year to date additional interest expense related to the GE HealthCare debt issuances on November 22nd, 2022 and the draw down of the term loan on January 3rd, 2023, the amortization of original issue discount and deferred, debt issuance costs, and certain Euro to U.S. Dollar cross currency interest rate swap arrangements with a notional amount of $2.0 billion. Interest expense was calculated assuming constant debt levels throughout the periods.
+(9)
+Estimated 3Q’22 quarter to date and year to date tax effect was determined by applying the respective statutory tax rates to the pre-tax adjustments, as appropriate, in jurisdictions where valuation allowances were not required. The applicable tax rates could be impacted (either higher or lower) depending on many factors including, but not limited to, the profitability in local jurisdictions and may be different from the estimate.
+(10)
+Adjusted earnings per share* and estimated Standalone Adjusted earnings per share* amounts are computed independently, thus, the sum of per-share amounts may not equal the total.
+Free Cash Flow*
+Unaudited
+For the three months ended September 30
+For the nine months ended September 30
+($ In millions)
+2023
+2022
+% change
+2023
+2022
+% change
+Cash from (used for) operating activities – continuing operations
+$
+650
+$
+622
+5
+%
+$
+1,051
+$
+1,071
+(2
+)%
+Add: Additions to PP&E and internal-use software
+(80
+)
+(74
+)
+(293
+)
+(233
+)
+Add: Dispositions of PP&E
+—
+—
+1
+3
+Free cash flow*
+$
+570
+$
+548
+4
+%
+$
+759
+$
+841
+(10
+)%
+Non-GAAP Financial Measures in Outlook
+GE HealthCare calculates forward-looking non-GAAP financial measures, including Organic revenue growth, Adjusted EBIT margin, Adjusted ETR, Adjusted EPS, and Free cash flow conversion based on internal forecasts that omit certain amounts that would be included in GAAP financial measures. GE HealthCare does not provide reconciliations of these forward-looking non-GAAP financial measures to the respective GAAP metrics as it is unable to predict with reasonable certainty and without unreasonable effort certain items such as the impact of changes in currency exchange rates, impacts associated with business acquisitions or dispositions, timing and magnitude of restructuring activities, and revaluation of strategic investments, amongst other items. The timing and amounts of these items are uncertain and could have a substantial impact on GE HealthCare’s results in accordance with GAAP.
+Key Performance Indicators
+Management uses the following metrics to provide a leading indicator of current business demand from customers for products and services.
+Organic orders growth: Rate of change period-over-period of contractual commitments with customers to provide specified goods or services for an agreed upon price, and excluding the effects of: (1) recent acquisitions and dispositions with less than a full year of comparable orders; and (2) foreign currency exchange rate fluctuations in order to present orders on a constant currency basis.
+Book-to-bill: Total orders divided by Total revenues within a given financial period (e.g., quarter or FY).
+Conference Call and Webcast Information
+GE HealthCare will discuss its results during its investor conference call today, October 31, 2023 at 8:30am ET. The conference call will be broadcast live via webcast, and the webcast and accompanying slide presentation containing financial information can be accessed by visiting the investor section of the website at https://investor.gehealthcare.com/news-events/events. An archived version of the webcast will be available on the website after the call.
+Forward-looking Statements
+This release contains forward-looking statements. These forward-looking statements might be identified by words, and variations of words, such as "will," "expect," "may," "would," "could," "plan," "believe," "anticipate," "intend," "estimate," "potential," "position," "forecast," "target," "guidance," "outlook," and similar expressions. These forward-looking statements may include, but are not limited to, statements about the Company’s expected financial performance, including revenue, revenue growth, profit, taxes, earnings per share, and cash flows, and the Company’s outlook; and the Company’s strategy, innovation, and investments. These forward-looking statements involve risks and uncertainties, many of which are beyond the Company’s control. Factors that could cause the Company’s actual results to differ materially from those described in its forward-looking statements include, but are not limited to, operating in highly competitive markets; the actions or inactions of third parties with whom the Company partners and the various collaboration, licensing, and other partnerships and alliances the Company has with third parties; demand for the Company’s products, services, or solutions and factors that affect that demand; management of the Company’s supply chain and the Company’s ability to cost-effectively secure the materials it needs to operate its business; disruptions in the Company’s operations; changes in third-party and government reimbursement processes, rates, contractual relationships, and mix of public and private payers, including related to government shutdowns; the Company’s ability to attract and/or retain key personnel and qualified employees; global geopolitical and economic instability, including as a result of the conflict between Ukraine and Russia and the conflict in Israel and surrounding areas; the global COVID-19 pandemic and its effects on the Company’s business; maintenance and protection of the Company’s intellectual property rights; the impact of potential information technology, cybersecurity or data security breaches; compliance with the various legal, regulatory, tax, and other laws to which the Company is subject, such as the Foreign Corrupt Practices Act and similar anti-corruption and anti-bribery laws globally, and related changes, claims, inquiries, investigations, or actions; the Company’s ability to control increases in healthcare costs and any subsequent effect on demand for the Company’s products, services, or solutions; the impact of potential product liability claims; environmental, social, and governance matters; the Company’s ability to successfully complete strategic transactions; the Company’s ability to operate effectively as an independent, publicly-traded company and achieve the benefits the Company expects from its spin-off from General Electric Company; and the incurrence of substantial indebtedness in connection with the spin-off and any related effect on the Company’s business. Please also see the "Risk Factors" section of the Company’s Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission and any updates or amendments it makes in future filings. There may be other factors not presently known to the Company or which it currently considers to be immaterial that could cause the Company’s actual results to differ materially from those projected in any forward-looking statements the Company makes. The Company does not undertake any obligation to update or revise its forward-looking statements except as required by applicable law or regulation.
+About GE HealthCare Technologies Inc.
+GE HealthCare is a leading global medical technology, pharmaceutical diagnostics, and digital solutions innovator, dedicated to providing integrated solutions, services, and data analytics to make hospitals more efficient, clinicians more effective, therapies more precise, and patients healthier and happier. Serving patients and providers for more than 100 years, GE HealthCare is advancing personalized, connected, and compassionate care, while simplifying the patient’s journey across the care pathway. Together our Imaging, Ultrasound, Patient Care Solutions, and Pharmaceutical Diagnostics businesses help improve patient care from diagnosis, to therapy, to monitoring. We are an $18.3 billion business with 50,000 employees working to create a world where healthcare has no limits.
+Follow us on LinkedIn, Twitter, and Insights for the latest news, or visit our website gehealthcare.com for more information.
+* Non-GAAP financial measure.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20231031238091/en/
+Contacts
+Investor Relations Contact: Carolynne Borders+1-631-662-4317carolynne.borders@gehealthcare.com
+Media Contact: Tor Constantino+1-585-441-1658tor.constantino@gehealthcare.com

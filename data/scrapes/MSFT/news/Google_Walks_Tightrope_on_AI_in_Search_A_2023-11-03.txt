@@ -1,0 +1,39 @@
+url:https://finance.yahoo.com/news/google-walks-tightrope-ai-search-100000986.html
+title:Google_Walks_Tightrope_on_AI_in_Search_Antitrust_Trial
+(Bloomberg) -- Google executives downplayed the company’s artificial intelligence position during testimony at a landmark federal antitrust trial, saying the Alphabet Inc. company has tried to be slow and cautious because of the dangerous power of the technology.
+Most Read from Bloomberg
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Intuit Is Closing Personal-Finance App Mint, Shifts Users to Credit Karma
+S&P 500 Set for Biggest Gain Since May Before Jobs: Markets Wrap
+Jamie Dimon Warns Texas to Stop Pushing Anti-Business Laws
+Israel Latest: Troops Encircle Gaza City as Death Toll Climbs
+The Department of Justice has a different theory: That Google was way ahead in generative AI and chose not to release the technology sooner for fear of losing its monopoly in search. The fact that Google could move so quickly to debut its AI tools once Microsoft Corp. entered the race shows that the company was holding back innovation, the DOJ claims.
+To win the case, the DOJ needs to demonstrate some harm to consumers — and proving that Google intentionally delayed technological progress is one way the government could do it. Similar arguments worked in the case to break up AT&T in the 1980s.
+Over the past few days in Washington, the Justice Department has tried to demonstrate, through witness testimony and documents, that Google long possessed the talent and the technological capacity to move forward with generative AI search — tech that attempts to answer queries given simple user prompts.
+Google argues that its delay was the right thing to do — not to maintain its monopoly, but out of its concern for societal harm.
+“Our sense was it was not quite yet responsible to put that technology out in front of users because of concerns about factuality and toxicity,” Prabhakar Raghavan, a Google senior vice president and the company’s search boss, testified in court last week. “We were keeping it behind the covers, but were gradually developing it.”
+Raghavan’s rhetoric contradicts Google’s public statements about its prowess and mastery of AI in virtually every other setting — during company earnings reports, in product announcements and in calls with company investors.
+Google is eager “to look ahead to the opportunities enabled by AI we are so excited and confident about,” Alphabet Chief Executive Officer Sundar Pichai said as the company reported its third-quarter earnings last week.
+The DOJ argued that as soon as Microsoft’s highly publicized deal with OpenAI Inc. and its moves to tightly integrate ChatGPT into its Bing search engine became public, Google’s hesitation was replaced by an internal “code red” mandate to infuse generative AI into all of its major products.
+Antitrust enforcers allege that Google illegally dominates online search by paying billions each year — $26 billion in 2021 — to be the default option on web browsers and smartphones. Those agreements prevented rivals like Microsoft and DuckDuckGo from gaining enough data to effectively compete, since Google gets 16 times as much data as its next closest competitor, the Justice Department said.
+Google officially began its defense last week after six weeks of trial in which the Justice Department and state attorneys general presented evidence. A key disagreement of the case has been over a search engine’s “scale,” a term that refers to the amount of data it collects from websites and users. The Justice Department and executives from rivals have argued that a search engine needs scale to effectively compete against Google.
+Yet Google argues that its search engine is better not because of its data advantage, but because it has made more meaningful investments in people and technology. Today, user input is less important to a search engine, the company says, because of newer technologies like machine learning and large language models, which are built on a body of existing data.
+Google also said it hasn’t held back on all AI in search. For years, Google declined to use AI in its search engine, believing that people should build and understand its ranking systems, Pandu Nayak, Google’s top search quality executive, testified this month. But that changed in 2015, when Google decided to begin incorporating new machine learning technologies, he said.
+Since then, the company has integrated a number of these algorithms into its search engine to help it better understand the context of user queries. Those algorithms rely on much less user data, sometimes not even needing search data at all, Nayak said. And Google keeps strict control over how they are used in search.
+“We don’t turn over the ranking as a whole to these large models,” Nayak said. “It’s risky for Google — or for anyone else, for that matter – to turn over everything to a system like these deep learning systems.”
+The benefits to Google’s search product are clear in the results, the executives said. The search engine can now detect when a user is suicidal and recommend helplines, Nayak said.
+Or take a search query for a “vacuum cleaner for a small apartment with pets.”
+To figure out whether the user wants information about an apartment, a vacuum cleaner or a pet requires a machine learning algorithm that can parse context, said Raghavan, the Google senior vice president and Nayak’s boss.
+Even while talking about AI updates to search, executives were careful to push back on the idea that large language models like OpenAI’s ChatGPT, the one Microsoft backs, are the future. The argument diverges from testimony by others in the case, such as Microsoft CEO Satya Nadella, who said earlier this month that Google’s dominance in search gives it a leg up in the AI race.
+Microsoft integrated a cousin of ChatGPT into its flagship search engine, Bing, in February. Google publicly released its conversational AI product, Bard, in March. Currently, Google only offers a limited version of a search product powered by generative AI – called the Search Generative Experience – in the US, India and Japan, Raghavan said, with a disclaimer that warns about the product’s limitations. Users must also opt-in to use the tool at all.
+Several million US users have tried using Google’s search generative experience, Raghavan testified.
+Raghavan was critical of the buzz over generative AI, saying there is a “growing belief that these large language models can solve any problem.”
+“I think people have come to expect these things to do magic,” he testified, even though “the magic isn’t quite there yet.” Incorporating machine learning into existing tech like Google’s is “a journey” rather than “something that happened overnight,” he added.
+(Corrects story to show that Prabhakar Raghavan testified that several million US users have tried using Google’s search generative experience.)
+Most Read from Bloomberg Businessweek
+The US Housing Market Has Become an Impossible Mess
+World’s Safest Market Becomes a Magnet for Big Investors
+These Five Countries Are Key Economic ‘Connectors’ in a Fragmenting World
+Foxconn Makes Your iPhone. Now It Wants to Make Your Electric Car
+Shipping Startup Flexport Is in Crisis Mode Heading Into the Holiday Season
+©2023 Bloomberg L.P.

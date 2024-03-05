@@ -1,0 +1,57 @@
+url:https://finance.yahoo.com/news/amds-new-ai-chip-poised-to-steal-earnings-spotlight-102740865.html
+title:AMDs_New_AI_Chip_Poised_to_Steal_Earnings_Spotlight
+(Bloomberg) -- Advanced Micro Devices Inc. has shown that it can finally challenge Intel Corp. Now it’s taking a run at the new king of the chip industry.
+Most Read from Bloomberg
+Israel Latest: Blinken Making Another Visit to the Middle East
+Saudi Forces on Alert After Clash With Iran-Backed Houthis
+Immigrants Are Leaving Canada at Faster Pace, Study Shows
+Innovent, Lilly Obesity Drug Spurs More Weight Loss in Trial
+Sony’s Bungie Game Unit Cut 8% of Staff After ‘Destiny’ Play Wilted
+When AMD reports earnings Tuesday afternoon, investor focus will be on its new artificial intelligence accelerator chip — seen as the firm’s best hope of competing with Nvidia Corp.’s H100, which helped turn that company into the first trillion-dollar semiconductor maker.
+Both chips are used to bombard AI software with data that makes it more effective in a process called training. Nvidia currently owns that market where soaring sales have fueled a nearly two-fold gain in its stock price this year.
+“There are hopes the PC industry is coming through, but AI is really the one everyone is counting on,” said Wayne Kaufman, chief market analyst at Phoenix Financial Services. “We’re counting on it for Nvidia, and hopefully for AMD.”
+AMD shares rose as much as 2.1% on Tuesday.
+AMD’s Chief Executive Officer Lisa Su is expected on Tuesday to detail how AMD is navigating an improving environment for personal computers and lackluster demand for server chips — key markets that determine its near-term trajectory.
+But the majority of questions for AMD will likely be on its new MI300 chip, which the firm has said will debut in the fourth quarter. How quickly the product wins customers is seen as key to the direction of the stock. AMD shares are up 47% this year, far ahead of the Philadelphia semiconductor index but down significantly from June when exuberance about all things AI was running high.
+Su is credited with turning around the fortune of a company that spent most of its history in Intel’s shadow, taking market share with new products.
+Still, while Intel’s report last week showed that the PC market is improving, the inventory overhang still lingers in the server market, a key area where AMD has gained share and added profits. Demand remains sluggish as budgets at large customers continue to be spent on accelerators rather than the general type of processor that Intel and AMD sell into that market.
+In AMD’s earnings call in August, the new MI300 chip got close to 40 mentions. Su tried to strike a balance between showing excitement about its prospects and keeping a lid on expectations about how quickly it will contribute heavily to the company’s revenue. She declined to provide specific dollar targets and told one analyst his estimate was too bullish. It’s likely that later today, she’ll be facing a similar set of attempts to get her to give more details.
+“The AMD narrative feels all about their datacenter (and, particularly, their AI story) right now,” Sanford C. Bernstein analyst Stacy Rasgon wrote in a research note. While the MI300 product “will be the story” into next year, Rasgon added that “we do not expect real volume until the second half.”
+By that time, he cautioned, Nvidia will be getting ready to offer an update to its market-leading chip.
+One thing that Su and her counterparts at Intel and Nvidia have agreed on so far, is that they believe the opportunity for chipmakers in AI systems is only at the early stages and the market will become huge over time. Su has projected that the market for accelerators such as MI300 will reach $150 billion by 2027.
+In general, AMD is the natural rival to Nvidia in this market. The two companies are the major providers of graphics chips for gaming PCs. That type of chip, when tuned for data center work, excels at crunching through AI training workloads because of the ability of GPUs to do multiple streams of work at the same time, in so-called parallel computing.
+Tech Chart of the Day
+Pinterest Inc. rallied as much as 18% on Tuesday, its biggest intraday percentage gain in more than a year, after the social-networking company reported third quarter results that beat expectations.
+Top Tech Stories
+Apple Inc. announced a new iMac, MacBook Pros and the third generation of its in-house Mac processor line, rolling out a first-of-its-kind M3 chip that boosts performance and graphics horsepower.
+Samsung Electronics Co. predicted the long-depressed memory chip market is heading for recovery, after reporting profit for the third quarter well ahead of analyst estimates.
+X, the platform formerly known as Twitter, is worth less than half of what Elon Musk paid for it a year ago.
+IAC Inc. and Expedia Group Inc. Chair Barry Diller wrote to senior Google executives that he was “on the edge of revolt” over the search engine’s increased number of ads on its results page, pushing down the organic listings.
+BlackBerry Ltd. Chief Executive Officer John Chen will leave the software company this week, ending a decade-long tenure that failed to deliver a turnaround in its fortunes.
+Earnings Due Tuesday
+Premarket
+Zebra Tech
+IPG Photonics
+CommVault
+Perficient
+Sequans
+Sirius XM
+Shutterstock
+Postmarket
+AMD
+Littelfuse
+Freshworks
+Blackbaud
+Pros Holdings
+Match Group
+Liberty Global
+Lumen Technologies
+--With assistance from Subrat Patnaik.
+(Updates shares in fifth paragraph.)
+Most Read from Bloomberg Businessweek
+How Drug Cartels Transformed Ecuador Into a ‘Narco State’
+Is This Poop-Test Startup Just Wellness Theater?
+America’s Culture Wars Have Liberal Parents Opting for Home-Schooling
+Hollywood Loves Halloween: Inside the Lucrative Business of Horror Movies
+How Conspiratorial Thinking About Road Fees Infected the UK
+©2023 Bloomberg L.P.

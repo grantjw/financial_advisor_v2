@@ -1,0 +1,76 @@
+url:https://finance.yahoo.com/news/cisco-systems-inc-nasdaq-csco-110105166.html
+title:Cisco_Systems_Incs_NASDAQCSCO_Intrinsic_Value_Is_Potentially_45_Above_Its_Share_Price
+Cisco Systems' estimated fair value is US$76.37 based on 2 Stage Free Cash Flow to Equity
+Current share price of US$52.75 suggests Cisco Systems is potentially 31% undervalued
+ Analyst price target for CSCO is US$59.15 which is 23% below our fair value estimate
+Today we will run through one way of estimating the intrinsic value of Cisco Systems, Inc. (NASDAQ:CSCO) by projecting its future cash flows and then discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.
+ Check out our latest analysis for Cisco Systems 
+We're using the 2-stage growth model, which simply means we take in account two stages of company's growth. In the initial period the company may have a higher growth rate and the second stage is usually assumed to have a stable growth rate. In the first stage we need to estimate the cash flows to the business over the next ten years. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+A DCF is all about the idea that a dollar in the future is less valuable than a dollar today, and so the sum of these future cash flows is then discounted to today's value:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$16.6b
+US$17.9b
+US$17.4b
+US$16.9b
+US$17.5b
+US$17.5b
+US$17.6b
+US$17.8b
+US$18.1b
+US$18.4b
+Growth Rate Estimate Source
+Analyst x7
+Analyst x6
+Analyst x4
+Analyst x1
+Analyst x1
+Est @ 0.02%
+Est @ 0.66%
+Est @ 1.11%
+Est @ 1.42%
+Est @ 1.64%
+ Present Value ($, Millions) Discounted @ 7.2% 
+US$15.5k
+US$15.6k
+US$14.1k
+US$12.8k
+US$12.4k
+US$11.6k
+US$10.9k
+US$10.2k
+US$9.7k
+US$9.2k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$122b
+The second stage is also known as Terminal Value, this is the business's cash flow after the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 7.2%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$18b× (1 + 2.2%) ÷ (7.2%– 2.2%) = US$374b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$374b÷ ( 1 + 7.2%)10= US$187b
+The total value, or equity value, is then the sum of the present value of the future cash flows, which in this case is US$309b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Compared to the current share price of US$52.8, the company appears quite good value at a 31% discount to where the stock price trades currently. The assumptions in any calculation have a big impact on the valuation, so it is better to view this as a rough estimate, not precise down to the last cent.
+The calculation above is very dependent on two assumptions. The first is the discount rate and the other is the cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Cisco Systems as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 7.2%, which is based on a levered beta of 1.003. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Debt is not viewed as a risk.
+Dividends are covered by earnings and cash flows.
+Weakness
+Earnings growth over the past year underperformed the Communications industry.
+Dividend is low compared to the top 25% of dividend payers in the Communications market.
+Opportunity
+Annual earnings are forecast to grow for the next 3 years.
+Good value based on P/E ratio and estimated fair value.
+Threat
+Annual earnings are forecast to grow slower than the American market.
+Valuation is only one side of the coin in terms of building your investment thesis, and it shouldn't be the only metric you look at when researching a company. DCF models are not the be-all and end-all of investment valuation. Rather it should be seen as a guide to "what assumptions need to be true for this stock to be under/overvalued?" For example, changes in the company's cost of equity or the risk free rate can significantly impact the valuation. What is the reason for the share price sitting below the intrinsic value? For Cisco Systems, we've put together three essential aspects you should explore:
+Financial Health: Does CSCO have a healthy balance sheet? Take a look at our free balance sheet analysis with six simple checks on key factors like leverage and risk.
+Future Earnings: How does CSCO's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. The Simply Wall St app conducts a discounted cash flow valuation for every stock on the NASDAQGS every day. If you want to find the calculation for other stocks just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

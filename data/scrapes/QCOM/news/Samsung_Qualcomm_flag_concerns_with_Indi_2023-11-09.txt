@@ -1,0 +1,17 @@
+url:https://finance.yahoo.com/news/samsung-qualcomm-flag-concerns-indias-061520073.html
+title:Samsung_Qualcomm_flag_concerns_with_Indias_push_for_live_TV_on_phones
+By Munsif Vengattil
+NEW DELHI (Reuters) - Samsung and Qualcomm are among those opposing India's choice of technology to bring live TV broadcasts on smartphones, arguing the required hardware changes will push up a device's cost by $30, according to letters reviewed by Reuters.
+India is considering a policy to mandate equipping smartphones with hardware to receive live TV signals without the need for cellular networks. It has proposed use of so-called ATSC 3.0 technology popular in North America that allows precise geo-locating of TV signals and provides high picture quality.
+Companies however say their existing smartphones in India are not equipped to work with ATSC 3.0, and any efforts to add that compatibility will raise cost of each device by $30 as more components need to be added. Some fear their existing manufacturing plans can be hurt.
+In a joint letter to India's communication ministry, Samsung, Qualcomm, and telecom gear makers Ericsson and Nokia said adding direct-to-mobile broadcasting can also degrade battery performance of devices and cellular reception.
+"We do not find any merit in progressing discussion on the adoption of this," said the letter dated Oct. 17 and reviewed by Reuters.
+The four companies and India's communication ministry did not respond to requests for comment. The proposal is still under deliberation and could be changed, and there is no fixed timeline for implementation, according to a source with direct knowledge.
+Digital broadcast of TV channels on smartphones has seen limited adoption in countries such as South Korea and United States. It has not gained traction due to the lack of devices that support the technology, executives say.
+The policy pushback is the latest from firms operating in India's smartphone sector. In recent months, they pushed back on India's move to make phones compatible with a home-grown navigation system and another proposal to mandate security testing for handsets.
+For India's government, the live TV broadcast features are a way to offload the congestion on telecom networks due to higher video consumption.
+The India Cellular and Electronics Association (ICEA), a lobbying group of smartphone makers that represents Apple and Xiaomi as well as other companies, opposed the move privately in a letter dated Oct 16, saying no major handset maker globally currently supports ATSC 3.0.
+Samsung tops India's smartphone market with a 17.2% share, while Xiaomi follows with a 16.6% share, according to research firm Counterpoint. Apple holds 6%.
+"The inclusion of any technology which is not proven and globally acceptable ... will derail the pace of domestic manufacturing," said the ICEA letter, reviewed by Reuters.
+(Reporting by Munsif Vengattil; Editing by Aditya Kalra and Raju Gopalakrishnan)
+Related Quotes

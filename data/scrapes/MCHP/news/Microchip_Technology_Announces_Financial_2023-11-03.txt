@@ -1,0 +1,2014 @@
+url:https://finance.yahoo.com/news/microchip-technology-announces-financial-results-201500255.html
+title:Microchip_Technology_Announces_Financial_Results_For_Second_Quarter_of_Fiscal_Year_2024
+Net sales of $2.254 billion, down 1.5% sequentially and up 8.7% from the year ago quarter. The midpoint of our guidance provided on August 3, 2023 was net sales of $2.266 billion.
+On a GAAP basis: gross profit of 67.8%; operating income of $885.0 million and 39.3% of net sales; record net income of $666.6 million; and record EPS of $1.21 per diluted share. Our guidance provided on August 3, 2023 was for GAAP EPS of $1.18 to $1.21 per diluted share. 
+On a Non-GAAP basis: gross profit of 68.1%; operating income of $1.085 billion and 48.1% of net sales; net income of $889.3 million and EPS of $1.62 per diluted share. Our guidance provided on August 3, 2023 was for Non-GAAP EPS of $1.60 to $1.64 per diluted share.
+Returned approximately $562.5 million to shareholders in the September quarter through dividends of $222.7 million and the repurchase of approximately $339.8 million, or 4.2 million shares of our common stock, at an average price of $80.78 per share under our previously announced $4.0 billion stock buyback program. Cumulatively repurchased approximately $1.852 billion, or 24.5 million shares, over the last eight quarters.
+Record quarterly dividend declared today for the December quarter of 43.9 cents per share, an increase of 33.8% from the year ago quarter.
+CHANDLER, Ariz., Nov. 02, 2023 (GLOBE NEWSWIRE) -- (NASDAQ: MCHP) - Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solutions, today reported results for the three months ended September 30, 2023, as summarized in the table below.
+ 
+Three Months Ended September 30, 2023(1)
+Net sales
+$2,254.3
+ 
+ 
+ 
+ 
+GAAP
+%
+Non-GAAP(2)
+%
+Gross profit
+$1,527.4
+67.8%
+$1,534.8
+68.1%
+Operating income
+$885.0
+39.3%
+$1,084.7
+48.1%
+Other expense
+$(51.4)
+ 
+$(48.3)
+ 
+Income tax provision
+$167.0
+ 
+$147.1
+ 
+Net income
+$666.6
+29.6%
+$889.3
+39.4%
+Net income per diluted share
+$1.21
+ 
+$1.62
+ 
+(1) In millions, except per share amounts and percentages of net sales.(2) See the "Use of Non-GAAP Financial Measures" section of this release.
+Net sales for the second quarter of fiscal 2024 were $2.254 billion, up 8.7% from net sales of $2.073 billion in the prior year's second fiscal quarter.
+GAAP net income for the second quarter of fiscal 2024 was $666.6 million, or $1.21 per diluted share, up from GAAP net income of $546.2 million, or $0.98 per diluted share, in the prior year's second fiscal quarter. For the second quarters of fiscal 2024 and fiscal 2023, GAAP net income was adversely impacted by amortization of acquired intangible assets associated with our previous acquisitions.
+Non-GAAP net income for the second quarter of fiscal 2024 was $889.3 million, or $1.62 per diluted share, up from non-GAAP net income of $814.4 million, or $1.46 per diluted share, in the prior year's second fiscal quarter. For the second quarters of fiscal 2024 and fiscal 2023, our non-GAAP results exclude the effect of share-based compensation, expenses related to our acquisition activities (including intangible asset amortization, severance, and other restructuring costs, and legal and other general and administrative expenses associated with acquisitions including legal fees and expenses for litigation and investigations related to our Microsemi acquisition), professional services associated with certain legal matters, and losses on the settlement of debt. For the second quarters of fiscal 2024 and fiscal 2023, our non-GAAP income tax expense is presented based on projected cash taxes for the applicable fiscal year, excluding transition tax payments under the Tax Cuts and Jobs Act. A reconciliation of our non-GAAP and GAAP results is included in this press release.
+Microchip announced today that its Board of Directors declared a record quarterly cash dividend on its common stock of 43.9 cents per share, up 33.8% from the year ago quarter. The quarterly dividend is payable on December 6, 2023 to stockholders of record on November 22, 2023.
+"Amid a turbulent macro environment, we delivered fiscal second-quarter results that were in line with our guidance," said Ganesh Moorthy, President and Chief Executive Officer. "Revenue declined 1.5% sequentially, as all regions of the world and most end markets experienced varying degrees of weakness. This marks a turning point for an extraordinary three-year growth period for Microchip. Throughout this period, we successfully addressed supply chain challenges, invested well over a billion dollars in expanding our capacity, and boosted our investments for high-growth markets and applications, demonstrating our disciplined commitment to supply resilience and product innovation, in the pursuit of above-average long-term growth."
+Mr. Moorthy added, "As our customers adjust to their evolving demand patterns, we have continued to accommodate customer pushout requests where possible. We have also made considerable progress in further decreasing average lead times and ended the September quarter at roughly 13 weeks. The reduction in lead times is resulting in lower bookings and reduced near-term visibility. The actions we are taking to reduce lead times are designed to enable our customers and us to navigate this uncertain environment with agility and effectiveness."
+Eric Bjornholt, Microchip's Chief Financial Officer, said, "During the September quarter, we took measures to refinance some of our maturing debt. In light of the unpredictable interest-rate climate, we strategically utilized a blend of a new $750 million Term Loan A and our credit line to retire our $1 billion bond which matured in September 2023. We also issued $1 billion in commercial paper, which resulted in about a 90 basis point lower interest rate than the rate under our line of credit. We also retired $18.2 million of principal amount of our convertible bonds due in 2027 with a total cash payment of $42.7 million, effectively mitigating potential share count dilution. We remain focused on continuing to enhance our capital structure in the future."
+Mr. Moorthy concluded, "Given the broader economic landscape characterized by decelerating economic activity and escalating business ambiguity, along with our proactive measures to assist clients in managing their inventory positions and backlog, we anticipate net sales in the December quarter to be down 15% to down 20% sequentially. Notwithstanding any near-term macro weakness, we are confident that semiconductors remain the engine of innovation for the applications and markets we serve. Our focus on Total System Solutions and key market megatrends is fueling strong design-win momentum that we expect will drive above-market long-term growth."
+Microchip's Highlights for the Quarter Ended September 30, 2023:
+Launched a $300M multi-year investment initiative to expand our presence in India including funding for facilities, engineering labs, talent acquisition and support for regional technology consortia and educational institutions.
+Opened a new R&D facility for capacity growth in Hyderabad India’s One Golden Mile Office Tower with capacity for 1,000 employees. The 168,000-square-foot center will support growth plans for many years to come.
+Jointly announced with GlobalFoundries® (GF) that Microchip’s 28-nm SuperFlash® embedded Flash memory solution is now in production at GF. This widely deployed nonvolatile memory (NVM) solution is optimized for microcontrollers, smart cards and IoT chips.
+On September 15, 2023, Moody's Investors Service (Moody's) upgraded our senior unsecured rating to Baa1 from Baa2. Moody's also assigned a P-2 short term rating to our new commercial paper program. The rating outlook is stable.
+Revealed nine new PolarFire® FPGA and SoC solution stacks to speed intelligent edge designs and reduce development cost and risk. The tailored stacks span the industrial and communications sectors and smart embedded vision, motor control and optical access technologies. They feature IP, reference designs, development kits, application notes, demo guides and more.
+Announced that PolarFire® FPGA’s single-chip crypto design flow was “successfully reviewed” by the United Kingdom Government’s National Cyber Security Centre (NCSC). The review confirms the strength of PolarFire FPGA’s security solution.
+Teamed up with Intelligent Hardware Korea (IHWK) to develop an analog compute platform to accelerate edge AI/ML inferencing. Using Microchip’s (SST®) memBrain™ nonvolatile in-memory compute technology and working with universities, IHWK is creating a SoC processor for neurotechnology devices.
+Introduced industry’s first low-pin-count MCU family with I3C® support. The PIC18 Q20 product line is space efficient and easily interfaces with devices operating in multiple voltage domains.
+Launched Microchip’s first automotive-qualified 10BASE-T1S Ethernet devices. The LAN8670/1/2 family of Ethernet PHYs simplifies the architecture to connect low-speed devices into a standard Ethernet network.
+Introduced a new family of 10BASE-T1S Ethernet solutions to ease the design for OEMs to connect automotive devices to a 10BASE-T1S Ethernet network. The new family of LAN8650/1 MAC-PHY devices connects low-cost microcontrollers without a built-in Ethernet MAC to a 10BASE-T1S network.
+Revealed MPLAB® Machine Learning Development Suite to incorporate ML more easily into MCUs and MPUs. The unique solution is the first to support 8-bit, 16-bit and 32-bit MCUs and 32-bit MPUs for ML at the edge.
+Expanded Microchip’s Gigabit Ethernet switch with Audio-Video Bridging and Time Sensitive Network (AVB/TSN) and integrated PHYs for industrial automation. The LAN9662 includes a real-time engine to process high-speed cyclical data in flight.
+Third Quarter Fiscal Year 2024 Outlook:
+The following statements are based on current expectations. These statements are forward-looking, and actual results may differ materially.
+ 
+Microchip Consolidated Guidance
+Net Sales
+$1.803 to $1.916 billion
+ 
+ 
+ 
+GAAP
+Non-GAAP Adjustments
+Non-GAAP(1)
+Gross Profit
+63.6% to 64.6%
+$7.2 to $8.2 million
+64.0% to 65.0%
+Operating Expenses(2)
+33.2% to 34.2%
+$196.9 to $200.9 million
+22.7% to 23.3%
+Operating Income
+29.4% to 31.4%
+$204.1 to $209.1 million
+40.7% to 42.3%
+Other Expense, net
+$50.8 to $53.2 million
+($0.2) to $0.2 million
+$51.0 to $53.0 million
+Income Tax Provision
+$107.8 to $134.3 million(3)
+$17.6 to $19.2 million
+$90.2 to $115.1 million(4)
+Net Income
+$371.3 to $413.9 million
+$221.5 to $228.5 million
+$592.8 to $642.4 million
+Diluted Common Shares Outstanding
+Approximately 546.0 to 547.0 million shares
+ 
+Approximately 546.0 to 547.0 million shares
+Earnings per Diluted Share
+$0.68 to $0.76
+$0.41
+$1.09 to $1.17
+(1) See the "Use of Non-GAAP Financial Measures" section of this release for information regarding our non-GAAP guidance.(2) We are not able to estimate the amount of certain Special Charges and Other, net that may be incurred during the quarter ending December 31, 2023. Therefore, our estimate of GAAP operating expenses excludes certain amounts that may be recognized as Special Charges and Other, net in the quarter ending December 31, 2023.(3) The forecast for GAAP tax expense excludes any unexpected tax events that may occur during the quarter, as these amounts cannot be forecasted.(4) Represents the expected cash tax rate for fiscal 2024, excluding any transition tax payments associated with the Tax Cuts and Jobs Act.
+Capital expenditures for the quarter ending December 31, 2023 are expected to be between $50 million and $70 million. Capital expenditures for all of fiscal 2024 are expected to be between $300 million and $325 million. We are selectively adding capital equipment to maintain, grow and operate our internal manufacturing capabilities to support the expected growth of our business.
+Under the GAAP revenue recognition standard, which we adopted on April 1, 2018, we are required to recognize revenue when control of the product changes from us to a customer or distributor. We focus our sales and marketing efforts on creating demand for our products in the end markets we serve and not on moving inventory into our distribution network. We also manage our manufacturing and supply chain operations, including our distributor relationships, towards the goal of having our products available at the time and location the end customer desires.
+Use of Non-GAAP Financial Measures: Our non-GAAP adjustments, where applicable, include the effect of share-based compensation, expenses related to our acquisition activities (including intangible asset amortization, severance, and other restructuring costs, and legal and other general and administrative expenses associated with acquisitions including legal fees and expenses for litigation and investigations related to our Microsemi acquisition), professional services associated with certain legal matters, and losses on the settlement of debt. For the second quarters of fiscal 2024 and fiscal 2023, our non-GAAP income tax expense is presented based on projected cash taxes for the fiscal year, excluding transition tax payments under the Tax Cuts and Jobs Act.
+We are required to estimate the cost of certain forms of share-based compensation, including employee stock options, restricted stock units, and our employee stock purchase plan, and to record a commensurate expense in our income statement. Share-based compensation expense is a non-cash expense that varies in amount from period to period and is affected by the price of our stock at the date of grant. The price of our stock is affected by market forces that are difficult to predict and are not within the control of management. Our other non-GAAP adjustments are either non-cash expenses, unusual or infrequent items, or other expenses related to transactions. Management excludes all of these items from its internal operating forecasts and models.
+We are using non-GAAP operating expenses in dollars, including non-GAAP research and development expenses and non-GAAP selling, general and administrative expenses, non-GAAP other expense, net, and non-GAAP income tax rate, which exclude the items noted above, as applicable, to permit additional analysis of our performance.
+Management believes these non-GAAP measures are useful to investors because they enhance the understanding of our historical financial performance and comparability between periods. Many of our investors have requested that we disclose this non-GAAP information because they believe it is useful in understanding our performance as it excludes non-cash and other charges that many investors feel may obscure our underlying operating results. Management uses non-GAAP measures to manage and assess the profitability of our business and for compensation purposes. We also use our non-GAAP results when developing and monitoring our budgets and spending. Our determination of these non-GAAP measures might not be the same as similarly titled measures used by other companies, and it should not be construed as a substitute for amounts determined in accordance with GAAP. There are limitations associated with using these non-GAAP measures, including that they exclude financial information that some may consider important in evaluating our performance. Management compensates for this by presenting information on both a GAAP and non-GAAP basis for investors and providing reconciliations of the GAAP and non-GAAP results.
+Generally, gross profit fluctuates over time, driven primarily by the mix of products sold and licensing revenue; variances in manufacturing yields; fixed cost absorption; wafer fab loading levels; costs of wafers from foundries; inventory reserves; pricing pressures in our non-proprietary product lines; and competitive and economic conditions. Operating expenses fluctuate over time, primarily due to net sales and profit levels.
+Diluted Common Shares Outstanding can vary for, among other things, the trading price of our common stock, the exercise of options or vesting of restricted stock units, the potential for incremental dilutive shares from our convertible debentures (additional information regarding our share count is available in the investor relations section of our website under the heading "Supplemental Financial Information"), and repurchases or issuances of shares of our common stock. The diluted common shares outstanding presented in the guidance table above assumes an average Microchip stock price in the December 2023 quarter between $70 and $80 per share (however, we make no prediction as to what our actual share price will be for such period or any other period and we cannot estimate what our stock option exercise activity will be during the quarter).
+
+MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(in millions, except per share amounts; unaudited)
+    
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Net sales
+$
+2,254.3
+ 
+ 
+$
+2,073.2
+ 
+ 
+$
+4,542.9
+ 
+ 
+$
+4,036.8
+ 
+Cost of sales
+ 
+726.9
+ 
+ 
+ 
+675.3
+ 
+ 
+ 
+1,457.1
+ 
+ 
+ 
+1,329.0
+ 
+Gross profit
+ 
+1,527.4
+ 
+ 
+ 
+1,397.9
+ 
+ 
+ 
+3,085.8
+ 
+ 
+ 
+2,707.8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research and development
+ 
+292.6
+ 
+ 
+ 
+268.6
+ 
+ 
+ 
+591.1
+ 
+ 
+ 
+537.6
+ 
+Selling, general and administrative
+ 
+196.6
+ 
+ 
+ 
+202.4
+ 
+ 
+ 
+400.2
+ 
+ 
+ 
+391.3
+ 
+Amortization of acquired intangible assets
+ 
+151.4
+ 
+ 
+ 
+167.5
+ 
+ 
+ 
+302.9
+ 
+ 
+ 
+335.1
+ 
+Special charges (income) and other, net
+ 
+1.8
+ 
+ 
+ 
+4.3
+ 
+ 
+ 
+3.5
+ 
+ 
+ 
+(12.6
+)
+Operating expenses
+ 
+642.4
+ 
+ 
+ 
+642.8
+ 
+ 
+ 
+1,297.7
+ 
+ 
+ 
+1,251.4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating income
+ 
+885.0
+ 
+ 
+ 
+755.1
+ 
+ 
+ 
+1,788.1
+ 
+ 
+ 
+1,456.4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other expense, net
+ 
+(51.4
+)
+ 
+ 
+(56.0
+)
+ 
+ 
+(106.2
+)
+ 
+ 
+(110.7
+)
+Income before income taxes
+ 
+833.6
+ 
+ 
+ 
+699.1
+ 
+ 
+ 
+1,681.9
+ 
+ 
+ 
+1,345.7
+ 
+Income tax provision
+ 
+167.0
+ 
+ 
+ 
+152.9
+ 
+ 
+ 
+348.9
+ 
+ 
+ 
+292.3
+ 
+Net income
+$
+666.6
+ 
+ 
+$
+546.2
+ 
+ 
+$
+1,333.0
+ 
+ 
+$
+1,053.4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic net income per common share
+$
+1.23
+ 
+ 
+$
+0.99
+ 
+ 
+$
+2.45
+ 
+ 
+$
+1.91
+ 
+Diluted net income per common share
+$
+1.21
+ 
+ 
+$
+0.98
+ 
+ 
+$
+2.42
+ 
+ 
+$
+1.88
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic common shares outstanding
+ 
+543.1
+ 
+ 
+ 
+551.5
+ 
+ 
+ 
+544.1
+ 
+ 
+ 
+552.7
+ 
+Diluted common shares outstanding
+ 
+549.2
+ 
+ 
+ 
+558.3
+ 
+ 
+ 
+550.3
+ 
+ 
+ 
+559.9
+ 
+
+MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in millions; unaudited)
+ 
+ASSETS
+ 
+September 30,
+ 
+March 31,
+ 
+ 
+2023
+ 
+ 
+2023
+Cash and short-term investments
+$
+256.6
+ 
+$
+234.0
+Accounts receivable, net
+ 
+1,706.2
+ 
+ 
+1,305.3
+Inventories
+ 
+1,330.9
+ 
+ 
+1,324.9
+Other current assets
+ 
+232.7
+ 
+ 
+205.1
+Total current assets
+ 
+3,526.4
+ 
+ 
+3,069.3
+ 
+ 
+ 
+ 
+Property, plant and equipment, net
+ 
+1,206.9
+ 
+ 
+1,177.9
+Other assets
+ 
+11,868.1
+ 
+ 
+12,123.1
+Total assets
+$
+16,601.4
+ 
+$
+16,370.3
+ 
+ 
+ 
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+ 
+ 
+ 
+ 
+Accounts payable and accrued liabilities
+$
+1,751.5
+ 
+$
+1,720.4
+Current portion of long-term debt
+ 
+1,661.1
+ 
+ 
+1,398.2
+Total current liabilities
+ 
+3,412.6
+ 
+ 
+3,118.6
+ 
+ 
+ 
+ 
+Long-term debt
+ 
+4,414.7
+ 
+ 
+5,041.7
+Long-term income tax payable
+ 
+678.5
+ 
+ 
+705.7
+Long-term deferred tax liability
+ 
+34.1
+ 
+ 
+42.7
+Other long-term liabilities
+ 
+1,093.0
+ 
+ 
+948.0
+ 
+ 
+ 
+ 
+Stockholders' equity
+ 
+6,968.5
+ 
+ 
+6,513.6
+Total liabilities and stockholders' equity
+$
+16,601.4
+ 
+$
+16,370.3
+
+MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+RECONCILIATION OF GAAP TO NON-GAAP MEASURES
+(in millions, except per share amounts and percentages; unaudited)
+ 
+RECONCILIATION OF GAAP GROSS PROFIT TO NON-GAAP GROSS PROFIT
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Gross profit, as reported
+$
+1,527.4
+ 
+ 
+$
+1,397.9
+ 
+ 
+$
+3,085.8
+ 
+ 
+$
+2,707.8
+ 
+Share-based compensation expense
+ 
+7.4
+ 
+ 
+ 
+6.5
+ 
+ 
+ 
+14.2
+ 
+ 
+ 
+14.2
+ 
+Non-GAAP gross profit
+$
+1,534.8
+ 
+ 
+$
+1,404.4
+ 
+ 
+$
+3,100.0
+ 
+ 
+$
+2,722.0
+ 
+GAAP gross profit percentage
+ 
+67.8
+%
+ 
+ 
+67.4
+%
+ 
+ 
+67.9
+%
+ 
+ 
+67.1
+%
+Non-GAAP gross profit percentage
+ 
+68.1
+%
+ 
+ 
+67.7
+%
+ 
+ 
+68.2
+%
+ 
+ 
+67.4
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP RESEARCH AND DEVELOPMENT EXPENSES TO NON-GAAP RESEARCH AND DEVELOPMENT EXPENSES
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Research and development expenses, as reported
+$
+292.6
+ 
+ 
+$
+268.6
+ 
+ 
+$
+591.1
+ 
+ 
+$
+537.6
+ 
+Share-based compensation expense
+ 
+(23.7
+)
+ 
+ 
+(19.8
+)
+ 
+ 
+(46.6
+)
+ 
+ 
+(39.9
+)
+Other adjustments
+ 
+(0.2
+)
+ 
+ 
+(0.2
+)
+ 
+ 
+(0.4
+)
+ 
+ 
+(0.4
+)
+Non-GAAP research and development expenses
+$
+268.7
+ 
+ 
+$
+248.6
+ 
+ 
+$
+544.1
+ 
+ 
+$
+497.3
+ 
+GAAP research and development expenses as a percentage of net sales
+ 
+13.0
+%
+ 
+ 
+13.0
+%
+ 
+ 
+13.0
+%
+ 
+ 
+13.3
+%
+Non-GAAP research and development expenses as a percentage of net sales
+ 
+11.9
+%
+ 
+ 
+12.0
+%
+ 
+ 
+12.0
+%
+ 
+ 
+12.3
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP SELLING, GENERAL AND ADMINISTRATIVE EXPENSES TO NON-GAAP SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Selling, general and administrative expenses, as reported
+$
+196.6
+ 
+ 
+$
+202.4
+ 
+ 
+$
+400.2
+ 
+ 
+$
+391.3
+ 
+Share-based compensation expense
+ 
+(14.3
+)
+ 
+ 
+(15.0
+)
+ 
+ 
+(29.1
+)
+ 
+ 
+(28.4
+)
+Other adjustments
+ 
+(0.6
+)
+ 
+ 
+(0.7
+)
+ 
+ 
+0.5
+ 
+ 
+ 
+(1.3
+)
+Professional services associated with certain legal matters
+ 
+(0.3
+)
+ 
+ 
+(2.3
+)
+ 
+ 
+(0.8
+)
+ 
+ 
+(3.2
+)
+Non-GAAP selling, general and administrative expenses
+$
+181.4
+ 
+ 
+$
+184.4
+ 
+ 
+$
+370.8
+ 
+ 
+$
+358.4
+ 
+GAAP selling, general and administrative expenses as a percentage of net sales
+ 
+8.7
+%
+ 
+ 
+9.8
+%
+ 
+ 
+8.8
+%
+ 
+ 
+9.7
+%
+Non-GAAP selling, general and administrative expenses as a percentage of net sales
+ 
+8.0
+%
+ 
+ 
+8.9
+%
+ 
+ 
+8.2
+%
+ 
+ 
+8.9
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP OPERATING EXPENSES TO NON-GAAP OPERATING EXPENSES
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Operating expenses, as reported
+$
+642.4
+ 
+ 
+$
+642.8
+ 
+ 
+$
+1,297.7
+ 
+ 
+$
+1,251.4
+ 
+Share-based compensation expense
+ 
+(38.0
+)
+ 
+ 
+(34.8
+)
+ 
+ 
+(75.7
+)
+ 
+ 
+(68.3
+)
+Other adjustments
+ 
+(0.8
+)
+ 
+ 
+(0.9
+)
+ 
+ 
+0.1
+ 
+ 
+ 
+(1.7
+)
+Professional services associated with certain legal matters
+ 
+(0.3
+)
+ 
+ 
+(2.3
+)
+ 
+ 
+(0.8
+)
+ 
+ 
+(3.2
+)
+Amortization of acquired intangible assets
+ 
+(151.4
+)
+ 
+ 
+(167.5
+)
+ 
+ 
+(302.9
+)
+ 
+ 
+(335.1
+)
+Special charges (income) and other, net
+ 
+(1.8
+)
+ 
+ 
+(4.3
+)
+ 
+ 
+(3.5
+)
+ 
+ 
+12.6
+ 
+Non-GAAP operating expenses
+$
+450.1
+ 
+ 
+$
+433.0
+ 
+ 
+$
+914.9
+ 
+ 
+$
+855.7
+ 
+GAAP operating expenses as a percentage of net sales
+ 
+28.5
+%
+ 
+ 
+31.0
+%
+ 
+ 
+28.6
+%
+ 
+ 
+31.0
+%
+Non-GAAP operating expenses as a percentage of net sales
+ 
+20.0
+%
+ 
+ 
+20.9
+%
+ 
+ 
+20.1
+%
+ 
+ 
+21.2
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP OPERATING INCOME TO NON-GAAP OPERATING INCOME
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Operating income, as reported
+$
+885.0
+ 
+ 
+$
+755.1
+ 
+ 
+$
+1,788.1
+ 
+ 
+$
+1,456.4
+ 
+Share-based compensation expense
+ 
+45.4
+ 
+ 
+ 
+41.3
+ 
+ 
+ 
+89.9
+ 
+ 
+ 
+82.5
+ 
+Other adjustments
+ 
+0.8
+ 
+ 
+ 
+0.9
+ 
+ 
+ 
+(0.1
+)
+ 
+ 
+1.7
+ 
+Professional services associated with certain legal matters
+ 
+0.3
+ 
+ 
+ 
+2.3
+ 
+ 
+ 
+0.8
+ 
+ 
+ 
+3.2
+ 
+Amortization of acquired intangible assets
+ 
+151.4
+ 
+ 
+ 
+167.5
+ 
+ 
+ 
+302.9
+ 
+ 
+ 
+335.1
+ 
+Special charges (income) and other, net
+ 
+1.8
+ 
+ 
+ 
+4.3
+ 
+ 
+ 
+3.5
+ 
+ 
+ 
+(12.6
+)
+Non-GAAP operating income
+$
+1,084.7
+ 
+ 
+$
+971.4
+ 
+ 
+$
+2,185.1
+ 
+ 
+$
+1,866.3
+ 
+GAAP operating income as a percentage of net sales
+ 
+39.3
+%
+ 
+ 
+36.4
+%
+ 
+ 
+39.4
+%
+ 
+ 
+36.1
+%
+Non-GAAP operating income as a percentage of net sales
+ 
+48.1
+%
+ 
+ 
+46.9
+%
+ 
+ 
+48.1
+%
+ 
+ 
+46.2
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP OTHER EXPENSE, NET TO NON-GAAP OTHER EXPENSE, NET
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Other expense, net, as reported
+$
+(51.4
+)
+ 
+$
+(56.0
+)
+ 
+$
+(106.2
+)
+ 
+$
+(110.7
+)
+Loss on settlement of debt
+ 
+3.1
+ 
+ 
+ 
+2.1
+ 
+ 
+ 
+12.2
+ 
+ 
+ 
+8.3
+ 
+Non-cash other expense, net
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+0.1
+ 
+Non-GAAP other expense, net
+$
+(48.3
+)
+ 
+$
+(53.9
+)
+ 
+$
+(94.0
+)
+ 
+$
+(102.3
+)
+GAAP other expense, net, as a percentage of net sales
+ 
+(2.3
+)%
+ 
+ 
+(2.7
+)%
+ 
+ 
+(2.3
+)%
+ 
+ 
+(2.7
+)%
+Non-GAAP other expense, net, as a percentage of net sales
+ 
+(2.1
+)%
+ 
+ 
+(2.6
+)%
+ 
+ 
+(2.1
+)%
+ 
+ 
+(2.5
+)%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP INCOME TAX PROVISION TO NON-GAAP INCOME TAX PROVISION
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Income tax provision as reported
+$
+167.0
+ 
+ 
+$
+152.9
+ 
+ 
+$
+348.9
+ 
+ 
+$
+292.3
+ 
+Income tax rate, as reported
+ 
+20.0
+%
+ 
+ 
+21.9
+%
+ 
+ 
+20.7
+%
+ 
+ 
+21.7
+%
+Other non-GAAP tax adjustment
+ 
+(19.9
+)
+ 
+ 
+(49.8
+)
+ 
+ 
+(52.4
+)
+ 
+ 
+(109.9
+)
+Non-GAAP income tax provision
+$
+147.1
+ 
+ 
+$
+103.1
+ 
+ 
+$
+296.5
+ 
+ 
+$
+182.4
+ 
+Non-GAAP income tax rate
+ 
+14.2
+%
+ 
+ 
+11.2
+%
+ 
+ 
+14.2
+%
+ 
+ 
+10.3
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECONCILIATION OF GAAP NET INCOME AND GAAP DILUTED NET INCOME PER COMMON SHARE TO NON-GAAP NET INCOME AND NON-GAAP DILUTED NET INCOME PER COMMON SHARE
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+Net income, as reported
+$
+666.6
+ 
+ 
+$
+546.2
+ 
+ 
+$
+1,333.0
+ 
+ 
+$
+1,053.4
+ 
+Share-based compensation expense
+ 
+45.4
+ 
+ 
+ 
+41.3
+ 
+ 
+ 
+89.9
+ 
+ 
+ 
+82.5
+ 
+Other adjustments
+ 
+0.8
+ 
+ 
+ 
+0.9
+ 
+ 
+ 
+(0.1
+)
+ 
+ 
+1.7
+ 
+Professional services associated with certain legal matters
+ 
+0.3
+ 
+ 
+ 
+2.3
+ 
+ 
+ 
+0.8
+ 
+ 
+ 
+3.2
+ 
+Amortization of acquired intangible assets
+ 
+151.4
+ 
+ 
+ 
+167.5
+ 
+ 
+ 
+302.9
+ 
+ 
+ 
+335.1
+ 
+Special charges (income) and other, net
+ 
+1.8
+ 
+ 
+ 
+4.3
+ 
+ 
+ 
+3.5
+ 
+ 
+ 
+(12.6
+)
+Loss on settlement of debt
+ 
+3.1
+ 
+ 
+ 
+2.1
+ 
+ 
+ 
+12.2
+ 
+ 
+ 
+8.3
+ 
+Non-cash other expense, net
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+ 
+0.1
+ 
+Other non-GAAP tax adjustment
+ 
+19.9
+ 
+ 
+ 
+49.8
+ 
+ 
+ 
+52.4
+ 
+ 
+ 
+109.9
+ 
+Non-GAAP net income
+$
+889.3
+ 
+ 
+$
+814.4
+ 
+ 
+$
+1,794.6
+ 
+ 
+$
+1,581.6
+ 
+GAAP net income as a percentage of net sales
+ 
+29.6
+%
+ 
+ 
+26.3
+%
+ 
+ 
+29.3
+%
+ 
+ 
+26.1
+%
+Non-GAAP net income as a percentage of net sales
+ 
+39.4
+%
+ 
+ 
+39.3
+%
+ 
+ 
+39.5
+%
+ 
+ 
+39.2
+%
+Diluted net income per common share, as reported
+$
+1.21
+ 
+ 
+$
+0.98
+ 
+ 
+$
+2.42
+ 
+ 
+$
+1.88
+ 
+Non-GAAP diluted net income per common share
+$
+1.62
+ 
+ 
+$
+1.46
+ 
+ 
+$
+3.26
+ 
+ 
+$
+2.82
+ 
+Diluted common shares outstanding, as reported
+ 
+549.2
+ 
+ 
+ 
+558.3
+ 
+ 
+ 
+550.3
+ 
+ 
+ 
+559.9
+ 
+Diluted common shares outstanding non-GAAP
+ 
+549.2
+ 
+ 
+ 
+558.3
+ 
+ 
+ 
+550.3
+ 
+ 
+ 
+559.9
+ 
+ 
+RECONCILIATION OF GAAP CASH FLOW FROM OPERATIONS TO FREE CASH FLOW
+ 
+Three Months Ended September 30,
+ 
+Six Months Ended September 30,
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2022
+ 
+GAAP cash flow from operations, as reported
+$
+616.2
+ 
+ 
+$
+793.2
+ 
+ 
+$
+1,609.4
+ 
+ 
+$
+1,633.6
+ 
+Capital expenditures
+ 
+(74.4
+)
+ 
+ 
+(110.3
+)
+ 
+ 
+(185.5
+)
+ 
+ 
+(232.2
+)
+Free cash flow
+$
+541.8
+ 
+ 
+$
+682.9
+ 
+ 
+$
+1,423.9
+ 
+ 
+$
+1,401.4
+ 
+GAAP cash flow from operations as a percentage of net sales
+ 
+27.3
+%
+ 
+ 
+38.3
+%
+ 
+ 
+35.4
+%
+ 
+ 
+40.5
+%
+Free cash flow as a percentage of net sales
+ 
+24.0
+%
+ 
+ 
+32.9
+%
+ 
+ 
+31.3
+%
+ 
+ 
+34.7
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microchip will host a conference call today, November 2, 2023 at 5:00 p.m. (Eastern Time) to discuss this release. This call will be simulcast over the Internet at www.microchip.com. The webcast will be available for replay until November 16, 2023.
+A telephonic replay of the conference call will be available at approximately 8:00 p.m. (Eastern Time) on November 2, 2023 and will remain available until 5:00 p.m. (Eastern Time) on November 16, 2023. Interested parties may listen to the replay by dialing 201-612-7415/877-660-6853 and entering access code 13740747.
+Cautionary Statement:
+The statements in this release relating to a turbulent macro environment, a turning point for an extraordinary three-year growth period for Microchip, our disciplined commitment to supply resilience and product innovation, in the pursuit of above-average long-term growth, accommodating customer pushout requests where possible, considerable progress in further decreasing average lead times, that the reduction in lead times is resulting in lower bookings and reduced near-term visibility, that the actions we are taking to reduce lead times are designed to enable our customers and us to navigate this uncertain environment with agility and effectiveness, effectively mitigating potential share count dilution, that we remain focused on continuing to enhance our capital structure in the future, the broader economic landscape characterized by decelerating economic activity and escalating business ambiguity, along with our proactive measures to assist clients in managing their inventory positions and backlog, that we anticipate net sales in the December quarter to be down 15% to down 20% sequentially, being confident that semiconductors remain the engine of innovation for the applications and markets we serve, that our focus on Total System Solutions and key market megatrends is fueling strong design-win momentum that we expect will drive above-market long-term growth, that our 168,000 square foot center in India will support our growth plans for many years to come, our third quarter fiscal 2024 guidance for net sales and GAAP and non-GAAP gross profit, operating expenses, operating income, other expense, net, income tax provision, net income, diluted common shares outstanding, earnings per diluted share, capital expenditures for the December 2023 quarter and for all of fiscal 2024, selectively adding capital equipment to maintain, grow and operate our internal manufacturing capabilities to support the expected growth of our business, our belief that non-GAAP measures are useful to investors and our assumed average stock price in the December 2023 quarter are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that could cause our actual results to differ materially, including, but not limited to: any continued uncertainty, fluctuations or weakness in the U.S. and world economies (including China) due to rising interest rates, high inflation or the impact of the COVID-19 pandemic (including lock-downs in China), actions taken or which may be taken by the Biden administration or the U.S. Congress, monetary policy, political, geopolitical, trade or other issues in the U.S. or internationally (including the military conflicts in Ukraine-Russia and the Middle East), changes in demand or market acceptance of our products and the products of our customers and our ability to meet any increases in market demand or customer requests to reschedule or cancel orders; the mix of inventory we hold, our ability to satisfy short-term orders from our inventory and our ability to effectively manage our inventory levels; the impact that the CHIPS Act will have on increasing manufacturing capacity in our industry by providing incentives for us, our competitors and foundries to build new wafer manufacturing facilities or expand existing facilities; the amount and timing of any incentives we may receive under the CHIPS Act, the impact of current and future changes in U.S. corporate tax laws (including the Inflation Reduction Act of 2022 and the Tax Cuts and Jobs Act of 2017), foreign currency effects on our business; changes in utilization of our manufacturing capacity and our ability to effectively manage and expand our production levels to meet any increases in market demand or any customer requests to reschedule or cancel orders; the impact of inflation on our business; competitive developments including pricing pressures; the level of orders that are received and can be shipped in a quarter; our ability to realize the expected benefits of our preferred supply program and our long-term supply assurance program; changes or fluctuations in customer order patterns and seasonality; our ability to obtain a sufficient supply of wafers from third party wafer foundries to meet our needs and the cost of such wafers, our ability to obtain additional capacity from our suppliers to increase production to meet any increases in market demand; our ability to successfully integrate the operations and employees, retain key employees and customers and otherwise realize the expected synergies and benefits of our acquisitions; the impact of any future significant acquisitions or strategic transactions we may make; the costs and outcome of any current or future litigation or other matters involving our acquisitions (including the acquired business, intellectual property, customers, or other issues); the costs and outcome of any current or future tax audit or investigation regarding our business or our acquired businesses, our actual average stock price in the December quarter and the impact such price will have on our share count; fluctuations in our stock price and trading volume which could impact the number of shares we acquire under our share repurchase program and the timing of such repurchases; disruptions in our business or the businesses of our customers or suppliers due to natural disasters (including any floods in Thailand), terrorist activity, armed conflict, war, worldwide oil prices and supply, public health concerns (including the COVID-19 pandemic) or disruptions in the transportation system; and general economic, industry or political conditions in the United States or internationally.
+For a detailed discussion of these and other risk factors, please refer to Microchip's filings on Forms 10-K and 10-Q. You can obtain copies of Forms 10-K and 10-Q and other relevant documents for free at Microchip's website (www.microchip.com) or the SEC's website (www.sec.gov) or from commercial document retrieval services.
+Stockholders of Microchip are cautioned not to place undue reliance on our forward-looking statements, which speak only as of the date such statements are made. Microchip does not undertake any obligation to publicly update any forward-looking statements to reflect events, circumstances or new information after this November 2, 2023 press release, or to reflect the occurrence of unanticipated events.
+About Microchip:
+Microchip Technology Incorporated is a leading provider of smart, connected and secure embedded control solutions. Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs, which reduce risk while lowering total system cost and time to market. Our solutions serve more than 125,000 customers across the industrial, automotive, consumer, aerospace and defense, communications and computing markets. Headquartered in Chandler, Arizona, Microchip offers outstanding technical support along with dependable delivery and quality. For more information, visit the Microchip website at www.microchip.com.
+Note: The Microchip name and logo, the Microchip logo, MPLAB, PolarFire, SST, and SuperFlash are registered trademarks of Microchip Technology Incorporated in the U.S.A. and other countries. memBrain is a trademark of Microchip Technology Incorporated in the U.S.A. and other countries. All other trademarks mentioned herein are the property of their respective companies.
+INVESTOR RELATIONS CONTACT:J. Eric Bjornholt -- CFO..... (480) 792-7804

@@ -1,0 +1,3 @@
+url:https://finance.yahoo.com/m/42bfa43d-8885-37f5-a402-d9a7d46ac168/should-you-buy-microsoft.html
+title:Should_You_Buy_Microsoft_Stock_After_Its_Latest_Earnings
+The tech giant's latest earnings showed strong growth in the cloud business, fueled by higher-than-expected AI demand.

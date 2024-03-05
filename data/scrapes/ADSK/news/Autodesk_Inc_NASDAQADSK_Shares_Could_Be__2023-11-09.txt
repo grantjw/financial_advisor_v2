@@ -1,0 +1,75 @@
+url:https://finance.yahoo.com/news/autodesk-inc-nasdaq-adsk-shares-120025596.html
+title:Autodesk_Inc_NASDAQADSK_Shares_Could_Be_26_Below_Their_Intrinsic_Value_Estimate
+The projected fair value for Autodesk is US$273 based on 2 Stage Free Cash Flow to Equity
+Autodesk is estimated to be 26% undervalued based on current share price of US$203
+Our fair value estimate is 16% higher than Autodesk's analyst price target of US$236
+Does the October share price for Autodesk, Inc. (NASDAQ:ADSK) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by taking the expected future cash flows and discounting them to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.
+ View our latest analysis for Autodesk 
+We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows. Generally the first stage is higher growth, and the second stage is a lower growth phase. To start off with, we need to estimate the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+Generally we assume that a dollar today is more valuable than a dollar in the future, so we need to discount the sum of these future cash flows to arrive at a present value estimate:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$1.22b
+US$1.67b
+US$2.13b
+US$2.42b
+US$2.83b
+US$3.14b
+US$3.40b
+US$3.62b
+US$3.81b
+US$3.97b
+Growth Rate Estimate Source
+Analyst x12
+Analyst x12
+Analyst x7
+Analyst x1
+Analyst x1
+Est @ 10.91%
+Est @ 8.28%
+Est @ 6.44%
+Est @ 5.15%
+Est @ 4.25%
+ Present Value ($, Millions) Discounted @ 7.2% 
+US$1.1k
+US$1.5k
+US$1.7k
+US$1.8k
+US$2.0k
+US$2.1k
+US$2.1k
+US$2.1k
+US$2.0k
+US$2.0k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$18b
+After calculating the present value of future cash flows in the initial 10-year period, we need to calculate the Terminal Value, which accounts for all future cash flows beyond the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 7.2%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$4.0b× (1 + 2.2%) ÷ (7.2%– 2.2%) = US$80b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$80b÷ ( 1 + 7.2%)10= US$40b
+The total value is the sum of cash flows for the next ten years plus the discounted terminal value, which results in the Total Equity Value, which in this case is US$58b. In the final step we divide the equity value by the number of shares outstanding. Relative to the current share price of US$203, the company appears a touch undervalued at a 26% discount to where the stock price trades currently. The assumptions in any calculation have a big impact on the valuation, so it is better to view this as a rough estimate, not precise down to the last cent.
+Now the most important inputs to a discounted cash flow are the discount rate, and of course, the actual cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Autodesk as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 7.2%, which is based on a levered beta of 1.011. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Earnings growth over the past year exceeded the industry.
+Debt is not viewed as a risk.
+Weakness
+No major weaknesses identified for ADSK.
+Opportunity
+Annual earnings are forecast to grow faster than the American market.
+Trading below our estimate of fair value by more than 20%.
+Threat
+Revenue is forecast to grow slower than 20% per year.
+Although the valuation of a company is important, it is only one of many factors that you need to assess for a company. The DCF model is not a perfect stock valuation tool. Rather it should be seen as a guide to "what assumptions need to be true for this stock to be under/overvalued?" If a company grows at a different rate, or if its cost of equity or risk free rate changes sharply, the output can look very different. What is the reason for the share price sitting below the intrinsic value? For Autodesk, we've put together three essential elements you should further examine:
+Risks: Be aware that  Autodesk is showing  1 warning sign in our investment analysis , you should know about...
+Future Earnings: How does ADSK's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. The Simply Wall St app conducts a discounted cash flow valuation for every stock on the NASDAQGS every day. If you want to find the calculation for other stocks just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

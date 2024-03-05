@@ -1,0 +1,32 @@
+url:https://finance.yahoo.com/news/atlassian-team-report-q1-earnings-131300920.html
+title:Atlassian_TEAM_to_Report_Q1_Earnings_Whats_in_Store
+Atlassian TEAM is scheduled to report first-quarter fiscal 2024 results on Nov 2.
+Atlassian projects fiscal first-quarter revenues between $950 million and $970 million ($960 million at the midpoint). The Zacks Consensus Estimate for revenues is pegged at $959 million, suggesting growth of 18.9% from the year-ago reported figure.
+For first-quarter earnings, the Zacks Consensus Estimate is pegged at 53 cents per share, implying a 47.2% increase from 36 cents reported in the year-ago period.
+Atlassian surpassed the Zacks Consensus Estimate in three of the trailing four quarters while missing on one occasion, the average surprise being 34%.
+Let’s see how things have shaped up before this announcement.
+Atlassian Corporation PLC price-eps-surprise | Atlassian Corporation PLC Quote
+The rising adoption of TEAM’s cloud-based solutions and the massive digitalization trend in organizations, along with the growing hybrid working trend, are likely to have favored the company’s fiscal first-quarter performance. The growing demand for Atlassian’s cloud products from new and existing clients using on-premises products might have acted as a tailwind.
+Our estimate for revenues from Cloud deployment is pegged at $600.7 million, indicating a 26.5% increase from the year-ago quarter. Revenues from Data Center deployment are anticipated to grow 29.6% year over year to $221.9 million.
+The increasing traction for core products like Jira Software and Confluence Cloud and the rising adoption of new products like Jira Service Management may have acted as key catalysts. An improvement in product quality and performance, multiple product launches and increased pricing are also likely to have boosted the firm’s performance.
+Atlassian’s latest focus on adding AI features to some of its collaboration software is likely to have driven the first-quarter top line. In April 2023, the company collaborated with OpenAI to enhance the capabilities of its Confluence, Jira Service Management and other programs with generative AI features.
+Robust growth in subscription revenues, aided by the solid uptake of the company’s subscription-based offerings, is likely to be reflected in the to-be-reported quarter’s results. Our estimate of $840.3 million for the Subscription segment’s revenues indicates massive 29.1% year-over-year growth.
+Several customers are opting for cloud offerings amid the ongoing cloud migration. Such new additions and increased pricing on certain products contributed to the company’s quarterly revenues. Our estimate suggests that TEAM is likely to have ended the first quarter with 264,916 customers, a significant improvement of 6.3% year over year and 1% sequentially.
+Additionally, Atlassian’s sustained focus on cost savings is likely to have boosted the first-quarter bottom line. The company announced restructuring actions in March 2023, which include a reduction of lease-related expenses and the total workforce by 5% or 500 employees.
+Our proven model does not conclusively predict an earnings beat for Atlassian this season. The combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 (Buy) or 3 (Hold) increases the chances of an earnings beat. However, that’s not the case here.
+Though TEAM currently carries a Zacks Rank of 3, it has an Earnings ESP of 0.00%. You can uncover the best stocks to buy or sell before they’re reported with our Earnings ESP Filter.
+Per our model, NVIDIA Corporation NVDA, Palantir Technologies PLTR and Synaptics SYNA have the right combination of elements to post an earnings beat in their upcoming releases.
+NVIDIA sports a Zacks Rank #1 and has an Earnings ESP of +6.93%. The company is scheduled to report third-quarter fiscal 2023 results on Nov 21. Its earnings surpassed the Zacks Consensus Estimate thrice in the trailing four quarters while missing on one occasion, the average surprise being 9.8%. You can see the complete list of today’s Zacks #1 Rank stocks here.
+The Zacks Consensus Estimate for NVIDIA’s third-quarter earnings is pegged at $3.34 per share, indicating a year-over-year increase of 475.9%. The consensus mark for revenues stands at $16.12 billion, suggesting a year-over-year surge of 171.7%.
+Palantir carries a Zacks Rank #2 and has an Earnings ESP of +4.35%. The company is scheduled to report third-quarter 2023 results on Nov 2. Its earnings beat the Zacks Consensus Estimate thrice in the preceding four quarters while missing on one occasion, with the average surprise being 2.1%.
+The Zacks Consensus Estimate for Palantir’s third-quarter earnings stands at 6 cents per share, indicating a year-over-year improvement of 500%. It is estimated to report revenues of $555 million, which suggests an increase of approximately 16.1% from the year-ago quarter.
+Synaptics is slated to report first-quarter fiscal 2024 results on Nov 9. The company has a Zacks Rank #2 and an Earnings ESP of +3.54% at present. Synaptics’ earnings beat the Zacks Consensus Estimate thrice in the trailing four quarters while missing on one occasion, the average surprise being 3.6%.
+The Zacks Consensus Estimate for first-quarter earnings is pegged at 38 cents per share, suggesting a decrease of 89.2% from the year-ago quarter’s earnings of $3.52. Synaptics’ quarterly revenues are estimated to decline 48.2% year over year to $232 million.
+Stay on top of upcoming earnings announcements with the Zacks Earnings Calendar.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+Synaptics Incorporated (SYNA) : Free Stock Analysis Report
+Atlassian Corporation PLC (TEAM) : Free Stock Analysis Report
+Palantir Technologies Inc. (PLTR) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research

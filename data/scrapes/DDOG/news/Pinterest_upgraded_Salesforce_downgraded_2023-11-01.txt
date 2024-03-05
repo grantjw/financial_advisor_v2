@@ -1,0 +1,21 @@
+url:https://finance.yahoo.com/news/pinterest-upgraded-salesforce-downgraded-wall-135016450.html
+title:Pinterest_upgraded_Salesforce_downgraded_Wall_Streets_top_analyst_calls
+The most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.
+Top 5 Upgrades: 
+Stifel upgraded Pinterest (PINS) to Buy from Hold with a price target of $32, up from $27. Channel checks "skew more positive" and there is "still plenty of room" for growth outside the company's domestic market, the firm tells investors in a research note.
+JPMorgan upgraded Walgreens Boots Alliance (WBA) to Overweight from Neutral with a price target of $30, up from $27. The firm says "today commences a new era" for the shares as Tim Wentworth assumes the CEO role.
+Bernstein upgraded Spirit AeroSystems (SPR) to Outperform from Market Perform with a price target of $29, up from $25. The firm notes that the Boeing (BA) infusion of cash outlined in last week and new leadership should bring more operational expertise.
+Bernstein upgraded BioMarin (BMRN) to Market Perform from Underperform with an unchanged price target of $82. The firm's short thesis was that Roctavian numbers needed to come down, and this has now largely played out.
+Piper Sandler upgraded DigitalOcean (DOCN) to Neutral from Underweight with a price target of $22, down from $30. With consensus estimates now reset, the shares offer a more balanced risk/reward profile, the firm tells investors in a research note.
+Top 5 Downgrades:
+Piper Sandler downgraded Salesforce (CRM) to Neutral from Overweight with a price target of $232, down from $268. While sector valuations and growth could be nearing a bottom, Piper has less confidence in growth acceleration potential.
+Odeon Capital downgraded Morgan Stanley (MS) to Hold from Buy with a $79.15 price target after the company reported third quarter results that the firm said "were disappointing."
+Rosenblatt downgraded RingCentral (RNG) to Neutral from Buy with a price target of $35, down from $52. The firm believes the recent change in leadership could lead to a resetting of revenue expectations, "while the fiercely competitive landscape adds further concern."
+Piper Sandler downgraded Unity (U) to Neutral from Overweight with a price target of $30, down from $48. The firm "proactively" reduced 2024 growth estimates and price targets across the cloud applications and analytics group saying near-term demand stabilization may not support "overly optimistic" consensus growth rates.
+BofA downgraded Alcoa (AA) to Neutral from Buy with a price target of $25, down from $35. While the BofA commodities team is bullish on Alcoa's primary product, aluminum, for 2024, they are cautious in the more immediate term.
+Top 5 Initiations: 
+TD Cowen initiated coverage of Spotify (SPOT) with a Market Perform rating and $129 price target. The firm expects Spotify to continue to grow revenue at double-digits and sees margin improvement over time, but thinks the stock's current valuation already discounts in a "fairly optimistic financial trajectory."
+Guggenheim initiated coverage of Datadog (DDOG) with a Neutral rating and no price target. Like other consumption-based businesses, Datadog has not been able to escape macro-related pressures culminating in "cloud optimization," the firm tells investors in a research note.
+HSBC initiated coverage of Booking Holdings (BKNG) with a Buy rating and $3,650 price target. The firm says innovation and digital commerce are driving "operating model convergence and a broadening of the competitive landscape." HSBC also started coverage of Expedia (EXPE) with a Hold rating and $114 price target.
+HSBC initiated coverage of MGM Resorts (MGM) with a Buy rating and $49 price target as the pandemic accelerated shifts in lifestyle, technology, and behaviors that are shaping travel and leisure and fueling growth. The firm also started coverage of Wynn Resorts (WYNN) with a Buy rating and $111 price target, and Royal Caribbean (RCL) with a Buy rating and $115 price target.
+Guggenheim initiated coverage of Dynatrace (DT) with a Buy rating and $58 price target, implying 26% potential upside. The firm says Dynatrace "has been a mainstay" in the observability market.

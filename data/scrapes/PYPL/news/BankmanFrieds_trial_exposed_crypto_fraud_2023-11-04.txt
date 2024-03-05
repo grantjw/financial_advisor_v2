@@ -1,0 +1,20 @@
+url:https://finance.yahoo.com/news/bankman-frieds-trial-exposed-crypto-225619895.html
+title:BankmanFrieds_trial_exposed_crypto_fraud_but_Congress_has_not_been_eager_to_regulate_the_industry
+PALM SPRINGS, Calif. (AP) — The conviction of former cryptocurrency mogul Sam Bankman-Fried for stealing at least $10 billion from customers and investors is the latest black mark for the cryptocurrency industry, but in Washington, there seems to be little to no interest in pushing through regulation.
+When cryptocurrencies collapsed and a number of companies failed last year, Congress considered multiple approaches for how to regulate the industry in the future. However, most of those efforts have gone nowhere, especially in this chaotic year that has been dominated by geopolitical tensions, inflation and the upcoming 2024 election.
+Ironically, the failure of Bankman-Fried's FTX and his subsequent arrest late last year may have contributed to the momentum for regulation stalling out. Before FTX imploded, Bankman-Fried spent millions of dollars — illegally taken from his customers it turns out — to influence the discussion around cryptocurrency regulation in Washington and push for action.
+Without Congress, federal regulators like the Securities and Exchange Commission have stepped in to take their own enforcement actions against the industry, including the filing of lawsuits against Coinbase and Binance, two of the biggest crypto exchanges.
+And most recently PayPal received a subpoena from the SEC related to its PayPal USD stablecoin, the company said in a filing with securities regulators Wednesday. “The subpoena requests the production of documents,” the company said. "We are cooperating with the SEC in connection with this request."
+Still, Congress still has yet to act.
+Sens. Debbie Stabenow, D-Mich., and John Boozman, R-Ark., proposed last year to hand over the regulatory authority over cryptocurrencies bitcoin and ether to the Commodities Futures Trading Commission. Stabenow and Boozman lead the Senate Agriculture Committee, which has authority over the CTFC.
+One big stumbling block in the Senate has been Sen. Sherrod Brown, D-Ohio, chair of the Senate Banking Committee.
+Brown has been highly skeptical of cryptocurrencies as a concept and he’s been generally reluctant to put Congress’ blessing on them through regulation. He’s held several committee hearings over cryptocurrency issues, ranging from the negative impact on consumers to use of the currencies in funding illicit activities, but has not advanced any legislation out of his committee.
+“Americans continue to lose money every day in crypto scams and frauds,” Brown said in a statement after Bankman-Fried was convicted. “We need to crack down on abuses and can’t let the crypto industry write its own rulebook.”
+In the House, a bill that would put regulatory guardrails around stablecoins — cryptocurrencies that are supposed to be backed by hard assets like the U.S. dollar — passed out of the House Financial Services Committee this summer. But that bill has gotten zero interest from the White House and the Senate.
+President Joe Biden last year signed an executive order on government oversight of cryptocurrency that urges the Federal Reserve to explore whether the central bank should jump in and create its own digital currency. So far, however, there has been no movement on that front.
+Consumer advocates are skeptical about the need for new rules.
+“There is no need for any special interest crypto legislation which would only legitimize an industry that is used by speculators, financial predators, and criminals," said Dennis Kelleher, president of Better Markets, a nonprofit that works to “build a more secure financial system for all Americans,” according to its website.
+“Moreover, almost everything the crypto industry does is clearly covered by existing securities and commodities laws that every other law-abiding financial firm in the country follow," he said.
+Bartlett Collins Naylor, a financial policy advocate for Public Citizen's Congress Watch said “laws on fraud and securities are currently sound.”
+__
+Hussein reported from Lewiston, Maine

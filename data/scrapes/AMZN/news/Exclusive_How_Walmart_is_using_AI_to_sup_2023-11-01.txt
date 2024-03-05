@@ -1,0 +1,19 @@
+url:https://finance.yahoo.com/news/exclusive-how-walmart-is-using-ai-to-supercharge-its-holiday-plans-190849969.html
+title:Exclusive_How_Walmart_is_using_AI_to_supercharge_its_holiday_plans
+This holiday, Walmart is looking to deliver toys and coal in one day — but it'll be AI pulling the sleigh.
+America's largest employer and retailer has been inching towards modernization of its inventory and delivery system, and this winter will be the first test of its "next generation supply chain," the company announced Tuesday. The system is patent-pending and uses real-time data to help the company ensure maximum efficiency across all stores and regions.
+For example, Minnesota stores won't be getting shipments of swimsuits, while Florida warehouses won't be stocked with snow blowers. If New Yorkers are into fuzzy socks this year, Walmart locations in New York will be sure to have them on hand.
+An upgraded inventory management system enables Walmart (WMT) to compete with Amazon (AMZN), as the company rolls out more same-day delivery slots in 4,000 stores. The offering, which depends on Walmart's ability to ensure each store has the items most likely to be sold in any given area, will allow 80% of the US population to get their stocking stuffers in as little as 30 minutes.
+"Technology like real-time data, AI, and robotics play a crucial role in powering our ecosystem," David Guggina, Walmart EVP of supply chain operations, told Yahoo Finance exclusively.
+Retailers are in a tricky spot this season. It's a tenuous time for the consumer, as inflation lingers and interest rates are likely to hold at a 22-year high. However, Walmart has experienced strong ecommerce growth in the past year, and its investments in technology can further its online sales, Jefferies's Corey Tarlowe wrote on Oct. 20.
+"Walmart is in the process of implementing automation in its regional [distribution center], building four next-generation fulfillment centers, and scaling its market fulfillment centers. We believe the additional capacity and efficiency is key to growing Walmart Fulfillment Services and its [online] marketplace," Tarlowe wrote.
+In August, Walmart reported that its ecommerce sales are up 24% globally year over year.
+A more efficient inventory system can help cut shipping and delivery costs, giving a boost to Walmart's ability to continue provide value products to customers.
+In addition, the company is working to expand its next and two-day delivery options to as much as 90% of the US population. To that end, Walmart has added three new robotics and automation-forward fulfillment centers in Illinois, Indiana, and Texas. The retailer has also been investing in and partnering with robotics firm Symbiotic (SYM).
+"Walmart’s inventory system is becoming more advanced and autonomous, as we have been utilizing these systems and their AI [and machine learning] models for some time," Parvez Musani, Walmart SVP of E2E fulfillment, exclusively told Yahoo Finance.
+By growing its fast delivery offerings, Walmart is trying to meet or exceed evolving consumer expectations. When it comes to delivery times, shoppers' expectations over the last decade have been massively compressed by Amazon's ecommerce dominance and vaunted two-day delivery guarantee.
+Guggina said that Walmart's extensive brick-and-mortar network, with 4,700 stores located within 10 miles of 90% of the US population, will be an unique asset to its fast delivery operation.
+If this holiday season is a success, it'll be a coming-out party for the legacy brand's AI initiatives, which Musani dubbed as "foundational" to Walmart's innovation efforts moving forward.
+Allie Garfinkle is a Senior Tech Reporter at Yahoo Finance. Follow her on X, formerly Twitter, at @agarfinks and on LinkedIn.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance

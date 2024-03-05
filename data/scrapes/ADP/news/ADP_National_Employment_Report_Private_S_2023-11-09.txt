@@ -1,0 +1,91 @@
+url:https://finance.yahoo.com/news/adp-national-employment-report-private-121500489.html
+title:ADP_National_Employment_Report_Private_Sector_Employment_Increased_by_113000_Jobs_in_October_Annual_Pay_was_Up_57
+ROSELAND, N.J., Nov. 1, 2023 /PRNewswire/ -- Private sector employment increased by 113,000 jobs in October and annual pay was up 5.7 percent year-over-year, according to the October ADP® National Employment ReportTM produced by the ADP Research Institute® in collaboration with the Stanford Digital Economy Lab ("Stanford Lab"). The ADP National Employment Report is an independent measure and high-frequency view of the private-sector labor market based on actual, anonymized payroll data of more than 25 million U.S. employees.
+The jobs report and pay insights use ADP's fine-grained anonymized and aggregated payroll data to provide a representative picture of the private-sector labor market. The report details the current month's total private employment change, and weekly job data from the previous month. Because the underlying ADP payroll databases are continuously updated, the report provides a high-frequency, near real-time measure of U.S. employment. This measure reflects the number of employees on ADP client payrolls (Payroll Employment) to provide a richer understanding of the labor market. ADP's pay measure uniquely captures the earnings of a cohort of almost 10 million employees over a 12-month period.
+"No single industry dominated hiring this month, and big post-pandemic pay increases seem to be behind us," said Nela Richardson, chief economist, ADP. "In all, October's numbers paint a well-rounded jobs picture. And while the labor market has slowed, it's still enough to support strong consumer spending."
+October 2023 Report Highlights*
+View the ADP National Employment Report and interactive charts at www.adpemploymentreport.com.
+JOBS REPORT
+Private employers added 113,000 jobs in OctoberLeisure and hospitality hiring led the post-pandemic job recovery. But the industry ceded its place as the top job creator last month to education and health care.
+Change in U.S. Private Employment:     113,000
+Change by Industry Sector
+- Goods-producing:     6,000
+Natural resources/mining     -1,000
+Construction     4,000
+Manufacturing     3,000
+- Service-providing:     107,000
+Trade/transportation/utilities     35,000
+Information     0
+Financial activities     21,000
+Professional/business services     -10,000
+Education/health services     45,000
+Leisure/hospitality     17,000
+Other services     -1,000
+Change by U.S. Regions 
+- Northeast:     21,000
+New England     4,000
+Middle Atlantic     17,000
+- Midwest:     -13,000
+East North Central     -17,000
+West North Central     4,000
+- South:     64,000
+South Atlantic     34,000
+East South Central     5,000
+West South Central     25,000
+- West:     46,000
+Mountain     6,000
+Pacific     40,000
+Change by Establishment Size 
+- Small establishments:     19,000
+1-19 employees     21,000
+20-49 employees     -2,000
+- Medium establishments:     78,000
+50-249 employees     96,000
+250-499 employees     -18,000
+- Large establishments:     18,000
+500+ employees     18,000
+PAY INSIGHTS 
+Pay growth slowed to two-year low in OctoberJob-stayers reported a 5.7 percent year-over-year pay increase in October, the slowest pace of growth since October 2021. Pay growth for job-changers was 8.4 percent, the smallest increase since July 2021.
+Median Change in Annual Pay (ADP matched person sample)
+- Job-Stayers     5.7%
+- Job-Changers     8.4%
+Median Change in Annual Pay for Job-Stayers by Industry Sector 
+- Goods-producing:
+Natural resources/mining     5.3%
+Construction     5.8%
+Manufacturing     5.2%
+- Service-providing:                                              
+Trade/transportation/utilities     5.5%
+Information     5.1%
+Financial activities     6.1%
+Professional/business services     5.6%
+Education/health services     6.3%
+Leisure/hospitality     6.6%
+Other services     5.9%
+Median Change in Annual Pay for Job-Stayers by Firm Size
+- Small firms:                                                                 
+1-19 employees     4.9%
+20-49 employees     5.8%
+- Medium firms:                                                              
+50-249 employees     5.9%
+250-499 employees     5.8%
+- Large firms:                                                                 
+500+ employees     5.8%
+To see Pay Insights by U.S. State, Gender, and Age for Job-Stayers, visit here: 
+* Sum of components may not equal total, due to rounding.
+The September total of jobs added remained unchanged with no revision at 89,000. The historical data file, and weekly data for the previous month, is available at https://adpemploymentreport.com/.
+To subscribe to monthly email alerts or obtain additional information about the ADP National Employment Report, including employment and pay data, interactive charts, methodology, and a calendar of release dates, please visit https://adpemploymentreport.com/.  
+The November 2023 ADP National Employment Report will be released at 8:15 a.m. ET on December 6, 2023.
+About the ADP® National Employment ReportTMThe ADP National Employment Report is an independent measure of the change in U.S. private employment and pay derived from actual, anonymized payroll data of client companies served by ADP, a leading provider of human capital management solutions. The report is produced by ADP Research Institute in collaboration with the Stanford Digital Economy Lab.
+The ADP National Employment Report is broadly distributed to the public each month, free of charge, as part of the company's commitment to offering deeper insights of the U.S. labor market and providing businesses and governments with a source of credible and valuable information.
+About the ADP Research Institute® The ADP Research Institute delivers data-driven discoveries about the world of work and derives reliable economic indicators from these insights. We offer these findings as a unique contribution to making the world of work better and more productive by delivering actionable insights to the economy at large.
+About ADP (NASDAQ – ADP)Designing better ways to work through cutting-edge products, premium services and exceptional experiences that enable people to reach their full potential.  HR, Talent, Time Management, Benefits and Payroll. Informed by data and designed for people.   Learn more at ADP.com
+ADP, the ADP logo, and Always Designing for People, ADP National Employment Report, and ADP Research Institute are registered trademarks of ADP, Inc. All other marks are the property of their respective owners. 
+Copyright © 2023 ADP, Inc. All rights reserved.
+ADP-Media
+ 
+ 
+ 
+ 
+View original content to download multimedia:https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-113-000-jobs-in-october-annual-pay-was-up-5-7-301974049.html
+SOURCE ADP, Inc.

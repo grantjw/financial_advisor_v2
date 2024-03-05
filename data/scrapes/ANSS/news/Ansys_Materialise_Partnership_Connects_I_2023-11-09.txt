@@ -1,0 +1,34 @@
+url:https://finance.yahoo.com/news/ansys-materialise-partnership-connects-industry-140000172.html
+title:Ansys_Materialise_Partnership_Connects_IndustryLeading_Solutions_to_Enhance_Additive_Manufacturing_Software
+Initial joint workflow to be showcased at Formnext in Frankfurt, Germany 
+/ Key Highlights 
+The strategic partnership between Ansys and Materialise delivers an efficient, end-to-end digital workflow with the power to help solve pressing challenges in the additive manufacturing (AM) industry
+The workflow will deliver more value to Materialise Magics users by providing access to Ansys software, enabling research & development teams to prepare AM builds and run best-in-class simulations all within the same interface
+PITTSBURGH, Nov. 6, 2023 /PRNewswire/ -- Ansys (NASDAQ: ANSS), the global leader in engineering simulation software, and Materialise, a global leader in 3D printing software and service solutions, are joining forces to deliver integrated digital solutions to help overcome workflow challenges in the AM industry. The partnership will seamlessly integrate Ansys Additive Suite into Materialise's data and build preparation tool, Magics. An initial solution, to be previewed at Formnext 2023 and arriving in Q2 2024, will provide a best-in-class workflow for managing AM industrial projects across industries, including the medical and aerospace sectors.
+In many cases, the AM process requires users to perform build and data preparation tasks on one software platform and run simulations on another. Build defects caught by simulation within Magics will remove the need for data transfer between tools to update build files. This ultimately requires users to master both platforms or transfer information to a completely different user, creating disconnected workflows and eliminating the scrap-saving benefits of simulation.
+The Ansys and Materialise partnership alleviates these issues by combining Ansys' gold standard simulation software with https://www.materialise.com/en/industrial/software/magics-data-build-preparation Magics into one streamlined workflow, resulting in faster time-to-market and efficient distortion compensation. This end-to-end process also provides fertile ground for advanced AM research and development, empowering engineers and designers to overcome engineering barriers standing in the way of innovation.
+"Improving accessibility to simulation is an important step to support our customers in their metal 3D printing," Bart Van Der Schueren, chief technology officer, executive vice president at Materialise. "Our goal is to enable a smooth design process by empowering users to seamlessly run valuable and efficient detection and correction simulations in tandem with build and data preparation. This partnership will do so by providing a platform for innovation and a process by which users can 3D print quality products with confidence."
+"Simulation changes the way we perceive our interactions with the world," said Shane Emswiler, senior vice president of products at Ansys. "Whether it be understanding the behavior of new material or revisiting standardized product configurations, the adoption of Ansys technology into the AM workflow signifies the necessity and utility of simulation throughout all levels of the product life cycle."
+Visit Ansys at Formnext in Frankfurt, Germany, Nov 7-10, 2023, at booth B19 in hall 12.1, and Materialise at booth C139 in hall 12.1 to learn more and watch a demonstration.
+/ About Ansys
+Our Mission: Powering Innovation that Drives Human Advancement™
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media 
+Mary Kate Joyce
+
+
+724.820.4368
+
+marykate.joyce@ansys.com
+Investors   
+Kelsey DeBriyn
+
+
+724.820.3927
+
+kelsey.debriyn@ansys.com
+View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-materialise-partnership-connects-industry-leading-solutions-to-enhance-additive-manufacturing-software-301978095.html
+SOURCE Ansys

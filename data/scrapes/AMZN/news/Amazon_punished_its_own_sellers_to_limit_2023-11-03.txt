@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/amazon-punished-own-sellers-limit-000705613.html
+title:Amazon_punished_its_own_sellers_to_limit_Walmarts_reach_FTC_says
+By Siddharth Cavale and Arriana McLymore
+NEW YORK (Reuters) - Amazon.com Inc punished its own sellers to limit Walmart's reach as Walmart got into e-commerce, according to the Federal Trade Commission (FTC).
+In addition to making $1 billion by using a secret algorithm called "Project Nessie" to push up the prices that U.S. households pay, Amazon may have also succeeded in curbing Walmart's ambitions.
+In 2014, the arrival of Jet.com triggered fear at Amazon that Jet.com would be able to offer shoppers lower prices online, the FTC said on Thursday, kick-starting Amazon's strategy of removing sellers’ offers from the Buy Box if shoppers could find the same products at lower prices on Jet.com. The Buy Box is the button that allows shoppers to make a purchase directly from a seller.
+Walmart acquired Jet.com in 2016.
+"Given Amazon's size and a scale, their quantitative analytical might, and particularly, against the background that they had not made a profit on (Amazon.com) for the first 20 years, it's not surprising that they would resort to such tactics against competitors," retail consultant Burt Flickinger said.
+Like Amazon, Walmart operates a third-party online marketplace, with merchandise from thousands of independent sellers. On Amazon, millions of independent merchants currently sell goods its marketplace. Both Walmart and Amazon collect fees and commissions from the merchants on their platforms.
+By not collecting seller commissions, Jet.com could offer prices that were 10% to 15% lower than what Amazon advertised, the FTC said in a less-redacted version of a previous complaint against Amazon. This, Amazon realized, could result in sellers passing on those savings to customers, the FTC said.
+To hamstring Jet.com, Amazon removed some third-party sellers' offers from its Buy Box. The complaint cites one Amazon seller who adopted a policy of making "absolutely sure that our products are not priced lower on Walmart than they are on Amazon" because of pressure from Amazon.
+Amazon also deployed what the FTC described as anti-competitive algorithms against Jet.com's most popular products leading to Jet revising its strategy to match the lowest prices elsewhere, the FTC said.
+Amazon spokesperson Tim Doyle said the FTC "grossly mischaracterizes" the pricing tool and the company stopped using it several years ago.
+Walmart shut down Jet in 2020 and incorporated it into its wider e-commerce business.
+Walmart declined to comment as it was not part of the FTC litigation, a spokesperson said.
+(Reporting by Siddharth Cavale and Arriana McLymore in New York; Editing by Vanessa O'Connell and Lisa Shumaker)

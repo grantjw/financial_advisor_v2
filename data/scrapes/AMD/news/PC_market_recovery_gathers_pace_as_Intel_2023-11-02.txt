@@ -1,0 +1,16 @@
+url:https://finance.yahoo.com/news/pc-market-recovery-gathers-pace-184232264.html
+title:PC_market_recovery_gathers_pace_as_Intel_AMD_tout_potential_of_AI_PC
+By Arsheeya Bajwa and Akash Sriram
+(Reuters) - The earnings of Intel and Advanced Micro Devices have offered more evidence a recovery is gathering pace in the personal computer market, boding well for an industry that had been grappling with a supply glut after the pandemic.
+Executives at both the companies talked up the stabilizing PC market on earnings calls this week and said they expected the integration of artificial intelligence to boost growth.
+"The arrival of the AI PC represents an inflection point in the PC industry," said Intel CEO Pat Gelsinger. AMD boss Lisa Su said she "expected some growth going into 2024 as we think about sort of the AI PC cycle and some of the (Microsoft) Windows refresh cycles".
+AI-enabled PCs refer to machines that come with advanced chips capable of running large-language models and apps powered by the technology directly on the device, instead of the cloud.
+In the September quarter, AMD's PC-focused business posted its strongest growth in two years. Revenue decline at Intel's PC unit was the slowest in eight quarters.
+"The PC market saw a significant pull in of demand due to all kinds of impacts of the pandemic (such as remote work)," said Justin Sumner, senior portfolio manager at Voya Investment Management, an investor in both AMD and Intel.
+"We are finally starting to see a bottoming of this trend. This should lead to a typical inventory refresh and an improvement in the market."
+PC makers have been trying to clear their inventory as they expect a boost in demand during the holiday season and ahead of an expected Windows update next year from Microsoft .
+Data from research firms such as Canalys has fanned those expectations. After a slower decline in industry-wide PC shipments in the third quarter, Canalys said it expected the market to return to growth during the highly anticipated holiday season.
+It expects the adoption of AI-capable PCs to speed up from 2025 onwards, and make up around 60% of all PCs shipped in 2027.
+Still, some investors see the lack of AI apps as a potential hurdle for their adoption. Microsoft is so far the only major firm to create such offerings with its genAI-powered Copilot software that became available for its Microsoft 365 enterprise customers on Wednesday.
+"It is still unclear to us that there is a "killer app" which will spur this upgrade cycle," said Dave Egan, senior research analyst at Columbia Threadneedle, an investor in both AMD and Intel.
+(Reporting by Arsheeya Bajwa, Akash Sriram and Chavi Mehta in Bengaluru; Editing by Krishna Chandra Eluri)

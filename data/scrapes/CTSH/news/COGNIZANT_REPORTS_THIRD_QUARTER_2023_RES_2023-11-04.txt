@@ -1,0 +1,1268 @@
+url:https://finance.yahoo.com/news/cognizant-reports-third-quarter-2023-200100826.html
+title:COGNIZANT_REPORTS_THIRD_QUARTER_2023_RESULTS
+Revenue of $4.9 billion increased 0.8% year-over-year, declined 0.2% in constant currency1
+Record trailing 12-month bookings of $26.9 billion, up 16% year-over-year
+Operating cash flow of $828 million; free cash flow1 of $755 million was ~144% of net income
+Share repurchase expectation for 2023 increased by $200 million to $1 billion
+Full-year 2023 revenue guidance narrowed to (0.7%) to flat, as reported and in constant currency1
+Full-year 2023 Adjusted Operating Margin1 guidance now ~14.7%, the high end of prior guidance
+TEANECK, N.J., Nov. 1, 2023 /PRNewswire/ -- Cognizant (Nasdaq: CTSH), one of the world's leading professional services companies, today announced its third quarter 2023 financial results.
+"We strengthened the company's fundamentals during the third quarter as reflected in higher customer satisfaction scores, significantly lower voluntary attrition, and continued growth in bookings, despite ongoing economic uncertainty," said Ravi Kumar S, Chief Executive Officer. "We are investing to put Cognizant in the best position to serve clients as they strive to reduce costs, digitally transform their businesses and embrace generative AI."
+
+Q3 2023
+
+Q3 2022
+
+Revenue (in billions)
+$4.90
+
+$4.86
+
+Y/Y Change
+0.8 %
+
+2.4 %
+
+Y/Y Change CC1
+(0.2 %)
+
+5.6 %
+
+GAAP Operating Margin
+14.0 %
+
+16.4 %
+
+Adjusted Operating Margin1
+15.5 %
+
+16.4 %
+
+GAAP Diluted EPS
+$1.04
+
+$1.22
+
+Adjusted Diluted EPS1
+$1.16
+
+$1.17
+
+____________________
+1
+Constant currency ("CC") revenue growth, Adjusted Operating Margin, Adjusted Diluted Earnings Per Share ("Adjusted Diluted EPS") and free cash flow are not measures of financial performance prepared in accordance with GAAP. A full reconciliation of Adjusted Operating Margin guidance to the corresponding GAAP measures on a forward-looking basis cannot be provided without unreasonable efforts. See "About Non-GAAP Financial Measures and Performance Metrics" for more information and, where applicable, reconciliations to the most directly comparable GAAP financial measures.
+"Cognizant delivered third-quarter revenue within our guidance range along with an adjusted operating margin above our expectations, evidencing progress with our NextGen program," said Jan Siegmund, Chief Financial Officer. "We have narrowed our full-year revenue guidance range, which now reflects recent discretionary spending pressure and its impact to our near-term revenue expectations. We have also updated our adjusted operating margin guidance to approximately 14.7%, which is the high-end of our prior range, reflecting our continuing focus on enhancing operational discipline."
+Bookings
+Bookings in the third quarter grew 9% year-over-year. On a trailing-twelve-month basis, bookings grew 16% year-over-year to $26.9 billion, which represented a book-to-bill of approximately 1.4x.
+Employee Metrics
+Total headcount at the end of the third quarter was 346,600, an increase of 1,000 from Q2 2023 and a decrease of 2,800 from Q3 2022. Voluntary attrition - Tech Services on a trailing-twelve-month basis, declined to 16.2% from 19.9% in Q2 2023 and 29.2% in Q3 2022.
+Return of Capital to Shareholders
+The Company repurchased 4.3 million shares for $300 million during the third quarter under its share repurchase program. As of September 30, 2023, there was $2.1 billion remaining under the share repurchase authorization. In October 2023, the Company declared a quarterly cash dividend of $0.29 per share, a 7% increase year-over-year, for shareholders of record on November 21, 2023. This dividend will be payable on November 30, 2023.
+Fourth Quarter and Full-Year 2023 Guidance
+Fourth quarter revenue is expected to be $4.69 - $4.82 billion, a decline of 3.1% to 0.3%, or a decline of 4.0% to 1.2% in constant currency.
+Full-year 2023 revenue is expected to be $19.3 - $19.4 billion, or a decline of 0.7% to flat, both as reported and in constant currency.
+Full-year 2023 Adjusted Operating Margin2 is expected to be approximately 14.7%.
+Full-year 2023 Adjusted EPS2 is expected to be in the range of $4.39 to $4.42.
+____________________
+2
+A full reconciliation of Adjusted Operating Margin and Adjusted Diluted EPS guidance to the corresponding GAAP measures on a forward-looking basis cannot be provided without unreasonable efforts. See "About Non-GAAP Financial Measures and Performance Metrics" for more information and a partial reconciliation at the end of this release.
+Select Client and Partnership Announcements
+Selected by Technicolor Creative Studios, a creative technology company, as its global IT & Digital Transformation partner. Cognizant expects to provide an end-to-end managed service for Technicolor Creative Studios' users, applications, and infrastructure. Cognizant's approach utilizes an integrated operating model covering service desk, end user services, application services, infrastructure, network, and platform services.
+Established a new relationship with Intrum, a global credit management services company headquartered in Sweden, to provide end-to-end digital integration and core modernization services for Intrum's credit management technology platform. Cognizant expects to build and support a core digital system, jointly with Intrum, including working to implement a new integration layer. The system aims to help Intrum reduce total cost of ownership, accelerate modernization of its integration platform and build an agile digital services team to manage its customers' needs across 20 countries in Europe.
+Announced the launch of Telco Assurance 360, a cloud-based, AI-powered solution, built on ServiceNow and designed to help telecommunications companies reimagine their service management strategies to drive growth in the age of AI. Telco Assurance 360 offers telecom firms real-time visibility into network issues, and fast, proactive resolution through AI-powered analytics. The solution advances the two companies' previously announced strategic partnership in AI-driven automation across industries.
+In partnership with Google Cloud, we supported Bendigo and Adelaide Bank, one of the largest retail banks in Australia, in rebuilding its digital banking system on Google Cloud. The migration to Google Cloud is a key component of the Bank's wider transformation program to drive simplification, modernization and consolidation through streamlined service offerings.
+Renewed partnership agreements with Aston Martin Aramco Cognizant Formula One® Team (AMF1 Team) and The Football Association (The FA) to support those partners' ongoing transformation programs. The AMF1 partnership renewal and extension names Cognizant as AMF1's Global Technology Services Partner, contributing Cognizant's data and machine-learning technology and broader digital transformation expertise to the day-to-day operation of the race team. The expanded relationship with The FA will see Cognizant become the Digital Transformation Partner of The FA, Official Partner of the Emirates FA Cup, Official Partner of the Women's FA Cup, Official Partner of The FA Community Shield, and Official Partner of England Football.
+Announced launch of a global strategic go-to-market partnership with Vianai to accelerate human-centered generative AI offerings. This partnership leverages Vianai's hila™ Enterprise platform alongside Cognizant's Neuro® AI, creating a seamless, unified interface to unlock predictive, AI-driven decision making. For both companies, this partnership is expected to enable growth opportunities in their respective customer bases, including through Cognizant's plans to resell Vianai solutions.
+Announced a five-year renewal with ISS, a leading workplace experience and facility management company. The extended collaboration will enable Cognizant to continue helping ISS create efficiencies and enhanced innovation within its financial organization across Northern Europe. To date, Cognizant has transitioned multiple and country specific processes and systems into one simplified, consolidated, and automated framework. During the next phase, Cognizant aims to drive continuous innovation and productivity improvements for the customer's financial organization by providing solutions and processes designed to simplify, harmonize, and standardize the way of working with the goal of achieving further cost savings.
+Select Analyst Ratings, Company Recognition and Announcements
+Announced an important new training initiative, Synapse, aimed at empowering more than one million individuals with cutting-edge technology skills, including Generative AI, for the digital age. Together with government, academic institutions, businesses, and other strategic partners, Cognizant's program intends to prepare individuals to participate in the future workforce. Cognizant intends to build a consortium of partners, which then will help employ individuals who are upskilled through the Synapse initiative.
+Opened AI Innovation Hub in London in partnership with Google
+Named to Forbes' World's Best Employers 2023
+Named to Forbes' America's Best Employers in the State of New Jersey for 2023
+Recognized by Pegasystems' as winner of Pega Industry Excellence Award in Telecommunications
+Recognized as Automation Anywhere Innovation Solutions Partner of the Year 2023 - North America
+Recognized as a Leader by Everest Group® in:
+Property & Casualty (P&C) Insurance BPS PEAK Matrix® Assessment, 2023
+Clinical and Care Management Operations Services PEAK Matrix® Assessment, 2023
+Life Sciences Operations Services PEAK Matrix® Assessment 2023
+Market Leader in HFS Horizon 3:
+Services for the Platform Economy, 2023
+Generative Enterprise™ Services, 2023
+Leadership in ISG Provider Lens™
+Workday Ecosystem – U.S. & Europe, 2023
+Google Cloud Partner Ecosystem – U.S. & Europe, 2023
+Next-Gen ADM Services – U.S. & Europe, 2023
+Digital Service Desk and Workplace Support Services – U.S., 2023
+Managed Workplace Services-End-User Technology-Large Accounts – U.S., 2023
+Power and Utilities - Services and Solutions, North America, 2023
+Leadership in Avasant RadarView™
+End-User Computing Services, 2023
+Digital Workplace Services, 2023
+Data Management and Advanced Analytics Services, 2023
+Conference Call
+Cognizant will host a conference call on November 1, 2023, at 5:00 p.m. (Eastern) to discuss the Company's third quarter 2023 results. To listen to the conference call, please dial (877) 810-9510 (domestic) or +1 (201) 493-6778 (international) and provide the following conference passcode: "Cognizant Call."
+The conference call will also be available live on the Investor Relations section of the Cognizant website at http://investors.cognizant.com. An earnings supplement will also be available on the Cognizant website at the time of the conference call.
+For those who cannot access the live broadcast, a replay will be available. To listen to the replay, please dial (877) 660-6853 (domestically) or +1 (201) 612-7415 (internationally) and enter 13741068 beginning two hours after the end of the call until 11:59 p.m. (Eastern) on Wednesday, November 15, 2023. The replay will also be available at Cognizant's website www.cognizant.com for 60 days following the call.
+About CognizantCognizant (Nasdaq: CTSH) engineers modern businesses. We help our clients modernize technology, reimagine processes and transform experiences so they can stay ahead in our fast-changing world. Together, we're improving everyday life. See how at www.cognizant.com or @cognizant.
+Forward-Looking StatementsThis press release includes statements that may constitute forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, the accuracy of which are necessarily subject to risks, uncertainties and assumptions as to future events that may not prove to be accurate. These statements include, but are not limited to, express or implied forward-looking statements relating to our strategy, strategic partnerships and collaborations, competitive position and opportunities in the marketplace, investment in and growth of our business, the pace and magnitude of change and client needs related to generative AI, the effectiveness and results of our new Synapse initiative, including our ability to build a consortium of partners for the training program and the number of individuals we expect to reach with the initiative, the effectiveness of our recruiting and talent efforts and related costs, labor market trends, the anticipated amount of capital to be returned to shareholders and our anticipated financial performance. These statements are neither promises nor guarantees, but are subject to a variety of risks and uncertainties, many of which are beyond our control, which could cause actual results to differ materially from those contemplated in these forward-looking statements. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. Factors that could cause actual results to differ materially from those expressed or implied include general economic conditions, the competitive and rapidly changing nature of the markets we compete in, the competitive marketplace for talent and its impact on employee recruitment and retention, our ability to successfully implement our NextGen program and the amount of costs, timing of incurring costs and ultimate benefits of such plans, legal, reputational and financial risks resulting from cyberattacks, changes in the regulatory environment, including with respect to immigration and taxes, and the other factors discussed in our most recent Annual Report on Form 10-K and other filings with the Securities and Exchange Commission. Cognizant undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities law.
+About Non-GAAP Financial Measures and Performance Metrics
+Non-GAAP Financial Measures
+To supplement our financial results presented in accordance with GAAP, this press release includes references to the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: Adjusted Operating Margin, Adjusted Diluted EPS, free cash flow, net cash and constant currency revenue growth. These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. In addition, these non-GAAP financial measures should be read in conjunction with our financial statements prepared in accordance with GAAP. The reconciliations of our non-GAAP financial measures to the corresponding GAAP measures should be carefully evaluated.
+Our non-GAAP financial measures Adjusted Operating Margin and Adjusted Income from Operations excludes unusual items, such as NextGen charges. Our non-GAAP financial measure Adjusted Diluted EPS excludes unusual items, such as Nextgen charges and the effect of recognition in the third quarter of 2022 of an income tax benefit related to a specific uncertain tax position that was previously unrecognized in our prior-year consolidated financial statements, and net non-operating foreign currency exchange gains or losses and the tax impact of all the applicable adjustments. The income tax impact of each item excluded from Adjusted Diluted EPS is calculated by applying the statutory rate and local tax regulations in the jurisdiction in which the item was incurred. Free cash flow is defined as cash flows from operating activities net of purchases of property and equipment. Net cash is defined as cash and cash equivalents and short-term investments less short-term and long-term debt. Constant currency revenue growth is defined as revenues for a given period restated at the comparative period's foreign currency exchange rates measured against the comparative period's reported revenues.
+Management believes providing investors with an operating view consistent with how we manage the Company provides enhanced transparency into our operating results. For our internal management reporting and budgeting purposes, we use various GAAP and non-GAAP financial measures for financial and operational decision-making, to evaluate period-to-period comparisons, to determine portions of the compensation for our executive officers and for making comparisons of our operating results to those of our competitors. Accordingly, we believe that the presentation of our non-GAAP measures, which exclude certain costs, when read in conjunction with our reported GAAP results, can provide useful supplemental information to our management and investors regarding financial and business trends relating to our financial condition and results of operations. 
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and may exclude costs that are recurring such as our net non-operating foreign currency exchange gains or losses. In addition, other companies may calculate non-GAAP financial measures differently than us, thereby limiting the usefulness of these non-GAAP financial measures as a comparative tool. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from our non-GAAP financial measures to allow investors to evaluate such non-GAAP financial measures.
+Performance Metrics
+Bookings are defined as total contract value (or TCV) of new contracts, including new contract sales as well as renewals and expansions of existing contracts. Bookings can vary significantly quarter to quarter depending in part on the timing of the signing of a small number of large contracts. Our book-to-bill ratio is defined as bookings for the trailing twelve months divided by revenue for the same period. Measuring bookings involves the use of estimates and judgments and there are no independent standards or requirements governing the calculation of bookings. The extent and timing of conversion of bookings to revenues may be impacted by, among other factors, the types of services and solutions sold, contract duration, the pace of client spending, actual volumes of services delivered as compared to the volumes anticipated at the time of sale, and contract modifications, including terminations, over the lifetime of a contract. The majority of our contracts are terminable by the client on short notice often without penalty, and some without notice. We do not update our bookings for subsequent terminations, reductions or foreign currency exchange rate fluctuations. Information regarding our bookings is not comparable to, nor should it be substituted for, an analysis of our reported revenues. However, management believes that it is a key indicator of potential future revenues and provides a useful indicator of the volume of our business over time. 
+Investor Relations Contact:
+
+
+
+Media Contact:
+Tyler Scott
+
+
+
+Jeff DeMarrais
+VP, Investor Relations
+
+
+
+VP, Corporate Communications
+ +1 551-220-8246
+
+
+
+ +1 475-223-2298
+Tyler.Scott@cognizant.com
+
+
+
+Jeff.DeMarrais@cognizant.com
+- tables to follow -
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(Unaudited)
+
+ (in millions, except per share data)
+Three Months EndedSeptember 30,
+
+Nine Months EndedSeptember 30,
+
+2023
+
+2022
+
+2023
+
+2022
+Revenues
+$     4,897
+
+$     4,857
+
+$  14,595
+
+$   14,589
+Operating expenses:
+
+
+
+
+
+
+
+Cost of revenues (exclusive of depreciation and amortization expense shown    separately below)
+3,209
+
+3,080
+
+9,583
+
+9,296
+Selling, general and administrative expenses
+801
+
+838
+
+2,466
+
+2,583
+Restructuring charges
+72
+
+—
+
+189
+
+—
+Depreciation and amortization expense
+129
+
+141
+
+392
+
+428
+Income from operations
+686
+
+798
+
+1,965
+
+2,282
+Other income (expense), net:
+
+
+
+
+
+
+
+Interest income
+32
+
+17
+
+92
+
+32
+Interest expense
+(11)
+
+(6)
+
+(30)
+
+(11)
+Foreign currency exchange gains (losses), net
+—
+
+3
+
+3
+
+(1)
+Other, net
+6
+
+—
+
+8
+
+—
+Total other income (expense), net
+27
+
+14
+
+73
+
+20
+Income before provision for income taxes
+713
+
+812
+
+2,038
+
+2,302
+Provision for income taxes
+(191)
+
+(183)
+
+(473)
+
+(537)
+Income (loss) from equity method investment
+3
+
+—
+
+3
+
+4
+Net income
+$        525
+
+$        629
+
+$     1,568
+
+$     1,769
+Basic earnings per share
+$       1.04
+
+$       1.22
+
+$       3.10
+
+$       3.40
+Diluted earnings per share
+$       1.04
+
+$       1.22
+
+$       3.09
+
+$       3.40
+Weighted average number of common shares outstanding - Basic
+504
+
+516
+
+506
+
+520
+Dilutive effect of shares issuable under stock-based compensation plans
+1
+
+1
+
+1
+
+1
+Weighted average number of common shares outstanding - Diluted
+505
+
+517
+
+507
+
+521
+ 
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION 
+(Unaudited)
+
+(in millions, except par values)
+September 30,2023
+
+December 31, 2022
+Assets
+
+
+
+Current assets:
+
+
+
+Cash and cash equivalents
+$          2,204
+
+$          2,191
+Short-term investments
+164
+
+310
+Trade accounts receivable, net
+3,807
+
+3,796
+Other current assets
+952
+
+969
+Total current assets
+7,127
+
+7,266
+Property and equipment, net
+1,048
+
+1,101
+Operating lease assets, net
+718
+
+876
+Goodwill
+6,013
+
+5,710
+Intangible assets, net
+1,174
+
+1,168
+Deferred income tax assets, net
+935
+
+642
+Long-term investments
+432
+
+427
+Other noncurrent assets
+632
+
+662
+Total assets
+$       18,079
+
+$       17,852
+Liabilities and Stockholders' Equity
+
+
+
+Current liabilities:
+
+
+
+Accounts payable
+$             325
+
+$             360
+Deferred revenue
+302
+
+398
+Short-term debt
+33
+
+8
+Operating lease liabilities
+164
+
+174
+Accrued expenses and other current liabilities
+2,367
+
+2,407
+Total current liabilities
+3,191
+
+3,347
+Deferred revenue, noncurrent
+34
+
+19
+Operating lease liabilities, noncurrent
+634
+
+714
+Deferred income tax liabilities, net
+220
+
+180
+Long-term debt
+614
+
+638
+Long-term income taxes payable
+157
+
+283
+Other noncurrent liabilities
+347
+
+362
+Total liabilities
+5,197
+
+5,543
+Stockholders' equity:
+
+
+
+Preferred stock, $0.10 par value, 15 shares authorized, none issued
+—
+
+—
+Class A common stock, $0.01 par value, 1,000 shares authorized, 501 and 509 shares issued and outstanding as of September 30, 2023 and December 31, 2022, respectively
+5
+
+5
+Additional paid-in capital
+16
+
+15
+Retained earnings
+13,146
+
+12,588
+Accumulated other comprehensive income (loss)
+(285)
+
+(299)
+Total stockholders' equity
+12,882
+
+12,309
+Total liabilities and stockholders' equity
+$       18,079
+
+$       17,852
+ 
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+Reconciliations of Non-GAAP Financial Measures 
+(Unaudited)
+
+ (dollars in millions, except per share amounts)
+Three Months EndedSeptember 30,
+
+Nine Months EndedSeptember 30,
+
+Guidance 
+
+2023
+
+2022
+
+2023
+
+2022
+
+Full Year 2023 (1)
+GAAP income from operations
+$    686
+
+$    798
+
+$ 1,965
+
+$ 2,282
+
+
+NextGen charges(a)
+72
+
+—
+
+189
+
+—
+
+
+Adjusted Income From Operations
+$    758
+
+$    798
+
+$ 2,154
+
+$ 2,282
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP operating margin
+14.0 %
+
+16.4 %
+
+13.5 %
+
+15.6 %
+
+
+NextGen charges
+1.5
+
+—
+
+1.3
+
+—
+
+1.0% - 1.1%
+Adjusted Operating Margin
+15.5 %
+
+16.4 %
+
+14.8 %
+
+15.6 %
+
+~14.7%
+
+
+
+
+
+
+
+
+
+
+GAAP diluted earnings per share
+$   1.04
+
+$   1.22
+
+$   3.09
+
+$   3.40
+
+
+Effect of NextGen charges, pre-tax
+0.14
+
+—
+
+0.37
+
+—
+
+(a)
+Non-operating foreign currency exchange (gains) losses, pre-   tax(b)
+—
+
+(0.01)
+
+(0.01)
+
+—
+
+(b)
+Tax effect of above adjustments(c)
+(0.02)
+
+0.03
+
+(0.08)
+
+0.07
+
+(a) (b)
+Effect of recognition of income tax benefit related to an    uncertain tax position(d)
+—
+
+(0.07)
+
+—
+
+(0.07)
+
+—
+Adjusted Diluted Earnings Per Share
+$   1.16
+
+$   1.17
+
+$   3.37
+
+$   3.40
+
+$4.39 - $4.42
+
+(1) A full reconciliation of Adjusted Operating Margin and Adjusted Diluted Earnings Per Share guidance to the corresponding GAAP measures on a forward-looking basis cannot be provided without unreasonable efforts, as we are unable to provide reconciling information with respect to unusual items, net non-operating foreign currency exchange gains or losses and the tax effects of these adjustments, and such adjustments may be significant.
+Notes:
+(a)
+NextGen charges for the three months ended September 30, 2023 include $15 million of employee separation costs, $55 million of facility exit costs and $2 million of third party and other costs. NextGen charges for the nine months ended September 30, 2023 include $93 million of employee separation costs, $92 million of facility exit costs and $4 million of third party and other costs. We expect to incur total costs of approximately $300 million in connection with the NextGen program, with approximately $200 million of such costs anticipated in 2023 and approximately $100 million in 2024. The total costs related to the NextGen program are reported in "Restructuring charges" in our unaudited consolidated statements of operations. Our guidance anticipates pre-tax charges in the range of $0.39 to $0.42 per diluted share for the full year 2023. The tax effect of these charges is expected to be approximately $0.11 per diluted share for the full year 2023.
+(b)
+Non-operating foreign currency exchange gains and losses, inclusive of gains and losses on related foreign exchange forward contracts not designated as hedging instruments for accounting purposes, are reported in "Foreign currency exchange gains (losses), net" in our unaudited consolidated statements of operations. Non-operating foreign currency exchange gains and losses are subject to high variability and low visibility and therefore cannot be provided on a forward-looking basis without unreasonable efforts.
+(c)
+Presented below are the tax impacts of our non-GAAP adjustment to pre-tax income for the: 
+
+
+
+(in millions)
+Three Months EndedSeptember 30,
+
+Nine Months Ended September 30,
+
+
+2023
+
+2022
+
+2023
+
+2022
+
+Non-GAAP income tax benefit (expense) related to:
+
+
+
+
+
+
+
+
+NextGen charges
+$          18
+
+$          —
+
+$          49
+
+$          —
+
+Foreign currency exchange gains and losses
+(7)
+
+(15)
+
+(2)
+
+(35)
+
+
+The effective tax rate related to non-operating foreign currency exchange gains and losses varies depending on the jurisdictions in which such income and expenses are generated and the statutory rates applicable in those jurisdictions. As such, the income tax effect of non-operating foreign currency exchange gains and losses shown in the above table may not appear proportionate to the net pre-tax foreign currency exchange gains and losses reported in our unaudited consolidated statements of operations.
+
+(d)
+As previously reported in our Annual Report on Form 10-K, during the three months ended September 30, 2022, we recognized an income tax benefit of $36 million related to a specific uncertain tax position that was previously unrecognized in our prior-year consolidated financial statements. The recognition of the benefit in the third quarter of 2022 was based on management's reassessment regarding whether this unrecognized tax benefit met the more-likely-than-not threshold in light of the lapse in the statute of limitations as to a portion of such benefit.
+
+
+Reconciliations of Net Cash 
+(Unaudited)
+
+(in millions)
+
+September 30, 2023
+
+December 31, 2022
+Cash and cash equivalents
+
+$                 2,204
+
+$                 2,191
+Short-term investments
+
+164
+
+310
+Less:
+
+
+
+
+Short-term debt
+
+33
+
+8
+Long-term debt
+
+614
+
+638
+Net cash
+
+$                 1,721
+
+$                 1,855
+The above tables serve to reconcile the Non-GAAP financial measures to the most directly comparable GAAP measures. Refer to the "About Non-GAAP Financial Measures and Performance Metrics" section of our press release for further information on the use of these Non-GAAP measures.
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+Revenue by Business Segment and Geography 
+(Unaudited)
+
+ (dollars in millions)
+Three Months Ended September 30, 2023
+
+
+
+
+
+Year over Year
+
+$
+
+ % of total
+
+ % Change
+
+Constant Currency% Change (a)
+Revenues by Segment:
+
+
+
+
+
+
+
+Financial Services
+$         1,475
+
+30.1 %
+
+(3.0) %
+
+(4.0) %
+Health Sciences
+1,405
+
+28.7 %
+
+— %
+
+(0.8) %
+Products and Resources
+1,170
+
+23.9 %
+
+1.9 %
+
+0.6 %
+Communications, Media and Technology 
+847
+
+17.3 %
+
+8.2 %
+
+7.3 %
+Total Revenues
+$         4,897
+
+
+
+0.8 %
+
+(0.2) %
+Revenues by Geography:
+
+
+
+
+
+
+
+North America
+$         3,599
+
+73.5 %
+
+(0.6) %
+
+(0.6) %
+United Kingdom
+486
+
+9.9 %
+
+9.0 %
+
+2.2 %
+Continental Europe
+484
+
+9.9 %
+
+10.5 %
+
+3.7 %
+Europe - Total
+970
+
+19.8 %
+
+9.7 %
+
+3.0 %
+Rest of World
+328
+
+6.7 %
+
+(6.8) %
+
+(3.4) %
+Total Revenues
+$         4,897
+
+
+
+0.8 %
+
+(0.2) %
+
+
+
+
+
+
+
+
+
+Nine Months Ended September 30, 2023
+
+
+
+
+
+Year over Year
+
+$
+
+ % of total
+
+ % Change
+
+ConstantCurrency% Change (a)
+Revenues by Segment:
+
+
+
+
+
+
+
+Financial Services
+$         4,414
+
+30.3 %
+
+(3.9) %
+
+(3.4) %
+Health Sciences
+4,278
+
+29.3 %
+
+1.7 %
+
+1.6 %
+Products and Resources
+3,465
+
+23.7 %
+
+1.4 %
+
+1.9 %
+Communications, Media and Technology
+2,438
+
+16.7 %
+
+2.7 %
+
+3.5 %
+Total Revenues
+$       14,595
+
+
+
+— %
+
+0.4 %
+Revenues by Geography:
+
+
+
+
+
+
+
+North America
+$       10,733
+
+73.5 %
+
+(1.0) %
+
+(1.0) %
+United Kingdom
+1,437
+
+9.8 %
+
+5.9 %
+
+6.6 %
+Continental Europe
+1,439
+
+9.9 %
+
+7.2 %
+
+6.1 %
+Europe - Total
+2,876
+
+19.7 %
+
+6.6 %
+
+6.4 %
+Rest of World
+986
+
+6.8 %
+
+(5.6) %
+
+(0.8) %
+Total Revenues
+$       14,595
+
+
+
+— %
+
+0.4 %
+
+Notes:
+(a)
+Constant currency revenue growth is not a measure of financial performance prepared in accordance with GAAP. See "About Non-GAAP Financial Measures and Performance Metrics" section of our press release for further information.
+ 
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+
+(in millions)
+Three Months Ended
+September 30,
+
+Nine Months Ended
+September 30,
+
+2023
+
+2022
+
+2023
+
+2022
+Cash flows from operating activities:
+
+
+
+
+
+
+
+Net income
+$        525
+
+$        629
+
+$    1,568
+
+$    1,769
+Adjustments for non-cash income and expenses
+47
+
+175
+
+322
+
+584
+Changes in assets and liabilities
+256
+
+228
+
+(297)
+
+(487)
+Net cash provided by operating activities
+828
+
+1,032
+
+1,593
+
+1,866
+Cash flows from investing activities:
+
+
+
+
+
+
+
+Purchases of property and equipment
+(73)
+
+(79)
+
+(239)
+
+(242)
+Net (purchases) maturities of investments
+(126)
+
+(187)
+
+149
+
+186
+Proceeds from sales of businesses
+—
+
+9
+
+—
+
+28
+Payments for business combinations, net of cash acquired
+—
+
+—
+
+(409)
+
+—
+Net cash (used in) investing activities
+(199)
+
+(257)
+
+(499)
+
+(28)
+Cash flows from financing activities:
+
+
+
+
+
+
+
+Repurchases of common stock
+(315)
+
+(315)
+
+(751)
+
+(1,107)
+Repayment of Term Loan borrowings and finance lease and earnout    obligations
+(4)
+
+(21)
+
+(15)
+
+(47)
+Dividends paid
+(147)
+
+(141)
+
+(445)
+
+(425)
+Issuance of common stock under stock-based compensation plans
+16
+
+19
+
+57
+
+71
+Net cash (used in) financing activities
+(450)
+
+(458)
+
+(1,154)
+
+(1,508)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+(30)
+
+(43)
+
+(30)
+
+(80)
+Increase (decrease) in cash, cash equivalents and restricted cash
+149
+
+274
+
+(90)
+
+250
+Cash, cash equivalents and restricted cash, beginning of period
+2,055
+
+1,768
+
+2,294
+
+1,792
+Cash and cash equivalents, end of period 
+$    2,204
+
+$    2,042
+
+$    2,204
+
+$    2,042
+ 
+SUPPLEMENTAL CASH FLOW INFORMATION 
+
+(in millions)
+
+Three Months Ended
+September 30,
+Stock Repurchases under Board of Directors' authorized stock repurchase program:
+
+2023
+
+2022
+Number of shares repurchased
+
+4.3
+
+4.6
+
+
+
+
+
+Remaining authorized balance as of  September 30, 2023
+
+$       2,075
+
+
+ 
+Reconciliation of Free Cash Flow Non-GAAP Financial Measure 
+
+(in millions)
+Three Months Ended
+September 30,
+
+Nine Months Ended
+September 30,
+
+2023
+
+2022
+
+2023
+
+2022
+Net cash provided by operating activities
+$           828
+
+$       1,032
+
+$      1,593
+
+$      1,866
+Purchases of property and equipment
+(73)
+
+(79)
+
+(239)
+
+(242)
+Free cash flow
+$           755
+
+$           953
+
+$      1,354
+
+$      1,624
+ 
+View original content to download multimedia:https://www.prnewswire.com/news-releases/cognizant-reports-third-quarter-2023-results-301974672.html
+SOURCE Cognizant

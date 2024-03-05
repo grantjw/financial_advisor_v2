@@ -1,0 +1,23 @@
+url:https://finance.yahoo.com/news/google-is-launching-generative-ai-search-in-100-additional-countries-as-ai-wars-continue-180136110.html
+title:Google_is_launching_generative_AI_search_in_100_additional_countries_as_AI_wars_continue
+Google (GOOG, GOOGL) announced Wednesday that it is expanding its generative AI-powered search platform, Search Generative Experience, to more than 100 countries and territories and adding support for four new languages.
+The move highlights the company’s effort to rapidly deploy its generative AI search and steal back mindshare from the likes of Microsoft’s (MSFT) Bing and OpenAI’s ChatGPT.
+Google’s Search Generative Experience (SGE) is a version of Google search that incorporates generative AI capabilities, allowing users to ask questions and receive conversational-sounding text responses, as well as images and videos.
+SGE is separate from Google’s Bard. SGE serves as a generative AI-powered version of Google Search, while Bard is a generative AI-powered chatbot. You can ask them both questions, but SGE is focused primarily on providing answers to search queries.
+As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea.
+The company now offers SGE in a total of 129 countries and territories. Users can also now search using Spanish, Portuguese, Korean, and Indonesian.
+In addition to expanding and incorporating more languages, Budaraju said SGE users will now be able to ask follow-up questions to prior queries directly from the main results page. Users will continue to see their answers to prior questions and, importantly for Google, relevant ads on the same page.
+According to Budaraju, the new feature will roll out in the coming weeks in the US and will only be available in English.
+Finally, Google announced that it’s improving SGE’s translation capabilities. The company says it will now detect if you’re trying to translate a statement using a homonym and ask which version of the word you want to use. Homonyms are two or more words that have the same spelling but different meanings.
+Budaraju used the example of translating a sentence from English to Spanish with the word “tie” in it. You’ll then be able to tap the “tie” and choose the specific meaning you want to get across.
+SGE is Google’s answer to Microsoft’s generative AI-powered Bing search engine. Microsoft got the drop on Google in February when it debuted its Bing platform along with its own chatbot. Google responded months later with the debut of SGE and a public presentation of its Bard bot.
+Generative AI has the potential to dramatically improve online search, providing users with a more personalized experience, but the technology presents some unique problems.
+Generative AI results aren’t always accurate, which can impact user trust in search engine responses. Advertisers and ad sellers like Google also rely on search result real estate to sell ads. AI-generated responses, however, take up a large amount of screen space. Google is working to find a balance that allows for ads and results without diminishing the quality of either.
+“People are finding ads helpful here, as they provide useful options to take action and connect with businesses. We’ll experiment with new formats native to SGE that use generative AI to create relevant, high-quality ads, customized to every step of the search journey,” Alphabet CEO Sundar Pichai said during the company’s recent earnings call.
+Microsoft is already touting gains from its Bing search engine and Edge browser. During the company's latest earnings call, CEO Satya Nadella said users had more than 1.9 billion chats with Bing and that Edge has gained share in the browser market for 10 consecutive quarters.
+It'll take quite a while for Bing or Edge to catch up with Google, the world's leading search engine, but the company is banking on generative AI to do just that.
+SGE is still in its early stages, but the company is widely expected to evolve the platform over time before ultimately making it a new primary search option for web users.
+Daniel Howley is the tech editor at Yahoo Finance. He's been covering the tech industry since 2011. You can follow him on Twitter @DanielHowley.
+Click here for the latest technology news that will impact the stock market.
+Read the latest financial and business news from Yahoo Finance
+Related Quotes

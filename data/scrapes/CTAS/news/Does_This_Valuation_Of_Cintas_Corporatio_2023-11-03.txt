@@ -1,0 +1,77 @@
+url:https://finance.yahoo.com/news/does-valuation-cintas-corporation-nasdaq-110019508.html
+title:Does_This_Valuation_Of_Cintas_Corporation_NASDAQCTAS_Imply_Investors_Are_Overpaying
+Cintas' estimated fair value is US$401 based on 2 Stage Free Cash Flow to Equity
+Cintas is estimated to be 25% overvalued based on current share price of US$499
+ Analyst price target for CTAS is US$522, which is 30% above our fair value estimate
+In this article we are going to estimate the intrinsic value of Cintas Corporation (NASDAQ:CTAS) by taking the expected future cash flows and discounting them to their present value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. It may sound complicated, but actually it is quite simple!
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.
+ See our latest analysis for Cintas 
+We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows. Generally the first stage is higher growth, and the second stage is a lower growth phase. In the first stage we need to estimate the cash flows to the business over the next ten years. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+Generally we assume that a dollar today is more valuable than a dollar in the future, so we need to discount the sum of these future cash flows to arrive at a present value estimate:
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+ Levered FCF ($, Millions) 
+US$1.48b
+US$1.68b
+US$2.00b
+US$2.01b
+US$2.05b
+US$2.09b
+US$2.14b
+US$2.18b
+US$2.23b
+US$2.28b
+Growth Rate Estimate Source
+Analyst x7
+Analyst x7
+Analyst x3
+Analyst x1
+Analyst x1
+Est @ 2.10%
+Est @ 2.11%
+Est @ 2.12%
+Est @ 2.13%
+Est @ 2.14%
+ Present Value ($, Millions) Discounted @ 6.7% 
+US$1.4k
+US$1.5k
+US$1.6k
+US$1.5k
+US$1.5k
+US$1.4k
+US$1.4k
+US$1.3k
+US$1.2k
+US$1.2k
+("Est" = FCF growth rate estimated by Simply Wall St)Present Value of 10-year Cash Flow (PVCF) = US$14b
+The second stage is also known as Terminal Value, this is the business's cash flow after the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 5-year average of the 10-year government bond yield of 2.2%. We discount the terminal cash flows to today's value at a cost of equity of 6.7%.
+Terminal Value (TV)= FCF2033 × (1 + g) ÷ (r – g) = US$2.3b× (1 + 2.2%) ÷ (6.7%– 2.2%) = US$51b
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= US$51b÷ ( 1 + 6.7%)10= US$27b
+The total value is the sum of cash flows for the next ten years plus the discounted terminal value, which results in the Total Equity Value, which in this case is US$41b. To get the intrinsic value per share, we divide this by the total number of shares outstanding. Relative to the current share price of US$499, the company appears slightly overvalued at the time of writing. The assumptions in any calculation have a big impact on the valuation, so it is better to view this as a rough estimate, not precise down to the last cent.
+We would point out that the most important inputs to a discounted cash flow are the discount rate and of course the actual cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at Cintas as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 6.7%, which is based on a levered beta of 0.909. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.
+Strength
+Earnings growth over the past year exceeded the industry.
+Debt is well covered by earnings and cashflows.
+Dividends are covered by earnings and cash flows.
+Weakness
+Earnings growth over the past year is below its 5-year average.
+Dividend is low compared to the top 25% of dividend payers in the Commercial Services market.
+Expensive based on P/E ratio and estimated fair value.
+Opportunity
+Annual earnings are forecast to grow for the next 3 years.
+Threat
+Annual earnings are forecast to grow slower than the American market.
+Valuation is only one side of the coin in terms of building your investment thesis, and it shouldn't be the only metric you look at when researching a company. The DCF model is not a perfect stock valuation tool. Preferably you'd apply different cases and assumptions and see how they would impact the company's valuation. If a company grows at a different rate, or if its cost of equity or risk free rate changes sharply, the output can look very different. What is the reason for the share price exceeding the intrinsic value? For Cintas, we've put together three fundamental factors you should explore:
+Risks: For instance, we've identified   1 warning sign for Cintas  that you should be aware of.
+Future Earnings: How does CTAS's growth rate compare to its peers and the wider market? Dig deeper into the analyst consensus number for the upcoming years by interacting with our free analyst growth expectation chart.
+Other High Quality Alternatives: Do you like a good all-rounder? Explore our interactive list of high quality stocks to get an idea of what else is out there you may be missing!
+PS. Simply Wall St updates its DCF calculation for every American stock every day, so if you want to find the intrinsic value of any other stock just search here.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

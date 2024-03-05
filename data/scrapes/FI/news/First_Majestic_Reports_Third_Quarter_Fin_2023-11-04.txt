@@ -1,0 +1,602 @@
+url:https://finance.yahoo.com/news/first-majestic-reports-third-quarter-110000194.html
+title:First_Majestic_Reports_Third_Quarter_Financial_Results_and_Quarterly_Dividend_Payment
+Vancouver, British Columbia--(Newsfile Corp. - November 2, 2023) - First Majestic Silver Corp. (NYSE: AG) (TSX: FR) (FSE: FMV) (the "Company" or "First Majestic") is pleased to announce the unaudited interim consolidated financial results of the Company for the third quarter ended September 30, 2023. The full version of the financial statements and the management discussion and analysis can be viewed on the Company's website at www.firstmajestic.com or on SEDAR+ at www.sedarplus.ca and on EDGAR at www.sec.gov. All amounts are in U.S. dollars unless stated otherwise.
+Q3 2023 HIGHLIGHTS 
+Production of 6.3 million silver equivalent ("AgEq") ounces, consisting of 2.5 million silver ounces and 46,720 gold ounces, comparable to the previous quarter.
+Quarterly revenues totalled $133.2 million, compared to $146.7 million in the previous quarter.
+Mine operating earnings totalled $13.0 million, compared to $1.1 million in the previous quarter.
+Operating cash flows before movements in working capital and taxes totalled $14.1 million, compared to $26.9 million in the previous quarter.
+Consolidated cash costs improved to $14.13 per AgEq ounce and All-in sustaining costs ("AISC") (see "Non-GAAP Financial Measures", below) improved to $19.74 per AgEq ounce representing a reduction of 9% and 8%, respectively, compared to the previous quarter.
+Adjusted net earnings of ($10.93) million (adjusted EPS of ($0.04)) (see "Non-GAAP Financial Measures", below) after excluding non-cash and non-recuring items.
+Sold 61,444 ounces of silver bullion, or approximately 2.9% of the Company's silver production, on First Majestic's online bullion store at an average silver price of $26.17 per ounce for total proceeds of $1.6 million.
+At the end of the quarter, the Company had a cash and restricted cash balance of $257.3 million consisting of $138.3 million cash and cash equivalents and $119.0 million of restricted cash.
+Declared a cash dividend payment of $0.0046 per common share for the third quarter of 2023 for shareholders of record as of the close of business on November 15, 2023, and will be distributed on or about, November 30, 2023.
+OPERATIONAL AND FINANCIAL HIGHLIGHTS
+Key Performance Metrics
+ 
+
+2023-Q3
+
+
+2023-Q2
+
+
+ChangeQ3 vs Q2
+
+
+2022-Q3
+
+
+ChangeQ3 vs Q3
+ 
+Operational
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Ore Processed / Tonnes Milled
+ 
+
+670,203
+
+
+733,170
+
+
+(9%)
+
+
+836,514
+
+
+(20%)
+
+Silver Ounces Produced
+ 
+
+2,461,868
+
+
+2,633,411
+
+
+(7%)
+
+
+2,736,100
+
+
+(10%)
+
+Gold Ounces Produced
+ 
+
+46,720
+
+
+45,022
+
+
+4%
+
+
+67,072
+
+
+(30%)
+
+Silver Equivalent Ounces Produced
+ 
+
+6,285,790
+
+
+6,320,971
+
+
+(1%)
+
+
+8,766,192
+
+
+(28%)
+
+Cash Costs per Silver Equivalent Ounce (1)
+ 
+$
+14.13
+
+$
+15.58
+
+
+(9%)
+
+$
+13.34
+
+
+6%
+
+All-in Sustaining Cost per Silver Equivalent Ounce (1)
+ 
+$
+19.74
+
+$
+21.52
+
+
+(8%)
+
+$
+17.83
+
+
+11%
+
+Total Production Cost per Tonne(1)
+ 
+$
+125.81
+
+$
+128.21
+
+
+(2%)
+
+$
+135.07
+
+
+(7%)
+
+Average Realized Silver Price per Silver Equivalent Ounce (1)
+ 
+$
+22.41
+
+$
+24.95
+
+
+(10%)
+
+$
+19.74
+
+
+14%
+
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Financial (in $millions)
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Revenues
+ 
+$
+133.2
+
+$
+146.7
+
+
+(9%)
+
+$
+159.8
+
+
+(17%)
+
+Mine Operating Earnings
+ 
+$
+13.0
+
+$
+1.1
+
+
+NM
+
+$
+3.3
+
+
+NM
+
+Net Loss
+ 
+
+($27.1
+)
+
+($17.5
+)
+
+55%
+
+
+($20.7
+)
+
+31%
+
+Operating Cash Flows before Non-Cash Working Capital and Taxes
+ 
+$
+14.1
+
+$
+26.9
+
+
+(47%)
+
+$
+27.7
+
+
+(49%)
+
+Cash and Cash Equivalents
+ 
+$
+138.3
+
+$
+160.2
+
+
+(14%)
+
+$
+148.8
+
+
+(7%)
+
+Working Capital (1)
+ 
+$
+197.8
+
+$
+237.2
+
+
+(17%)
+
+$
+148.2
+
+
+34%
+
+Free Cash Flow (1)
+ 
+$
+6.4
+
+$
+7.4
+
+
+(13%)
+
+$
+45.3
+
+
+(86%)
+
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Shareholders
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+(Loss) Earnings per Share ("EPS") - Basic
+ 
+
+($0.09
+)
+
+($0.06
+)
+
+(52%)
+
+
+($0.08
+)
+
+(13%)
+
+Adjusted EPS (1)
+ 
+
+($0.04
+)
+
+($0.02
+)
+
+100%
+
+
+($0.09
+)
+
+56%
+ 
+ 
+NM - Not meaningful (1) The Company reports non-GAAP measures which include cash costs per silver equivalent ounce produced, cash costs per gold ounce produced, all-in sustaining cost per silver equivalent ounce produced, all-in sustaining cost per gold ounce produced, total production cost per tonne, average realized silver price per silver equivalent ounce sold, average realized gold price per ounce sold, working capital, adjusted EPS and free cash flow. These measures are widely used in the mining industry as a benchmark for performance, but do not have a standardized meaning under the Company's financial reporting framework and the methods used by the Company to calculate such measures may differ from methods used by other companies with similar descriptions. See "Non-GAAP Measures" below for further details of these measures. 
+Q3 2023 FINANCIAL RESULTS
+The Company realized an average price of $22.41 per AgEq ounce during the third quarter of 2023, representing a 14% increase compared to the third quarter of 2022.
+Revenues generated during the quarter totalled $133.2 million, compared to $159.8 million in the third quarter of 2022. The decrease in revenues was primarily attributable to the temporary suspension of operations at Jerritt Canyon and slightly lower production at San Dimas and La Encantada.
+The Company reported mine operating earnings of $13.0 million compared to $3.3 million in the third quarter of 2022. The increase in mine operating earnings is primarily attributable to an improvement in cost of sales and depreciation and depletion compared to the prior year quarter, following the temporary suspension of mining operations at Jerritt Canyon in the first quarter of 2023.
+During the quarter, the Company incurred restructuring costs of $6.4 million as the Company continues to focus on optimizing its workforce primarily at San Dimas, as well as the Durango regional office and Santa Elena.
+The Company reported net loss of $27.1 million (EPS of ($0.09)) compared to net loss of $20.7 million (EPS of ($0.08)) in the third quarter of 2022. The net loss for the quarter was driven by the restructuring costs, additional mine holding costs primarily related to the temporary suspension of Jerritt Canyon, and $1.6 million one-time loss on sale of mining interest following the disposition of La Parrilla.
+Adjusted net earnings for the quarter, normalized for non-cash or non-recurring items such as share-based payments, unrealized losses on marketable securities and non-recurring write-downs on mineral inventory for the quarter was ($10.9) million (adjusted EPS of ($0.04)) compared to ($22.6) million (adjusted EPS of ($0.09)) in the third quarter of 2022.
+Operating cash flow before movements in working capital and taxes in the quarter $14.1 million compared to $27.7 million in the third quarter of 2022.
+As of September 30, 2023, the Company had a cash and restricted cash balance of $257.3 million consisting of $138.3 million cash and cash equivalents and $119.0 million of restricted cash. The Company also had working capital of $197.8 million.
+OPERATIONAL HIGHLIGHTS
+The table below represents the quarterly operating and cost parameters at each of the Company's four producing mines during the quarter.
+Third Quarter Production Summary
+
+San Dimas
+
+
+Santa Elena
+
+
+La Encantada
+
+
+Jerritt Canyon (1)
+
+
+Consolidated
+ 
+Ore Processed / Tonnes Milled
+
+213,681
+
+
+226,292
+
+
+230,230
+
+
+-
+
+
+670,203
+
+Silver Ounces Produced
+
+1,548,203
+
+
+347,941
+
+
+565,724
+
+
+-
+
+
+2,461,868
+
+Gold Ounces Produced
+
+17,863
+
+
+28,367
+
+
+94
+
+
+396
+
+
+46,720
+
+Silver Equivalent Ounces Produced
+
+3,010,458
+
+
+2,669,411
+
+
+573,458
+
+
+32,463
+
+
+6,285,790
+
+Cash Costs per Silver Equivalent Ounce (2)
+$
+14.07
+
+$
+11.72
+
+$
+25.63
+
+$
+18.08
+
+$
+14.13
+
+All-in Sustaining Cost per Silver Equivalent Ounce (2)
+$
+17.76
+
+$
+14.68
+
+$
+29.86
+
+$
+21.16
+
+$
+19.74
+
+Cash Cost per Gold Ounce (2)
+
+N/A
+
+
+N/A
+
+
+N/A
+
+$
+1,478
+
+
+N/A
+
+All-In Sustaining Costs per Gold Ounce (2)
+
+N/A
+
+
+N/A
+
+
+N/A
+
+$
+1,730
+
+
+N/A
+
+Total Production Cost per Tonne (2)
+$
+193.41
+
+$
+125.05
+
+$
+61.35
+
+$
+-
+
+$
+125.81
+ 
+ 
+(1) Jerritt Canyon production during the third quarter comprised of pouring residual work-in- process inventory.  (2) See "Non-GAAP Financial Measures", below for further details of these measures.
+Total production in the third quarter was 6.3 million AgEq ounces consisting of 2.5 million ounces of silver and 46,720 ounces of gold, representing a 7% decrease and 4% increase, respectively, compared to the previous quarter. The Company's Mexican operations produced over 2.5 million ounces of silver and 46,324 gold ounces, or approximately 6.3 million AgEq ounces in the quarter. Silver equivalent production for the Mexican operations increased 5% over the prior quarter primarily due to higher tonnes, grades and recoveries at Santa Elena.
+Cash cost for the quarter improved to $14.13 per AgEq ounce, compared to $15.58 per AgEq ounce in the previous quarter. The reduction in cash costs per ounce was primarily attributable to an increase in AgEq production at the Santa Elena operations. Production at Santa Elena increased by 49%, compared to the prior quarter, as a direct result of processing higher grade silver and gold ore from the Ermitaño underground mine. Record recoveries were also achieved due to the recent addition of the Dual Circuit plant. Additionally, the Company has implemented numerous costs saving measures to help offset the strengthening of the Mexican Peso and to combat inflationary impacts primarily in energy, reagents, and other major consumables.
+AISC in the third quarter was $19.74 per AgEq ounce compared to $21.52 per AgEq ounce in the previous quarter. The 8% improvement in AISC was primarily attributable to lower cash costs along with a reduction in general and administrative costs as the Company has reduced its headcount across various corporate and operational departments.
+Total capital expenditures in the third quarter were $32.2 million, primarily consisting of $13.5 million at San Dimas, $12.3 million at Santa Elena, $1.6 million at La Encantada, $2.8 million at Jerritt Canyon and $2.0 million for strategic projects.
+Q3 2023 DIVIDEND ANNOUNCEMENT 
+The Company is pleased to announce that its Board of Directors has declared a cash dividend payment in the amount of $0.0046 per common share for the third quarter of 2023. The third quarter cash dividend will be paid to holders of record of First Majestic's common shares as of the close of business on November 15, 2023, and will be distributed on or about November 30, 2023.
+Under the Company's dividend policy, the quarterly dividend per common share is targeted to equal approximately 1% of the Company's net quarterly revenues divided by the number of the Company's common shares outstanding on the record date.
+The amount and distribution dates of future dividends remain at the discretion of the Board of Directors. This dividend qualifies as an "eligible dividend" for Canadian income tax purposes. Dividends paid to shareholders outside Canada (non-resident investors) may be subject to Canadian non-resident withholding taxes.
+ABOUT THE COMPANY
+First Majestic is a publicly traded mining company focused on silver and gold production in Mexico and the United States. The Company presently owns and operates the San Dimas Silver/Gold Mine, the Santa Elena Silver/Gold Mine, and the La Encantada Silver Mine as well as a portfolio of development and exploration assets, including the Jerritt Canyon Gold project located in northeastern Nevada, U.S.A.
+First Majestic is proud to offer a portion of its silver production for sale to the public. Bars, ingots, coins and medallions are available for purchase online at its Bullion Store at some of the lowest premiums available.
+FOR FURTHER INFORMATION contact info@firstmajestic.com, visit our website at www.firstmajestic.com or call our toll-free number 1.866.529.2807.
+FIRST MAJESTIC SILVER CORP.
+"signed"
+Keith Neumeyer, President & CEO
+Non-GAAP Financial Measures
+This news release includes reference to certain financial measures which are not standardized measures under the Company's financial reporting framework. These measures include cash costs per silver equivalent ounce produced, all-in sustaining cost (or "AISC") per silver equivalent ounce produced, cash costs per gold ounce produced, AISC per gold ounce produced, total production cost per tonne, average realized silver price per ounce sold, average realized gold price per ounce sold, working capital, adjusted net earnings and EPS and free cash flow. The Company believes that these measures, together with measures determined in accordance with IFRS, provide investors with an improved ability to evaluate the underlying performance of the Company. These measures are widely used in the mining industry as a benchmark for performance but do not have any standardized meaning prescribed under IFRS, and therefore they may not be comparable to similar measures disclosed by other companies. The data is intended to provide additional information and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with IFRS. For a complete description of how the Company calculates such measures and a reconciliation of certain measures to GAAP terms please see "Non-GAAP Measures" in the Company's most recent management discussion and analysis filed on SEDAR+ at www.sedarplus.ca and EDGAR at www.sec.gov.
+Cautionary Note Regarding Forward Looking Statements
+This news release contains "forward‐looking information" and "forward-looking statements" under applicable Canadian and U.S. securities laws (collectively, "forward‐looking statements"). These statements relate to future events or the Company's future performance, business prospects or opportunities that are based on forecasts of future results, estimates of amounts not yet determinable and assumptions of management made in light of management's experience and perception of historical trends, current conditions and expected future developments. Forward-looking statements include, but are not limited to, statements with respect to: commercial mining operations; cash flow; anticipated costs; and payment of dividends, if any. Assumptions may prove to be incorrect and actual results may differ materially from those anticipated. Consequently, guidance cannot be guaranteed. As such, investors are cautioned not to place undue reliance upon guidance and forward-looking statements as there can be no assurance that the plans, assumptions or expectations upon which they are placed will occur. All statements other than statements of historical fact may be forward‐looking statements. Any statements that express or involve discussions with respect to predictions, expectations, beliefs, plans, projections, objectives or future events or performance (often, but not always, using words or phrases such as "seek", "anticipate", "plan", "continue", "estimate", "expect", "may", "will", "project", "predict", "forecast", "potential", "target", "intend", "could", "might", "should", "believe" and similar expressions) are not statements of historical fact and may be "forward‐looking statements".
+Actual results may vary from forward-looking statements. Forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause actual results to materially differ from those expressed or implied by such forward-looking statements, including but not limited to: the duration and effects of the coronavirus and COVID-19, and any other pandemics on our operations and workforce, and the effects on global economies and society; general economic conditions including inflation risks ; the inherent risks involved in the mining, exploration and development of mineral properties; changes in project parameters as plans continue to be refined; commodity prices; variations in ore reserves, grade or recovery rates; actual performance of plant, equipment or processes relative to specifications and expectations; accidents; labour relations; relations with local communities; uninsured risks; defects in title; climate change events including, but not limited to, drought conditions, changes in national or local governments; changes in applicable legislation or application thereof, including, but not limited to, Mexican mining reforms; delays in obtaining approvals or financing or in the completion of development or construction activities; exchange rate fluctuations; requirements for additional capital; government regulation; environmental risks; reclamation expenses; outcomes of pending litigation; conditions in the market for the Company's shares and the equity markets in general; as well as those factors discussed in the section entitled "Description of the Business - Risk Factors" in the Company's most recent Annual Information Form, available on SEDAR+ at www.sedarplus.ca, and Form 40-F on file with the United States Securities and Exchange Commission, available on EDGAR at www.sec.gov. Although First Majestic has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking statements, there may be other factors that cause results not to be as anticipated, estimated or intended. The Company notes that changes in climate conditions could adversely affect the business and operations through shifting weather patterns, environmental incidents, and extreme weather events. This can include changes in snow and precipitation levels, extreme temperatures, changing sea levels and other weather events which can result in frozen conditions, flooding, droughts, or fires. Such conditions could directly or indirectly impact our operations by affecting the safety of our staff and the communities in which we operate, disrupting safe access to sites, damaging facilities and equipment, disrupting energy and water supply, creating labor and material shortages and can cause supply chain interruptions. There is no assurance that the Company will be able to successfully anticipate, respond to or manage risks associated with severe climate conditions. Any such disruptions could have an adverse effect on the Company's operations, production, and financial results.
+The Company believes that the expectations reflected in these forward‐looking statements are reasonable, but no assurance can be given that these expectations will prove to be correct and such forward‐looking statements included herein should not be unduly relied upon. These statements speak only as of the date hereof. The Company does not intend, and does not assume any obligation, to update these forward-looking statements, except as required by applicable laws.
+To view the source version of this press release, please visit https://www.newsfilecorp.com/release/186054

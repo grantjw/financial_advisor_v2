@@ -1,0 +1,21 @@
+url:https://finance.yahoo.com/news/better-together-lumen-zoom-simplify-135400774.html
+title:Better_together_Lumen_and_Zoom_simplify_the_VoIP_phone_experience_for_businesses
+Combining the Lumen network with Zoom's cloud-phone services saves money and boosts reliability
+DENVER, Oct. 25, 2023 /PRNewswire/ --  Lumen Technologies (NYSE: LUMN) today announced it has expanded its partnership with Zoom (NASDAQ: ZM) to create a simple, secure way for businesses to collaborate anywhere, anytime. This benefits businesses of all sizes by combining Lumen's reliable network infrastructure and phone services with Zoom's feature-rich cloud phone system.
+To see how Lumen and Zoom are better together, visit the Lumen® Solutions for Zoom webpage.
+"This collaboration leans on the key strengths of both companies, so it represents the best of both worlds," said Craig Richter, senior director of UC&C product management for Lumen. "We provide the underlying infrastructure, connectivity, and service reliability, and Zoom brings its cloud calling capabilities and the modern Zoom platform functionality. By staying true to our collaborative roots, our teams came together with a 'better together' mindset that ultimately enhances value for joint customers."
+Customer benefits
+As part of the agreement, Lumen will provide Enhanced Local Service (ELS), Wholesale Long Distance (LD) and Wholesale Toll Free (TF) services to Zoom. This will allow Zoom to combine Lumen Public Switched Telephone Network (PSTN) connectivity with its cloud-based Zoom Phone offering. Benefits to customers include:
+Reliability – When critical business functions like phone systems go down, revenue is lost. Lumen's IP backbone and network architecture provide high availability and low downtime, so customers can feel confident in the reliability of their Lumen Solutions for Zoom service.
+Simplified integration – customers can relax knowing everything has been natively integrated into the Zoom solution in the cloud.
+Expansive reach – Lumen's vast voice footprint in North America enables businesses to communicate where they want, whenever it's needed.
+Cost efficiency -- Lumen's fiber network and IP infrastructure reduces carrier and connectivity costs, enabling those savings to be passed on in the form of competitively priced solutions.
+24/7 support – Lumen support is available all day, every day for customers who have questions or issues.
+"We are excited to build upon the current relationship we have with Lumen," said Mark Jenkins, head of strategic alliances at Zoom, "and we look forward to working together to deliver seamless products to our customers."
+Additional resources:
+Take a deep dive into all the Unified Communication and Collaboration services Lumen and Zoom provide together.
+Learn all about Lumen® Solutions for Zoom through our interactive infographic.
+About Lumen Technologies
+Lumen connects the world. We are igniting growth by connecting people, data, and applications – quickly, securely, and effortlessly. Everything we do at Lumen takes advantage of our network strength. From metro connectivity to long-haul data transport to our edge cloud, security, and managed service capabilities, we meet our customers' needs today and as they build for tomorrow. For news and insights visit news.lumen.com, LinkedIn: /lumentechnologies, Twitter: @lumentechco, Facebook: /lumentechnologies, Instagram: @lumentechnologies, and YouTube: /lumentechnologies.
+View original content to download multimedia:https://www.prnewswire.com/news-releases/better-together-lumen-and-zoom-simplify-the-voip-phone-experience-for-businesses-301966719.html
+SOURCE Lumen Technologies

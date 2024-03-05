@@ -1,0 +1,21 @@
+url:https://finance.yahoo.com/news/verisk-estimates-industry-insured-losses-105000267.html
+title:Verisk_Estimates_Industry_Insured_Losses_from_Winter_Storm_Ciarn_will_Range_from_EUR_800_Million_to_EUR_13_Billion
+BOSTON, Nov. 08, 2023 (GLOBE NEWSWIRE) -- The extreme event solutions business unit of Verisk (Nasdaq: VRSK), a leading global data analytics and technology provider, estimates industry insured losses due to wind from Winter Storm Ciarán (also named Emir by the Free University of Berlin) will range between EUR 800 million and EUR 1.3 billion, the majority of which are expected in France.
+Meteorological Background of Ciaran
+Ciarán began as a shallow low that developed over the Ohio Valley, U.S., on Sunday 29 October, associated with very strong temperature gradients in the region. On Wednesday 1 November, the storm explosively deepened by 34 mb in 24 hours over warm sea surface temperatures, classifying Ciarán as a bomb cyclone. The low-pressure center of Ciarán arrived in south-western parts of England overnight into Thursday 2 November at 952 mb, the lowest pressure ever recorded in England and Wales in November. However, high-exposure regions in the area were spared the worst impacts from the storm. Rainfall totals in north-western Europe were less remarkable, but following a period of sustained wet weather, there was some further flooding in parts of southern England.
+The long trailing cold front from Ciarán spawned another shallow low over the Alps overnight Thursday into Friday, causing significant flooding in southern parts of Europe, most notably the Tuscany region of Italy, far away from the center of the storm. This flooding, along with the impacts in France and elsewhere from windstorm Domingos over the past weekend, may contribute losses to this event, which, depending on hours clauses, could be considered a single loss occurrence along with Ciarán’s wind impacts.
+Hazard and Damage Observations 
+Ciarán’s impacts were most pronounced in northwest France and the Channel Islands. In France, the worst damage was in the northwest, in Brest. Similar impacts were observed in the Channel Islands. Jersey in particular was very hard hit, with some of the more extreme roof and structural damage there likely caused by a strong tornado that was spawned by the storm. Jersey also saw golf ball-sized hail which contributed to both roof and automobile damage. The large amount of tree-related damage from this storm was exacerbated by the fact that most trees in the region still have leaves on them and the ground was quite saturated, making it more likely for trees to become uprooted or fall over.
+Verisk’s modeled insured loss estimates include insured physical damage from wind to property (residential, commercial, industrial, agricultural, and motor, including structures and their contents, as well as business interruption and additional living expenses (for the UK only).
+Verisk’s modeled insured loss estimates do not include:
+Losses due to coastal or inland flooding
+Losses due to tornadoes or hail
+Additional living expenses (ALE) for residential claims for all modeled countries, except the UK
+Losses to uninsured properties
+Losses to infrastructure
+Demand surge
+Losses caused by Storm Domingos, which affected France and Spain starting on Saturday 4
+###
+About Verisk  Verisk (Nasdaq: VRSK) is a leading strategic data analytics and technology partner to the global insurance industry. It empowers clients to strengthen operating efficiency, improve underwriting and claims outcomes, combat fraud and make informed decisions about global risks, including climate change, extreme events, ESG and political issues. Through advanced data analytics, software, scientific research and deep industry knowledge, Verisk helps build global resilience for individuals, communities and businesses. With teams across more than 20 countries, Verisk consistently earns certification by Great Place to Work and fosters an inclusive culture where all team members feel they belong. For more, visit Verisk.com and the Verisk Newsroom.
+
+Related Quotes
