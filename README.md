@@ -50,10 +50,11 @@ Our evaluation framework assesses the performance of different models on finance
 | **Cosine Similarity**    | 0.890        | 0.846       | 0.849       | 0.893          |
 | **Perplexity**           | 10.76        | 7.89        | 8.24        | -              |
 | **Time (s)**             | 15.20        | 18.87       | 19.09       | 18.11          |
+```
 
 ## Conclusion and Future Directions
 
-This project represents a significant step forward in the application of LLMs to financial advising. By combining advanced AI
+In the upcoming weeks, alongside continuing exploration of Reinforcement Learning from Human Feedback (RLHF) with enhanced GPU and RAM, a key focus will be on comparing RLHF with Direct Preference Optimization (DPO). This comparison aims to assess the effectiveness and efficiency of both methodologies in financial modeling and advisory contexts, especially under varying computational constraints. The results from this comparative study will be crucial in determining the most suitable approach for improving the tool's functionality and accuracy in financial advisement.
 
 
 # fin-rlhf
