@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+venv
+
+# sqlite3
+**/*.db
+
+# cache
+.cache
+
+# manual entries
+/data/scrapes/**
+/data/vectordb/**
